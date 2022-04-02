@@ -2,7 +2,6 @@
 <html>
   <head>
     <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
     <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen">
@@ -60,7 +59,7 @@ function is_naked_day($d) {
   $start = date('U', mktime(-12, 0, 0, 04, $d, date('Y')));
   $end = date('U', mktime(36, 0, 0, 04, $d, date('Y')));
   $z = date('Z') * -1;
-  $now = time() + $z; 
+  $now = time() + $z;
   if ( $now &gt;= $start &amp;&amp; $now &lt;= $end ) {
     return true;
   }
