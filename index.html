@@ -1,16 +1,17 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <title>CSS naked day</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1,minimum-scale=1,width=device-width">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="CSS Naked Day">
+    <meta name="twitter:description" content="April 9 is CSS Naked Day!">
+    <meta name="twitter:image" content="https://css-naked-day.github.io/media/logo.png">
+    <meta property="og:image" content="https://css-naked-day.github.io/media/logo.png">
+    <title>CSS Naked Day</title>
+    <link rel="icon" href="/favicon.ico">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Chivo:900">
+    <link rel="stylesheet" href="setup/default.css">
   </head>
 
   <body>
@@ -18,7 +19,7 @@
       <div class="inner">
 
         <header>
-          <h1>CSS naked day</h1>
+          <h1>CSS Naked Day</h1>
           <h2>Show off your sexy <code>&lt;body&gt;</code>!</h2>
         </header>
 
@@ -39,7 +40,7 @@
             What does that mean?
           </a></h3>
 
-          <p>The idea behind this event is to promote Web Standards. Plain and simple. This includes proper use of <abbr title="Hyper‑Text Markup Language">HTML</abbr>, semantic markup, a good hierarchy structure, and of course, a good old play on words. It's time to show off your &lt;body&gt; for what it really is.</p>
+          <p>The idea behind this event is to promote Web Standards. Plain and simple. This includes proper use of <abbr title="Hyper‑Text Markup Language">HTML</abbr>, semantic markup, a good hierarchy structure, and of course, a good old play on words. It’s time to show off your &lt;body&gt; for what it really is.</p>
 
           <h3><a id="participate" class="anchor" href="#participate">
             How to participate
@@ -49,9 +50,9 @@
 
           <p>On April 9th, simply remove all CSS from your website, stripping it entirely of its design.</p>
 
-          <p>You can link to this page to let your visitors know about the nudity of your website! This option is for those who feel a need to give their visitors a reference as to what's going on. This is not about getting traffic or making money. There are no ads on this site, nor will there ever be. This is about you, the people; getting naked.</p>
+          <p>You can link to this page to let your visitors know about the nudity of your website! This option is for those who feel a need to give their visitors a reference as to what’s going on. This is not about getting traffic or making money. There are no ads on this site, nor will there ever be. This is about you, the people; getting naked.</p>
 
-          <h3><a id="developers" class="anchor" href="#developers">Don't think, just strip</a></h3>
+          <h3><a id="developers" class="anchor" href="#developers">Don’t think, just strip</a></h3>
 
           <p>Here is a sample PHP function for developers:</p>
 
@@ -60,7 +61,7 @@ function is_naked_day($d) {
   $start = date('U', mktime(-12, 0, 0, 04, $d, date('Y')));
   $end = date('U', mktime(36, 0, 0, 04, $d, date('Y')));
   $z = date('Z') * -1;
-  $now = time() + $z; 
+  $now = time() + $z;
   if ( $now &gt;= $start &amp;&amp; $now &lt;= $end ) {
     return true;
   }
@@ -74,17 +75,17 @@ function is_naked_day($d) {
 …
 &lt;?php
 if ( is_naked_day(9) ) {
-  echo '&lt;!-- naked day has no styles --&gt;';
+  echo '&lt;!-- Naked Day has no styles --&gt;';
 } else {
-  echo '&lt;link rel="stylesheet" type="text/css" href="styles.css" /&gt;';
+  echo '&lt;link rel="stylesheet" href="styles.css" /&gt;';
 }
 ?&gt;
 …
 &lt;/head&gt;</code></pre>
 
-          <h3><a id="forty-height" class="anchor" href="#forty-height">Wait… Isn't that 48 hours?</a></h3>
+          <h3><a id="forty-height" class="anchor" href="#forty-height">Wait… Isn’t that 48 hours?</a></h3>
 
-          <p>That's correct. CSS Naked Day lasts for one international day. Technically speaking, it will be "April 9th" somewhere in the world for 48 hours. This is to ensure that everyone's website will be publicly nude for the entire world to see at any given time during April 9.</p>
+          <p>That’s correct. CSS Naked Day lasts for one international day. Technically speaking, it will be "April 9th" somewhere in the world for 48 hours. This is to ensure that everyone’s website will be publicly nude for the entire world to see at any given time during April 9.</p>
 
           <h3><a id="tools" class="anchor" href="#tools">Tools &amp; plugins</a></h3>
 
@@ -92,7 +93,7 @@ if ( is_naked_day(9) ) {
 
           <ul>
               <li>
-                <a href="http://www.ajalapus.com/">Aja's</a> updated most excellent <a href="http://www.ajalapus.com/downloads/css-naked-day/">Wordpress Naked Day Plugin</a>
+                <a href="http://www.ajalapus.com/">Aja’s</a> updated most excellent <a href="http://www.ajalapus.com/downloads/css-naked-day/">Wordpress Naked Day Plugin</a>
               </li>
               <li>
                 <a href="http://hugi.to/blog/">Reto</a> has created a <a href="http://downloads.sourceforge.net/lifetype/1.2_cssnaked.zip?download">Naked Day plugin for the LifeType Blogging platform</a>
@@ -107,7 +108,7 @@ if ( is_naked_day(9) ) {
                 Drupal users, <a href="http://drupal.org/project/naked">get the module</a>!
               </li>
               <li>
-                Or if you are game you can use <a href="https://weblog.200ok.com.au">Ben Buchanan</a>'s <a href="https://bitbucket.org/snippets/200ok/dKpk">JavaScript snippet</a>. Works anywhere, removes everything, buyer beware!
+                Or if you are game you can use <a href="https://weblog.200ok.com.au">Ben Buchanan</a>’s <a href="https://bitbucket.org/snippets/200ok/dKpk">JavaScript snippet</a>. Works anywhere, removes everything, buyer beware!
               </li>
               <li>
                 Are you a Rails developer? Check out the <a href="https://github.com/danielsellergren/css_naked_day_rails">css_naked_day_rails</a> gem by <a href="https://danielsellergren.com">Daniel Sellergren</a>.
@@ -137,17 +138,19 @@ if ( is_naked_day(9) ) {
 
           <h3><a id="origins" class="anchor" href="#origins">Origins</a></h3>
 
-          <p>CSS Naked day started in <a href="https://web.archive.org/web/20120317143559/http://naked.dustindiaz.com/">2008 by Dustin Diaz</a>, with the 2014 edition hosted by <a href="http://naked.threepixeldrift.com/">Taylor Satula</a>. The content in this page is extracted from the content of these pages.</p>
+          <p>CSS Naked day started in <a href="https://web.archive.org/web/20120317143559/http://naked.dustindiaz.com/">2008 by Dustin Diaz</a>, with the 2014 edition hosted by <a href="http://naked.threepixeldrift.com/">Taylor Satula</a>. The content in this page is extracted from the content of these pages. Since 2015, the project is maintained by <a href="https://arkhi.org/">Fabien Basmaison</a> and <a href="https://meiert.com/en/">Jens Oliver Meiert</a>.</p>
 
           <h3>Famous Words</h3>
 
-          <blockquote><p>This is a fun idea, fully in line with the reasons for creating CSS in the first place. While most designers are attracted by the extra presentational capabilities, saving HTML from becoming a presentational language was probably a more important motivation for most people who participated in the beginning.</p></blockquote>
+          <blockquote>
+            <p>This is a fun idea, fully in line with the reasons for creating CSS in the first place. While most designers are attracted by the extra presentational capabilities, saving HTML from becoming a presentational language was probably a more important motivation for most people who participated in the beginning.</p>
+          </blockquote>
 
           <p><cite>Håkon Wium Lie</cite></p>
         </section>
 
         <section id="downloads" class="clearfix">
-          <a href="https://github.com/css-naked-day" id="view-on-github" class="button"><span>View on GitHub</span></a>
+          <a href="https://github.com/css-naked-day/css-naked-day.github.io" id="view-on-github" class="button"><span>View on GitHub</span></a>
         </section>
 
         <footer>
