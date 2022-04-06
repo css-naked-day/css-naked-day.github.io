@@ -114,61 +114,6 @@
     max-width: 100%;
   }
 
-  #downloads {
-    margin-bottom: 40px;
-  }
-
-  a.button {
-    display: block;
-    float: left;
-    width: 179px;
-    padding: 12px 8px 12px 8px;
-    margin-right: 14px;
-    font-size: 15px;
-    font-weight: bold;
-    line-height: 25px;
-    color: #303030;
-    background: #fdfdfd; /* Old browsers */
-    background: -moz-linear-gradient(top,  #fdfdfd 0%, #f2f2f2 100%); /* FF3.6+ */
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fdfdfd), color-stop(100%,#f2f2f2)); /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient(top,  #fdfdfd 0%,#f2f2f2 100%); /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(top,  #fdfdfd 0%,#f2f2f2 100%); /* Opera 11.10+ */
-    background: -ms-linear-gradient(top,  #fdfdfd 0%,#f2f2f2 100%); /* IE10+ */
-    background: linear-gradient(top,  #fdfdfd 0%,#f2f2f2 100%); /* W3C */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fdfdfd', endColorstr='#f2f2f2',GradientType=0 ); /* IE6-9 */
-    border-top: solid 1px #cbcbcb;
-    border-right: solid 1px #b7b7b7;
-    border-bottom: solid 1px #b3b3b3;
-    border-left: solid 1px #b7b7b7;
-    border-radius: 30px;
-    -webkit-box-shadow: 10px 10px 5px #888;
-    -moz-box-shadow: 10px 10px 5px #888;
-    box-shadow: 0 1px 5px #e8e8e8;
-    -moz-border-radius: 30px;
-    -webkit-border-radius: 30px;
-  }
-
-  a.button:hover {
-    background: #fafafa; /* Old browsers */
-    background: -moz-linear-gradient(top,  #fdfdfd 0%, #f6f6f6 100%); /* FF3.6+ */
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fdfdfd), color-stop(100%,#f6f6f6)); /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient(top,  #fdfdfd 0%,#f6f6f6 100%); /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(top,  #fdfdfd 0%,#f6f6f6 100%); /* Opera 11.10+ */
-    background: -ms-linear-gradient(top,  #fdfdfd 0%,#f6f6f6 100%); /* IE10+ */
-    background: linear-gradient(top,  #fdfdfd 0%,#f6f6f6, 100%); /* W3C */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fdfdfd', endColorstr='#f6f6f6',GradientType=0 ); /* IE6-9 */
-    border-top: solid 1px #b7b7b7;
-    border-right: solid 1px #b3b3b3;
-    border-bottom: solid 1px #b3b3b3;
-    border-left: solid 1px #b3b3b3;
-  }
-
-  a.button span {
-    display: block;
-    height: 23px;
-    padding-left: 50px;
-  }
-
   #download-zip span {
     background: transparent url(../media/zip.png) 12px 50% no-repeat;
   }
@@ -177,22 +122,14 @@
     background: transparent url(../media/tar-gz.png) 12px 50% no-repeat;
   }
 
-  #view-on-github span {
-    background: transparent url(../media/octocat.png) 12px 50% no-repeat;
-  }
-
-  #view-on-github {
-    margin-right: 0;
-  }
-
   code, pre {
     margin-bottom: 30px;
-    font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-    font-size: 14px;
+    font-family: Monaco, 'Bitstream Vera Sans Mono', 'Lucida Console', Terminal, monospace;
     color: #222;
   }
 
   code {
+    font-size: .8em;
     padding: 0 3px;
     background-color: #f2f2f2;
     border: solid 1px #ddd;
@@ -286,16 +223,6 @@
     color: #303030;
   }
 
-  h5 {
-    font-size: 1em;
-    color: #303030;
-  }
-
-  h6 {
-    font-size: .8em;
-    color: #303030;
-  }
-
   p {
     margin-bottom: 20px;
     font-weight: 300;
@@ -343,28 +270,6 @@
     color: #444;
   }
 
-  /* MISC */
-
-  .clearfix:after {
-    display: block;
-    height: 0;
-    clear: both;
-    visibility: hidden;
-    content: '.';
-  }
-
-  .clearfix {
-    display: inline-block;
-  }
-
-  * html .clearfix {
-    height: 1%;
-  }
-
-  .clearfix {
-    display: block;
-  }
-
 }
 
 @media only screen and (max-width: 767px) {
@@ -372,10 +277,6 @@
   header {
     padding-top: 10px;
     padding-bottom: 10px;
-  }
-
-  #downloads {
-    margin-bottom: 25px;
   }
 
   #download-zip, #download-tar-gz {
@@ -426,22 +327,18 @@
     letter-spacing: -1px;
   }
 
-  #downloads {
-    display: none;
-  }
-
   #main_content {
     padding-top: 20px;
   }
 
   code, pre {
     margin-bottom: 30px;
-    font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-    font-size: 12px;
+    font-family: Monaco, 'Bitstream Vera Sans Mono', 'Lucida Console', Terminal, monospace;
     color: #222;
   }
 
   code {
+    font-size: .8em;
     padding: 0 3px;
   }
 
@@ -508,16 +405,6 @@
     color: #303030;
   }
 
-  h5 {
-    font-size: 1em;
-    color: #303030;
-  }
-
-  h6 {
-    font-size: .8em;
-    color: #303030;
-  }
-
   p {
     margin-bottom: 20px;
     font-weight: 300;
@@ -563,28 +450,6 @@
 
   footer a {
     color: #666;
-  }
-
-  /* MISC */
-
-  .clearfix:after {
-    display: block;
-    height: 0;
-    clear: both;
-    visibility: hidden;
-    content: '.';
-  }
-
-  .clearfix {
-    display: inline-block;
-  }
-
-  * html .clearfix {
-    height: 1%;
-  }
-
-  .clearfix {
-    display: block;
   }
 
 }
