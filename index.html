@@ -74,7 +74,7 @@
 
           <pre><code>&lt;?php
 function is_naked_day($d) {
-  $start = date('U', mktime(-12, 0, 0, 04, $d, date('Y')));
+  $start = date('U', mktime(-14, 0, 0, 04, $d, date('Y')));
   $end = date('U', mktime(36, 0, 0, 04, $d, date('Y')));
   $z = date('Z') * -1;
   $now = time() + $z;
@@ -99,9 +99,9 @@ if ( is_naked_day(9) ) {
 …
 &lt;/head&gt;</code></pre>
 
-          <h3><a id="forty-height" href="#forty-height">Wait… isn’t that 48 hours?</a></h3>
+          <h3 id="forty-height"><a id="fifty" href="#fifty">Wait… isn’t that 50 hours?</a></h3>
 
-          <p>That’s correct. CSS Naked Day lasts for one international day. Technically speaking, it will be April 9 somewhere in the world for 48 hours. This is to ensure that everyone’s website will be publicly nude for the entire world to see at any given time during April 9.</p>
+          <p>That’s correct. CSS Naked Day lasts for one international day. Technically speaking, it will be April 9 somewhere in the world for 50 hours. This is to ensure that everyone’s website will be publicly nude for the entire world to see at any given time during April 9.</p>
 
           <h3><a id="tools" href="#tools">Tools and plugins</a></h3>
 
