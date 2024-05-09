@@ -1,0 +1,27 @@
+{
+  "name": "css-naked-day.github.io",
+  "version": "1.0.0",
+  "description": "Website for CSS Naked Day",
+  "scripts": {
+    "dev": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/css-naked-day/css-naked-day.github.io.git"
+  },
+  "keywords": [
+    "css",
+    "website",
+    "eleventy"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/css-naked-day/css-naked-day.github.io/issues"
+  },
+  "homepage": "https://github.com/css-naked-day/css-naked-day.github.io#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
+}

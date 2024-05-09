@@ -39,25 +39,13 @@
           <h3><a id="editions" href="#editions">CSS Naked Day editions</a></h3>
 
           <ul>
-            <li><a href="2024.html">2024</a></li>
-            <li><a href="2023.html">2023</a></li>
-            <li><a href="2022.html">2022</a></li>
-            <li><a href="2021.html">2021</a></li>
-            <li><a href="2020.html">2020</a></li>
-            <li>2019</li>
-            <li>2018</li>
-            <li>2017</li>
-            <li>2016</li>
-            <li><a href="2015.html">2015</a></li>
-            <li>2014</li>
-            <li>2013</li>
-            <li>2012</li>
-            <li>2011</li>
-            <li>2010</li>
-            <li><a href="2009.html">2009</a></li>
-            <li><a href="2008.html">2008</a></li>
-            <li><a href="2007.html">2007</a></li>
-            <li><a href="2006.html">2006</a></li>
+            {{#each (rev (seq (min (keys years)) (max (keys years))))}}
+              {{#if (get @root.years this)}}
+                <li><a href="{{this}}.html">{{this}}</a></li>
+              {{else}}
+                <li>{{this}}</li>
+              {{/if}}
+            {{/each}}
           </ul>
 
           <h3><a id="participate" href="#participate">How to participate</a></h3>
