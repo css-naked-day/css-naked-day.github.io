@@ -5,6 +5,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ public: "/" });
   // ignore files in folders (only transform top level html files)
   eleventyConfig.ignores.add("*/**");
+  eleventyConfig.ignores.add("README.md");
 
   eleventyConfig.addGlobalData("myStatic", () => {
     return "this is data";
