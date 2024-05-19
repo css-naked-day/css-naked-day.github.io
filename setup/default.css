@@ -92,6 +92,11 @@
     letter-spacing: -1px;
   }
 
+  header h1 a {
+    color: inherit !important;
+    text-decoration: none;
+  }
+
   header h2 {
     font-size: 24px;
     font-weight: normal;
