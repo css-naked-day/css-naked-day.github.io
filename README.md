@@ -1,9 +1,9 @@
 # CSS Naked Day
 
-“Show off your semantic `<body>`”: [April 9 is CSS Naked Day!](https://css-naked-day.github.io/)
+“Show off your semantic `<body>`”: [_April 9 is CSS Naked Day!_](https://css-naked-day.github.io/)
 
-You can [create an issue](https://github.com/css-naked-day/css-naked-day.github.io/issues/new) or [update the proper file](https://github.com/css-naked-day/css-naked-day.github.io) to add your website(s).
+If you’re participating, [update the respective file](https://github.com/css-naked-day/css-naked-day.github.io) to add your website(s).
 
-Note: _Merge conflicts_ are likely to occur if all changes are made as the last line on the list. We can limit this by using _alphabetical order_, based on your last name or the name of the website if no author is present.
+Note: _Merge conflicts_ are likely if changes are made to the last lines of participant lists. To avoid this, use _alphabetical order_ going by last name or, if there is no individual author, the name of the website.
 
-Thanks!
+Welcome to CSS Naked Day!
