@@ -1,6 +1,6 @@
 # CSS Naked Day
 
-“Show off your semantic `<body>`”: [_April 9 is CSS Naked Day!_](https://css-naked-day.github.io/)
+“Show off your semantic `<body>`”: [_April 9 is CSS Naked Day!_](https://css-naked-day.org/)
 
 If you’re participating, [update the respective file](https://github.com/css-naked-day/css-naked-day.github.io) to add your website(s).
 
