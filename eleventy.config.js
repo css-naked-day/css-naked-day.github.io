@@ -1,6 +1,6 @@
-const fs = require("fs");
+import fs from "fs";
 
-module.exports = function (eleventyConfig) {
+export default function (eleventyConfig) {
   // host static assets (anything in `./public/` on site root `/`)
   eleventyConfig.addPassthroughCopy({ public: "/" });
   // ignore files in folders (only transform top level html files)

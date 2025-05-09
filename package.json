@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "css-naked-day-website",
   "version": "0.1.0",
   "description": "CSS Naked Day: website",
