@@ -23,6 +23,7 @@
   },
   "homepage": "https://css-naked-day.org/",
   "devDependencies": {
-    "@11ty/eleventy": "^3.0.0"
+    "@11ty/eleventy": "^3.0.0",
+    "@iarna/toml": "^2.2.5"
   }
 }

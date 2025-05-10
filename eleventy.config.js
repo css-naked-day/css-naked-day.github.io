@@ -1,47 +1,39 @@
-import fs from "fs";
+import Nunjucks from "nunjucks";
+import toml from "@iarna/toml";
+
+function getWebsiteDomain(url) {
+  return url.replace(
+    /^https?:\/\/([^/]+)\/?.*/,
+    (string, domain) => domain
+  );
+}
 
 export default function (eleventyConfig) {
-  // host static assets (anything in `./public/` on site root `/`)
+  eleventyConfig.setQuietMode(true);
+
+  // Host static assets. Anything from `./public/` goes to site’s root `/`.
   eleventyConfig.addPassthroughCopy({ public: "/" });
-  // ignore files in folders (only transform top level html files)
+
+  // Ignore files in folders. Only transform top level html files.
   eleventyConfig.ignores.add("*/**");
   eleventyConfig.ignores.add("README.md");
 
-  eleventyConfig.addGlobalData("myStatic", () => {
-    return "this is data";
+  // Allow to parse Toml files for data.
+  eleventyConfig.addDataExtension("toml", (contents) => toml.parse(contents));
+
+  eleventyConfig.addFilter("getParticipantDisplayName", (participant) => {
+    const websiteURL = participant.websites[0].url;
+
+    return participant.display || participant.username || getWebsiteDomain(websiteURL);
   });
 
-  eleventyConfig.addGlobalData("years", () => {
-    all_fnames = fs
-      .readdirSync(".")
-      .filter((fname) => /^[0-9]{4}$/.test(fname));
-    years = {};
-    for (fname of all_fnames) {
-      files = fs.readdirSync(fname);
-      content = files.map((f) => fs.readFileSync(`${fname}/${f}`));
-      years[fname] = content;
-    }
-    return years;
-  });
+  eleventyConfig.addFilter("getSiteTitle", (url, participant) => {
+    const website = participant.websites.find(website => website.url === url);
 
-  // json stringify input, e.g., {{json some_data}}
-  eleventyConfig.addHandlebarsHelper("json", (data) => JSON.stringify(data));
-  // turn object keys into list, e.g., {{keys some_object_data}}
-  eleventyConfig.addHandlebarsHelper("keys", (obj) => Object.keys(obj));
-  // get max/min value from a list, e.g., {{min some_list}}
-  eleventyConfig.addHandlebarsHelper("min", (list) => Math.min(...list));
-  eleventyConfig.addHandlebarsHelper("max", (list) => Math.max(...list));
-  // generate integer sequence from low to high, e.g., {{seq 2006 2024}}
-  eleventyConfig.addHandlebarsHelper("seq", (low, high) =>
-    [...Array(high + 1 - low).keys()].map((i) => i + low)
-  );
-  // reverse list order
-  eleventyConfig.addHandlebarsHelper("rev", (arr) => arr.reverse());
-  // access key in object
-  eleventyConfig.addHandlebarsHelper("get", (obj, key) => obj[key]);
+    return website.title || getWebsiteDomain(website.url);
+  });
 
   return {
-    // use handlebars for HTML
-    htmlTemplateEngine: "hbs",
+    htmlTemplateEngine: "njk",
   };
 };
