@@ -4,17 +4,13 @@ display = "Chris Ruppel"
 # ------------------------------------------------------------------------------
 
 [[websites]]
+url   = "http://cruppel.com/gbs/css-naked-day/"
+years = [2006]
+
+[[websites]]
 url   = "http://cruppel.com/"
-title = "Chris Ruppel"
 years = [2007]
 
 [[websites]]
 url   = "http://chrisruppel.com/"
-title = "Chris Ruppel"
 years = [2009]
-
-
-
-
-
-
