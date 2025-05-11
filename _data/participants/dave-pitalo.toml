@@ -1,0 +1,8 @@
+display = "Dave Pitalo"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.davepitalo.com/blog"
+years = [2006]

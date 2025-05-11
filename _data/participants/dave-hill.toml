@@ -1,0 +1,8 @@
+display = "Dave Hill"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.hill-kleerup.org/blog/index-nocss.html"
+years = [2006]
