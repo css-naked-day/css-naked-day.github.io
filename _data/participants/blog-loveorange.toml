@@ -1,8 +1,8 @@
-display = ".log"
+display = "呵呵！的BLOG"
 
 # Websites
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://nyomos.blog71.fc2.com/"
+url   = "http://blog.loveorange.cn/"
 years = [2007]

@@ -1,8 +1,8 @@
-display = ".log"
+display = "失去记忆log"
 
 # Websites
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://nyomos.blog71.fc2.com/"
+url   = "http://www.2th.cn/"
 years = [2007]

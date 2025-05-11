@@ -5,11 +5,9 @@ display = "酷秀网络"
 
 [[websites]]
 url   = "http://www.dnxh.cn/blog"
-title = "酷秀网络"
 years = [2007]
 
-
-
-
-
-
+[[websites]]
+url   = "http://blog.dnxh.cn/"
+title = "老鼠’s blog"
+years = [2008]

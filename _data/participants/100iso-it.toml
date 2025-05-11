@@ -1,20 +1,12 @@
-display = "100iso.it"
+display = "Luca Annunziata"
 
 # Websites
 # ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://static.blogo.it/melablog/greenpeace-allapple-store/01.jpg"
-title = "100iso.it"
 years = [2007]
 
 [[websites]]
 url   = "http://www.100iso.it/2007/04/04/uno-strip-online/"
-title = "100iso.it"
 years = [2007]
-
-
-
-
-
-

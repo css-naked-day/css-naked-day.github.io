@@ -1,8 +1,8 @@
-display = ".log"
+display = "БЛОГ"
 
 # Websites
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://nyomos.blog71.fc2.com/"
-years = [2007]
+url   = "http://blog.mihailfedorov.ru/"
+years = [2008]

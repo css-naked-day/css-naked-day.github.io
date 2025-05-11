@@ -5,16 +5,10 @@ display = "GoneWTW"
 
 [[websites]]
 url   = "http://www.gengbing.com/aboutme/index.php"
-title = "GoneWTW"
+title = "aboutme"
 years = [2007]
 
 [[websites]]
 url   = "http://www.gengbing.com/"
 title = "GoneWTW"
 years = [2007]
-
-
-
-
-
-

@@ -4,17 +4,5 @@ display = "Holger Rüprich"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.rueprich.de"
-title = "Holger Rüprich"
-years = [2007]
-
-[[websites]]
 url   = "http://www.rueprich.de/"
-title = "Holger Rüprich"
 years = [2007,2009]
-
-
-
-
-
-

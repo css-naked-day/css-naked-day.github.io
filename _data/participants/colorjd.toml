@@ -4,17 +4,5 @@ display = "colorjd"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://life.colorjd.com"
-title = "colorjd"
-years = [2007]
-
-[[websites]]
 url   = "http://life.colorjd.com/"
-title = "colorjd"
 years = [2007]
-
-
-
-
-
-

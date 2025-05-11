@@ -4,17 +4,5 @@ display = "Str"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://str.rival.cz"
-title = "Str"
-years = [2007]
-
-[[websites]]
 url   = "http://str.rival.cz/"
-title = "Str"
 years = [2007]
-
-
-
-
-
-

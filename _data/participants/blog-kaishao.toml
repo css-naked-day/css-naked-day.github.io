@@ -1,8 +1,8 @@
-display = ".log"
+display = "陳凱劭的BLOG"
 
 # Websites
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://nyomos.blog71.fc2.com/"
-years = [2007]
+url   = "http://blog.kaishao.idv.tw/"
+years = [2008]
