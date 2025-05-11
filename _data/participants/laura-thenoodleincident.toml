@@ -4,17 +4,5 @@ display = "Laura"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.peacechicken.com/"
-title = "Laura"
-years = [2006]
-
-[[websites]]
 url   = "http://www.thenoodleincident.org/blog"
-title = "Laura"
 years = [2006]
-
-
-
-
-
-
