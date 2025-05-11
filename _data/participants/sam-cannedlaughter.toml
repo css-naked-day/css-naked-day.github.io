@@ -4,6 +4,6 @@ display = "Sam"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-# SPAM
-# url   = "http://cannedlaughter.net/"
+spam  = true
+url   = "http://cannedlaughter.net/"
 years = [2006]

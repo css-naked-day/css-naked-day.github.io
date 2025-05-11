@@ -47,17 +47,18 @@
           <h3>Kudos to these websites who got naked in {{ year }}!</h3>
 
           <ol>
+            {# We use both years and participants as Global Data. #}
             {% for index, websites in years[year].participants %}
               {% set participant = participants[index] %}
 
               <li>
                 {% if websites | length === 1 %}
-                  <a href="{{ websites[0] }}">{{ participant | getParticipantDisplayName }}</a>
+                  {% linkNoSpam 'getParticipantDisplayName', websites[0], participant %}
                 {% else %}
                   {{ participant | getParticipantDisplayName }}:
 
                   {% for website in websites %}
-                    <a href="{{ website }}">{{ website | getSiteTitle(participant) }}</a>{% if loop.revindex0 > 1 %}, {% endif %}{% if loop.revindex0 === 1 %} & {% endif %}
+                    {% linkNoSpam 'getSiteTitle', website, participant %}{% if loop.revindex0 > 1 %}, {% endif %}{% if loop.revindex0 === 1 %} & {% endif %}
                   {% endfor %}
                 {% endif %}
               </li>
@@ -65,10 +66,8 @@
           </ol>
 
           <p>
-            Feel free to 
-            <a href='https://github.com/css-naked-day/css-naked-day.github.io/new/master/?filename=_data/participants/my-name.toml&value=display%20%3D%20%22MY%20NAME%22%0A%0A%23%20Websites%0A%23%20------------------------------------------------------------------------------%0A%0A%5B%5Bwebsites%5D%5D%0Aurl%20%20%20%3D%20%22URL_OF_MY_WEBSITE%22%0Ayears%20%3D%20%5B%0A%20%20%0A%5D'>
-              add yours
-            </a>!
+            Feel free to
+            <a href='https://github.com/css-naked-day/css-naked-day.github.io/new/master/?filename=_data/participants/my-name.toml&value=display%20%3D%20%22MY%20NAME%22%0A%0A%23%20Websites%0A%23%20------------------------------------------------------------------------------%0A%0A%5B%5Bwebsites%5D%5D%0Aurl%20%20%20%3D%20%22URL_OF_MY_WEBSITE%22%0Ayears%20%3D%20%5B%0A%20%20%0A%5D'>add yours</a>!
           </p>
         </section>
 

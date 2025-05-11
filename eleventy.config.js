@@ -35,6 +35,36 @@ export default function (eleventyConfig) {
     return website.title || getWebsiteDomain(website.url);
   });
 
+  eleventyConfig.addFilter("getSiteData", (url, participant) => {
+    return participant.websites.find(website => {
+      return website.url === url;
+    });
+  });
+
+  eleventyConfig.addShortcode("linkNoSpam", function(callback, url, participant) {
+    const website = eleventyConfig.getFilter("getSiteData")(url, participant);
+    let title;
+
+    switch (callback) {
+      case 'getSiteTitle':
+        title = eleventyConfig.getFilter('getSiteTitle')(url, participant);
+        break;
+      case 'getParticipantDisplayName':
+        title = eleventyConfig.getFilter('getParticipantDisplayName')(participant);
+        break;
+    }
+
+    if (!website?.url) {
+      return title;
+    }
+
+    if (website.spam) {
+      return website.url;
+    }
+
+    return `<a href="${website.url}">${title}</a>`
+  });
+
   // Create Toml files based on legacy HTML files.
   // TODO: Tweaked files to restore mistakes.
   eleventyConfig.addGlobalData("legacy", () => {
