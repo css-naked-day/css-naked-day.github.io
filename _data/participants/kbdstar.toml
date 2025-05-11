@@ -1,0 +1,20 @@
+display = "kbdstar"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://kbdstar.net/"
+title = "kbdstar"
+years = [2008]
+
+[[websites]]
+url   = "http://www.kbdstar.net/"
+title = "kbdstar"
+years = [2008]
+
+
+
+
+
+

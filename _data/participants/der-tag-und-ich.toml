@@ -1,0 +1,15 @@
+display = "der tag und ich"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.dertagundich.de/"
+title = "der tag und ich"
+years = [2008]
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+display = "Infektia.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.infektia.net/"
+title = "Infektia.net"
+years = [2007]
+
+
+
+
+
+

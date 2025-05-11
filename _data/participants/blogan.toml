@@ -1,0 +1,15 @@
+display = "blogan"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blogan.net/"
+title = "blogan"
+years = [2008]
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+display = "wangjiafeng.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.wangjiafeng.com/blog/"
+title = "wangjiafeng.com"
+years = [2008]
+
+
+
+
+
+

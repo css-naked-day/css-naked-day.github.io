@@ -1,0 +1,15 @@
+display = "MyVistaLife.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.myvistalife.com/"
+title = "MyVistaLife.com"
+years = [2008]
+
+
+
+
+
+

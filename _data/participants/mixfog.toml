@@ -1,0 +1,20 @@
+display = "mixfog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.mixfog.com/blog"
+title = "mixfog"
+years = [2007]
+
+[[websites]]
+url   = "http://www.mixfog.com/blog/"
+title = "mixfog"
+years = [2008]
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+display = "lavikko.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://lavikko.com/"
+title = "lavikko.com"
+years = [2007]
+
+
+
+
+
+

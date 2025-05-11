@@ -1,0 +1,15 @@
+display = "Merls Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.merls-blog.de/"
+title = "Merls Blog"
+years = [2009]
+
+
+
+
+
+

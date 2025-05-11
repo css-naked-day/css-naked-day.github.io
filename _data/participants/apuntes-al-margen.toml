@@ -1,0 +1,15 @@
+display = "Apuntes al Margen"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://apuntesalmargen.com/"
+title = "Apuntes al Margen"
+years = [2008,2009]
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+display = "pampuch’s blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.pampuch.cz/"
+title = "pampuch’s blog"
+years = [2007]
+
+
+
+
+
+

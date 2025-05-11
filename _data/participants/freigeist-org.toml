@@ -1,0 +1,15 @@
+display = "freigeist.org"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://freigeist.org/"
+title = "freigeist.org"
+years = [2008]
+
+
+
+
+
+

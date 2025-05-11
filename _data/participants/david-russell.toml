@@ -1,0 +1,20 @@
+display = "David Russell"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.davidblog.com/"
+title = "David Russell"
+years = [2006]
+
+[[websites]]
+url   = "http://davidrussell.org/"
+title = "David Russell"
+years = [2007,2008]
+
+
+
+
+
+

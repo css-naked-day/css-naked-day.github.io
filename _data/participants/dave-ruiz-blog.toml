@@ -1,0 +1,15 @@
+display = "Dave Ruiz Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.daveruiz.net/"
+title = "Dave Ruiz Blog"
+years = [2009]
+
+
+
+
+
+

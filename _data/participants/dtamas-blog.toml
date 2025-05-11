@@ -1,0 +1,15 @@
+display = "dtamas' blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.dtamas.dynamo.hu/"
+title = "dtamas&#39; blog"
+years = [2008]
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+display = "Schweinestall [.com]"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://schweinestall.com/"
+title = "Schweinestall [.com]"
+years = [2008,2009]
+
+
+
+
+
+

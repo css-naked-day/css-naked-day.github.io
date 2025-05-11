@@ -1,0 +1,15 @@
+display = "Pete"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.teknine.com/"
+title = "Pete"
+years = [2006]
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+display = "Sarok Üzletház"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://sarokuzlethaz.hu/"
+title = "Sarok Üzletház"
+years = [2008]
+
+
+
+
+
+

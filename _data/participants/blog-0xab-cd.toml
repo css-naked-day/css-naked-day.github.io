@@ -1,0 +1,15 @@
+display = "blog.0xab.cd"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.0xab.cd/"
+title = "blog.0xab.cd"
+years = [2007]
+
+
+
+
+
+

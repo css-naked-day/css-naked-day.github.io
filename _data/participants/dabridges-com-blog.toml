@@ -1,0 +1,15 @@
+display = "dabridges.com/blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.dabridges.com/blog"
+title = "dabridges.com/blog"
+years = [2008]
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+display = "Zakladi interneta"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://zakladi.com/"
+title = "Zakladi interneta"
+years = [2009]
+
+
+
+
+
+

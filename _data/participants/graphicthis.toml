@@ -1,0 +1,15 @@
+display = "GraphicThis"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://graphicthis.wordpress.com/"
+title = "GraphicThis"
+years = [2007]
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+display = "Maddins Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.mafsw.de/"
+title = "Maddins Blog"
+years = [2008]
+
+
+
+
+
+

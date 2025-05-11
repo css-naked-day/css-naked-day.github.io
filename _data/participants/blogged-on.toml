@@ -1,0 +1,15 @@
+display = "blogged on"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blogged-on.de/"
+title = "blogged on"
+years = [2007]
+
+
+
+
+
+

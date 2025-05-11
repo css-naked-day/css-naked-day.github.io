@@ -1,0 +1,20 @@
+display = "Chris"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://cruppel.com/gbs/css-naked-day/"
+title = "Chris"
+years = [2006]
+
+[[websites]]
+url   = "http://www.blog-of-chris.com/"
+title = "Chris"
+years = [2006]
+
+
+
+
+
+

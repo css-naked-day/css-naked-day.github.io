@@ -1,0 +1,15 @@
+display = "Sparanoid"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://sparanoid.com/"
+title = "Sparanoid"
+years = [2007]
+
+
+
+
+
+

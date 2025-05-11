@@ -1,0 +1,15 @@
+display = "The Web Blog of Alex Fraiser"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://alexfraiser.com/"
+title = "The Web Blog of Alex Fraiser"
+years = [2008]
+
+
+
+
+
+

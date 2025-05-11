@@ -1,0 +1,15 @@
+display = "psykmedia.de"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.psykmedia.de/"
+title = "psykmedia.de"
+years = [2009]
+
+
+
+
+
+

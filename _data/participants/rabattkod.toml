@@ -1,0 +1,15 @@
+display = "Rabattkod"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://feeds2.feedburner.com/RabattkoderKampanjerErbjudandenKlipp-Dealsse"
+title = "Rabattkod"
+years = [2008]
+
+
+
+
+
+

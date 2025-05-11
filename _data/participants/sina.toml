@@ -1,0 +1,15 @@
+display = "sina"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.sina.com.cn/"
+title = "sina"
+years = [2009]
+
+
+
+
+
+

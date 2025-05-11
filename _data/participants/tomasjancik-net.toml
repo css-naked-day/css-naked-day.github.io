@@ -1,0 +1,15 @@
+display = "TomasJancik.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://tomasjancik.net/"
+title = "TomasJancik.net"
+years = [2009]
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+display = "Google Discovery"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://googlediscovery.com/"
+title = "Google Discovery"
+years = [2009]
+
+
+
+
+
+

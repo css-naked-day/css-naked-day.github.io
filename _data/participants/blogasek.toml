@@ -1,0 +1,15 @@
+display = "Blogasek"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blogasek.net/"
+title = "Blogasek"
+years = [2007]
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+display = "Bodzás Fanta blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://bodzasfanta.freeblog.hu/"
+title = "Bodzás Fanta blog"
+years = [2009]
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+display = "Fahrtbier.de"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.fahrtbier.de/"
+title = "Fahrtbier.de"
+years = [2008]
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+display = "Mint Digital"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.mintdigital.com"
+title = "Mint Digital"
+years = [2008]
+
+[[websites]]
+url   = "http://www.mintdigital.com/"
+title = "Mint Digital"
+years = [2009]
+
+
+
+
+
+

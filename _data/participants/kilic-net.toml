@@ -1,0 +1,15 @@
+display = "kilic.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://weblog.kilic.net/"
+title = "kilic.net"
+years = [2007]
+
+
+
+
+
+

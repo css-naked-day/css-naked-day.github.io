@@ -1,0 +1,15 @@
+display = "photofeeling.ru"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.photofeeling.ru/"
+title = "photofeeling.ru"
+years = [2009]
+
+
+
+
+
+

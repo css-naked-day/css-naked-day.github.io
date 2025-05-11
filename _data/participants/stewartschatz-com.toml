@@ -1,0 +1,15 @@
+display = "StewartSchatz.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.stewartschatz.com/"
+title = "StewartSchatz.com"
+years = [2008]
+
+
+
+
+
+

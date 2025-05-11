@@ -1,0 +1,15 @@
+display = "Boston Web Studio"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.bostonwebstudio.com/"
+title = "Boston Web Studio"
+years = [2008,2009]
+
+
+
+
+
+

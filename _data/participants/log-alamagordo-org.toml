@@ -1,0 +1,15 @@
+display = "log.alamagordo.org"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://log.alamagordo.org/"
+title = "log.alamagordo.org"
+years = [2008]
+
+
+
+
+
+

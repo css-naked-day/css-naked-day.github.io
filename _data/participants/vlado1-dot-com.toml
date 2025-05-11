@@ -1,0 +1,15 @@
+display = "vlado1 dot com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.vlado1.com"
+title = "vlado1 dot com"
+years = [2008]
+
+
+
+
+
+

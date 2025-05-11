@@ -1,0 +1,15 @@
+display = "produktvergleichr"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.produktvergleichr.de/"
+title = "produktvergleichr"
+years = [2008]
+
+
+
+
+
+

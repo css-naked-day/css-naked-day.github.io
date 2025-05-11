@@ -1,0 +1,15 @@
+display = "Aufgefallen! Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.aufgefallen.de/"
+title = "Aufgefallen! Blog"
+years = [2008]
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+---
+pagination:
+  data: legacy
+  size: 1
+  alias: participant
+permalink: _data/{{ participant | replace("/", "") | escape }}.toml
+eleventyAllowMissingExtension: true
+---
+display = "{{ legacy[participant].display | safe }}"
+
+# Websites
+# ------------------------------------------------------------------------------
+{% for website in legacy[participant].websites %}
+[[websites]]
+url   = "{{ website.url }}"
+title = "{{ website.title }}"
+years = [{{ website.years }}]
+{% endfor %}

@@ -1,0 +1,20 @@
+display = "Ceglie Messapica"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.ceglieplurale.it/"
+title = "Ceglie Messapica"
+years = [2007,2008]
+
+[[websites]]
+url   = "http://blog.cegliemessapica.com/"
+title = "Ceglie Messapica"
+years = [2008]
+
+
+
+
+
+

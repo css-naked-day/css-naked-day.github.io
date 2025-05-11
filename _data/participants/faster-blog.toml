@@ -1,0 +1,15 @@
+display = "faster blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://faster.sk/"
+title = "faster blog"
+years = [2007]
+
+
+
+
+
+

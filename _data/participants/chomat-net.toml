@@ -1,0 +1,15 @@
+display = "Chomat.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.chomat.net/"
+title = "Chomat.net"
+years = [2007]
+
+
+
+
+
+

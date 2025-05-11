@@ -1,0 +1,15 @@
+display = "Chovy’s Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.chovy.com/"
+title = "Chovy’s Blog"
+years = [2007]
+
+
+
+
+
+

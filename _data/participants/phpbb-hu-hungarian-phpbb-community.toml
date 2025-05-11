@@ -1,0 +1,15 @@
+display = "phpBB.hu – Hungarian phpBB community"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://phpbb.hu/"
+title = "phpBB.hu – Hungarian phpBB community"
+years = [2008]
+
+
+
+
+
+

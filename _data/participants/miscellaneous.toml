@@ -1,0 +1,20 @@
+display = "루미넌스 – miscellaneous"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://luminance.kr/"
+title = "루미넌스 – miscellaneous"
+years = [2008]
+
+[[websites]]
+url   = "http://misc.at/"
+title = "MiScellaneous"
+years = [2008]
+
+
+
+
+
+

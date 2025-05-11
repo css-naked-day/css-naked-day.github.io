@@ -1,0 +1,15 @@
+display = "Jontes blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.jontes.info/"
+title = "Jontes blog"
+years = [2008]
+
+
+
+
+
+

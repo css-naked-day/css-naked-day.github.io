@@ -1,0 +1,15 @@
+display = "Konamito.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.konamito.com/"
+title = "Konamito.com"
+years = [2009]
+
+
+
+
+
+

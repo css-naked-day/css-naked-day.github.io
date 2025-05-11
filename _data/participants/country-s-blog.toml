@@ -1,0 +1,15 @@
+display = "Country’s Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.k1der.net/country/"
+title = "Country’s Blog"
+years = [2008]
+
+
+
+
+
+

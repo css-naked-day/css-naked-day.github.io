@@ -1,0 +1,20 @@
+display = "The Karcher Group"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.thekarchergroup.com/"
+title = "The Karcher Group"
+years = [2008]
+
+[[websites]]
+url   = "http://www.tkg.com/"
+title = "The Karcher Group"
+years = [2009]
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+display = "egonitron.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://egonitron.com/"
+title = "egonitron.com"
+years = [2007]
+
+
+
+
+
+

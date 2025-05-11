@@ -1,0 +1,15 @@
+display = "from the salmon"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://fromthesalmon.com/"
+title = "from the salmon"
+years = [2007]
+
+
+
+
+
+

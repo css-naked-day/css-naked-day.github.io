@@ -1,0 +1,15 @@
+display = "Le blog du monde qui avance"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.redacbox.com/Blog/"
+title = "Le blog du monde qui avance"
+years = [2007]
+
+
+
+
+
+

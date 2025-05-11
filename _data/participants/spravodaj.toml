@@ -1,0 +1,15 @@
+display = "Spravodaj"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://spravodaj.madaj.net/"
+title = "Spravodaj"
+years = [2008]
+
+
+
+
+
+

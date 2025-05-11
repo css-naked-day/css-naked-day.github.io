@@ -1,0 +1,15 @@
+display = "Tech Wizard"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.coolwizardz.com/"
+title = "Tech Wizard"
+years = [2008]
+
+
+
+
+
+

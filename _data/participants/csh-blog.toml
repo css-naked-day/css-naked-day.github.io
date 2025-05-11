@@ -1,0 +1,15 @@
+display = "CSH Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://clauber.coffeebreakers.org/"
+title = "CSH Blog"
+years = [2008]
+
+
+
+
+
+

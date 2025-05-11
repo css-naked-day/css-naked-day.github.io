@@ -1,0 +1,15 @@
+display = "Finweblog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://weblog.finwe.info/"
+title = "Finweblog"
+years = [2009]
+
+
+
+
+
+

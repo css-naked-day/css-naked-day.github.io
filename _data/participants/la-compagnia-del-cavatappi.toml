@@ -1,0 +1,15 @@
+display = "La Compagnia del Cavatappi"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.lacompagniadelcavatappi.com/blog"
+title = "La Compagnia del Cavatappi"
+years = [2009]
+
+
+
+
+
+

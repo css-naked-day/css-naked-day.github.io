@@ -1,0 +1,15 @@
+display = "bidala"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.bidala.org/"
+title = "bidala"
+years = [2008]
+
+
+
+
+
+

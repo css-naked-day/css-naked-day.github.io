@@ -1,0 +1,15 @@
+display = "dema fon blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://fonblog.wordpress.com/"
+title = "dema fon blog"
+years = [2007]
+
+
+
+
+
+

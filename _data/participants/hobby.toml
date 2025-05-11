@@ -1,0 +1,15 @@
+display = "Hobby"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://sebastian-hobert.de/"
+title = "Hobby"
+years = [2006]
+
+
+
+
+
+

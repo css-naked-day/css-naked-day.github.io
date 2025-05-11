@@ -1,0 +1,15 @@
+display = "Der Korsti bloggt."
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://korsti.de/blog"
+title = "Der Korsti bloggt."
+years = [2008]
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+display = "Andi Smith"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.andismith.com/journal/"
+title = "Andi Smith"
+years = [2007]
+
+
+
+
+
+

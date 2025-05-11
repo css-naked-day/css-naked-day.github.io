@@ -1,0 +1,15 @@
+display = "blog barykin.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://barykin.com/"
+title = "blog barykin.com"
+years = [2009]
+
+
+
+
+
+

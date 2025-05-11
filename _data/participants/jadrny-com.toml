@@ -1,0 +1,15 @@
+display = "Jadrny.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://jadrny.com/"
+title = "Jadrny.com"
+years = [2007]
+
+
+
+
+
+

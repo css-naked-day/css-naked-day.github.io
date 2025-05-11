@@ -1,0 +1,15 @@
+display = "frgdr.com Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://frgdr.com/blog/"
+title = "frgdr.com Blog"
+years = [2008]
+
+
+
+
+
+

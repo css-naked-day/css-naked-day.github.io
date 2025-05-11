@@ -1,0 +1,15 @@
+display = "Webkatalog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.webkatalog4all.de/"
+title = "Webkatalog"
+years = [2008]
+
+
+
+
+
+

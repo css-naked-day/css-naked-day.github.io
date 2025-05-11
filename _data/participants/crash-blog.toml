@@ -1,0 +1,15 @@
+display = "Crash blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://crash.jogger.pl/"
+title = "Crash blog"
+years = [2007]
+
+
+
+
+
+

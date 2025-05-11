@@ -1,0 +1,20 @@
+display = "Outbreak"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://friedcellcollective.net/outbreak/"
+title = "Outbreak"
+years = [2008]
+
+[[websites]]
+url   = "http://friedcellcollective.net/outbreak"
+title = "outbreak"
+years = [2009]
+
+
+
+
+
+

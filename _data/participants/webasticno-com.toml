@@ -1,0 +1,15 @@
+display = "Webasticno.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.webasticno.com/"
+title = "Webasticno.com"
+years = [2009]
+
+
+
+
+
+

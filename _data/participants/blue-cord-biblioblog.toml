@@ -1,0 +1,15 @@
+display = "Blue Cord Biblioblog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.bluecord.org/biblioblog"
+title = "Blue Cord Biblioblog"
+years = [2008]
+
+
+
+
+
+

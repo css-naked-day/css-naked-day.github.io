@@ -1,0 +1,15 @@
+display = "This day’s portion"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://www.thisdaysportion.com/"
+title = "This day’s portion"
+years = [2023]
+
+
+
+
+
+

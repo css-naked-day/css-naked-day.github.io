@@ -1,0 +1,15 @@
+display = "Xavier Muñiz’s blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://xmz.com.mx/"
+title = "Xavier Muñiz’s blog"
+years = [2008]
+
+
+
+
+
+

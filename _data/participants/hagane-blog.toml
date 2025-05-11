@@ -1,0 +1,15 @@
+display = "HAGANE Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.hagane.tv/"
+title = "HAGANE Blog"
+years = [2009]
+
+
+
+
+
+

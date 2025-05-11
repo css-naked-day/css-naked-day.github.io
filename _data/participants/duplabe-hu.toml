@@ -1,0 +1,15 @@
+display = "duplabe.hu"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://duplabe.hu/"
+title = "duplabe.hu"
+years = [2008]
+
+
+
+
+
+

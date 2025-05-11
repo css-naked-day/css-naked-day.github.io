@@ -1,0 +1,15 @@
+display = "Druapler"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://drupaler.ru/"
+title = "Druapler"
+years = [2009]
+
+
+
+
+
+

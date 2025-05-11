@@ -1,0 +1,15 @@
+display = "Latte di Asina"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.lattediasina.com/"
+title = "Latte di Asina"
+years = [2008,2009]
+
+
+
+
+
+

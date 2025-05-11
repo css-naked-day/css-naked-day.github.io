@@ -1,0 +1,15 @@
+display = "pur*log"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://purpr.in/blog/"
+title = "pur*log"
+years = [2007]
+
+
+
+
+
+

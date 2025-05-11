@@ -1,0 +1,15 @@
+display = "wystan’s tales"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.wystan.net/"
+title = "wystan’s tales"
+years = [2008]
+
+
+
+
+
+

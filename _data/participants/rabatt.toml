@@ -1,0 +1,15 @@
+display = "Rabatt"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.rabatt.se/"
+title = "Rabatt"
+years = [2008]
+
+
+
+
+
+

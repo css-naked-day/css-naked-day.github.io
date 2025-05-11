@@ -1,0 +1,15 @@
+display = "Neoblog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.neovov.com/"
+title = "Neoblog"
+years = [2007]
+
+
+
+
+
+

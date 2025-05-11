@@ -1,0 +1,15 @@
+display = "A Trilingual Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.buyruk.net/blog/"
+title = "A Trilingual Blog"
+years = [2007]
+
+
+
+
+
+

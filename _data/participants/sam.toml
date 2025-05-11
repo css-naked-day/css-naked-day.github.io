@@ -1,0 +1,20 @@
+display = "Sam"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://cannedlaughter.net/"
+title = "Sam"
+years = [2006]
+
+[[websites]]
+url   = "http://www.bulix.org/"
+title = "Sam"
+years = [2006]
+
+
+
+
+
+

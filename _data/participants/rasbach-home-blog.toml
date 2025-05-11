@@ -1,0 +1,15 @@
+display = "rasbach home blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.rasbach-home.de/blog"
+title = "rasbach home blog"
+years = [2008]
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+display = "Agriturismo"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.vacanzeinagriturismo.it/"
+title = "Agriturismo"
+years = [2008,2009]
+
+
+
+
+
+

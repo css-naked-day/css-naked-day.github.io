@@ -1,0 +1,15 @@
+display = "Faceit"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.faceit.se/"
+title = "Faceit"
+years = [2007]
+
+
+
+
+
+

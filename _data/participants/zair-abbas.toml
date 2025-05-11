@@ -1,0 +1,20 @@
+display = "Zair Abbas"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.zairabbas.com/"
+title = "Zair Abbas"
+years = [2008]
+
+[[websites]]
+url   = "http://www.zairabbas.com/blog"
+title = "Zair Abbas"
+years = [2008]
+
+
+
+
+
+

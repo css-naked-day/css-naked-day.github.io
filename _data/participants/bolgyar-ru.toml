@@ -1,0 +1,25 @@
+display = "Bolgyar.ru"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://bolgyar.ru/"
+title = "Bolgyar.ru"
+years = [2009]
+
+[[websites]]
+url   = "http://yares.ru/"
+title = "Bolgyar.ru"
+years = [2009]
+
+[[websites]]
+url   = "http://yaratiso.ru/"
+title = "Bolgyar.ru"
+years = [2009]
+
+
+
+
+
+

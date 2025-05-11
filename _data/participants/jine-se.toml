@@ -1,0 +1,15 @@
+display = "Jine.se"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.jine.se/"
+title = "Jine.se"
+years = [2009]
+
+
+
+
+
+

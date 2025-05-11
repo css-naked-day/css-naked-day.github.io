@@ -1,0 +1,15 @@
+display = "Tula’s ISP"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.dialogm.ru/"
+title = "Tula’s ISP"
+years = [2008]
+
+
+
+
+
+

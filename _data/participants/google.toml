@@ -1,0 +1,30 @@
+display = "Google是彩色的"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://my.opera.com/JasonIT/"
+title = "Google是彩色的"
+years = [2007]
+
+[[websites]]
+url   = "http://www.google.com"
+title = "google"
+years = [2007]
+
+[[websites]]
+url   = "http://www.google.cl"
+title = "google"
+years = [2008]
+
+[[websites]]
+url   = "https://www.google.se/"
+title = "Google"
+years = [2008]
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+display = "jsecurity.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.jsecurity.net/"
+title = "jsecurity.net"
+years = [2008]
+
+
+
+
+
+

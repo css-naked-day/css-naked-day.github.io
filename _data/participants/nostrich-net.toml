@@ -1,0 +1,15 @@
+display = "nostrich.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://nostrich.net/"
+title = "nostrich.net"
+years = [2007]
+
+
+
+
+
+

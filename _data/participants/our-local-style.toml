@@ -1,0 +1,15 @@
+display = "Our Local Style"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.ourlocalstyle.com/"
+title = "Our Local Style"
+years = [2007]
+
+
+
+
+
+

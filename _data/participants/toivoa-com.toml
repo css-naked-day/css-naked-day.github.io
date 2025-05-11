@@ -1,0 +1,15 @@
+display = "Toivoa.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.toivoa.com/"
+title = "Toivoa.com"
+years = [2008]
+
+
+
+
+
+

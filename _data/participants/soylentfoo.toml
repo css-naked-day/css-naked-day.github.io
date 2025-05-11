@@ -1,0 +1,15 @@
+display = "SoylentFoo"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://soylentfoo.jnewland.com/"
+title = "SoylentFoo"
+years = [2007]
+
+
+
+
+
+

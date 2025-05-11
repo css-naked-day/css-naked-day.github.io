@@ -1,0 +1,15 @@
+display = "blog.grayash.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.grayash.com/"
+title = "blog.grayash.com"
+years = [2008]
+
+
+
+
+
+

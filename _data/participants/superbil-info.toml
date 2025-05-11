@@ -1,0 +1,15 @@
+display = "Superbil.info"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.superbil.info/"
+title = "Superbil.info"
+years = [2008]
+
+
+
+
+
+

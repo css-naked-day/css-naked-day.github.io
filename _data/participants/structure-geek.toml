@@ -1,0 +1,15 @@
+display = "Structure Geek"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://structuregeek.com/"
+title = "Structure Geek"
+years = [2008]
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+display = "delfi.ee"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.delfi.ee/"
+title = "delfi.ee"
+years = [2009]
+
+
+
+
+
+

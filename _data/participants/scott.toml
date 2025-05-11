@@ -1,0 +1,25 @@
+display = "Scott"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://s90215429.onlinehome.us/sjvilla79/blog/index.html"
+title = "Scott"
+years = [2006]
+
+[[websites]]
+url   = "http://www.cgot.net/"
+title = "Scott"
+years = [2006]
+
+[[websites]]
+url   = "http://fozzy.csuchico.edu/wordpress/"
+title = "Scott"
+years = [2006]
+
+
+
+
+
+

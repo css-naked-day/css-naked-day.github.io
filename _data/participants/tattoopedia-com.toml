@@ -1,0 +1,15 @@
+display = "Tattoopedia.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.tattoopedia.com/"
+title = "Tattoopedia.com"
+years = [2007]
+
+
+
+
+
+

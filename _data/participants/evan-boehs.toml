@@ -1,0 +1,15 @@
+display = "Evan Boehs"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://boehs.org/"
+title = "Evan Boehs"
+years = [2022,2024]
+
+
+
+
+
+

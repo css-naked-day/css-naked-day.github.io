@@ -1,0 +1,15 @@
+display = "Trovster"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.trovster.com/"
+title = "Trovster"
+years = [2006]
+
+
+
+
+
+

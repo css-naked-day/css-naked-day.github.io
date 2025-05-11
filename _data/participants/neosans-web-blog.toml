@@ -1,0 +1,15 @@
+display = "Neosans web blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.neosans.net/"
+title = "Neosans web blog"
+years = [2007]
+
+
+
+
+
+

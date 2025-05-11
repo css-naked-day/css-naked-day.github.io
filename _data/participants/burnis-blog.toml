@@ -1,0 +1,15 @@
+display = "burnis blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.burnis.org/"
+title = "burnis blog"
+years = [2008]
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+display = "punkid"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.punkid.cn/"
+title = "punkid"
+years = [2007]
+
+
+
+
+
+

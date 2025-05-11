@@ -1,0 +1,15 @@
+display = "David’s blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://david.pixelstorms.com/"
+title = "David’s blog"
+years = [2008]
+
+
+
+
+
+

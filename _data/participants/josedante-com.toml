@@ -1,0 +1,15 @@
+display = "josedante.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.josedante.com/"
+title = "josedante.com"
+years = [2007]
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+display = "Kotelnikov.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://kotelnikov.net/"
+title = "Kotelnikov.net"
+years = [2009]
+
+
+
+
+
+

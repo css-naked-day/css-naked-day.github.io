@@ -1,0 +1,20 @@
+display = "BRIXKIT"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://brixkit.com/0"
+title = "BRIXKIT"
+years = [2008]
+
+[[websites]]
+url   = "http://www.brixkit.com/"
+title = "Brixkit"
+years = [2008]
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+display = "Dan Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.dan-blog.com/"
+title = "Dan Blog"
+years = [2007]
+
+
+
+
+
+

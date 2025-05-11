@@ -1,0 +1,15 @@
+display = "Leprosorium.ru"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.leprosorium.ru"
+title = "Leprosorium.ru"
+years = [2008]
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+display = "Sascha’s Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.somegas.de/wordpress"
+title = "Sascha’s Blog"
+years = [2008]
+
+[[websites]]
+url   = "http://somegas.de/"
+title = "Sascha’s Blog"
+years = [2009]
+
+
+
+
+
+

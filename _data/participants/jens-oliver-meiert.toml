@@ -1,0 +1,30 @@
+display = "Jens Oliver Meiert"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://meiert.com/"
+title = "Jens Oliver Meiert"
+years = [2015]
+
+[[websites]]
+url   = "https://frontenddogma.com/?uitest.com"
+title = "UITest.com"
+years = [2021,2022]
+
+[[websites]]
+url   = "https://worlds-highest-website.com/"
+title = "The World’s Highest Website"
+years = [2021]
+
+[[websites]]
+url   = "https://frontenddogma.com/"
+title = "Frontend Dogma"
+years = [2022,2023,2024]
+
+
+
+
+
+

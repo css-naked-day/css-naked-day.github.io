@@ -1,0 +1,15 @@
+display = "Daniels Comicblog."
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.daydrawing.de/"
+title = "Daniels Comicblog."
+years = [2009]
+
+
+
+
+
+

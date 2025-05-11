@@ -1,0 +1,25 @@
+display = "Aoao"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.rotui.net/"
+title = "Aoao"
+years = [2006]
+
+[[websites]]
+url   = "http://www.loaoao.com/"
+title = "aoao"
+years = [2007]
+
+[[websites]]
+url   = "http://www.aoao.org.cn/"
+title = "aoao"
+years = [2009]
+
+
+
+
+
+

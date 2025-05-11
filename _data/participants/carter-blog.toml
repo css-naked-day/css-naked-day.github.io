@@ -1,0 +1,15 @@
+display = "Carter blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.liderc.hu/"
+title = "Carter blog"
+years = [2008]
+
+
+
+
+
+

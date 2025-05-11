@@ -1,0 +1,15 @@
+display = "TNT’s Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://tnt.1980th.com/"
+title = "TNT’s Blog"
+years = [2009]
+
+
+
+
+
+

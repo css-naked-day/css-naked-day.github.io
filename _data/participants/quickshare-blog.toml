@@ -1,0 +1,15 @@
+display = "QuickShare blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://msblog.cz/"
+title = "QuickShare blog"
+years = [2007]
+
+
+
+
+
+

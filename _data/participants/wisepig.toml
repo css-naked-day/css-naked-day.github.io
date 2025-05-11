@@ -1,0 +1,20 @@
+display = "WISEPIG"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.wisepig.cn/"
+title = "WISEPIG"
+years = [2008]
+
+[[websites]]
+url   = "http://www.wisepig.cn/blog"
+title = "WISEPIG"
+years = [2008]
+
+
+
+
+
+

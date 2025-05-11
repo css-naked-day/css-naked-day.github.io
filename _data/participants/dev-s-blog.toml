@@ -1,0 +1,15 @@
+display = "Dev’s Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.devatrox.de/"
+title = "Dev’s Blog"
+years = [2009]
+
+
+
+
+
+

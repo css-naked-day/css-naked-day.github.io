@@ -1,0 +1,15 @@
+display = "Fritz"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://webdesign.weisshart.de/"
+title = "Fritz"
+years = [2006]
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+display = "Canadian Yellow Pages"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.internetyp.ca/"
+title = "Canadian Yellow Pages"
+years = [2008]
+
+
+
+
+
+

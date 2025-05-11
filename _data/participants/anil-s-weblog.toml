@@ -1,0 +1,15 @@
+display = "Anil’s Weblog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://anilwadghule.com/blog"
+title = "Anil’s Weblog"
+years = [2008]
+
+
+
+
+
+

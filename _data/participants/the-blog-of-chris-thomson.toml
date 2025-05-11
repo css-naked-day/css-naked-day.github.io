@@ -1,0 +1,15 @@
+display = "The Blog of Chris Thomson"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://chris24.ca/"
+title = "The Blog of Chris Thomson"
+years = [2008]
+
+
+
+
+
+

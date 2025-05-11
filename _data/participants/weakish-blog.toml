@@ -1,0 +1,15 @@
+display = "weakish blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://weakish.int.eu.org/blog"
+title = "weakish blog"
+years = [2008]
+
+
+
+
+
+

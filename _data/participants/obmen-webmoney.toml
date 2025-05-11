@@ -1,0 +1,20 @@
+display = "обмен webmoney"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://exchange.wmline.com/"
+title = "обмен webmoney"
+years = [2008]
+
+[[websites]]
+url   = "http://wmline.com/"
+title = "обмен webmoney"
+years = [2008]
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+display = "Beyazblog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.beyazblog.com/"
+title = "Beyazblog"
+years = [2007]
+
+
+
+
+
+

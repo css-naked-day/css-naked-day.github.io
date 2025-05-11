@@ -1,0 +1,15 @@
+display = "SiRGts blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://sirgt.chapinware.com/"
+title = "SiRGts blog"
+years = [2008]
+
+
+
+
+
+

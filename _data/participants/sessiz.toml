@@ -1,0 +1,15 @@
+display = "sessiz"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.sessiz.net/"
+title = "sessiz"
+years = [2007]
+
+
+
+
+
+

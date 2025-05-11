@@ -1,0 +1,15 @@
+display = "Reise dilla"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://reisedilla.no/"
+title = "Reise dilla"
+years = [2007]
+
+
+
+
+
+

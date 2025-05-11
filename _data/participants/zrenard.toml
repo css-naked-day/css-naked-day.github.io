@@ -1,0 +1,20 @@
+display = "zRenard"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://zrenard.com/"
+title = "zRenard"
+years = [2006,2007]
+
+[[websites]]
+url   = "http://www.zrenard.com/"
+title = "zRenard"
+years = [2008]
+
+
+
+
+
+

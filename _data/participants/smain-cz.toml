@@ -1,0 +1,15 @@
+display = "Smain.cz"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.smain.cz/"
+title = "Smain.cz"
+years = [2008]
+
+
+
+
+
+

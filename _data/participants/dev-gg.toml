@@ -1,0 +1,15 @@
+display = "dev/gg"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://dev.gadu-gadu.pl/"
+title = "dev/gg"
+years = [2008]
+
+
+
+
+
+

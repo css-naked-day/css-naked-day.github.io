@@ -1,0 +1,15 @@
+display = "Doepud Web Design"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://doepud.co.uk/"
+title = "Doepud Web Design"
+years = [2008,2009]
+
+
+
+
+
+

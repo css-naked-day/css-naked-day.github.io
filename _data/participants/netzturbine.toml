@@ -1,0 +1,15 @@
+display = "netzturbine"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.netzturbine.de/"
+title = "netzturbine"
+years = [2008]
+
+
+
+
+
+

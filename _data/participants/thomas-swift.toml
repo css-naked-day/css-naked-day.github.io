@@ -1,0 +1,15 @@
+display = "Thomas Swift"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.thomasswift.com/blog/"
+title = "Thomas Swift"
+years = [2007]
+
+
+
+
+
+

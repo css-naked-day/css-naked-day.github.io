@@ -1,0 +1,20 @@
+display = "iOracle"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://ioracle.ru/"
+title = "iOracle"
+years = [2008]
+
+[[websites]]
+url   = "http://www.ioracle.ru/"
+title = "iOracle"
+years = [2009]
+
+
+
+
+
+

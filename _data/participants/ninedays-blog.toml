@@ -1,0 +1,15 @@
+display = "Ninedays Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.ninedays.org/"
+title = "Ninedays Blog"
+years = [2008]
+
+
+
+
+
+

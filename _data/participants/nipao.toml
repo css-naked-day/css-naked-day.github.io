@@ -1,0 +1,15 @@
+display = "NIPAO 博客"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.nipao.com/"
+title = "NIPAO 博客"
+years = [2008]
+
+
+
+
+
+

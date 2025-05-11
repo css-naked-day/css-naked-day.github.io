@@ -1,0 +1,15 @@
+display = "fkurz.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://fkurz.net/"
+title = "fkurz.net"
+years = [2008]
+
+
+
+
+
+

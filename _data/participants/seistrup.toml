@@ -1,0 +1,15 @@
+display = "Seistrup"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://seistrup.dk/"
+title = "Seistrup"
+years = [2007,2008]
+
+
+
+
+
+

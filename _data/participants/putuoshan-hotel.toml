@@ -1,0 +1,15 @@
+display = "putuoshan hotel"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.putuoshanhotel.com/en/"
+title = "putuoshan hotel"
+years = [2007]
+
+
+
+
+
+

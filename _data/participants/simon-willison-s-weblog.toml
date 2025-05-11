@@ -1,0 +1,15 @@
+display = "Simon Willison’s Weblog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://simonwillison.net/"
+title = "Simon Willison’s Weblog"
+years = [2007]
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+display = "Schnaberlack.de"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.schnaberlack.de/"
+title = "Schnaberlack.de"
+years = [2009]
+
+
+
+
+
+

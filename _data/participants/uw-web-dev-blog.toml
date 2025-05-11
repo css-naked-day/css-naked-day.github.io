@@ -1,0 +1,15 @@
+display = "UW Web Dev blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://webdevblog.uwaterloo.ca/"
+title = "UW Web Dev blog"
+years = [2007]
+
+
+
+
+
+

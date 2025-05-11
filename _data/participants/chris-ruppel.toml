@@ -1,0 +1,20 @@
+display = "Chris Ruppel"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://cruppel.com/"
+title = "Chris Ruppel"
+years = [2007]
+
+[[websites]]
+url   = "http://chrisruppel.com/"
+title = "Chris Ruppel"
+years = [2009]
+
+
+
+
+
+

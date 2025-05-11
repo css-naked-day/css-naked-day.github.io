@@ -1,0 +1,15 @@
+display = "sinemalar.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://sinemalar.com"
+title = "sinemalar.com"
+years = [2008]
+
+
+
+
+
+

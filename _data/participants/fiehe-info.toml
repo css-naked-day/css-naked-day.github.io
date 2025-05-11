@@ -1,0 +1,15 @@
+display = "Fiehe.info"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://fiehe.info/"
+title = "Fiehe.info"
+years = [2023,2024]
+
+
+
+
+
+

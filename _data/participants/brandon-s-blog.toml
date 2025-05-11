@@ -1,0 +1,15 @@
+display = "Brandon’s blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.brandon-west.com/"
+title = "Brandon’s blog"
+years = [2009]
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+display = "Tipsbolaget"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.tipsbolaget.com/"
+title = "Tipsbolaget"
+years = [2008]
+
+
+
+
+
+

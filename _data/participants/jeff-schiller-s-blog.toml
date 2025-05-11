@@ -1,0 +1,15 @@
+display = "Jeff Schiller’s blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.codedread.com/"
+title = "Jeff Schiller’s blog"
+years = [2008]
+
+
+
+
+
+

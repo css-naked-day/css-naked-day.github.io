@@ -1,0 +1,15 @@
+display = "Le BLOG itudiant"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.itudiant.com/"
+title = "Le BLOG itudiant"
+years = [2008]
+
+
+
+
+
+

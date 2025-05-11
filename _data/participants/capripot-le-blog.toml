@@ -1,0 +1,15 @@
+display = "Capripot, le blog !"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.capripot.com/"
+title = "Capripot, le blog !"
+years = [2008]
+
+
+
+
+
+

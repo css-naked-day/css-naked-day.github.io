@@ -1,0 +1,20 @@
+display = "Greg"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.scamcity.co.uk/journal/"
+title = "Greg"
+years = [2006]
+
+[[websites]]
+url   = "http://htmlcss.ru/"
+title = "Greg"
+years = [2009]
+
+
+
+
+
+

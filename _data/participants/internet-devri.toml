@@ -1,0 +1,15 @@
+display = "İnternet Devri"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.internetdevri.com/"
+title = "İnternet Devri"
+years = [2009]
+
+
+
+
+
+

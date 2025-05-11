@@ -1,0 +1,15 @@
+display = "AYOU-BLOG"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://ayou.info/"
+title = "AYOU-BLOG"
+years = [2007]
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+display = "journal from STRUND"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://journal.strund.jp/"
+title = "journal from STRUND"
+years = [2008]
+
+
+
+
+
+

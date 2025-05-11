@@ -1,0 +1,20 @@
+display = "Jim Auldridge"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.auldridges.com/"
+title = "Jim Auldridge"
+years = [2006]
+
+[[websites]]
+url   = "http://www.jaaulde.com/"
+title = "Jim Auldridge"
+years = [2009]
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+display = "Verkkotrendit"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blogit.kuluttajatutkimus.fi/verkko/"
+title = "Verkkotrendit"
+years = [2008]
+
+
+
+
+
+

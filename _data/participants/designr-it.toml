@@ -1,0 +1,15 @@
+display = "Designr.it"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://designr.it/"
+title = "Designr.it"
+years = [2008,2009]
+
+
+
+
+
+

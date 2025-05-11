@@ -1,0 +1,15 @@
+display = "Simon’s .Net Development Weblog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://weblog.simondeshaies.com/"
+title = "Simon’s .Net Development Weblog"
+years = [2008]
+
+
+
+
+
+

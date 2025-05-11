@@ -1,0 +1,15 @@
+display = "hzsé.blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://hzse.try.hu/"
+title = "hzsé.blog"
+years = [2008]
+
+
+
+
+
+

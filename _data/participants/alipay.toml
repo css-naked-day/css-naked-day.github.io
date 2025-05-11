@@ -1,0 +1,15 @@
+display = "alipay"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.alipay.com/"
+title = "alipay"
+years = [2008]
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+display = "Peter"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.blogh.de/"
+title = "Peter"
+years = [2006]
+
+[[websites]]
+url   = "http://www.peter-noster.de/"
+title = "Peter"
+years = [2006]
+
+
+
+
+
+

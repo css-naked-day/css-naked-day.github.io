@@ -1,0 +1,15 @@
+display = "Blogshares"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blogshares.com/"
+title = "Blogshares"
+years = [2008]
+
+
+
+
+
+

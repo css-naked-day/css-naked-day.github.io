@@ -1,0 +1,15 @@
+display = "cassini’s Weblog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.patrick-niebeling.de/"
+title = "cassini’s Weblog"
+years = [2008]
+
+
+
+
+
+

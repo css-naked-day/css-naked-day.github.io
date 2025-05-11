@@ -1,0 +1,15 @@
+display = "orsus/blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://home.no.net/orsus/blog/"
+title = "orsus/blog"
+years = [2007]
+
+
+
+
+
+

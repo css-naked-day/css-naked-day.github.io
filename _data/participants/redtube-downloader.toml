@@ -1,0 +1,15 @@
+display = "Redtube Downloader"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.downloadredtubevideos.com/"
+title = "Redtube Downloader"
+years = [2009]
+
+
+
+
+
+

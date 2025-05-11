@@ -1,0 +1,15 @@
+display = "Alyric.org"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://alyric.org/"
+title = "Alyric.org"
+years = [2007]
+
+
+
+
+
+

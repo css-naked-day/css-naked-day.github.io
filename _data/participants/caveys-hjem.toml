@@ -1,0 +1,15 @@
+display = "Caveys hjem"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://cavey.no/"
+title = "Caveys hjem"
+years = [2007,2008]
+
+
+
+
+
+

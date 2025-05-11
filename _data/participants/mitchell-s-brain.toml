@@ -1,0 +1,20 @@
+display = "Mitchell’s Brain"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.mitchellsbrain.com/smm/"
+title = "Mitchell’s Brain"
+years = [2008]
+
+[[websites]]
+url   = "http://www.mitchellsbrain.com"
+title = "Mitchell’s Brain"
+years = [2008]
+
+
+
+
+
+

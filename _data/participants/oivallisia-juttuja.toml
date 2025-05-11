@@ -1,0 +1,15 @@
+display = "Oivallisia juttuja"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.bobs.fi/oiva/"
+title = "Oivallisia juttuja"
+years = [2008]
+
+
+
+
+
+

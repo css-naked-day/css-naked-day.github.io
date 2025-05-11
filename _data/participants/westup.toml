@@ -1,0 +1,15 @@
+display = "westup"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://mutaxia.org/blog/"
+title = "westup"
+years = [2007]
+
+
+
+
+
+

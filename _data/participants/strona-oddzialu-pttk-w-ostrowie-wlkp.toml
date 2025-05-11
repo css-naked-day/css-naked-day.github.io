@@ -1,0 +1,15 @@
+display = "Strona Oddziału PTTK w Ostrowie Wlkp."
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://ostrow-wielkopolski.pttk.pl/"
+title = "Strona Oddziału PTTK w Ostrowie Wlkp."
+years = [2009]
+
+
+
+
+
+

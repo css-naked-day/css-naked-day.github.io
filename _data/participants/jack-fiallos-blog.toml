@@ -1,0 +1,20 @@
+display = "Jack Fiallos Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://jack.xtremdesign.net/blog/"
+title = "Jack Fiallos Blog"
+years = [2007]
+
+[[websites]]
+url   = "http://jack.xtremdesign.net/blog"
+title = "Jack Fiallos Blog"
+years = [2008]
+
+
+
+
+
+

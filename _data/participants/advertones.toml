@@ -1,0 +1,15 @@
+display = "advertones"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://advertones.ru/"
+title = "advertones"
+years = [2008,2009]
+
+
+
+
+
+

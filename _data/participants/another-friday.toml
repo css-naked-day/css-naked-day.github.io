@@ -1,0 +1,15 @@
+display = "Another Friday"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://another-friday.com/"
+title = "Another Friday"
+years = [2007]
+
+
+
+
+
+

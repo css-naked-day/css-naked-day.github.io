@@ -1,0 +1,15 @@
+display = "pazzo bblog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://pazzo.freeblog.hu/"
+title = "pazzo bblog"
+years = [2008]
+
+
+
+
+
+

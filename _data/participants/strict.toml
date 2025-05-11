@@ -1,0 +1,15 @@
+display = "Strict"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.vanblog.com/"
+title = "Strict"
+years = [2006]
+
+
+
+
+
+

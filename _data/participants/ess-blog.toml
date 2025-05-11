@@ -1,0 +1,15 @@
+display = "Ess blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.e-ss.be/"
+title = "Ess blog"
+years = [2007]
+
+
+
+
+
+

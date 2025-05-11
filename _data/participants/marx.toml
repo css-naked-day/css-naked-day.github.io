@@ -1,0 +1,15 @@
+display = "marx"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.marx.livenet.pl/index.php"
+title = "marx"
+years = [2007]
+
+
+
+
+
+

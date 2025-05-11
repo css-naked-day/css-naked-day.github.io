@@ -1,0 +1,15 @@
+display = "DSNG blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.dsng.hu/"
+title = "DSNG blog"
+years = [2008]
+
+
+
+
+
+

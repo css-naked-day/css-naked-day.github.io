@@ -1,0 +1,15 @@
+display = "planTEK GmbH"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.plantek.de/"
+title = "planTEK GmbH"
+years = [2008]
+
+
+
+
+
+

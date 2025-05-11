@@ -1,0 +1,15 @@
+display = "The J Spot"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://racoma.com.ph/"
+title = "The J Spot"
+years = [2007,2008]
+
+
+
+
+
+

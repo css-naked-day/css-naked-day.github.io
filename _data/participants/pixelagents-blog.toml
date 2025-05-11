@@ -1,0 +1,15 @@
+display = "Pixelagents Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.pixelagents/blog"
+title = "Pixelagents Blog"
+years = [2007]
+
+
+
+
+
+

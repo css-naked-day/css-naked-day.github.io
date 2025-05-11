@@ -1,0 +1,15 @@
+display = "Przyklad"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.przyklad.pl/"
+title = "Przyklad"
+years = [2008]
+
+
+
+
+
+

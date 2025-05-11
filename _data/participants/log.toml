@@ -1,0 +1,20 @@
+display = ".log"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://nyomos.blog71.fc2.com/"
+title = ".log"
+years = [2007]
+
+[[websites]]
+url   = "http://www.2th.cn/"
+title = "失去记忆log"
+years = [2007]
+
+
+
+
+
+

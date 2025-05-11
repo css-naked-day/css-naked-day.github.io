@@ -1,0 +1,15 @@
+display = "tecinfor.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://tecinfor.net/"
+title = "tecinfor.net"
+years = [2009]
+
+
+
+
+
+

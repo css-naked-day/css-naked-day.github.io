@@ -1,0 +1,15 @@
+display = "Eduardo Aguayo’s personal site"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.aguayoki.cl/"
+title = "Eduardo Aguayo’s personal site"
+years = [2007]
+
+
+
+
+
+

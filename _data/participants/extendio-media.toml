@@ -1,0 +1,15 @@
+display = "Extendio Media"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.extendio.ro/"
+title = "Extendio Media"
+years = [2007,2008]
+
+
+
+
+
+

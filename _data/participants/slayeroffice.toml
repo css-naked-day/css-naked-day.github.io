@@ -1,0 +1,15 @@
+display = "slayeroffice"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://slayeroffice.com/"
+title = "slayeroffice"
+years = [2007]
+
+
+
+
+
+

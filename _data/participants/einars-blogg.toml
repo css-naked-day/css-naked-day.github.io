@@ -1,0 +1,15 @@
+display = "Einars blogg"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.hellandberger.org/"
+title = "Einars blogg"
+years = [2008]
+
+
+
+
+
+

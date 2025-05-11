@@ -1,0 +1,20 @@
+display = "Eric Maguire"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.etmaguire.com/"
+title = "Eric Maguire"
+years = [2008]
+
+[[websites]]
+url   = "http://etmaguire.com/"
+title = "Eric Maguire"
+years = [2009]
+
+
+
+
+
+

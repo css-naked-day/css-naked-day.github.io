@@ -1,0 +1,15 @@
+display = "Dziennik RioT'a"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://riot.pl/"
+title = "Dziennik RioT&#39;a"
+years = [2008]
+
+
+
+
+
+

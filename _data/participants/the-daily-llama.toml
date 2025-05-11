@@ -1,0 +1,15 @@
+display = "The Daily Llama"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://llamaslayers.net/daily-llama"
+title = "The Daily Llama"
+years = [2008]
+
+
+
+
+
+

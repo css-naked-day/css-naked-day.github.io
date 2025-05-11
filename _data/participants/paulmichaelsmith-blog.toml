@@ -1,0 +1,15 @@
+display = "paulmichaelsmith.blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.paulmichaelsmith.com/blog/"
+title = "paulmichaelsmith.blog"
+years = [2007]
+
+
+
+
+
+

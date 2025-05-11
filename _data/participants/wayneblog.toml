@@ -1,0 +1,15 @@
+display = "WayneBlog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://wayne.interessierts.eu/"
+title = "WayneBlog"
+years = [2009]
+
+
+
+
+
+

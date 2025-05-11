@@ -1,0 +1,15 @@
+display = "www.rbc.ru"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.rbc.ru/"
+title = "www.rbc.ru"
+years = [2009]
+
+
+
+
+
+

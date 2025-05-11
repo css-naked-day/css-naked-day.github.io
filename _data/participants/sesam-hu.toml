@@ -1,0 +1,20 @@
+display = "sesam.hu"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.sesam.hu/WordPress/"
+title = "sesam.hu"
+years = [2008]
+
+[[websites]]
+url   = "http://sesam.hu/"
+title = "SeSam.hu"
+years = [2009]
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+display = "house for rent in Spain"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.casavera.org"
+title = "house for rent in Spain"
+years = [2007]
+
+
+
+
+
+

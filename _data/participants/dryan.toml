@@ -1,0 +1,20 @@
+display = "Dryan"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://wdanielryan.com/"
+title = "Dryan"
+years = [2006]
+
+[[websites]]
+url   = "http://dryan.net/"
+title = "dryan"
+years = [2007]
+
+
+
+
+
+

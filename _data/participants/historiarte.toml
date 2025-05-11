@@ -1,0 +1,15 @@
+display = "HistoriArte"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://historiarte.info/"
+title = "HistoriArte"
+years = [2009]
+
+
+
+
+
+

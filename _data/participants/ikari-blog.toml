@@ -1,0 +1,15 @@
+display = "ikari » blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.ikari.pl/"
+title = "ikari » blog"
+years = [2007]
+
+
+
+
+
+

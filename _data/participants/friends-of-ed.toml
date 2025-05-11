@@ -1,0 +1,15 @@
+display = "friends of ED"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.friendsofed.com/"
+title = "friends of ED"
+years = [2007,2008]
+
+
+
+
+
+

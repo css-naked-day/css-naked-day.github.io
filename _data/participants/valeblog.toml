@@ -1,0 +1,15 @@
+display = "valeblog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.valerauko.net/"
+title = "valeblog"
+years = [2009]
+
+
+
+
+
+

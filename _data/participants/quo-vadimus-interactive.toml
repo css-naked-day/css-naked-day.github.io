@@ -1,0 +1,20 @@
+display = "Quo Vadimus Interactive"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://quovadimusinteractive.com/"
+title = "Quo Vadimus Interactive"
+years = [2008]
+
+[[websites]]
+url   = "http://quovadimusinteractive.com/home"
+title = "Quo Vadimus Interactive"
+years = [2009]
+
+
+
+
+
+

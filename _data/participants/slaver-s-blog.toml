@@ -1,0 +1,15 @@
+display = "Slaver’s Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://slaver.info/"
+title = "Slaver’s Blog"
+years = [2008,2009]
+
+
+
+
+
+

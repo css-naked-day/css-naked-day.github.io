@@ -1,0 +1,15 @@
+display = "Wikier.org"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.wikier.org/"
+title = "Wikier.org"
+years = [2007]
+
+
+
+
+
+

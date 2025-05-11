@@ -1,0 +1,15 @@
+display = "Harry van Wiggen"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.van-wiggen.nl/"
+title = "Harry van Wiggen"
+years = [2007,2008]
+
+
+
+
+
+

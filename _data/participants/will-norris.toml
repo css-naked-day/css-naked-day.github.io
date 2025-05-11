@@ -1,0 +1,15 @@
+display = "Will Norris"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://willnorris.com/"
+title = "Will Norris"
+years = [2007]
+
+
+
+
+
+

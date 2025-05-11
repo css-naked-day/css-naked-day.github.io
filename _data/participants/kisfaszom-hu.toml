@@ -1,0 +1,15 @@
+display = "kisfaszom.hu"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.kisfaszom.hu/"
+title = "kisfaszom.hu"
+years = [2008]
+
+
+
+
+
+

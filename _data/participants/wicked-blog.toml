@@ -1,0 +1,15 @@
+display = "Wicked Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.wickedblog.com/"
+title = "Wicked Blog"
+years = [2008]
+
+
+
+
+
+

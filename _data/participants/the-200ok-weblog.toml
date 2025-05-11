@@ -1,0 +1,15 @@
+display = "the 200ok weblog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://weblog.200ok.com.au/"
+title = "the 200ok weblog"
+years = [2007,2008,2009]
+
+
+
+
+
+

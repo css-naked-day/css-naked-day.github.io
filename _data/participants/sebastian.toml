@@ -1,0 +1,20 @@
+display = "Sebastian"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://sebastiankippe.de/weblog/"
+title = "Sebastian"
+years = [2006]
+
+[[websites]]
+url   = "http://home.no.net/orsus/blog/"
+title = "Sebastian"
+years = [2006]
+
+
+
+
+
+

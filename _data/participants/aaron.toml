@@ -1,0 +1,20 @@
+display = "Aaron"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.beatledork.com/"
+title = "Aaron"
+years = [2006]
+
+[[websites]]
+url   = "http://www.aaronwang.cn/"
+title = "Aaron"
+years = [2009]
+
+
+
+
+
+

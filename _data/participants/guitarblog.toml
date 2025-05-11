@@ -1,0 +1,15 @@
+display = "guitarblog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://gy.ere.be/"
+title = "guitarblog"
+years = [2008]
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+display = "miradlo bloggt"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.miradlo.net/bloggt/"
+title = "miradlo bloggt"
+years = [2009]
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+display = "von Halle bis Leipzig"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.von-halle-bis-leipzig.de/"
+title = "von Halle bis Leipzig"
+years = [2008]
+
+[[websites]]
+url   = "http://www.von-halle-bis-leipzig.de"
+title = "von Halle bis Leipzig"
+years = [2008]
+
+
+
+
+
+
