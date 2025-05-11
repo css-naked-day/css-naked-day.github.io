@@ -1,15 +1,13 @@
-display = "orsus/blog"
+display = "Sebastian"
 
 # Websites
 # ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://home.no.net/orsus/blog/"
+years = [2006]
+
+[[websites]]
+url   = "http://home.no.net/orsus/blog/"
 title = "orsus/blog"
 years = [2007]
-
-
-
-
-
-
