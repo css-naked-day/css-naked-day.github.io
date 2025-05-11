@@ -4,17 +4,5 @@ display = "Michael"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.kimili.com/"
-title = "Michael"
-years = [2006]
-
-[[websites]]
 url   = "http://michaelklouda.com/"
-title = "Michael"
 years = [2006]
-
-
-
-
-
-
