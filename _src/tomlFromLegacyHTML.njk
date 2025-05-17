@@ -3,7 +3,7 @@ pagination:
   data: tomlFromLegacyHTML
   size: 1
   alias: participant
-permalink: _data/{{ participant | replace("/", "") | escape }}.toml
+permalink: _exports/{{ participant | replace("/", "") | escape }}.toml
 eleventyAllowMissingExtension: true
 ---
 display = "{{ tomlFromLegacyHTML[participant].display | safe }}"

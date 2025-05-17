@@ -13,14 +13,12 @@ function getWebsiteDomain(url) {
 export default function (eleventyConfig) {
   eleventyConfig.setQuietMode(true);
 
+  eleventyConfig.setInputDirectory('_src');
+
   // Host static assets. Anything from `./public/` goes to site’s root `/`.
-  eleventyConfig.addPassthroughCopy({ public: "/" });
+  eleventyConfig.addPassthroughCopy({ "_assets/public": "/" });
 
-  // Ignore files in folders. Only transform top level html files.
-  eleventyConfig.ignores.add("*/**");
-  eleventyConfig.ignores.add("README.md");
-
-  // Allow to parse Toml files for data.
+  // Allow to parse Toml files for Global data.
   eleventyConfig.addDataExtension("toml", (contents) => toml.parse(contents));
 
   eleventyConfig.addFilter("getParticipantDisplayName", (participant) => {
@@ -71,16 +69,16 @@ export default function (eleventyConfig) {
   // TODO: Tweaked files to restore mistakes.
   eleventyConfig.addGlobalData("tomlFromLegacyHTML", () => {
     // Comment next line to create toml files based on existing HTML files.
-    // Copy created files to /_data/participants/.
+    // Files can be found in _site/exports/participants/.
     return {};
 
-    const files = fs.readdirSync(`./legacy-html-files/`);
+    const files = fs.readdirSync(`./_assets/legacy-html-files/`);
     const participants = {};
     const findWebsite = (websites, url) => websites.find(website => website.url === url);
 
     for (const file of files) {
       const content = fs.readFileSync(
-        `./legacy-html-files/${file}`, 'utf8'
+        `./_assets/legacy-html-files/${file}`, 'utf8'
       );
 
       const listContent = /            <li>(?<inner>.*)<\/li>/g;
