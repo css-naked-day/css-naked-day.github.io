@@ -65,9 +65,11 @@ export default function (eleventyConfig) {
     return `<a href="${website.url}">${title}</a>`
   });
 
+  // TODO: Add a tool to target duplicated domains.
+
   // Create Toml files based on legacy HTML files.
   // TODO: Tweaked files to restore mistakes.
-  eleventyConfig.addGlobalData("legacy", () => {
+  eleventyConfig.addGlobalData("tomlFromLegacyHTML", () => {
     // Comment next line to create toml files based on existing HTML files.
     // Copy created files to /_data/participants/.
     return {};
