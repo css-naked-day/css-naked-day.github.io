@@ -89,9 +89,7 @@ function isNakedDay()
 
           <pre><code>&lt;head&gt;
 …
-&lt;?php if(isNakedDay()) : ?&gt;
-    &lt;!-- Naked Day has no styles --&gt;
-&lt;?php else: ?&gt;
+&lt;?php if(!isNakedDay()) : ?&gt;
     &lt;link rel="stylesheet" href="styles.css" /&gt;
 &lt;?php endif; ?&gt;
 …
