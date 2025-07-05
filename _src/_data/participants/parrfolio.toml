@@ -4,11 +4,5 @@ display = "Parrfolio"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://ww.parrfolio.com/"
-title = "Parrfolio"
-years = [2009]
-
-[[websites]]
 url   = "http://www.parrfolio.com/"
-title = "Parrfolio"
 years = [2009]

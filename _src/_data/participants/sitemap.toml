@@ -5,10 +5,10 @@ display = "Sitemap"
 
 [[websites]]
 url   = "http://www.rapidsitemap.com/"
-title = "Sitemap"
+title = "in english"
 years = [2009]
 
 [[websites]]
 url   = "http://www.sitemap.gen.tr/"
-title = "Sitemap"
+title = "in turkish"
 years = [2009]
