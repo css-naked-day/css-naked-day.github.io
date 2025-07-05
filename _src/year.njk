@@ -52,9 +52,9 @@
               {% set participant = participants[index] %}
 
               <li>
-                {% if websites | length === 1 %}
+                {%- if websites | length === 1 -%}
                   {% linkNoSpam 'getParticipantDisplayName', websites[0], participant, year %}
-                {% else %}
+                {%- else -%}
                   {{ participant | getParticipantDisplayName }}:
 
                   {% for website in websites %}
