@@ -5,10 +5,4 @@ display = "blk"
 
 [[websites]]
 url   = "http://www.blk.cl/"
-title = "blk"
-years = [2008]
-
-[[websites]]
-url   = "http://www.blk.cl/Home.html"
-title = "blk"
 years = [2008]

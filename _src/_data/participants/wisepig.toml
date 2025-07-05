@@ -5,10 +5,10 @@ display = "WISEPIG"
 
 [[websites]]
 url   = "http://www.wisepig.cn/"
-title = "WISEPIG"
+title = "home"
 years = [2008]
 
 [[websites]]
 url   = "http://www.wisepig.cn/blog"
-title = "WISEPIG"
+title = "blog"
 years = [2008]

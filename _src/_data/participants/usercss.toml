@@ -1,14 +1,14 @@
-display = "UserCSS"
+display = "User CSS"
 
 # Websites
 # ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://usercss.ru/"
-title = "UserCSS"
+title = "in russian"
 years = [2008]
 
 [[websites]]
 url   = "http://usercss.com/"
-title = "UserCSS"
+title = "in english"
 years = [2008]

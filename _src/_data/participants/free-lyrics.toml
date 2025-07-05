@@ -5,10 +5,9 @@ display = "free lyrics"
 
 [[websites]]
 url   = "http://searchlyrics.awardspace.com/"
-title = "free lyrics"
 years = [2008]
 
 [[websites]]
 url   = "http://www.utterlyrics.com/"
-title = "free lyrics"
+title = "UtterLyrics"
 years = [2008]

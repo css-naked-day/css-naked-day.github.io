@@ -1,11 +1,11 @@
-display = "루미넌스 – miscellaneous"
+display = "루미넌스"
 
 # Websites
 # ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "http://luminance.kr/"
-title = "루미넌스 – miscellaneous"
+title = "miscellaneous"
 years = [2008]
 
 [[websites]]

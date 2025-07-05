@@ -4,11 +4,11 @@ display = "BRIXKIT"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://brixkit.com/0"
-title = "BRIXKIT"
+url   = "http://www.brixkit.com/"
+title = "home"
 years = [2008]
 
 [[websites]]
-url   = "http://www.brixkit.com/"
-title = "Brixkit"
+url   = "http://brixkit.com/0/"
+title = "blog"
 years = [2008]

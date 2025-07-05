@@ -4,11 +4,5 @@ display = "beckgom’s fabula"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.beckgom.com"
-title = "beckgom’s fabula"
-years = [2008]
-
-[[websites]]
 url   = "http://www.beckgom.com/"
-title = "beckgom’s fabula"
 years = [2008]

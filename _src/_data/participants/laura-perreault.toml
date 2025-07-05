@@ -4,11 +4,5 @@ display = "Laura Perreault"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.atangledperspective.ca"
-title = "Laura Perreault"
-years = [2008]
-
-[[websites]]
 url   = "http://www.atangledperspective.ca/"
-title = "Laura Perreault"
 years = [2008]

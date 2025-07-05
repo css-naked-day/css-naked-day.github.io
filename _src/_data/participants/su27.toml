@@ -1,9 +1,8 @@
-display = "Слова песен"
+display = "Alone"
 
 # Websites
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://lyrics.wmline.com/"
-title = "Слова песен"
+url   = "http://su27.org/"
 years = [2008]

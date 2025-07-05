@@ -4,11 +4,5 @@ display = "Quixmart Discount Codes"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.quixmart.co.uk"
-title = "Quixmart Discount Codes"
-years = [2008]
-
-[[websites]]
 url   = "http://www.quixmart.co.uk/"
-title = "Quixmart Discount Codes"
 years = [2008]

@@ -5,10 +5,10 @@ display = "Zair Abbas"
 
 [[websites]]
 url   = "http://www.zairabbas.com/"
-title = "Zair Abbas"
+title = "home"
 years = [2008]
 
 [[websites]]
-url   = "http://www.zairabbas.com/blog"
-title = "Zair Abbas"
+url   = "http://www.zairabbas.com/blog/"
+title = "blog"
 years = [2008]
