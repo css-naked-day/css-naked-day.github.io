@@ -53,12 +53,12 @@
 
               <li>
                 {% if websites | length === 1 %}
-                  {% linkNoSpam 'getParticipantDisplayName', websites[0], participant %}
+                  {% linkNoSpam 'getParticipantDisplayName', websites[0], participant, year %}
                 {% else %}
                   {{ participant | getParticipantDisplayName }}:
 
                   {% for website in websites %}
-                    {% linkNoSpam 'getSiteTitle', website, participant %}{% if loop.revindex0 > 1 %}, {% endif %}{% if loop.revindex0 === 1 %} & {% endif %}
+                    {% linkNoSpam 'getSiteTitle', website, participant, year, loop.revindex0 %}
                   {% endfor %}
                 {% endif %}
               </li>

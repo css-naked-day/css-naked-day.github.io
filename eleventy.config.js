@@ -33,15 +33,25 @@ export default function (eleventyConfig) {
     return website.title || getWebsiteDomain(website.url);
   });
 
-  eleventyConfig.addFilter("getSiteData", (url, participant) => {
+  // Return website matching url and year.
+  // This allows to have different configurations for different years.
+  // This is uSeful for prefix and suffix which might need different values depending on the year.
+  eleventyConfig.addFilter("getSiteData", (url, participant, year) => {
     return participant.websites.find(website => {
-      return website.url === url;
+      return website.url === url && website.years.includes(year);
     });
   });
 
-  eleventyConfig.addShortcode("linkNoSpam", function(callback, url, participant) {
-    const website = eleventyConfig.getFilter("getSiteData")(url, participant);
+  eleventyConfig.addShortcode("linkNoSpam", function(callback, url, participant, year, loopRevIndex0) {
+    const website = eleventyConfig.getFilter("getSiteData")(url, participant, year);
+
+    if(!website) {
+      return;
+    };
+
     let title;
+    let prefix = website.prefix;
+    let suffix = website.suffix;
 
     switch (callback) {
       case 'getSiteTitle':
@@ -52,6 +62,10 @@ export default function (eleventyConfig) {
         break;
     }
 
+    if (suffix === undefined && loopRevIndex0) {
+      suffix = loopRevIndex0 > 1 ? ', ' : ' & ';
+    }
+
     if (!website?.url) {
       return title;
     }
@@ -60,7 +74,7 @@ export default function (eleventyConfig) {
       return website.url;
     }
 
-    return `<a href="${website.url}">${title}</a>`
+    return `${prefix || ''}<a href="${website.url}">${title}</a>${suffix || ''}`
   });
 
   // TODO: Add a tool to target duplicated domains.
