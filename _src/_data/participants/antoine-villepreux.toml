@@ -5,5 +5,8 @@ display = "Antoine Villepreux"
 
 [[websites]]
 url   = "https://villapirorum.netlify.app/"
-title = "Antoine Villepreux"
 years = [2024]
+
+[[websites]]
+url   = "https://villepreux.net/"
+years = [2025]

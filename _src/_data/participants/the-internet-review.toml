@@ -1,0 +1,10 @@
+display = "The Internet Review"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://theinternet.review/"
+title = "The Internet Review"
+years = [2025]
+

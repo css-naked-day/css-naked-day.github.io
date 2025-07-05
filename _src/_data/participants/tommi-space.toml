@@ -1,8 +1,10 @@
-display = "Anthony Ciccarello"
+display = "tommi.space"
 
 # Websites
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "https://www.ciccarello.me/"
-years = [2022,2024,2025]
+url   = "https://tommi.space/"
+title = "tommi.space"
+years = [2025]
+

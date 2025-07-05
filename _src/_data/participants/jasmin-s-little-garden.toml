@@ -1,0 +1,10 @@
+display = "jasmin’s little garden"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://jasminchen.dev/"
+title = "jasmin’s little garden"
+years = [2025]
+

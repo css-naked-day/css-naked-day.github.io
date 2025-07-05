@@ -1,0 +1,10 @@
+display = "Rodrigo Ghedin"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://manualdousuario.net/en/"
+title = "Rodrigo Ghedin"
+years = [2025]
+

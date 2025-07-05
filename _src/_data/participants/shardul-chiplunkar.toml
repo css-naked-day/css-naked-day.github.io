@@ -1,0 +1,10 @@
+display = "Shardul Chiplunkar"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://etaoin-shrdlu.xyz/"
+title = "Shardul Chiplunkar"
+years = [2025]
+

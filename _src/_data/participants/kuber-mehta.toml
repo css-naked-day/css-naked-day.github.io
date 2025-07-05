@@ -1,8 +1,10 @@
-display = "Anthony Ciccarello"
+display = "Kuber Mehta"
 
 # Websites
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "https://www.ciccarello.me/"
-years = [2022,2024,2025]
+url   = "https://kuberwastaken.github.io/"
+title = "Kuber Mehta"
+years = [2025]
+

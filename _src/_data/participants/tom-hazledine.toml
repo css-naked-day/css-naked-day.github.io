@@ -5,10 +5,10 @@ display = "Tom Hazledine"
 
 [[websites]]
 url   = "https://tomhazledine.com/"
-title = "Tom Hazledine"
+years = [2020,2024,2025]
 years = [2020,2024]
 
 [[websites]]
 url   = "https://tomhazledine.com/css-naked-day/"
 title = "always naked"
-years = [2024]
+years = [2024,2025]

@@ -1,8 +1,10 @@
-display = "Anthony Ciccarello"
+display = "Ari Prakash"
 
 # Websites
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "https://www.ciccarello.me/"
-years = [2022,2024,2025]
+url   = "https://ariscript.org/"
+title = "Ari Prakash"
+years = [2025]
+
