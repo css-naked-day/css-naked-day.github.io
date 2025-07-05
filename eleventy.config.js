@@ -5,8 +5,8 @@ import { default as RegEscape } from "regexp.escape";
 
 function getWebsiteDomain(url) {
   return url.replace(
-    /^https?:\/\/([^/]+)\/?.*/,
-    (string, domain) => domain
+    /^https?:\/\/(www\.)?([^/]+)\/?.*/,
+    (string, www, domain) => domain
   );
 }
 
