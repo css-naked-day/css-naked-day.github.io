@@ -79,9 +79,9 @@ function isNakedDay()
 {
     $now = new \DateTime('now', new \DateTimeZone('UTC'));
     $start = new \DateTime('00:00, April 9', new \DateTimeZone('+14:00'));
-    $end = new \DateTime('23:59:59.999999, April 9', new \DateTimeZone('-12:00'));
+    $end = new \DateTime('00:00, April 10', new \DateTimeZone('-12:00'));
 
-    return $now &gt;= $start && $now &lt;= $end;
+    return $now &gt;= $start && $now &lt; $end;
 }
 ?&gt;</code></pre>
 
