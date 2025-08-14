@@ -75,15 +75,13 @@
           <p>Here is a sample PHP function for developers:</p>
 
           <pre><code>&lt;?php
-function is_naked_day($d) {
-  $start = date('U', mktime(-14, 0, 0, 04, $d, date('Y')));
-  $end = date('U', mktime(36, 0, 0, 04, $d, date('Y')));
-  $z = date('Z') * -1;
-  $now = time() + $z;
-  if ( $now &gt;= $start &amp;&amp; $now &lt;= $end ) {
-    return true;
-  }
-  return false;
+function isNakedDay()
+{
+    $now = new \DateTime('now', new \DateTimeZone('UTC'));
+    $start = new \DateTime('00:00, April 9', new \DateTimeZone('+14:00'));
+    $end = new \DateTime('00:00, April 10', new \DateTimeZone('-12:00'));
+
+    return $now &gt;= $start && $now &lt; $end;
 }
 ?&gt;</code></pre>
 
@@ -91,13 +89,9 @@ function is_naked_day($d) {
 
           <pre><code>&lt;head&gt;
 …
-&lt;?php
-if ( is_naked_day(9) ) {
-  echo '&lt;!-- Naked Day has no styles --&gt;';
-} else {
-  echo '&lt;link rel="stylesheet" href="styles.css" /&gt;';
-}
-?&gt;
+&lt;?php if(!isNakedDay()) : ?&gt;
+    &lt;link rel="stylesheet" href="styles.css" /&gt;
+&lt;?php endif; ?&gt;
 …
 &lt;/head&gt;</code></pre>
 
