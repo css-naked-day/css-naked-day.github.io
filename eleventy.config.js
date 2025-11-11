@@ -50,6 +50,7 @@ export default function (eleventyConfig) {
     };
 
     let title;
+    let separator = website.separator;
     let prefix = website.prefix;
     let suffix = website.suffix;
 
@@ -62,11 +63,11 @@ export default function (eleventyConfig) {
         break;
     }
 
-    if (suffix === undefined && loopRevIndex0) {
-      suffix = loopRevIndex0 > 1 ? ', ' : ' & ';
+    if (separator === undefined && loopRevIndex0) {
+      separator = loopRevIndex0 > 1 ? ' & ' : ', ';
     }
 
-    if (!website?.url) {
+    if (!website.url) {
       return title;
     }
 
@@ -74,7 +75,7 @@ export default function (eleventyConfig) {
       return website.url;
     }
 
-    return `${prefix || ''}<a href="${website.url}">${title}</a>${suffix || ''}`
+    return `${separator ?? ''}${prefix ?? ''}<a href="${website.url}">${title}</a>${suffix ?? ''}`
   });
 
   // TODO: Add a tool to target duplicated domains.
