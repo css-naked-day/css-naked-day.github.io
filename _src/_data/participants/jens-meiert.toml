@@ -10,8 +10,8 @@ username  = "j9t"
 [[websites]]
 url   = "https://meiert.com/"
 years = [
-  2006,
-  2015,
+	2006,
+	2015,
 ]
 
 [[websites]]
@@ -19,25 +19,25 @@ url   = "https://worlds-highest-website.com/"
 title = "The World’s Highest Website"
 group = false
 years = [
-  2021,
+	2021,
 ]
 
 [[websites]]
 url   = "https://frontenddogma.com/"
 title = "Frontend Dogma"
 years = [
-  2022,
-  2023,
-  2024,
-  2025,
+	2022,
+	2023,
+	2024,
+	2025,
 ]
 
 [[websites]]
 url   = "https://frontenddogma.com/?uitest.com"
 title = "UITest.com"
 years = [
-  2021,
-  2022,
+	2021,
+	2022,
 ]
 
 # Accounts

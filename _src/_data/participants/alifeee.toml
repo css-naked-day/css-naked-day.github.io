@@ -7,19 +7,19 @@ username = "alifeee"
 url   = "https://alifeee.co.uk/"
 title = "website"
 years = [
-  2024,
+	2024,
 ]
 
 [[websites]]
 url   = "https://blog.alifeee.co.uk/"
 title = "blog"
 years = [
-  2024,
+	2024,
 ]
 
 [[websites]]
 url   = "https://weeknotes.alifeee.co.uk/"
 title = "weeknotes"
 years = [
-  2024,
+	2024,
 ]
