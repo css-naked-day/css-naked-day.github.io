@@ -22,6 +22,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addDataExtension("toml", (contents) => toml.parse(contents));
 
   eleventyConfig.addFilter("getParticipantDisplayName", (participant) => {
+    // TODO: Either get current year’s website, or use the filename.
     const websiteURL = participant.websites[0].url;
 
     return participant.display || participant.username || getWebsiteDomain(websiteURL);
@@ -44,26 +45,23 @@ export default function (eleventyConfig) {
 
   eleventyConfig.addShortcode("linkNoSpam", function(callback, url, participant, year, loopRevIndex0) {
     const website = eleventyConfig.getFilter("getSiteData")(url, participant, year);
+    const isWebsiteTitle = callback === 'getSiteTitle';
 
     if(!website) {
       return;
     };
 
-    let title;
-    let separator = website.separator;
-    let prefix = website.prefix;
-    let suffix = website.suffix;
+    let title, prefix, suffix, separator;
 
-    switch (callback) {
-      case 'getSiteTitle':
-        title = eleventyConfig.getFilter('getSiteTitle')(url, participant);
-        break;
-      case 'getParticipantDisplayName':
-        title = eleventyConfig.getFilter('getParticipantDisplayName')(participant);
-        break;
+    if (isWebsiteTitle) {
+      title  = eleventyConfig.getFilter('getSiteTitle')(url, participant);
+      prefix = website.prefix;
+      suffix = website.suffix;
+    } else {
+      title = eleventyConfig.getFilter('getParticipantDisplayName')(participant);
     }
 
-    if (separator === undefined && loopRevIndex0) {
+    if (website.separator === undefined && loopRevIndex0) {
       separator = loopRevIndex0 > 1 ? ' & ' : ', ';
     }
 
