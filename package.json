@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "description": "CSS Naked Day: website",
   "scripts": {
-    "dev": "eleventy --serve --incremental",
+    "dev": "eleventy --serve",
     "build": "eleventy"
   },
   "repository": {
