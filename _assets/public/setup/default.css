@@ -1,4 +1,4 @@
-/* @@ Refactor and optimize */
+/* TODO: Refactor and optimize */
 
 @media screen, print {
 
@@ -90,6 +90,11 @@
     line-height: 1.2;
     color: #303030;
     letter-spacing: -1px;
+  }
+
+  header h1 a {
+    color: inherit !important;
+    text-decoration: none;
   }
 
   header h2 {

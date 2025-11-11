@@ -5,7 +5,7 @@
     <link rel="icon" href="/favicon.ico">
     {# <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Chivo:900"> #}
     <link rel="stylesheet" href="setup/default.css">
-    <meta name="viewport" content="initial-scale=1,minimum-scale=1,width=device-width">
+    <meta name="viewport" content="initial-scale=1,width=device-width">
     <meta name="description" property="og:description" content="April 9 is CSS Naked Day!">
     <meta name="twitter:card" content="summary">
     <meta property="og:title" content="CSS Naked Day">
@@ -17,7 +17,7 @@
       <div class="inner">
 
         <header>
-          <h1>CSS Naked Day</h1>
+          <h1><a href="/">CSS Naked Day</a></h1>
           <h2>Show off your semantic <code>&lt;body&gt;</code>!</h2>
         </header>
 
@@ -65,15 +65,13 @@
           <p>Here is a sample PHP function for developers:</p>
 
           <pre><code>&lt;?php
-function is_naked_day($d) {
-  $start = date('U', mktime(-14, 0, 0, 04, $d, date('Y')));
-  $end = date('U', mktime(36, 0, 0, 04, $d, date('Y')));
-  $z = date('Z') * -1;
-  $now = time() + $z;
-  if ( $now &gt;= $start &amp;&amp; $now &lt;= $end ) {
-    return true;
-  }
-  return false;
+function isNakedDay()
+{
+    $now = new \DateTime('now', new \DateTimeZone('UTC'));
+    $start = new \DateTime('00:00, April 9', new \DateTimeZone('+14:00'));
+    $end = new \DateTime('00:00, April 10', new \DateTimeZone('-12:00'));
+
+    return $now &gt;= $start && $now &lt; $end;
 }
 ?&gt;</code></pre>
 
@@ -81,13 +79,9 @@ function is_naked_day($d) {
 
           <pre><code>&lt;head&gt;
 …
-&lt;?php
-if ( is_naked_day(9) ) {
-  echo '&lt;!-- Naked Day has no styles --&gt;';
-} else {
-  echo '&lt;link rel="stylesheet" href="styles.css" /&gt;';
-}
-?&gt;
+&lt;?php if(!isNakedDay()) : ?&gt;
+    &lt;link rel="stylesheet" href="styles.css" /&gt;
+&lt;?php endif; ?&gt;
 …
 &lt;/head&gt;</code></pre>
 
@@ -106,13 +100,14 @@ if ( is_naked_day(9) ) {
             <li><a href="https://jefftriplett.com/">Jeff Triplett</a> gives us a nice <a href="https://www.djangosnippets.org/snippets/1421/">Django Snippet</a> for you Python folk.</li>
             <li>Drupal users, <a href="https://www.drupal.org/project/naked">get the module</a>!</li>
             <li>If you are game you can use <a href="https://weblog.200ok.com.au/">Ben Buchanan</a>’s <a href="https://bitbucket.org/snippets/200ok/dKpk">JavaScript snippet</a>. Works anywhere, removes everything, buyer beware!</li>
+            <li>If you are a Gopher, check out the <a href="https://github.com/omz13/today-go">today-go</a> package by <a href="https://omz13.com/">David Somers</a>.</li>
             <li>If you are a Rails developer, check out the <a href="https://github.com/danielsellergren/css_naked_day_rails">css_naked_day_rails</a> gem by <a href="https://danielsellergren.com/">Daniel Sellergren</a>.</li>
             <li>If you have lots of raw HTML, use <a href="https://gist.github.com/alifeee/75df204c2be3815806e1d4be47e54d08">this bash script</a> to remove style sheets, <code>style</code> elements, and inline styles.</li>
           </ul>
 
           <h3><a id="origins" href="#origins">Origins</a></h3>
 
-          <p>CSS Naked Day started in <a href="https://web.archive.org/web/20060409133500/http://naked.dustindiaz.com/">2006 by Dustin Diaz</a>, who organized it until <a href="https://web.archive.org/web/20090503155846/http://naked.dustindiaz.com:80/">2009</a>. From <a href="https://web.archive.org/web/20100516032732/http://naked.threepixeldrift.com/">2010</a> until <a href="https://web.archive.org/web/20140817035514/http://naked.threepixeldrift.com/">2014</a>, it was hosted by Taylor Satula. The content in this page is extracted from the content of the respective pages. Since 2015, the project is maintained by <a href="https://arkhi.org/">Fabien Basmaison</a> and <a href="https://meiert.com/en/">Jens Oliver Meiert</a>.</p>
+          <p>CSS Naked Day started in <a href="https://web.archive.org/web/20060409133500/http://naked.dustindiaz.com/">2006 by Dustin Diaz</a>, who organized it until <a href="https://web.archive.org/web/20090503155846/http://naked.dustindiaz.com:80/">2009</a>. From <a href="https://web.archive.org/web/20100516032732/http://naked.threepixeldrift.com/">2010</a> until <a href="https://web.archive.org/web/20140817035514/http://naked.threepixeldrift.com/">2014</a>, it was hosted by Taylor Satula. The content in this page is extracted from the content of the respective pages. Since 2015, the project is maintained by <a href="https://arkhi.org/">Fabien Basmaison</a> and <a href="https://meiert.com/">Jens Oliver Meiert</a>. (Jens once worked on a <a href="https://meiert.com/blog/css-naked-day-and-wikipedia/">proposal for a CSS Naked Day Wikipedia page</a> that retells the story.)</p>
 
           <h3>Famous words</h3>
 
@@ -124,7 +119,7 @@ if ( is_naked_day(9) ) {
         </section>
 
         <footer>
-          This is CSS Naked Day. This page was generated by <a href="https://pages.github.com">GitHub Pages</a> (<a href="https://github.com/css-naked-day/css-naked-day.github.io">view it on GitHub</a>). Tactile theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.
+          This is CSS Naked Day. This page was generated by <a href="https://pages.github.com/">GitHub Pages</a> (<a href="https://github.com/css-naked-day/css-naked-day.github.io">view it on GitHub</a>). Tactile theme by <a href="https://x.com/jasonlong">Jason Long</a>.
         </footer>
       </div>
     </div>
