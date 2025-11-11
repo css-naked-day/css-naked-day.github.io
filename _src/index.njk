@@ -40,17 +40,15 @@
           <h3><a id="editions" href="#editions">CSS Naked Day editions</a></h3>
 
           <ul>
-
-            {% for index, year in years %}
+            {% for edition in editions | reverse %}
               <li>
-                {% if year.participants | length %}
-                  <a href="{{ index | slugify }}.html">{{ index }}</a>
+                {% if edition.participants | length %}
+                  <a href="{{ edition.year | slugify }}.html">{{ edition.year }}</a>
                 {% else %}
-                  {{ index }}
+                  {{ edition.year }}
                 {% endif %}
               </li>
             {% endfor %}
-
           </ul>
 
           <h3><a id="participate" href="#participate">How to participate</a></h3>

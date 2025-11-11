@@ -36,11 +36,11 @@
           <p>
             <a href="/">Home</a>
 
-            {% for index, year in years %}
-              {% if year.participants | length %}
-                · <a href="{{ index | slugify }}.html">{{ index }}</a>
+            {% for edition in editions %}
+              {% if edition.participants | length %}
+                · <a href="{{ edition.year | slugify }}.html">{{ edition.year }}</a>
               {% else %}
-                · {{ index }}
+                · {{ edition.year }}
               {% endif %}
             {% endfor %}
           </p>
@@ -48,21 +48,25 @@
           <h3>Kudos to these websites who got naked in {{ year }}!</h3>
 
           <ol>
-            {# We use both years and participants as Global Data. #}
-            {% for index, websites in years[year].participants %}
-              {% set participant = participants[index] %}
+            {# We use both editions and participants as Global Data. #}
+            {% for edition in editions %}
+              {% if edition.year === year %}
+                {% for filename, websites in edition.participants %}
+                  {% set participant = participants[filename] %}
 
-              <li>
-                {%- if websites | length === 1 -%}
-                  {% linkNoSpam 'getParticipantDisplayName', websites[0], participant, year %}
-                {%- else -%}
-                  {{ participant | getParticipantDisplayName }}:
+                  <li>
+                    {%- if websites | length === 1 -%}
+                      {% linkNoSpam 'getParticipantDisplayName', websites[0], participant, year %}
+                    {%- else -%}
+                      {{ participant | getParticipantDisplayName }}:
 
-                  {% for website in websites -%}
-                    {% linkNoSpam 'getSiteTitle', website, participant, year, loop.index0 %}
-                  {%- endfor %}
-                {% endif %}
-              </li>
+                      {% for website in websites -%}
+                        {% linkNoSpam 'getSiteTitle', website, participant, year, loop.index0 %}
+                      {%- endfor %}
+                    {% endif %}
+                  </li>
+                {% endfor %}
+              {% endif %}
             {% endfor %}
           </ol>
 

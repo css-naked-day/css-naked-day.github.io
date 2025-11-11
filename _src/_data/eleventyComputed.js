@@ -1,8 +1,8 @@
 export default {
   // Provide a structure by year to match expected output logic.
-  years: function(data) {
+  editions: function(data) {
     const participants = data.participants;
-    const years = {};
+    const editions = [];
     const yearMin = 2006; // The first CSS Naked Day.
 
     let yearMax = yearMin;
@@ -11,30 +11,40 @@ export default {
       // Basic structure: year > participant > websites.
       participants[participant].websites.forEach(website => {
         website.years.forEach(year => {
+          let currentEdition = editions.find(edition => edition.year === year);
+
           yearMax = Math.max(yearMin, year);
 
-          if (!years[year]) {
-            years[year] = {
+          // Initialise year if it does not exist.
+          if (!currentEdition) {
+            editions.push({
+              year: Number(year),
               'participants': {},
-            };
+            });
+
+            currentEdition = editions.find(edition => edition.year === year);
           }
 
-          if (!years[year]['participants'][participant]) {
-            years[year]['participants'][participant] = [];
+          // Populate participants for this year.
+          if (!currentEdition['participants'][participant]) {
+            currentEdition['participants'][participant] = [];
           }
 
-          years[year]['participants'][participant].push(website.url);
+          // Populate participant with its websites for this year.
+          currentEdition['participants'][participant].push(website.url);
         });
       });
     };
 
-    // Add missing years with no participant.
+    // Add missing editions with no participant.
     for (let year = yearMin; year < yearMax; year++) {
-      if (!years[year]) {
-        years[year] = {};
+      if (!editions.some((edition) => edition.year === year)) {
+        editions.push({ year });
       }
     }
 
-    return years;
+    editions.sort((a, b) => a.year > b.year ? 1 : -1);
+
+    return editions;
   }
 }
