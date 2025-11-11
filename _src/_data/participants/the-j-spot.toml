@@ -6,4 +6,7 @@ display = "The J Spot"
 [[websites]]
 url   = "http://racoma.com.ph/"
 title = "The J Spot"
-years = [2007,2008]
+years = [
+	2007,
+	2008 
+]

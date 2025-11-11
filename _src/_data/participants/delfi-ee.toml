@@ -6,4 +6,4 @@ display = "delfi.ee"
 [[websites]]
 url   = "http://www.delfi.ee/"
 title = "delfi.ee"
-years = [2009]
+years = [ 2009 ]

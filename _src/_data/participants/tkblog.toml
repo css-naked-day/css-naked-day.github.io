@@ -6,4 +6,4 @@ display = "tkBlog"
 [[websites]]
 url   = "http://blog.tomaskafka.com/"
 title = "tkBlog"
-years = [2008]
+years = [ 2008 ]

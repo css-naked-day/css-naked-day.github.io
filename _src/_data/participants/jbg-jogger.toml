@@ -6,4 +6,7 @@ display = "JBG Jogger"
 [[websites]]
 url   = "http://jbg.jogger.pl/"
 title = "JBG Jogger"
-years = [2007,2008]
+years = [
+	2007,
+	2008 
+]

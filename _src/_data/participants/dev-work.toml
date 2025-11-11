@@ -6,4 +6,4 @@ display = "/dev/work"
 [[websites]]
 url   = "http://www.devwork.org/"
 title = "/dev/work"
-years = [2008]
+years = [ 2008 ]

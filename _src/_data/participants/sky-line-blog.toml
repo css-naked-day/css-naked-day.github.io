@@ -6,4 +6,4 @@ display = "sky line blog"
 [[websites]]
 url   = "http://sky-line.jp/blog/"
 title = "sky line blog"
-years = [2007]
+years = [ 2007 ]

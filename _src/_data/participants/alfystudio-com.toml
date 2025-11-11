@@ -6,9 +6,9 @@ display = "AlfyStudio.com"
 [[websites]]
 url   = "http://www.alfystudio.com"
 title = "AlfyStudio.com"
-years = [2007]
+years = [ 2007 ]
 
 [[websites]]
 url   = "http://www.alfystudio.com/"
 title = "AlfyStudio.com"
-years = [2008]
+years = [ 2008 ]

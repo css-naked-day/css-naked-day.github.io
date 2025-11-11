@@ -6,4 +6,4 @@ display = "Seoserver"
 [[websites]]
 url   = "http://www.seoserver.com/"
 title = "Seoserver"
-years = [2009]
+years = [ 2009 ]

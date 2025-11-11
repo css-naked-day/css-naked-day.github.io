@@ -6,9 +6,9 @@ display = "taobao"
 [[websites]]
 spam  = true
 url   = "http://www.taobao.com/"
-years = [2007]
+years = [ 2007 ]
 
 [[websites]]
 spam  = true
 url   = "http://www.taobao.com/index.php?naked=1"
-years = [2007]
+years = [ 2007 ]

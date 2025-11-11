@@ -6,9 +6,12 @@ display = "GuitarAngel.net"
 [[websites]]
 url   = "http://www.guitarangel.net/"
 title = "GuitarAngel.net"
-years = [2007,2009]
+years = [
+	2007,
+	2009 
+]
 
 [[websites]]
 url   = "http://guitarangel.net/"
 title = "GuitarAngel.net"
-years = [2008]
+years = [ 2008 ]

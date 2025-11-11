@@ -6,4 +6,4 @@ display = "This day’s portion"
 [[websites]]
 url   = "https://www.thisdaysportion.com/"
 title = "This day’s portion"
-years = [2023]
+years = [ 2023 ]

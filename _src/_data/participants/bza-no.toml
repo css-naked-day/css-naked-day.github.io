@@ -6,4 +6,7 @@ display = "bza.no"
 [[websites]]
 url   = "http://bza.no/"
 title = "bza.no"
-years = [2007,2008]
+years = [
+	2007,
+	2008 
+]

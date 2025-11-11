@@ -6,4 +6,4 @@ display = "Kino-Fahrplan Hamburg"
 [[websites]]
 url   = "http://kino-fahrplan.de/"
 title = "Kino-Fahrplan Hamburg"
-years = [2008]
+years = [ 2008 ]

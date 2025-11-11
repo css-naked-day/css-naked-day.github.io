@@ -6,4 +6,4 @@ display = "myspace china"
 [[websites]]
 url   = "http://www.myspace.cn"
 title = "myspace china"
-years = [2008]
+years = [ 2008 ]

@@ -6,4 +6,4 @@ display = "Carter blog"
 [[websites]]
 url   = "http://blog.liderc.hu/"
 title = "Carter blog"
-years = [2008]
+years = [ 2008 ]

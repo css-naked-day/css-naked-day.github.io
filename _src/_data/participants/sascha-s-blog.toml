@@ -6,9 +6,9 @@ display = "Sascha’s Blog"
 [[websites]]
 url   = "http://www.somegas.de/wordpress"
 title = "Sascha’s Blog"
-years = [2008]
+years = [ 2008 ]
 
 [[websites]]
 url   = "http://somegas.de/"
 title = "Sascha’s Blog"
-years = [2009]
+years = [ 2009 ]

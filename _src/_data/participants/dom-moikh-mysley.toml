@@ -6,4 +6,7 @@ display = "Дом моих мыслей"
 [[websites]]
 url   = "http://www.mikolka.info/"
 title = "Дом моих мыслей"
-years = [2008,2009]
+years = [
+	2008,
+	2009 
+]

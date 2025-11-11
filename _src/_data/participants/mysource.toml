@@ -6,4 +6,4 @@ display = "MySource"
 [[websites]]
 url   = "http://www.mysource.pl/"
 title = "MySource"
-years = [2007]
+years = [ 2007 ]

@@ -6,9 +6,9 @@ display = "NAKED!"
 [[websites]]
 url   = "http://www.sanbaldo.com/"
 title = "NAKED!"
-years = [2007]
+years = [ 2007 ]
 
 [[websites]]
 url   = "http://www.example.com"
 title = "naked"
-years = [2008]
+years = [ 2008 ]

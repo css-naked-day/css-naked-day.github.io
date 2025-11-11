@@ -6,4 +6,8 @@ display = "Archtype-k"
 [[websites]]
 url   = "http://www.archtype-k.com/"
 title = "Archtype-k"
-years = [2007,2008,2009]
+years = [
+	2007,
+	2008,
+	2009 
+]

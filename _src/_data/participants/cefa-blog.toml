@@ -6,4 +6,4 @@ display = "CEFA::Blog"
 [[websites]]
 url   = "http://cefa.sakura.ne.jp/"
 title = "CEFA::Blog"
-years = [2007]
+years = [ 2007 ]

@@ -6,9 +6,12 @@ display = "Lion’s Fart"
 [[websites]]
 url   = "http://www.kezele.com"
 title = "Lion’s Fart"
-years = [2007]
+years = [ 2007 ]
 
 [[websites]]
 url   = "http://lionsfart.com/"
 title = "Lion’s Fart"
-years = [2008,2009]
+years = [
+	2008,
+	2009 
+]

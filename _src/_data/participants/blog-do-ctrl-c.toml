@@ -6,4 +6,4 @@ display = "Blog do CTRL+C"
 [[websites]]
 url   = "http://ctrlc.blog.br/"
 title = "Blog do CTRL+C"
-years = [2009]
+years = [ 2009 ]

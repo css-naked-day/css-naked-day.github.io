@@ -6,4 +6,7 @@ display = "bueltge.de [by:ltge.de]"
 [[websites]]
 url   = "http://bueltge.de/"
 title = "bueltge.de [by:ltge.de]"
-years = [2008,2009]
+years = [
+	2008,
+	2009 
+]

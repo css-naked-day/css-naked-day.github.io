@@ -6,4 +6,7 @@ display = "seevaa의 잡다구리한 이야기"
 [[websites]]
 url   = "http://seevaa.net/"
 title = "seevaa의 잡다구리한 이야기"
-years = [2008,2009]
+years = [
+	2008,
+	2009 
+]

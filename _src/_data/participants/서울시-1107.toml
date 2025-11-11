@@ -6,4 +6,4 @@ display = "서울시"
 [[websites]]
 url   = "http://seoul.go.kr/"
 title = "서울시"
-years = [2007]
+years = [ 2007 ]

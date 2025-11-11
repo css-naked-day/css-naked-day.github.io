@@ -6,4 +6,7 @@ display = "Jeff Schiller"
 [[websites]]
 url   = "http://blog.codedread.com/"
 title = "Jeff Schiller"
-years = [2006,2007]
+years = [
+	2006,
+	2007 
+]

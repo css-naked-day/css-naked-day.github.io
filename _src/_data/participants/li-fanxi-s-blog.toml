@@ -6,9 +6,12 @@ display = "Li Fanxi’s Blog"
 [[websites]]
 url   = "http://fx.jiuzhe.com/"
 title = "Li Fanxi’s Blog"
-years = [2007]
+years = [ 2007 ]
 
 [[websites]]
 url   = "http://www.freemindworld.com/"
 title = "Li Fanxi’s Blog"
-years = [2008,2009]
+years = [
+	2008,
+	2009 
+]

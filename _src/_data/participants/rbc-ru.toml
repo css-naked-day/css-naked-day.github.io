@@ -6,4 +6,4 @@ display = "rbc.ru"
 [[websites]]
 url   = "http://rbc.ru"
 title = "rbc.ru"
-years = [2009]
+years = [ 2009 ]

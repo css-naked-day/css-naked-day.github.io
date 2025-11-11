@@ -6,9 +6,9 @@ display = "WISEPIG"
 [[websites]]
 url   = "http://www.wisepig.cn/"
 title = "home"
-years = [2008]
+years = [ 2008 ]
 
 [[websites]]
 url   = "http://www.wisepig.cn/blog"
 title = "blog"
-years = [2008]
+years = [ 2008 ]

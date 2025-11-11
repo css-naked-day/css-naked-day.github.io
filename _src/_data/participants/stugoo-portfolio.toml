@@ -6,4 +6,4 @@ display = "Stugoo portfolio!"
 [[websites]]
 url   = "http://www.stugoo.co.uk/"
 title = "Stugoo portfolio!"
-years = [2009]
+years = [ 2009 ]

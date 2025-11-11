@@ -6,9 +6,9 @@ display = "Mynios"
 [[websites]]
 url   = "http://blog.mynios.de/"
 title = "Mynios"
-years = [2008]
+years = [ 2008 ]
 
 [[websites]]
 url   = "http://mynios.de/"
 title = "Mynios"
-years = [2009]
+years = [ 2009 ]

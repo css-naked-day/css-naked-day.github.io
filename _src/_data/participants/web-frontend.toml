@@ -6,4 +6,4 @@ display = "web.Frontend"
 [[websites]]
 url   = "http://old9.blogsome.com/"
 title = "web.Frontend"
-years = [2007]
+years = [ 2007 ]

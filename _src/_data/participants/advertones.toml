@@ -6,4 +6,7 @@ display = "advertones"
 [[websites]]
 url   = "http://advertones.ru/"
 title = "advertones"
-years = [2008,2009]
+years = [
+	2008,
+	2009 
+]

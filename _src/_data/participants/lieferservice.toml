@@ -6,4 +6,4 @@ display = "Lieferservice"
 [[websites]]
 url   = "http://www.foodo.de/"
 title = "Lieferservice"
-years = [2008]
+years = [ 2008 ]

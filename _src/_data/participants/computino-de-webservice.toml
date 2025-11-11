@@ -6,4 +6,7 @@ display = "computino.de Webservice"
 [[websites]]
 url   = "http://www.computino.de/"
 title = "computino.de Webservice"
-years = [2008,2009]
+years = [
+	2008,
+	2009 
+]

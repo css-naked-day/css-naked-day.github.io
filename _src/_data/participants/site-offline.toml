@@ -6,4 +6,4 @@ display = "Site Offline"
 [[websites]]
 url   = "http://www.siteoffline.com/"
 title = "Site Offline"
-years = [2006]
+years = [ 2006 ]

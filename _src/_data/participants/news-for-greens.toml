@@ -6,4 +6,4 @@ display = "News for Greens"
 [[websites]]
 url   = "http://www.newsforgreens.com/"
 title = "News for Greens"
-years = [2008]
+years = [ 2008 ]

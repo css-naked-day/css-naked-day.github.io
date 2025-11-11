@@ -6,4 +6,4 @@ display = "NSA"
 [[websites]]
 url   = "http://www.tehnsa.ath.cx:4242/zenbb"
 title = "NSA"
-years = [2006]
+years = [ 2006 ]

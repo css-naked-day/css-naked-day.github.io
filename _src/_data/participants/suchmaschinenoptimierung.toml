@@ -5,16 +5,19 @@ display = "Suchmaschinenoptimierung"
 
 [[websites]]
 url   = "http://www.webtechnik.net/"
-years = [2008]
+years = [ 2008 ]
 
 [[websites]]
 url   = "http://www.nneb.de/"
-years = [2008,2009]
+years = [
+	2008,
+	2009 
+]
 
 [[websites]]
 url   = "http://abblen.de/"
-years = [2008]
+years = [ 2008 ]
 
 [[websites]]
 url   = "http://www.senkrecht-it.com/"
-years = [2009]
+years = [ 2009 ]

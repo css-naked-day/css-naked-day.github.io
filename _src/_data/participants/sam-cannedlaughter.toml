@@ -6,4 +6,4 @@ display = "Sam"
 [[websites]]
 spam  = true
 url   = "http://cannedlaughter.net/"
-years = [2006]
+years = [ 2006 ]

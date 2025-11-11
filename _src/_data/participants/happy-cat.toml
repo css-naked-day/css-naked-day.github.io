@@ -6,4 +6,4 @@ display = "Happy Cat"
 [[websites]]
 url   = "http://iyeti.kr/"
 title = "Happy Cat"
-years = [2009]
+years = [ 2009 ]

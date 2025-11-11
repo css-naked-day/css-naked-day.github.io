@@ -6,4 +6,7 @@ display = "rankomat"
 [[websites]]
 url   = "http://www.rankomat.de/"
 title = "rankomat"
-years = [2008,2009]
+years = [
+	2008,
+	2009 
+]

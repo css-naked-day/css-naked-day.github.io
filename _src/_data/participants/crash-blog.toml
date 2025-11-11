@@ -6,4 +6,4 @@ display = "Crash blog"
 [[websites]]
 url   = "http://crash.jogger.pl/"
 title = "Crash blog"
-years = [2007]
+years = [ 2007 ]

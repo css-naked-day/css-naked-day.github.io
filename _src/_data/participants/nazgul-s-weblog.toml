@@ -6,9 +6,9 @@ display = "Nazgul’s Weblog"
 [[websites]]
 url   = "http://nazgul.pl/blog/"
 title = "Nazgul’s Weblog"
-years = [2007]
+years = [ 2007 ]
 
 [[websites]]
 url   = "http://blog.nazgul.pl/"
 title = "Nazgul’s Weblog"
-years = [2008]
+years = [ 2008 ]

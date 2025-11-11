@@ -6,4 +6,4 @@ display = "/dev/nikc/blog"
 [[websites]]
 url   = "http://blog.nikc.org/"
 title = "/dev/nikc/blog"
-years = [2008]
+years = [ 2008 ]

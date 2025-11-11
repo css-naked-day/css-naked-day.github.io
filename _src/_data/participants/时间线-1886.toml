@@ -6,4 +6,4 @@ display = "时间线"
 [[websites]]
 url   = "http://www.teanie.com/"
 title = "时间线"
-years = [2008]
+years = [ 2008 ]

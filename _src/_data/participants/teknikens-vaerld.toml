@@ -6,4 +6,4 @@ display = "Teknikens värld"
 [[websites]]
 url   = "http://magazines.se/index.php?news=15"
 title = "Teknikens värld"
-years = [2008]
+years = [ 2008 ]

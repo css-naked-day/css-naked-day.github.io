@@ -6,5 +6,5 @@ display = "fyr.io"
 [[websites]]
 url   = "https://fyr.io/"
 title = "fyr.io"
-years = [2025]
+years = [ 2025 ]
 

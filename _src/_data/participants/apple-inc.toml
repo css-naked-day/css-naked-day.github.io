@@ -6,4 +6,4 @@ display = "Apple Inc."
 [[websites]]
 url   = "http://apple.com/"
 title = "Apple Inc."
-years = [2008]
+years = [ 2008 ]

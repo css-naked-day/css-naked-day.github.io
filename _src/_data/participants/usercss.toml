@@ -6,9 +6,9 @@ display = "User CSS"
 [[websites]]
 url   = "http://usercss.ru/"
 title = "in russian"
-years = [2008]
+years = [ 2008 ]
 
 [[websites]]
 url   = "http://usercss.com/"
 title = "in english"
-years = [2008]
+years = [ 2008 ]

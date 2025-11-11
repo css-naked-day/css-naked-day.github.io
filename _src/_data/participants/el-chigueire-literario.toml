@@ -6,4 +6,7 @@ display = "El Chigüire Literario"
 [[websites]]
 url   = "http://www.elchiguireliterario.com/"
 title = "El Chigüire Literario"
-years = [2008,2009]
+years = [
+	2008,
+	2009 
+]

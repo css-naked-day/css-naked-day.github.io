@@ -6,5 +6,5 @@ display = "Greystate Web"
 [[websites]]
 url   = "https://greystate.dk/"
 title = "Greystate Web"
-years = [2025]
+years = [ 2025 ]
 

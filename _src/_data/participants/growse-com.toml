@@ -6,4 +6,4 @@ display = "growse.com"
 [[websites]]
 url   = "http://www.growse.com/"
 title = "growse.com"
-years = [2007]
+years = [ 2007 ]

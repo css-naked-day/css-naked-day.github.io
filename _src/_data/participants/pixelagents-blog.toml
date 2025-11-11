@@ -6,4 +6,4 @@ display = "Pixelagents Blog"
 [[websites]]
 url   = "http://www.pixelagents/blog"
 title = "Pixelagents Blog"
-years = [2007]
+years = [ 2007 ]

@@ -6,4 +6,4 @@ display = "Of The Week"
 [[websites]]
 url   = "http://readotw.com/"
 title = "Of The Week"
-years = [2009]
+years = [ 2009 ]

@@ -6,4 +6,4 @@ display = "El Peor Blog"
 [[websites]]
 url   = "http://www.elpeorblog.com/"
 title = "El Peor Blog"
-years = [2007]
+years = [ 2007 ]

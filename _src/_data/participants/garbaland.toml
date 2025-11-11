@@ -6,9 +6,12 @@ display = "Garbaland"
 [[websites]]
 url   = "http://garbaland.belfagor.net/"
 title = "Garbaland"
-years = [2007,2008]
+years = [
+	2007,
+	2008 
+]
 
 [[websites]]
 url   = "http://garbaland.net/"
 title = "Garbaland"
-years = [2009]
+years = [ 2009 ]

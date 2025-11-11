@@ -6,4 +6,4 @@ display = "Wii Blog"
 [[websites]]
 url   = "http://wii-blog.de/"
 title = "Wii Blog"
-years = [2008]
+years = [ 2008 ]

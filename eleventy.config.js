@@ -1,4 +1,4 @@
-import toml from "@iarna/toml";
+import toml from '@iarna/toml';
 
 function getWebsiteDomain(url) {
 	return url.replace(
@@ -13,10 +13,10 @@ export default function (eleventyConfig) {
 	eleventyConfig.setInputDirectory('_src');
 
 	// Host static assets. Anything from `./public/` goes to site’s root `/`.
-	eleventyConfig.addPassthroughCopy({ "_assets/public": "/" });
+	eleventyConfig.addPassthroughCopy({ '_assets/public': '/' });
 
 	// Allow to parse Toml files for Global data.
-	eleventyConfig.addDataExtension("toml", (contents) => toml.parse(contents));
+	eleventyConfig.addDataExtension('toml', (contents) => toml.parse(contents));
 
 	eleventyConfig.setFrontMatterParsingOptions({
 		engines: {
@@ -31,7 +31,7 @@ export default function (eleventyConfig) {
 		return participant.display || participant.username || getWebsiteDomain(websiteURL);
 	});
 
-	eleventyConfig.addFilter("getSiteTitle", (url, participant) => {
+	eleventyConfig.addFilter('getSiteTitle', (url, participant) => {
 		const website = participant.websites.find(website => website.url === url);
 
 		return website.title || getWebsiteDomain(website.url);
@@ -40,14 +40,14 @@ export default function (eleventyConfig) {
 	// Return website matching url and year.
 	// This allows to have different configurations for different years.
 	// This is uSeful for prefix and suffix which might need different values depending on the year.
-	eleventyConfig.addFilter("getSiteData", (url, participant, year) => {
+	eleventyConfig.addFilter('getSiteData', (url, participant, year) => {
 		return participant.websites.find(website => {
 			return website.url === url && website.years.includes(year);
 		});
 	});
 
-	eleventyConfig.addShortcode("linkNoSpam", function(callback, url, participant, year, loopRevIndex0) {
-		const website = eleventyConfig.getFilter("getSiteData")(url, participant, year);
+	eleventyConfig.addShortcode('linkNoSpam', function(callback, url, participant, year, loopRevIndex0) {
+		const website = eleventyConfig.getFilter('getSiteData')(url, participant, year);
 		const isWebsiteTitle = callback === 'getSiteTitle';
 
 		if(!website) {
@@ -82,6 +82,6 @@ export default function (eleventyConfig) {
 	// TODO: Add a tool to target duplicated domains.
 
 	return {
-		htmlTemplateEngine: "njk",
+		htmlTemplateEngine: 'njk',
 	};
 };

@@ -18,9 +18,7 @@ years = [
 url   = "https://worlds-highest-website.com/"
 title = "The World’s Highest Website"
 group = false
-years = [
-	2021,
-]
+years = [ 2021, ]
 
 [[websites]]
 url   = "https://frontenddogma.com/"

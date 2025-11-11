@@ -6,4 +6,4 @@ display = "Webpal"
 [[websites]]
 url   = "http://www.webpal.se/blogg"
 title = "Webpal"
-years = [2009]
+years = [ 2009 ]

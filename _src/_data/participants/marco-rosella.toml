@@ -6,4 +6,7 @@ display = "Marco Rosella"
 [[websites]]
 url   = "http://www.centralscrutinizer.it/en"
 title = "Marco Rosella"
-years = [2006,2007]
+years = [
+	2006,
+	2007 
+]

@@ -6,9 +6,9 @@ display = "Jack Fiallos Blog"
 [[websites]]
 url   = "http://jack.xtremdesign.net/blog/"
 title = "Jack Fiallos Blog"
-years = [2007]
+years = [ 2007 ]
 
 [[websites]]
 url   = "http://jack.xtremdesign.net/blog"
 title = "Jack Fiallos Blog"
-years = [2008]
+years = [ 2008 ]

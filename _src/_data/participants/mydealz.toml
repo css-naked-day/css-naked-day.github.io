@@ -6,4 +6,4 @@ display = "Mydealz"
 [[websites]]
 url   = "http://www.mydealz.de"
 title = "Mydealz"
-years = [2009]
+years = [ 2009 ]

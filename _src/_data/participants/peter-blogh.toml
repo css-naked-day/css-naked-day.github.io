@@ -5,4 +5,4 @@ display = "Peter"
 
 [[websites]]
 url   = "http://www.blogh.de/"
-years = [2006]
+years = [ 2006 ]

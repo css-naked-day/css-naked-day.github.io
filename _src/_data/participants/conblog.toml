@@ -6,4 +6,4 @@ display = "conBLOG"
 [[websites]]
 url   = "http://blog.converter.cz/"
 title = "conBLOG"
-years = [2007]
+years = [ 2007 ]

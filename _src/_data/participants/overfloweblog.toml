@@ -6,4 +6,4 @@ display = "overfloweblog"
 [[websites]]
 url   = "http://www.overfloweb.com/"
 title = "overfloweblog"
-years = [2008]
+years = [ 2008 ]

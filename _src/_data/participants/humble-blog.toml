@@ -6,4 +6,4 @@ display = "humble blog"
 [[websites]]
 url   = "http://www.goosol.net/99B/?mode=blog&amp;mId=admin"
 title = "humble blog"
-years = [2008]
+years = [ 2008 ]

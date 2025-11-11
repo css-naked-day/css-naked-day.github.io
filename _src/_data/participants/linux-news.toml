@@ -6,4 +6,4 @@ display = "Linux News"
 [[websites]]
 url   = "http://www.dselinux.com/"
 title = "Linux News"
-years = [2009]
+years = [ 2009 ]

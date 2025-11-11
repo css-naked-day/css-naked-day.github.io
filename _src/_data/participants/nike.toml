@@ -6,4 +6,4 @@ display = "Nike"
 [[websites]]
 url   = "http://www.nike.com"
 title = "Nike"
-years = [2009]
+years = [ 2009 ]

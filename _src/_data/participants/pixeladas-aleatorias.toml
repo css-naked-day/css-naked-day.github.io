@@ -6,4 +6,7 @@ display = "pixeladas aleatórias"
 [[websites]]
 url   = "http://s1mone.net/"
 title = "pixeladas aleatórias"
-years = [2008,2009]
+years = [
+	2008,
+	2009 
+]

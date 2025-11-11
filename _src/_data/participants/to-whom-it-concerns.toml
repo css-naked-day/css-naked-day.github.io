@@ -6,4 +6,7 @@ display = "To Whom It Concerns …"
 [[websites]]
 url   = "http://christian.hess-gruenig.de/"
 title = "To Whom It Concerns …"
-years = [2008,2009]
+years = [
+	2008,
+	2009 
+]

@@ -5,4 +5,10 @@ display = "Terence Eden"
 
 [[websites]]
 url   = "https://shkspr.mobi/blog/"
-years = [2020,2022,2023,2024,2025]
+years = [
+	2020,
+	2022,
+	2023,
+	2024,
+	2025 
+]

@@ -6,4 +6,7 @@ display = "A blog? with Σαιτω"
 [[websites]]
 url   = "http://d.hatena.ne.jp/saiton/"
 title = "A blog? with Σαιτω"
-years = [2007,2008]
+years = [
+	2007,
+	2008 
+]

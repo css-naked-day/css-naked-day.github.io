@@ -6,4 +6,4 @@ display = "Seraphyn Blog"
 [[websites]]
 url   = "http://seraphyn.deveth.org/"
 title = "Seraphyn Blog"
-years = [2009]
+years = [ 2009 ]

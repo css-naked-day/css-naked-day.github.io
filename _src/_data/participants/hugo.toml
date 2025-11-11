@@ -6,4 +6,4 @@ display = "Hugo"
 [[websites]]
 url   = "http://solo.infames.org/"
 title = "Hugo"
-years = [2006]
+years = [ 2006 ]

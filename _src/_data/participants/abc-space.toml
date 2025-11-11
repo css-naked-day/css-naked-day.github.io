@@ -6,4 +6,4 @@ display = "Abc’ Space"
 [[websites]]
 url   = "http://hi.baidu.com/52abc"
 title = "Abc’ Space"
-years = [2008]
+years = [ 2008 ]

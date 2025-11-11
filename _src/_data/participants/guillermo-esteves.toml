@@ -6,14 +6,17 @@ display = "Guillermo Esteves"
 [[websites]]
 url   = "http://www.gesteves.com/"
 title = "Guillermo Esteves"
-years = [2006]
+years = [ 2006 ]
 
 [[websites]]
 url   = "http://guillermoesteves.com/"
 title = "Guillermo Esteves"
-years = [2007,2008]
+years = [
+	2007,
+	2008 
+]
 
 [[websites]]
 url   = "http://blog.gesteves.com/"
 title = "Guillermo Esteves"
-years = [2009]
+years = [ 2009 ]

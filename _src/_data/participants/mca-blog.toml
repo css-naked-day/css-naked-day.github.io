@@ -6,4 +6,4 @@ display = "mca blog"
 [[websites]]
 url   = "http://amundsen.com/blog/"
 title = "mca blog"
-years = [2009]
+years = [ 2009 ]

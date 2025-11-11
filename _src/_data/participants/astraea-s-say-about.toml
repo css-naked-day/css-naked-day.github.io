@@ -6,4 +6,7 @@ display = "Astraea’s Say about,,,"
 [[websites]]
 url   = "http://withstory.net/"
 title = "Astraea’s Say about,,,"
-years = [2007,2008]
+years = [
+	2007,
+	2008 
+]

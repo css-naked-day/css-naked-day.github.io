@@ -6,4 +6,7 @@ display = "Robert Kuykendall (appleswitch)"
 [[websites]]
 url   = "http://www.appleswitch.com/"
 title = "Robert Kuykendall (appleswitch)"
-years = [2008,2009]
+years = [
+	2008,
+	2009 
+]

@@ -6,4 +6,7 @@ display = "Craig Cook"
 [[websites]]
 url   = "http://geek.focalcurve.com/"
 title = "Craig Cook"
-years = [2007,2008]
+years = [
+	2007,
+	2008 
+]

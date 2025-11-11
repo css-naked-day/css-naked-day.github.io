@@ -6,9 +6,12 @@ display = "Gracecode.com"
 [[websites]]
 url   = "http://www.gracecode.com/"
 title = "Gracecode.com"
-years = [2007,2008]
+years = [
+	2007,
+	2008 
+]
 
 [[websites]]
 url   = "http://www.gracecode.com/?naked"
 title = "Gracecode.com"
-years = [2009]
+years = [ 2009 ]

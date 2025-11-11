@@ -6,4 +6,4 @@ display = "csask站长日志"
 [[websites]]
 url   = "http://www.csask.com/blog"
 title = "csask站长日志"
-years = [2007]
+years = [ 2007 ]

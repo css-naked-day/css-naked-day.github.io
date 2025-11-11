@@ -6,4 +6,4 @@ display = "Tidav Blog"
 [[websites]]
 url   = "http://tid4v.free.fr/"
 title = "Tidav Blog"
-years = [2007]
+years = [ 2007 ]

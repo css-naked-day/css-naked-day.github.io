@@ -6,4 +6,7 @@ display = "Jonno Riekwel"
 [[websites]]
 url   = "http://jonnoriekwel.nl/"
 title = "Jonno Riekwel"
-years = [2007,2008]
+years = [
+	2007,
+	2008 
+]

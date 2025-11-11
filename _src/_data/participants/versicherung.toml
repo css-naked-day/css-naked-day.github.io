@@ -6,4 +6,4 @@ display = "Versicherung"
 [[websites]]
 url   = "http://www.ca-versicherung.at/"
 title = "Versicherung"
-years = [2009]
+years = [ 2009 ]

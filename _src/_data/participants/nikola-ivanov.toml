@@ -6,4 +6,7 @@ display = "Nikola Ivanov"
 [[websites]]
 url   = "http://weboholic.de/"
 title = "Nikola Ivanov"
-years = [2008,2009]
+years = [
+	2008,
+	2009 
+]

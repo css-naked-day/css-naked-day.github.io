@@ -6,4 +6,4 @@ display = "global"
 [[websites]]
 url   = "http://www.globalmt.com.tr/"
 title = "global"
-years = [2007]
+years = [ 2007 ]

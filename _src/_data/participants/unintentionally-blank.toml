@@ -6,4 +6,7 @@ display = "Unintentionally Blank"
 [[websites]]
 url   = "http://www.unintentionallyblank.co.uk/"
 title = "Unintentionally Blank"
-years = [2007,2009]
+years = [
+	2007,
+	2009 
+]

@@ -6,9 +6,12 @@ display = "Aki Björklund"
 [[websites]]
 url   = "http://satunnainenbjorklund.net/"
 title = "Aki Björklund"
-years = [2007]
+years = [ 2007 ]
 
 [[websites]]
 url   = "http://akibjorklund.com/"
 title = "Aki Björklund"
-years = [2008,2009]
+years = [
+	2008,
+	2009 
+]

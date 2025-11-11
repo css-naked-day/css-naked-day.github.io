@@ -6,4 +6,4 @@ display = "RSS Portal Script"
 [[websites]]
 url   = "http://www.phpsol.de/scripts/social-bookmark/social-bookmark-script-portal.html"
 title = "RSS Portal Script"
-years = [2009]
+years = [ 2009 ]

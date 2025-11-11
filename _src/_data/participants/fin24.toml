@@ -6,4 +6,4 @@ display = "fin24"
 [[websites]]
 url   = "http://fin24.ru/"
 title = "fin24"
-years = [2008]
+years = [ 2008 ]

@@ -6,9 +6,9 @@ display = "mixfog"
 [[websites]]
 url   = "http://www.mixfog.com/blog"
 title = "mixfog"
-years = [2007]
+years = [ 2007 ]
 
 [[websites]]
 url   = "http://www.mixfog.com/blog/"
 title = "mixfog"
-years = [2008]
+years = [ 2008 ]

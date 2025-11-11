@@ -6,9 +6,9 @@ display = "Sung’s Blog"
 [[websites]]
 url   = "http://www.sungsblog.com/"
 title = "Sung’s Blog"
-years = [2007]
+years = [ 2007 ]
 
 [[websites]]
 url   = "http://www,sungsblog.com"
 title = "Sung’s Blog"
-years = [2008]
+years = [ 2008 ]

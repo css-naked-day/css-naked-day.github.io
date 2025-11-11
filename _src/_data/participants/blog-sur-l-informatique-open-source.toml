@@ -6,4 +6,4 @@ display = "Blog sur l’informatique Open Source"
 [[websites]]
 url   = "http://www.blios.net"
 title = "Blog sur l’informatique Open Source"
-years = [2009]
+years = [ 2009 ]

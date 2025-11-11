@@ -6,4 +6,7 @@ display = "web log"
 [[websites]]
 url   = "http://www.fucklenovo.com/wp/"
 title = "web log"
-years = [2008,2009]
+years = [
+	2008,
+	2009 
+]

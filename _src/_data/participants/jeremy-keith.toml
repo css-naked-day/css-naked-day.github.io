@@ -6,4 +6,8 @@ display = "Jeremy Keith"
 [[websites]]
 url   = "https://adactio.com/"
 title = "Jeremy Keith"
-years = [2006,2007,2008]
+years = [
+	2006,
+	2007,
+	2008 
+]

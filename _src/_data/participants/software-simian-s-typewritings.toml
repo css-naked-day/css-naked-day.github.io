@@ -6,4 +6,7 @@ display = "software simian’s typewritings"
 [[websites]]
 url   = "http://blog.arty.name/"
 title = "software simian’s typewritings"
-years = [2008,2009]
+years = [
+	2008,
+	2009 
+]

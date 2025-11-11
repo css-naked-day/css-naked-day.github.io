@@ -6,4 +6,7 @@ display = "Tomoya Otake"
 [[websites]]
 url   = "http://d.hatena.ne.jp/tomoya/"
 title = "Tomoya Otake"
-years = [2006,2007]
+years = [
+	2006,
+	2007 
+]

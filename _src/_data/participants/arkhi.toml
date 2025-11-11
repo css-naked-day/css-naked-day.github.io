@@ -1,8 +1,8 @@
-display = "Fabien Basmaison"
+display   = "Fabien Basmaison"
 firstname = "Fabien"
-surname = "Basmaison"
-username = "arkhi"
-email = "contact@arkhi.org"
+surname   = "Basmaison"
+username  = "arkhi"
+email     = "contact@arkhi.org"
 
 # Websites
 # ------------------------------------------------------------------------------
@@ -37,9 +37,9 @@ years = [
 
 [[accounts]]
 type = "Mastodon"
-url = "https://mamot.fr/@arkhi"
+url  = "https://mamot.fr/@arkhi"
 
 [[accounts]]
-type = "Last.fm"
-url = "https://last.fm/user/an_archi"
+type     = "Last.fm"
+url      = "https://last.fm/user/an_archi"
 username = "an_archi"

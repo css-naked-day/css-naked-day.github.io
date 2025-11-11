@@ -6,4 +6,4 @@ display = "strimble.com"
 [[websites]]
 url   = "http://strimble.com/"
 title = "strimble.com"
-years = [2009]
+years = [ 2009 ]

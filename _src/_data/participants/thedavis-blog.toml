@@ -6,4 +6,4 @@ display = "TheDavis Blog"
 [[websites]]
 url   = "http://arpaneting.es/"
 title = "TheDavis Blog"
-years = [2009]
+years = [ 2009 ]

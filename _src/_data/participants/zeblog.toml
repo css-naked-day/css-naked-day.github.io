@@ -6,4 +6,4 @@ display = "Zeblog"
 [[websites]]
 url   = "http://blog.zepont.hu/"
 title = "Zeblog"
-years = [2007]
+years = [ 2007 ]

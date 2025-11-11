@@ -6,4 +6,4 @@ display = "CSH Blog"
 [[websites]]
 url   = "http://clauber.coffeebreakers.org/"
 title = "CSH Blog"
-years = [2008]
+years = [ 2008 ]

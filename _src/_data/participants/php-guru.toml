@@ -6,4 +6,7 @@ display = "PHP Guru"
 [[websites]]
 url   = "http://www.phpguru.cz/"
 title = "PHP Guru"
-years = [2008,2009]
+years = [
+	2008,
+	2009 
+]

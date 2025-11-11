@@ -6,4 +6,4 @@ display = "pur*log"
 [[websites]]
 url   = "http://purpr.in/blog/"
 title = "pur*log"
-years = [2007]
+years = [ 2007 ]

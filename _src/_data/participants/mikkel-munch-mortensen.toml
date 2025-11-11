@@ -5,4 +5,7 @@ display = "Mikkel Munch Mortensen"
 
 [[websites]]
 url   = "https://www.detfalskested.dk/"
-years = [2024,2025]
+years = [
+	2024,
+	2025 
+]

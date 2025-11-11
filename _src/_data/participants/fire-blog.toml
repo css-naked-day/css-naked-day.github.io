@@ -6,4 +6,4 @@ display = "fire blog!"
 [[websites]]
 url   = "http://www.fireblog.net/"
 title = "fire blog!"
-years = [2007]
+years = [ 2007 ]

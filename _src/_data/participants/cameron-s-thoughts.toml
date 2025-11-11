@@ -6,4 +6,7 @@ display = "Cameron’s Thoughts"
 [[websites]]
 url   = "http://www.cbulock.com/"
 title = "Cameron’s Thoughts"
-years = [2008,2009]
+years = [
+	2008,
+	2009 
+]

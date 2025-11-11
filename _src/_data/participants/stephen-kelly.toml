@@ -6,4 +6,7 @@ display = "Stephen Kelly"
 [[websites]]
 url   = "http://www.twoplayer.net/"
 title = "Stephen Kelly"
-years = [2007,2008]
+years = [
+	2007,
+	2008 
+]

@@ -6,9 +6,12 @@ display = "rlog"
 [[websites]]
 url   = "http://rlog.cn/blog"
 title = "rlog"
-years = [2007]
+years = [ 2007 ]
 
 [[websites]]
 url   = "http://rlog.cn/"
 title = "Rlog"
-years = [2008,2009]
+years = [
+	2008,
+	2009 
+]

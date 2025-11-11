@@ -6,9 +6,12 @@ display = "deutism"
 [[websites]]
 url   = "http://mydeute.com/txp/"
 title = "deutism"
-years = [2007,2008]
+years = [
+	2007,
+	2008 
+]
 
 [[websites]]
 url   = "http://mydeute.com/"
 title = "deutism"
-years = [2009]
+years = [ 2009 ]

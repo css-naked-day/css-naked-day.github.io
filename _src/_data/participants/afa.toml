@@ -6,4 +6,4 @@ display = "afa"
 [[websites]]
 url   = "http://www.example.com/"
 title = "afa"
-years = [2009]
+years = [ 2009 ]

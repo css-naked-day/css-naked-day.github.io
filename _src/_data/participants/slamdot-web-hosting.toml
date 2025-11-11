@@ -6,4 +6,4 @@ display = "Slamdot web hosting"
 [[websites]]
 url   = "http://www.slamdot.com/"
 title = "Slamdot web hosting"
-years = [2009]
+years = [ 2009 ]

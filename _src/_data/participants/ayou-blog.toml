@@ -6,4 +6,4 @@ display = "AYOU-BLOG"
 [[websites]]
 url   = "http://ayou.info/"
 title = "AYOU-BLOG"
-years = [2007]
+years = [ 2007 ]

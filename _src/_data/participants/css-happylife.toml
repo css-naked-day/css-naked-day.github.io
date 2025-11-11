@@ -6,4 +6,7 @@ display = "CSS HappyLife"
 [[websites]]
 url   = "http://css-happylife.com/"
 title = "CSS HappyLife"
-years = [2008,2009]
+years = [
+	2008,
+	2009 
+]

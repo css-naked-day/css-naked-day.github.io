@@ -6,4 +6,4 @@ display = "Cheney’s blog"
 [[websites]]
 url   = "http://my.opera.com/iCheney"
 title = "Cheney’s blog"
-years = [2007]
+years = [ 2007 ]

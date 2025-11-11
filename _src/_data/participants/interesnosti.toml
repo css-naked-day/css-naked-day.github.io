@@ -6,4 +6,7 @@ display = "IнTересности"
 [[websites]]
 url   = "http://blog.petrusha.name/"
 title = "IнTересности"
-years = [2008,2009]
+years = [
+	2008,
+	2009 
+]

@@ -6,4 +6,4 @@ display = "wnas"
 [[websites]]
 url   = "http://www.wnas.nl/"
 title = "wnas"
-years = [2008]
+years = [ 2008 ]

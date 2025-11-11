@@ -6,4 +6,4 @@ display = "DSNG blog"
 [[websites]]
 url   = "http://blog.dsng.hu/"
 title = "DSNG blog"
-years = [2008]
+years = [ 2008 ]

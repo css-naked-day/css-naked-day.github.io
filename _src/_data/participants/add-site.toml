@@ -6,4 +6,4 @@ display = "add site"
 [[websites]]
 url   = "http://comline.awardspace.com/"
 title = "add site"
-years = [2008]
+years = [ 2008 ]

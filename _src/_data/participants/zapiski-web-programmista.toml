@@ -6,4 +6,4 @@ display = "Записки web-программиста"
 [[websites]]
 url   = "http://izra.ru/"
 title = "Записки web-программиста"
-years = [2009]
+years = [ 2009 ]

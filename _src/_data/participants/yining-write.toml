@@ -6,4 +6,7 @@ display = "Yining.write()"
 [[websites]]
 url   = "http://www.yining.org/"
 title = "Yining.write()"
-years = [2008,2009]
+years = [
+	2008,
+	2009 
+]

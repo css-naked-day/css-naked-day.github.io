@@ -6,4 +6,7 @@ display = "XHTML.COM"
 [[websites]]
 url   = "http://xhtml.com/"
 title = "XHTML.COM"
-years = [2007,2008]
+years = [
+	2007,
+	2008 
+]

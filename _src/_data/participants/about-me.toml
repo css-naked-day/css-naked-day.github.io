@@ -6,4 +6,4 @@ display = "about:me"
 [[websites]]
 url   = "http://www.milanvit.net/"
 title = "about:me"
-years = [2007]
+years = [ 2007 ]

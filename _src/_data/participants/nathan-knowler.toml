@@ -5,4 +5,8 @@ display = "Nathan Knowler"
 
 [[websites]]
 url   = "https://knowler.dev/"
-years = [2023,2024,2025]
+years = [
+	2023,
+	2024,
+	2025 
+]

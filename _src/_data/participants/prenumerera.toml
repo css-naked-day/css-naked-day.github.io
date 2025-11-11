@@ -6,4 +6,4 @@ display = "Prenumerera"
 [[websites]]
 url   = "http://www.magazines.se/"
 title = "Prenumerera"
-years = [2008]
+years = [ 2008 ]

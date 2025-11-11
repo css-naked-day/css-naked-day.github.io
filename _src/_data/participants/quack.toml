@@ -6,4 +6,4 @@ display = "Quack"
 [[websites]]
 url   = "http://www.quackpipe.com"
 title = "Quack"
-years = [2008]
+years = [ 2008 ]
