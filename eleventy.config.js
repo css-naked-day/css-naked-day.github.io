@@ -18,12 +18,6 @@ export default function (eleventyConfig) {
 	// Allow to parse Toml files for Global data.
 	eleventyConfig.addDataExtension('toml', (contents) => toml.parse(contents));
 
-	eleventyConfig.setFrontMatterParsingOptions({
-		engines: {
-			toml: toml.parse.bind(toml),
-		},
-	});
-
 	eleventyConfig.addFilter('getParticipantDisplayName', (participant) => {
 		// TODO: Either get current year’s website, or use the filename.
 		const websiteURL = participant.websites[0].url;

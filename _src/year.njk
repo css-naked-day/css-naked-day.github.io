@@ -1,9 +1,9 @@
----toml
-	[pagination]
-		data = "participants"
-		size = 1
-		alias = "year"
-	permalink = "/{{ year }}.html"
+---
+  pagination:
+    data: participants
+    size: 1
+    alias: year
+  permalink: /{{ year | slugify }}.html
 ---
 
 {# See `pagination.before` in separate year.11tydata.js. #}
