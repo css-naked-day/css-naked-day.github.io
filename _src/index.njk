@@ -39,12 +39,12 @@
 					<h3><a id="editions" href="#editions">CSS Naked Day editions</a></h3>
 
 					<ul>
-						{% for edition in editions | reverse %}
+						{% for year in range(globals.yearStart, globals.yearCurrent + 1) | reverse %}
 							<li>
-								{% if edition.participants | length %}
-									<a href="{{ edition.year | slugify }}.html">{{ edition.year }}</a>
+								{% if participationsCount[year] > 0 %}
+									<a href="{{ year | slugify }}.html">{{ year }}</a>
 								{% else %}
-									{{ edition.year }}
+									{{ year }}
 								{% endif %}
 							</li>
 						{% endfor %}

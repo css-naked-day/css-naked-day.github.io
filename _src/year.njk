@@ -36,11 +36,11 @@
 					<p>
 						<a href="/">Home</a>
 
-						{% for edition in editions %}
-							{% if edition.participants | length %}
-								· <a href="{{ edition.year | slugify }}.html">{{ edition.year }}</a>
+						{% for year in range(globals.yearStart, globals.yearCurrent + 1) %}
+							{% if participationsCount[year] > 0 %}
+								· <a href="{{ year | slugify }}.html">{{ year }}</a>
 							{% else %}
-								· {{ edition.year }}
+								· {{ year }}
 							{% endif %}
 						{% endfor %}
 					</p>
@@ -48,25 +48,21 @@
 					<h3>Kudos to these websites who got naked in {{ year }}!</h3>
 
 					<ol>
-						{# We use both editions and participants as Global Data. #}
-						{% for edition in editions %}
-							{% if edition.year === year %}
-								{% for filename, websites in edition.participants %}
-									{% set participant = participants[filename] %}
+						{% for filename, participations in participations | getParticipantsForYear(year) | groupby('participant') %}
+							{% set participant = participants[filename] %}
+							{% set websites = participant.websites | getWebsitesForYear(year) %}
 
-									<li>
-										{%- if websites | length === 1 -%}
-											{% linkNoSpam 'getParticipantDisplayName', websites[0], participant, year %}
-										{%- else -%}
-											{{ participant | getParticipantDisplayName }}:
+							<li>
+								{%- if websites | length === 1 -%}
+									{% linkNoSpam 'getParticipantDisplayName', websites[0].url, participant, year %}
+								{%- else -%}
+									{{ participant | getParticipantDisplayName }}:
 
-											{% for website in websites -%}
-												{% linkNoSpam 'getSiteTitle', website, participant, year, loop.index0 %}
-											{%- endfor %}
-										{% endif %}
-									</li>
-								{% endfor %}
-							{% endif %}
+									{% for website in websites -%}
+										{% linkNoSpam 'getSiteTitle', website.url, participant, year, loop.index0 %}
+									{%- endfor %}
+								{% endif %}
+							</li>
 						{% endfor %}
 					</ol>
 
