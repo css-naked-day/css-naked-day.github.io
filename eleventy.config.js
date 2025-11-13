@@ -43,7 +43,7 @@ export default function (eleventyConfig) {
 	// Return website matching url and year.
 	// This allows to have different configurations for different years.
 	// This is uSeful for prefix and suffix which might need different values depending on the year.
-	eleventyConfig.addFilter('getSiteData', (url, participant, year) => {
+	eleventyConfig.addFilter('getSiteData', (url, participant) => {
 		return participant.websites.find(website => website.url === url);
 	});
 
