@@ -50,18 +50,15 @@
 					<ol>
 						{% for filename, participations in participations | getParticipantsForYear(year) | groupby('participant') %}
 							{% set participant = participants[filename] %}
-							{% set websites = participant.websites | getWebsitesForYear(year) %}
+							{% set websites = participant | getParticipantWebsitesForYear(year) %}
 
 							<li>
 								{%- if websites | length === 1 -%}
-									{% linkNoSpam 'getParticipantDisplayName', websites[0].url, participant, year %}
+									{% linkNoSpam filename | getParticipantDisplayName, websites[0] %}
 								{%- else -%}
-									{{ participant | getParticipantDisplayName }}:
-
-									{% for website in websites -%}
-										{% linkNoSpam 'getSiteTitle', website.url, participant, year, loop.index0 %}
-									{%- endfor %}
-								{% endif %}
+									{{- filename | getParticipantDisplayName }}:
+									{% formatWebsitesForYear websites -%}
+								{% endif -%}
 							</li>
 						{% endfor %}
 					</ol>

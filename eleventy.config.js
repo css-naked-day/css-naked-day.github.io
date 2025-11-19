@@ -24,37 +24,35 @@ export default function (eleventyConfig) {
 	// Filters
 	// ===============================================================================================
 
-	// Global data filters.
-	// ---------------------------------------------------------------------------
-
-	eleventyConfig.addFilter('getParticipantDisplayName', (participant) => {
-		// TODO: Either get current year’s website, or use the filename.
-		const websiteURL = participant.websites[0].url;
-
-		return participant.display ?? participant.username ?? getWebsiteDomain(websiteURL);
-	});
-
-	eleventyConfig.addFilter('getSiteTitle', (url, participant) => {
-		const website = participant.websites.find(website => website.url === url);
-
+	eleventyConfig.addFilter('getSiteTitle', function(website) {
 		return website.title ?? getWebsiteDomain(website.url);
 	});
 
-	// Return website matching url and year.
-	// This allows to have different configurations for different years.
-	// This is uSeful for prefix and suffix which might need different values depending on the year.
-	eleventyConfig.addFilter('getSiteData', (url, participant) => {
-		return participant.websites.find(website => website.url === url);
+	// Global data filters.
+	// ---------------------------------------------------------------------------
+
+	eleventyConfig.addFilter('getParticipantDisplayName', function(filename) {
+		const participant = this.ctx.participants[filename];
+
+		return participant.display ?? participant.username ?? filename;
 	});
 
-	eleventyConfig.addFilter('getWebsitesForYear', (websites, year) => {
-		return websites.filter(website => website.years.includes(year));
+	eleventyConfig.addFilter('getParticipantWebsitesForYear', function(participant, year) {
+		return participant.websites.filter(website => website.years.includes(year));
 	});
 
 	// eleventyComputed data filters.
 	// ---------------------------------------------------------------------------
 
-	eleventyConfig.addFilter('getParticipantsForYear', (participations, year) => {
+	/**
+	 * Get all participants from the eleventyComputed data.
+	 * See {@link https://www.11ty.dev/docs/data-computed/|eleventyComputed}.
+	 *
+	 * @param  {array}  participations - {year, filename}[]
+	 * @param  {number} year           - target year
+	 * @return {array}  year’s participations - {year, filename}[]
+	 */
+	eleventyConfig.addFilter('getParticipantsForYear', function(participations, year) {
 		return participations
 			.filter(participation => participation.year === year)
 			.sort((a, b) => a.participant > b.participant ? 1 : -1);
@@ -63,37 +61,47 @@ export default function (eleventyConfig) {
 	// Shortcodes
 	// ===============================================================================================
 
-	eleventyConfig.addShortcode('linkNoSpam', function(callback, url, participant, year, loopIndex0) {
-		const website = eleventyConfig.getFilter('getSiteData')(url, participant, year);
-
-		if(!website) {
-			return;
-		};
-
-		let title, prefix, suffix, separator;
-
-		if (callback === 'getSiteTitle') {
-			title  = eleventyConfig.getFilter('getSiteTitle')(url, participant);
-			prefix = website.prefix;
-			suffix = website.suffix;
-		} else {
-			title = eleventyConfig.getFilter('getParticipantDisplayName')(participant);
-		}
-
-		if (website.separator === undefined && loopIndex0) {
-			separator = loopIndex0 > 1 ? ' & ' : ', ';
-		}
-
-		if (!website.url) {
-			return title;
-		}
-
-		if (website.spam) {
-			return website.url;
-		}
-
-		return `${separator ?? ''}${prefix ?? ''}<a href="${website.url}">${title}</a>${suffix ?? ''}`
+	/**
+	 * Display the URL of the website without a link if it is marked as spam.
+	 *
+	 * @param  {string} title   - Anchor of the link
+	 * @param  {Object} website - {url, [spam]}
+	 * @return {string}         - Formatted link or URL as string
+	 */
+	eleventyConfig.addShortcode('linkNoSpam', function(title, website) {
+		return website.spam ? website.url : `<a href="${website.url}">${title}</a>`;
 	});
+
+	/**
+	 * Format websites as _website 1, website 2 & website 3_ by default.
+	 * Use separator, prefix or suffix properties otherwise.
+	 *
+	 * @param  {array} websites - {url, [title], [prefix], [suffix], [separator], years[]}[]
+	 * @return {string}         - Formatted string of links
+	 */
+	eleventyConfig.addShortcode('formatWebsitesForYear', function(websites) {
+		let output = '';
+
+		for(const website of websites) {
+			const title  = eleventyConfig.getFilter('getSiteTitle')(website);
+			const link   = eleventyConfig.getShortcode('linkNoSpam')(title, website);;
+			const prefix = website.prefix ?? '';
+			const suffix = website.suffix ?? '';
+
+			let loopIndex = websites.indexOf(website);
+			let separator = '';
+
+			if (loopIndex > 0 && website.separator === undefined) {
+				separator = loopIndex > 1 ? ' & ' : ', ';
+			}
+
+			output += `${separator}${prefix}${link}${suffix}`;
+		}
+
+		return output;
+	});
+
+	// ===============================================================================================
 
 	return {
 		htmlTemplateEngine: 'njk',

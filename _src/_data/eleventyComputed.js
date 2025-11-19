@@ -24,7 +24,7 @@ export default {
 		for(const participation of data.participations) {
 			const yearCount = participationsCount[participation.year];
 
-			participationsCount[participation.year] = yearCount
+			participationsCount[participation.year] = yearCount > 0
 				? participationsCount[participation.year] + 1
 				: 1;
 		};
