@@ -86,7 +86,8 @@
 
 	header h1 {
 		font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif;
-		font-size: 48px; font-weight: 900;
+		font-size: 48px;
+		font-weight: 900;
 		line-height: 1.2;
 		color: #303030;
 		letter-spacing: -1px;
