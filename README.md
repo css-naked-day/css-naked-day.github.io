@@ -4,7 +4,7 @@
 
 If you’re participating, add or update a [file in participants](https://github.com/css-naked-day/css-naked-day.github.io/tree/issues/160-refactor-eleventy/_src/_data/participants)!
 
-If you have been participating and are not listed, feel free to make a Pull Request and give us reasonable clues. A link to the [Web archive](https://web.archive.org/web/https://css-naked-day.org/) is always welcome, but you might also point to articles or online mentions of your participation.
+If you have been participating and are not listed, feel free to make a pull request and give us reasonable clues. A link to [an archive URL documenting your participation](https://web.archive.org/) is ideal, but you might also point to articles or online mentions of your participation.
 
 Welcome to CSS Naked Day!
 
