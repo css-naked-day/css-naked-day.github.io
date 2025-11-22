@@ -94,7 +94,7 @@ type = "Mastodon"
 url  = "https://mas.to.don/@jelm"
 
 [[accounts]]
-type     = "Github"
+type     = "GitHub"
 url      = "https://github.com/jelm.github"
 username = "jelm.github"                    # [optional] The main one is used by default
 ```
@@ -114,7 +114,6 @@ npm run build
 ```bash
 npm run dev
 ```
-
 
 [css-naked-day.org]: https://css-naked-day.org/
 [Naked Days Corp]: https://css-naked-day.org/
