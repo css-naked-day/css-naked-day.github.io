@@ -1,0 +1,9 @@
+display = "Michael Gall"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://wakeless.net/"
+title = "Michael Gall"
+years = [ 2006 ]

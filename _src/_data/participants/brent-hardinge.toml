@@ -1,0 +1,9 @@
+display = "Brent Hardinge"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://brenthardinge.net/"
+title = "Brent Hardinge"
+years = [ 2009 ]

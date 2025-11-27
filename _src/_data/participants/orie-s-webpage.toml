@@ -1,0 +1,9 @@
+display = "orie’s webpage"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://orie.msk.ru/"
+title = "orie’s webpage"
+years = [ 2008 ]

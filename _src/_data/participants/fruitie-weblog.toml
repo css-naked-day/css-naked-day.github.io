@@ -1,0 +1,9 @@
+display = "Fruitie.Weblog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.fruitie.cn/blog"
+title = "Fruitie.Weblog"
+years = [ 2008 ]

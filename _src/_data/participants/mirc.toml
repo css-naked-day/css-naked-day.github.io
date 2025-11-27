@@ -1,0 +1,9 @@
+display = "mirc"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.mirc.in/"
+title = "mirc"
+years = [ 2008 ]

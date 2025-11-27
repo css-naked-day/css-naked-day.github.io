@@ -1,0 +1,9 @@
+display = "Mega Tokio (Vesa Piittinen)"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.megatokio.com/"
+title = "Mega Tokio (Vesa Piittinen)"
+years = [ 2006 ]

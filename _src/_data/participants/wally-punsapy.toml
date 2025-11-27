@@ -1,0 +1,9 @@
+display = "Wally Punsapy"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://yahooza.com/"
+title = "Wally Punsapy"
+years = [ 2009 ]

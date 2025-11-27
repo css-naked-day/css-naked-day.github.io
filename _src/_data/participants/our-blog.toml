@@ -1,0 +1,9 @@
+display = "Our Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://lolicalee.com/"
+title = "Our Blog"
+years = [ 2008 ]

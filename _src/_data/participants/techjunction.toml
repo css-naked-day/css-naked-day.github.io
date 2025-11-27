@@ -1,0 +1,9 @@
+display = "TechJunction"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://eequalsmcsquare.com/technews/"
+title = "TechJunction"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Amused’s Jogger"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://i.jogger.pl/"
+title = "Amused’s Jogger"
+years = [ 2007 ]

@@ -1,0 +1,9 @@
+display = "Deadly’s Project"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.deadpro.com/"
+title = "Deadly’s Project"
+years = [ 2008 ]

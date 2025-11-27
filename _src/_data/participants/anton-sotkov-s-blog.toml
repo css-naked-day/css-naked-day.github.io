@@ -1,0 +1,9 @@
+display = "Anton Sotkov’s Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://amaxskv.com/"
+title = "Anton Sotkov’s Blog"
+years = [ 2008 ]

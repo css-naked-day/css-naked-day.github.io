@@ -1,0 +1,14 @@
+display = "SEO ツール"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://value-seo.biz/"
+title = "SEO ツール"
+years = [ 2008 ]
+
+[[websites]]
+url   = "http://yeeseo.com/"
+title = "成都易优-SEO专家"
+years = [ 2009 ]

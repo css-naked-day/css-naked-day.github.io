@@ -1,0 +1,9 @@
+display = "Adam Norwood"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.asnorwood.com/"
+title = "Adam Norwood"
+years = [ 2007 ]

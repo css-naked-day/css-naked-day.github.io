@@ -1,0 +1,9 @@
+display = "Goingstrange.Org"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://goingstrange.org/"
+title = "Goingstrange.Org"
+years = [ 2007 ]

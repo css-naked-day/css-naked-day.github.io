@@ -1,0 +1,9 @@
+display = "Karina Humboldt"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.karina-humboldt.de/"
+title = "Karina Humboldt"
+years = [ 2009 ]

@@ -1,0 +1,9 @@
+display = "Horizont Hang Gliding Club"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://horizont.hanggliding.ru/"
+title = "Horizont Hang Gliding Club"
+years = [ 2008 ]

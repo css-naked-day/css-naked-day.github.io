@@ -1,0 +1,9 @@
+display = "Jerry Nummi"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://nummi.org/"
+title = "Jerry Nummi"
+years = [ 2007 ]

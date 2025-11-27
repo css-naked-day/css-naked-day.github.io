@@ -1,0 +1,9 @@
+display = "William Paoli"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.williampaoli.com/"
+title = "William Paoli"
+years = [ 2007 ]

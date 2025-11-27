@@ -1,0 +1,9 @@
+display = "Pradeep Nair"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://pradx.org/"
+title = "Pradeep Nair"
+years = [ 2008 ]

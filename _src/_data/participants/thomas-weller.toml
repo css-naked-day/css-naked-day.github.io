@@ -1,0 +1,9 @@
+display = "Thomas Weller"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.thomasweller.de/"
+title = "Thomas Weller"
+years = [ 2007 ]

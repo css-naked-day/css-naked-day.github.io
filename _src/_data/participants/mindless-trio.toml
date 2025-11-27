@@ -1,0 +1,9 @@
+display = "Mindless Trio"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://mindlesstrio.com/"
+title = "Mindless Trio"
+years = [ 2007 ]

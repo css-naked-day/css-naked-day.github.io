@@ -1,0 +1,9 @@
+display = "Dimitri Giani"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.dimix.it/"
+title = "Dimitri Giani"
+years = [ 2007 ]

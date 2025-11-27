@@ -1,0 +1,9 @@
+display = "Colemanitis"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.colemanitis.com/"
+title = "Colemanitis"
+years = [ 2006 ]

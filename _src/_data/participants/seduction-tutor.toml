@@ -1,0 +1,9 @@
+display = "Seduction Tutor"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.seductiontutor.com/"
+title = "Seduction Tutor"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Take a look [at] our world"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.the-world-in-our-eyes.de/"
+title = "Take a look [at] our world"
+years = [ 2007 ]

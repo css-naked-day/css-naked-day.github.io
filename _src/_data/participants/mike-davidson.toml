@@ -1,0 +1,9 @@
+display = "Mike Davidson"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.mikeindustries.com/blog/"
+title = "Mike Davidson"
+years = [ 2006 ]

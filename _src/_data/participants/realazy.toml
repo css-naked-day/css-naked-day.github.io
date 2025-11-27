@@ -1,0 +1,9 @@
+display = "realazy"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://realazy.org/blog/"
+title = "realazy"
+years = [ 2008 ]

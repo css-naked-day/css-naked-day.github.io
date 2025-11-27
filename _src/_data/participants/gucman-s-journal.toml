@@ -1,0 +1,9 @@
+display = "Gucman’s Journal"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://gucman.jogger.pl/"
+title = "Gucman’s Journal"
+years = [ 2008 ]

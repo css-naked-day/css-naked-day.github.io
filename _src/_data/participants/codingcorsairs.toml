@@ -1,0 +1,9 @@
+display = "CodingCorsairs"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://codingcorsairs.com/"
+title = "CodingCorsairs"
+years = [ 2009 ]

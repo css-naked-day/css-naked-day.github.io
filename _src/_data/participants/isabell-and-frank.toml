@@ -1,0 +1,9 @@
+display = "Isabell&Frank"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.isabellundfrank.de"
+title = "Isabell&amp;Frank"
+years = [ 2008 ]

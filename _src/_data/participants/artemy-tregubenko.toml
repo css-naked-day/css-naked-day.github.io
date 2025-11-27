@@ -1,0 +1,9 @@
+display = "Artemy Tregubenko"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://arty.name/"
+title = "Artemy Tregubenko"
+years = [ 2008 ]

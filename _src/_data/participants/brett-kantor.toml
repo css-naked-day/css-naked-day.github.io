@@ -1,0 +1,9 @@
+display = "Brett Kantor"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.w3designhost.com/"
+title = "Brett Kantor"
+years = [ 2006 ]

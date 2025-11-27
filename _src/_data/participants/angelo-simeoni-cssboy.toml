@@ -1,0 +1,9 @@
+display = "Angelo Simeoni, cssboy"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://cssboy.com/"
+title = "Angelo Simeoni, cssboy"
+years = [ 2009 ]

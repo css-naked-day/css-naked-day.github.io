@@ -1,0 +1,9 @@
+display = "Seven Toes"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.mebluedragon.com/"
+title = "Seven Toes"
+years = [ 2006 ]

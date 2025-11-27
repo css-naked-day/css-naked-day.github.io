@@ -1,0 +1,9 @@
+display = "Jody Ferrell"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://jodyferrell.com/"
+title = "Jody Ferrell"
+years = [ 2008 ]

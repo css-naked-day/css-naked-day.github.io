@@ -1,0 +1,9 @@
+display = "Cédric Bonvin"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.visionlibre.net/"
+title = "Cédric Bonvin"
+years = [ 2006 ]

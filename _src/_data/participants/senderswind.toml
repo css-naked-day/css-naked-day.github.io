@@ -1,0 +1,9 @@
+display = "Senderswind"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.senderswind.at/"
+title = "Senderswind"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Wuzetes jogger"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://wzs.jogger.pl/"
+title = "Wuzetes jogger"
+years = [ 2007 ]

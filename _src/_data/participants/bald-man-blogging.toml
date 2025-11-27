@@ -1,0 +1,9 @@
+display = "Bald Man Blogging"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.baldmanblogging.com"
+title = "Bald Man Blogging"
+years = [ 2008 ]

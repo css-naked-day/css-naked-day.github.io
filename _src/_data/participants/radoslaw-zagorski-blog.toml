@@ -1,0 +1,9 @@
+display = "Radosław Zagórski – blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.radoslawzagorski.com/"
+title = "Radosław Zagórski – blog"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "bujarek"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://mabuj.jogger.pl/"
+title = "bujarek"
+years = [ 2007 ]

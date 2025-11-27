@@ -1,0 +1,9 @@
+display = "webholics"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.webholics.de/"
+title = "webholics"
+years = [ 2008 ]

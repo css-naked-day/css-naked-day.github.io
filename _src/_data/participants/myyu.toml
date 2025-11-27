@@ -1,0 +1,9 @@
+display = "mYYu.宇"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.myyu.net/"
+title = "mYYu.宇"
+years = [ 2007 ]

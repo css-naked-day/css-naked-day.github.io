@@ -1,0 +1,9 @@
+display = "Oleg Puzanov Personal Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.oleg-puzanov.com.ua/"
+title = "Oleg Puzanov Personal Blog"
+years = [ 2008 ]

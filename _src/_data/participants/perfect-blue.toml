@@ -1,0 +1,14 @@
+display = "Perfect Blue"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://missz.net/blog"
+title = "Perfect Blue"
+years = [ 2008 ]
+
+[[websites]]
+url   = "http://missz.net/blog/"
+title = "Perfect Blue"
+years = [ 2009 ]

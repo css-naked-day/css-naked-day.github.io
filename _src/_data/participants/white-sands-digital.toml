@@ -1,0 +1,9 @@
+display = "White Sands Digital"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.whitesandsdigital.com/"
+title = "White Sands Digital"
+years = [ 2008 ]

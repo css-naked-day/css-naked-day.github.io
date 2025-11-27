@@ -1,0 +1,9 @@
+display = "Mats Lindblad"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://slipsnisse.se/"
+title = "Mats Lindblad"
+years = [ 2006 ]

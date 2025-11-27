@@ -1,0 +1,9 @@
+display = "Jesse Gardner"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.plasticmind.com/"
+title = "Jesse Gardner"
+years = [ 2006 ]

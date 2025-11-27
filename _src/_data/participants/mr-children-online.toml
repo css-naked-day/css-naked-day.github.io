@@ -1,0 +1,14 @@
+display = "Mr.Children online"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://mrchildren-fan.net/"
+title = "mrchildren-fan.net"
+years = [ 2008 ]
+
+[[websites]]
+url   = "http://labs.alfasado.net/naked.cgi/cssnakedday/http://mrchildren-fan.net/"
+title = "alfasado.net"
+years = [ 2008 ]

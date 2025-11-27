@@ -1,0 +1,9 @@
+display = "Wehrschloss Konzerte"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.wehrschlosskonzerte.de/"
+title = "Wehrschloss Konzerte"
+years = [ 2009 ]

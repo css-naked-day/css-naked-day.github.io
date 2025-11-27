@@ -1,0 +1,9 @@
+display = "gnaw0725 administration log"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://gnaw0725.blogbus.com/"
+title = "gnaw0725 administration log"
+years = [ 2007 ]

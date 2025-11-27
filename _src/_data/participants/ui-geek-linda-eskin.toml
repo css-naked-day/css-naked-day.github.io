@@ -1,0 +1,9 @@
+display = "UI Geek – Linda Eskin"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.uigeek.com/"
+title = "UI Geek – Linda Eskin"
+years = [ 2008 ]

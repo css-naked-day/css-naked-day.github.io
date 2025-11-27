@@ -1,0 +1,12 @@
+display = "Logon.com.pt"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://logon.com.pt/"
+title = "Logon.com.pt"
+years = [
+	2007,
+	2008 
+]

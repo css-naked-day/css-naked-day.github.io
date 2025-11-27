@@ -1,0 +1,9 @@
+display = "Griffonia"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.voacanga-africana.com.gh/griffonia/"
+title = "Griffonia"
+years = [ 2007 ]

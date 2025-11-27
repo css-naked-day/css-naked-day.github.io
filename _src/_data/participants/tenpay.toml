@@ -1,0 +1,9 @@
+display = "tenpay"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.tenpay.com/"
+title = "tenpay"
+years = [ 2008 ]

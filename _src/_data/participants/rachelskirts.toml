@@ -1,0 +1,9 @@
+display = "Rachelskirts"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.rachelskirts.com/"
+title = "Rachelskirts"
+years = [ 2008 ]

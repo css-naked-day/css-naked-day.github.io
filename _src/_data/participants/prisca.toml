@@ -1,0 +1,9 @@
+display = "prisca"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.graphiceyedea.info/wordpress"
+title = "prisca"
+years = [ 2008 ]

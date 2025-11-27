@@ -1,0 +1,9 @@
+display = "Pollinimini.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://pollinimini.net/"
+title = "Pollinimini.net"
+years = [ 2009 ]

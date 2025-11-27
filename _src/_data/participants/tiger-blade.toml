@@ -1,0 +1,9 @@
+display = "Tiger Blade"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://tigerblade.net/"
+title = "Tiger Blade"
+years = [ 2006 ]

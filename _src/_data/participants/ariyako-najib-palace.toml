@@ -1,0 +1,9 @@
+display = "Ariyako ' Najib Palace"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.ariyako.org/"
+title = "Ariyako &#39; Najib Palace"
+years = [ 2008 ]

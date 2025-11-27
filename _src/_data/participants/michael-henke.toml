@@ -1,0 +1,9 @@
+display = "Michael Henke"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.aphex3k.de/"
+title = "Michael Henke"
+years = [ 2008 ]

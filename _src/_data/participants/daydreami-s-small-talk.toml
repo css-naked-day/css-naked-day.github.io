@@ -1,0 +1,9 @@
+display = "Daydreami’s small talk"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://daydreami.tistory.com/"
+title = "Daydreami’s small talk"
+years = [ 2008 ]

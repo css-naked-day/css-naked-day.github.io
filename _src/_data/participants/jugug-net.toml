@@ -1,0 +1,9 @@
+display = "희주의 블로그 : jugug.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://jugug.net/"
+title = "희주의 블로그 : jugug.net"
+years = [ 2008 ]

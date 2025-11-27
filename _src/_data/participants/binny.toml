@@ -1,0 +1,9 @@
+display = "Binny"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.bin-co.com/"
+title = "Binny"
+years = [ 2006 ]

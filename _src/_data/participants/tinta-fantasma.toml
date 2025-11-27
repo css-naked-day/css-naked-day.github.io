@@ -1,0 +1,9 @@
+display = "Tinta Fantasma"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://tintafantasma.net/"
+title = "Tinta Fantasma"
+years = [ 2007 ]

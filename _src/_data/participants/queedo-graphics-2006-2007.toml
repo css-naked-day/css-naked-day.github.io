@@ -1,0 +1,9 @@
+display = "queedo graphics 2006-2007"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://queedo.xt.pl/"
+title = "queedo graphics 2006-2007"
+years = [ 2007 ]

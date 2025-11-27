@@ -1,0 +1,9 @@
+display = "Ryan Rampersad’s blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://ryan.ifupdown.com/"
+title = "Ryan Rampersad’s blog"
+years = [ 2009 ]

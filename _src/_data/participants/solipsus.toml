@@ -1,0 +1,9 @@
+display = "Solipsus"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.solipsus.com/"
+title = "Solipsus"
+years = [ 2007 ]

@@ -1,0 +1,9 @@
+display = "CSS smooth operator"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://csssmoothoperator.com/"
+title = "CSS smooth operator"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Liechtenecker"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.liechtenecker.at/"
+title = "Liechtenecker"
+years = [ 2008 ]

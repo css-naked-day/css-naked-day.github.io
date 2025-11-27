@@ -1,0 +1,9 @@
+display = "Mrmil.cz"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.mrmil.cz/"
+title = "Mrmil.cz"
+years = [ 2008 ]

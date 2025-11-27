@@ -1,0 +1,17 @@
+display   = "David Roessli"
+firstname = "David"
+surname   = "Roessli"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://davidroessli.com/"
+years = [
+	2020,
+	2021,
+	2022,
+	2023,
+	2024,
+	2025,
+]

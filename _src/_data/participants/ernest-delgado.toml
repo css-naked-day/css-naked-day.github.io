@@ -1,0 +1,9 @@
+display = "Ernest Delgado"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://ernestdelgado.com/"
+title = "Ernest Delgado"
+years = [ 2009 ]

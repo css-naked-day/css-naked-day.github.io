@@ -1,0 +1,10 @@
+display = "Frontend Dogma"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://frontenddogma.com/"
+title = "Frontend Dogma"
+years = [ 2025 ]
+

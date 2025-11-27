@@ -1,0 +1,9 @@
+display = "Few Against Many"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://fewagainstmany.com/"
+title = "Few Against Many"
+years = [ 2007 ]

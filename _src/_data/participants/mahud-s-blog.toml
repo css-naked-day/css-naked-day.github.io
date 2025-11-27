@@ -1,0 +1,9 @@
+display = "Mahud’s blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.mahudsblog.ourgardenpath.com/"
+title = "Mahud’s blog"
+years = [ 2007 ]

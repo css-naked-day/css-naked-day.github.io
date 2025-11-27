@@ -1,0 +1,14 @@
+display = "Neil Kelty"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.neilkelty.com/"
+title = "Neil Kelty"
+years = [ 2007 ]
+
+[[websites]]
+url   = "http://neilkelty.com/"
+title = "Neil Kelty"
+years = [ 2008 ]

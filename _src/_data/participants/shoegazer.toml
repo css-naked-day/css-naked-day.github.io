@@ -1,0 +1,9 @@
+display = "Shoegazer"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.shoegazer.cn/"
+title = "Shoegazer"
+years = [ 2007 ]

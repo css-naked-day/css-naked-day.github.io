@@ -1,0 +1,9 @@
+display = "MartinŠimon.cz"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.martinsimon.cz/"
+title = "MartinŠimon.cz"
+years = [ 2007 ]

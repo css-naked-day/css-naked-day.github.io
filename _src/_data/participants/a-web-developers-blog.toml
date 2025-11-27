@@ -1,0 +1,9 @@
+display = "A Web Developers Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.jrtashjian.com/"
+title = "A Web Developers Blog"
+years = [ 2009 ]

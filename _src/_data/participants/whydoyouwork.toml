@@ -1,0 +1,9 @@
+display = "Whydoyouwork"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.whydoyouwork.com/"
+title = "Whydoyouwork"
+years = [ 2007 ]

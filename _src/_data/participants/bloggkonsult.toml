@@ -1,0 +1,9 @@
+display = "Bloggkonsult"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.bloggkonsult.se/"
+title = "Bloggkonsult"
+years = [ 2009 ]

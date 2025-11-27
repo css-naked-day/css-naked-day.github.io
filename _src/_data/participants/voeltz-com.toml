@@ -1,0 +1,9 @@
+display = "völtz.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://xn--vltz-5qa.com/"
+title = "völtz.com"
+years = [ 2008 ]

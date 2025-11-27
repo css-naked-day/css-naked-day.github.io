@@ -1,0 +1,9 @@
+display = "Shaunec.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.shaunec.com/"
+title = "Shaunec.com"
+years = [ 2008 ]

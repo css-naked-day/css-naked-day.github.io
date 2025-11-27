@@ -1,0 +1,9 @@
+display = "Mickey J Barczyk"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://mj.barczyk.se/blog/"
+title = "Mickey J Barczyk"
+years = [ 2008 ]

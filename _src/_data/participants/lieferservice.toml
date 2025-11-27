@@ -1,0 +1,9 @@
+display = "Lieferservice"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.foodo.de/"
+title = "Lieferservice"
+years = [ 2008 ]

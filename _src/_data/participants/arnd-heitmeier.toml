@@ -1,0 +1,9 @@
+display = "Arnd Heitmeier"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.netzturbine.de/"
+title = "Arnd Heitmeier"
+years = [ 2009 ]

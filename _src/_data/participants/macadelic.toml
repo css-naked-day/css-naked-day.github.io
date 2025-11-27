@@ -1,0 +1,9 @@
+display = "Macadelic"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.macadelic.de/"
+title = "Macadelic"
+years = [ 2009 ]

@@ -1,0 +1,9 @@
+display = "J&W Werbeagentur Braunschweig"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.jungundwillich.de/"
+title = "J&amp;W Werbeagentur Braunschweig"
+years = [ 2007 ]

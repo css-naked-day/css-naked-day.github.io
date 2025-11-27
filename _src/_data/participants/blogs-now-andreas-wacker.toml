@@ -1,0 +1,9 @@
+display = "Blogs Now (Andreas Wacker)"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.blogsnow.com/"
+title = "Blogs Now (Andreas Wacker)"
+years = [ 2006 ]

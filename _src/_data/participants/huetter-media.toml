@@ -1,0 +1,9 @@
+display = "Hütter media"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.huetter-media.de/"
+title = "Hütter media"
+years = [ 2008 ]

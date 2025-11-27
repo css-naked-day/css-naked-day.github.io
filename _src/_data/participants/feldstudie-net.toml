@@ -1,0 +1,9 @@
+display = "Feldstudie.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.feldstudie.net/"
+title = "Feldstudie.net"
+years = [ 2009 ]

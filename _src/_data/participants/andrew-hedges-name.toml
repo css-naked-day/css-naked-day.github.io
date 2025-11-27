@@ -1,0 +1,9 @@
+display = "andrew.hedges.name"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://andrew.hedges.name/blog/"
+title = "andrew.hedges.name"
+years = [ 2009 ]

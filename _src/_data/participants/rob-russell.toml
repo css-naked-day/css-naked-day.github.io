@@ -1,0 +1,14 @@
+display = "Rob Russell"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://rr.latenightpc.com/wp/"
+title = "Rob Russell"
+years = [ 2006 ]
+
+[[websites]]
+url   = "http://www.latenightpc.com/blog/"
+title = "Rob Russell"
+years = [ 2007 ]

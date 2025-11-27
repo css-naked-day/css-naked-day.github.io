@@ -1,0 +1,9 @@
+display = "younic.de"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.younic.de/"
+title = "younic.de"
+years = [ 2008 ]

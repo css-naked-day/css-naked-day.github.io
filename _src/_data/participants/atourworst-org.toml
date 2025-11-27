@@ -1,0 +1,12 @@
+display = "Atourworst.org"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://atourworst.org/"
+title = "Atourworst.org"
+years = [
+	2008,
+	2009 
+]

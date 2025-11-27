@@ -1,0 +1,12 @@
+display = "Inspired"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://inspired.kiev.ua/"
+title = "Inspired"
+years = [
+	2006,
+	2007 
+]

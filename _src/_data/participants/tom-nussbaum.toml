@@ -1,0 +1,8 @@
+display = "Tom Nussbaum"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://acidsugar.net/"
+years = [ 2006 ]

@@ -1,0 +1,9 @@
+display = "munkalap"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.marvanygranit.hu/"
+title = "munkalap"
+years = [ 2009 ]

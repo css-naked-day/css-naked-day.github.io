@@ -1,0 +1,9 @@
+display = "Jenny Adams"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://bookish.nu/"
+title = "Jenny Adams"
+years = [ 2008 ]

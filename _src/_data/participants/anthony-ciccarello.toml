@@ -1,0 +1,12 @@
+display = "Anthony Ciccarello"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://www.ciccarello.me/"
+years = [
+	2022,
+	2024,
+	2025 
+]

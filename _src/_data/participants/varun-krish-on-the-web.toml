@@ -1,0 +1,9 @@
+display = "varun krish on the web"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.varunkrish.com/"
+title = "varun krish on the web"
+years = [ 2007 ]

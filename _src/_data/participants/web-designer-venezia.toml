@@ -1,0 +1,9 @@
+display = "Web designer Venezia"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.claudiocugia.com/"
+title = "Web designer Venezia"
+years = [ 2009 ]

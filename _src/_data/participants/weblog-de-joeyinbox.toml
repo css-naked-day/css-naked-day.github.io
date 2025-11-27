@@ -1,0 +1,9 @@
+display = "WeBlog de JoEyInBoX"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.joeyinbox.net/"
+title = "WeBlog de JoEyInBoX"
+years = [ 2007 ]

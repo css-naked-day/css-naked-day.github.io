@@ -1,0 +1,9 @@
+display = "ProjectCRX"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://projectcrx.wordpress.com/"
+title = "ProjectCRX"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Libin Pan’s Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.libinpan.com/"
+title = "Libin Pan’s Blog"
+years = [ 2009 ]

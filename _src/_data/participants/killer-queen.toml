@@ -1,0 +1,9 @@
+display = "Killer Queen"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.killerqueen.com.mx/"
+title = "Killer Queen"
+years = [ 2007 ]

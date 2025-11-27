@@ -1,0 +1,9 @@
+display = "shpyo"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.shpyo.net/"
+title = "shpyo"
+years = [ 2007 ]

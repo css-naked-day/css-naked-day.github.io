@@ -1,0 +1,9 @@
+display = "Atomes de fiction"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://atomes.theothersite.be/"
+title = "Atomes de fiction"
+years = [ 2008 ]

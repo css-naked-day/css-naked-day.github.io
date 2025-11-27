@@ -1,0 +1,9 @@
+display = "nextnexus"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.nextnexus.de/"
+title = "nextnexus"
+years = [ 2008 ]

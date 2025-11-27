@@ -1,0 +1,9 @@
+display = "Bastian Widmer {blog.dasrecht.net}"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.dasrecht.net/"
+title = "Bastian Widmer {blog.dasrecht.net}"
+years = [ 2009 ]

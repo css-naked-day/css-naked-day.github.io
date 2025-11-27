@@ -1,0 +1,14 @@
+display = "Sung’s Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.sungsblog.com/"
+title = "Sung’s Blog"
+years = [ 2007 ]
+
+[[websites]]
+url   = "http://www,sungsblog.com"
+title = "Sung’s Blog"
+years = [ 2008 ]

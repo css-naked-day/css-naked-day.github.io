@@ -1,0 +1,9 @@
+display = "Minlo Technologies"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.minlotec.com/"
+title = "Minlo Technologies"
+years = [ 2007 ]

@@ -1,0 +1,9 @@
+display = "One Winged Angel Studio"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.owastudio.com/"
+title = "One Winged Angel Studio"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Punderings"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://shane.curcuru.name/blog/"
+title = "Punderings"
+years = [ 2009 ]

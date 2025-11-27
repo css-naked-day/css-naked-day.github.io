@@ -1,0 +1,9 @@
+display = "Blake Watson"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://blakewatson.com/"
+title = "Blake Watson"
+years = [ 2024 ]

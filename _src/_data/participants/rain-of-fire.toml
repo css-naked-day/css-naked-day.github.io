@@ -1,0 +1,9 @@
+display = "Rain of Fire"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://atdpweb.berkeley.edu/rainfire"
+title = "Rain of Fire"
+years = [ 2007 ]

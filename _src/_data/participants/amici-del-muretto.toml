@@ -1,0 +1,9 @@
+display = "amici del muretto"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.amicidelmuretto.org/"
+title = "amici del muretto"
+years = [ 2007 ]

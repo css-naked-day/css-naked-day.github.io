@@ -1,0 +1,9 @@
+display = "Hochzeitslocation"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.hochzeitslocation.biz/"
+title = "Hochzeitslocation"
+years = [ 2008 ]

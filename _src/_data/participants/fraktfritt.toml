@@ -1,0 +1,9 @@
+display = "Fraktfritt"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.fraktfritt.se/"
+title = "Fraktfritt"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Bibula alternatiff magazine"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://bibart.info/bibula/index.php"
+title = "Bibula alternatiff magazine"
+years = [ 2007 ]

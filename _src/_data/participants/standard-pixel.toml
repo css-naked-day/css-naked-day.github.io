@@ -1,0 +1,9 @@
+display = "Standard Pixel"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://standardpixel.com/"
+title = "Standard Pixel"
+years = [ 2008 ]

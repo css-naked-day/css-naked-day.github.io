@@ -1,0 +1,9 @@
+display = "Degalu kainos"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.degalukainos.lt/"
+title = "Degalu kainos"
+years = [ 2009 ]

@@ -1,0 +1,9 @@
+display = "Newpages"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.newpages.cn/"
+title = "Newpages"
+years = [ 2007 ]

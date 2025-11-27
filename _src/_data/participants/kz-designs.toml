@@ -1,0 +1,9 @@
+display = "Kz Designs"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.kstudioz.cl/"
+title = "Kz Designs"
+years = [ 2008 ]

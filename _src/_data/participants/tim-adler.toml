@@ -1,0 +1,9 @@
+display = "Tim Adler"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.tim-adler.com/"
+title = "Tim Adler"
+years = [ 2007 ]

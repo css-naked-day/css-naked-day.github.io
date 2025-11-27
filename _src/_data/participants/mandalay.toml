@@ -1,0 +1,9 @@
+display = "mandalay"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.mandalay.ru/"
+title = "mandalay"
+years = [ 2008 ]

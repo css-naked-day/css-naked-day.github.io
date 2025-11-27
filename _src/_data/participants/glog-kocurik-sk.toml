@@ -1,0 +1,9 @@
+display = "glog.kocurik.sk"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.kocurik.sk/"
+title = "glog.kocurik.sk"
+years = [ 2007 ]

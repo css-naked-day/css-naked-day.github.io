@@ -1,0 +1,9 @@
+display = "Kabarakh"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://kabarakh.de/"
+title = "Kabarakh"
+years = [ 2009 ]

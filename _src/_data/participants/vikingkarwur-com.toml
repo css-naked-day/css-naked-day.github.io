@@ -1,0 +1,9 @@
+display = "vikingkarwur.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.vikingkarwur.com/"
+title = "vikingkarwur.com"
+years = [ 2007 ]

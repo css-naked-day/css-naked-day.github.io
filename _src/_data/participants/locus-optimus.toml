@@ -1,0 +1,9 @@
+display = "Locus Optimus"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://locusoptimus.com/"
+title = "Locus Optimus"
+years = [ 2007 ]

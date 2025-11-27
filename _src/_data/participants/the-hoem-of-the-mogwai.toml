@@ -1,0 +1,9 @@
+display = "The hoem of the Mogwai"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.gizzmoasus.co.uk"
+title = "The hoem of the Mogwai"
+years = [ 2009 ]

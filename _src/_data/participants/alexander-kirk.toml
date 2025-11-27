@@ -1,0 +1,9 @@
+display = "Alexander Kirk"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://alexander.kirk.at/"
+title = "Alexander Kirk"
+years = [ 2007 ]

@@ -1,0 +1,9 @@
+display = "basgitarista"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://basgitarista.kadera.eu/"
+title = "basgitarista"
+years = [ 2009 ]

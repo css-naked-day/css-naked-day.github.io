@@ -1,0 +1,9 @@
+display = "www à la Ştef"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://stef.hoopla.ro/"
+title = "www à la Ştef"
+years = [ 2008 ]

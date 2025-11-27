@@ -1,0 +1,9 @@
+display = "Alex Burciu"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://students.info.uaic.ro/alex/"
+title = "Alex Burciu"
+years = [ 2009 ]

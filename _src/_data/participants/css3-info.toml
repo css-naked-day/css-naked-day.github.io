@@ -1,0 +1,9 @@
+display = "CSS3 . info"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.css3.info/"
+title = "CSS3 . info"
+years = [ 2007 ]

@@ -1,0 +1,9 @@
+display = "wachenfeld+golla"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://wachenfeld-golla.de/"
+title = "wachenfeld+golla"
+years = [ 2007 ]

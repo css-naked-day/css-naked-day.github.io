@@ -1,0 +1,10 @@
+display = "Lara « Lamecarlate » Dufour"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://lamecarlate.net/"
+title = "Lara « Lamecarlate » Dufour"
+years = [ 2025 ]
+

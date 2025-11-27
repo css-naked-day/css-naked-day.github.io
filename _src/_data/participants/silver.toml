@@ -1,0 +1,9 @@
+display = "silver"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://oxyz.cn/silver"
+title = "silver"
+years = [ 2007 ]

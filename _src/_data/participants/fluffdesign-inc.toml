@@ -1,0 +1,9 @@
+display = "fluffdesign Inc."
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://fluffdesign.com/"
+title = "fluffdesign Inc."
+years = [ 2008 ]

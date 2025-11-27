@@ -1,0 +1,9 @@
+display = "ClubEddy.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.clubeddy.com/"
+title = "ClubEddy.com"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "todoslot noticias"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://noticias.todoslot.es/"
+title = "todoslot noticias"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Delectat Webdesign"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.delectat.de/"
+title = "Delectat Webdesign"
+years = [ 2007 ]

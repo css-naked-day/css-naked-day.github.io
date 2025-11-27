@@ -1,0 +1,9 @@
+display = "haksan"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.haksan.com.tr"
+title = "haksan"
+years = [ 2007 ]

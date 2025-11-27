@@ -1,0 +1,9 @@
+display = "AjaxRussia"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.ajaxrussia.com/"
+title = "AjaxRussia"
+years = [ 2008 ]

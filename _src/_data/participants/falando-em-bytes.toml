@@ -1,0 +1,9 @@
+display = "Falando em Bytes"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.falandoembytes.com.br/"
+title = "Falando em Bytes"
+years = [ 2008 ]

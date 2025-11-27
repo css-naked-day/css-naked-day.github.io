@@ -1,0 +1,9 @@
+display = "Christian Decker"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.snyke.net/blog/"
+title = "Christian Decker"
+years = [ 2007 ]

@@ -1,0 +1,9 @@
+display = "The road to 42"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.ac-graphic.net/"
+title = "The road to 42"
+years = [ 2008 ]

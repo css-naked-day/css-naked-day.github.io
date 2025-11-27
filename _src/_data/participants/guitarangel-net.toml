@@ -1,0 +1,17 @@
+display = "GuitarAngel.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.guitarangel.net/"
+title = "GuitarAngel.net"
+years = [
+	2007,
+	2009 
+]
+
+[[websites]]
+url   = "http://guitarangel.net/"
+title = "GuitarAngel.net"
+years = [ 2008 ]

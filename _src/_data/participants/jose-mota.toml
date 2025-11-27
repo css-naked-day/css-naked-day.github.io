@@ -1,0 +1,9 @@
+display = "José Mota"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://josemota.net/"
+title = "José Mota"
+years = [ 2009 ]

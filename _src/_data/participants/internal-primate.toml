@@ -1,0 +1,9 @@
+display = "Internal Primate"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://maris.pytalhost.com/daily/"
+title = "Internal Primate"
+years = [ 2008 ]

@@ -1,0 +1,12 @@
+display = "Kirin Lin"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://kirin-lin.idv.tw/"
+title = "Kirin Lin"
+years = [
+	2007,
+	2008 
+]

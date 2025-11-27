@@ -1,0 +1,8 @@
+display = "Quixmart Discount Codes"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.quixmart.co.uk/"
+years = [ 2008 ]

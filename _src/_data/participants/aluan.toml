@@ -1,0 +1,9 @@
+display = "Aluan（阿栾）"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://aluan.org/blog"
+title = "Aluan（阿栾）"
+years = [ 2009 ]

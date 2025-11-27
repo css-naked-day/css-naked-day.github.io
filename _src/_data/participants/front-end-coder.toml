@@ -1,0 +1,9 @@
+display = "Front-End Coder"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.frontendcoder.com/"
+title = "Front-End Coder"
+years = [ 2009 ]

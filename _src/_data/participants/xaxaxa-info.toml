@@ -1,0 +1,9 @@
+display = "Xaxaxa.info"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://xaxaxa.info/"
+title = "Xaxaxa.info"
+years = [ 2007 ]

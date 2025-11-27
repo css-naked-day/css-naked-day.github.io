@@ -1,0 +1,9 @@
+display = "Barwus"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://barwus.jogger.pl/"
+title = "Barwus"
+years = [ 2006 ]

@@ -1,0 +1,12 @@
+display = "Astraea’s Say about,,,"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://withstory.net/"
+title = "Astraea’s Say about,,,"
+years = [
+	2007,
+	2008 
+]

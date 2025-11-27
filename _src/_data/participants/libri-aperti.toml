@@ -1,0 +1,9 @@
+display = "Libri Aperti"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.libriaperti.org/"
+title = "Libri Aperti"
+years = [ 2007 ]

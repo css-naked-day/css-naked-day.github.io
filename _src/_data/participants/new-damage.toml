@@ -1,0 +1,9 @@
+display = "New Damage"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.mikey-san.net/damage"
+title = "New Damage"
+years = [ 2008 ]

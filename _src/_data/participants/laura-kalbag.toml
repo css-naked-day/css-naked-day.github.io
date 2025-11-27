@@ -1,0 +1,9 @@
+display = "Laura Kalbag"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://laurakalbag.com/"
+title = "Laura Kalbag"
+years = [ 2009 ]

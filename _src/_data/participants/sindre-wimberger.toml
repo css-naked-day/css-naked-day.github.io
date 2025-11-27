@@ -1,0 +1,9 @@
+display = "Sindre Wimberger"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.sindre.at/"
+title = "Sindre Wimberger"
+years = [ 2007 ]

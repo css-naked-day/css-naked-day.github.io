@@ -1,0 +1,9 @@
+display = "Dominik Schwind"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://lostfocus.de/"
+title = "LostFocus"
+years = [ 2024 ]

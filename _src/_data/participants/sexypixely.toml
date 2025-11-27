@@ -1,0 +1,9 @@
+display = "SexyPixely"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.sexypixely.cz/"
+title = "SexyPixely"
+years = [ 2008 ]

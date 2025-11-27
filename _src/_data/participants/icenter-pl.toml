@@ -1,0 +1,9 @@
+display = "icenter.pl"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://icenter.pl/"
+title = "icenter.pl"
+years = [ 2007 ]

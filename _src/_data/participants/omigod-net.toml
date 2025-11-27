@@ -1,0 +1,9 @@
+display = "omigod.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.omigod.net/"
+title = "omigod.net"
+years = [ 2008 ]

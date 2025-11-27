@@ -1,0 +1,9 @@
+display = "awakening"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://awakening.ch/"
+title = "awakening"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Marseo"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.marseo.de/"
+title = "Marseo"
+years = [ 2009 ]

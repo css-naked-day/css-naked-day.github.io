@@ -1,0 +1,9 @@
+display = "Nimbupani Designs Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://nimbupani.com/blog"
+title = "Nimbupani Designs Blog"
+years = [ 2009 ]

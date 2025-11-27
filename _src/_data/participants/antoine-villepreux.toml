@@ -1,0 +1,12 @@
+display = "Antoine Villepreux"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://villapirorum.netlify.app/"
+years = [ 2024 ]
+
+[[websites]]
+url   = "https://villepreux.net/"
+years = [ 2025 ]

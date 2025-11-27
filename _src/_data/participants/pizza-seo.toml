@@ -1,0 +1,9 @@
+display = "Pizza SEO"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://pizzaseo.com/"
+title = "Pizza SEO"
+years = [ 2007 ]

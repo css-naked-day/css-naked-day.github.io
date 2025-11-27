@@ -1,0 +1,9 @@
+display = "ayohata blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://ayohata.jugem.jp/"
+title = "ayohata blog"
+years = [ 2007 ]

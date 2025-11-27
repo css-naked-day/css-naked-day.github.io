@@ -1,0 +1,9 @@
+display = "xhtml coding"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.xhtmlcoding.com/"
+title = "xhtml coding"
+years = [ 2008 ]

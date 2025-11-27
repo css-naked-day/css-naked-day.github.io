@@ -1,0 +1,9 @@
+display = "Sulag"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.sulag.de/"
+title = "Sulag"
+years = [ 2006 ]

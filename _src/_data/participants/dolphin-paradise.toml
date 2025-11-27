@@ -1,0 +1,9 @@
+display = "DolphinのParadise"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://arthuridea.blogbus.com/"
+title = "DolphinのParadise"
+years = [ 2008 ]

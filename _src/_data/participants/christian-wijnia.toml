@@ -1,0 +1,9 @@
+display = "Christian Wijnia"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://christianwijnia.com/"
+title = "Christian Wijnia"
+years = [ 2009 ]

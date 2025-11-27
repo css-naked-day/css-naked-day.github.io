@@ -1,0 +1,9 @@
+display = "Marcelo Toscano"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.toscano.com.br/log"
+title = "Marcelo Toscano"
+years = [ 2009 ]

@@ -1,0 +1,9 @@
+display = "YangFan.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.yangfan.net/"
+title = "YangFan.net"
+years = [ 2007 ]

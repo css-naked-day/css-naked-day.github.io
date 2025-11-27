@@ -1,0 +1,9 @@
+display = "BlackGayBlogger.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.blackgayblogger.com/"
+title = "BlackGayBlogger.com"
+years = [ 2007 ]

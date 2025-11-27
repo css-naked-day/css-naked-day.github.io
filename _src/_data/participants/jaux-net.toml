@@ -1,0 +1,9 @@
+display = "jaux.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://jaux.net/"
+title = "jaux.net"
+years = [ 2009 ]

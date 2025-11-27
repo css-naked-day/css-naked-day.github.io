@@ -1,0 +1,9 @@
+display = "Bordom.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.bordom.net/"
+title = "Bordom.net"
+years = [ 2009 ]

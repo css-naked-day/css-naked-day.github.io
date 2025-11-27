@@ -1,0 +1,9 @@
+display = "yashke.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://yashke.com/"
+title = "yashke.com"
+years = [ 2007 ]

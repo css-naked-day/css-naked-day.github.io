@@ -1,0 +1,9 @@
+display = "Swanky Conservative"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://swankyconservative.com/"
+title = "Swanky Conservative"
+years = [ 2008 ]

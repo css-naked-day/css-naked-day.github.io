@@ -1,0 +1,9 @@
+display = "d.onestudio"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://d.onestudio.com.br/"
+title = "d.onestudio"
+years = [ 2007 ]

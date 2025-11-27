@@ -1,0 +1,9 @@
+display = "Ning Design"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.webning.cn/"
+title = "Ning Design"
+years = [ 2007 ]

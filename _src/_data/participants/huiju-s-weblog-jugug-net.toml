@@ -1,0 +1,9 @@
+display = "Huiju’s weblog : jugug.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://jugug.net/"
+title = "Huiju’s weblog : jugug.net"
+years = [ 2008 ]

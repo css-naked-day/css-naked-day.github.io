@@ -1,0 +1,9 @@
+display = "Erdwärme"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.erdwaerme-loesung.de/"
+title = "Erdwärme"
+years = [ 2009 ]

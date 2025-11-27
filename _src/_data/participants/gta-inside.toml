@@ -1,0 +1,9 @@
+display = "GTA Inside"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://gtainside.hungames.hu/site"
+title = "GTA Inside"
+years = [ 2008 ]

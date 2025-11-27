@@ -1,0 +1,9 @@
+display = "Renan Gonçalves’s Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.renangoncalves.com/"
+title = "Renan Gonçalves’s Blog"
+years = [ 2009 ]

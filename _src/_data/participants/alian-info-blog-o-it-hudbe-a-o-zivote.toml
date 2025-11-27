@@ -1,0 +1,9 @@
+display = "alian.info | blog o IT, hudbe a o živote"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://alian.info/"
+title = "alian.info | blog o IT, hudbe a o živote"
+years = [ 2008 ]

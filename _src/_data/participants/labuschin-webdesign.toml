@@ -1,0 +1,9 @@
+display = "Labuschin Webdesign"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://labuschin.com/"
+title = "Labuschin Webdesign"
+years = [ 2007 ]

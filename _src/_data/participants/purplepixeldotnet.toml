@@ -1,0 +1,9 @@
+display = "PurplepixelDotNet"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.purplepixel.net/"
+title = "PurplepixelDotNet"
+years = [ 2007 ]

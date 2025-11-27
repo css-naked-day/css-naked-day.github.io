@@ -1,0 +1,9 @@
+display = "Dunkelstern’s Mobile Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://dunkelstern.blogger.com/"
+title = "Dunkelstern’s Mobile Blog"
+years = [ 2008 ]

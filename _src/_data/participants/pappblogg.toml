@@ -1,0 +1,9 @@
+display = "Pappblogg."
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blogg.nesebror.com/"
+title = "Pappblogg."
+years = [ 2008 ]

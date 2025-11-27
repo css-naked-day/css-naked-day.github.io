@@ -1,0 +1,9 @@
+display = "Debate topics"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.debate-motions.info"
+title = "Debate topics"
+years = [ 2008 ]

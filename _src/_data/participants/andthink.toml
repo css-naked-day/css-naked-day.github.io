@@ -1,0 +1,9 @@
+display = "andthink"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://andthink.blogspot.com"
+title = "andthink"
+years = [ 2007 ]

@@ -1,0 +1,9 @@
+display = "Working Solo"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://workingsolo.com.au/"
+title = "Working Solo"
+years = [ 2008 ]

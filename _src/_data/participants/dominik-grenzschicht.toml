@@ -1,0 +1,9 @@
+display = "Dominik"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.grenzschicht.com/blog"
+title = "Dominik"
+years = [ 2006 ]

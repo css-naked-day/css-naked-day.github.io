@@ -1,0 +1,12 @@
+display = "web log"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.fucklenovo.com/wp/"
+title = "web log"
+years = [
+	2008,
+	2009 
+]

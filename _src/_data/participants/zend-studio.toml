@@ -1,0 +1,12 @@
+display = "zend studio"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.zendstudio.net/"
+title = "zend studio"
+years = [
+	2008,
+	2009 
+]

@@ -1,0 +1,9 @@
+display = "Edaìn Works"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.edainworks.com/"
+title = "Edaìn Works"
+years = [ 2009 ]

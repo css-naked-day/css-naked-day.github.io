@@ -1,0 +1,9 @@
+display = "JotBe"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://jotbe-fx.de/daily"
+title = "JotBe"
+years = [ 2006 ]

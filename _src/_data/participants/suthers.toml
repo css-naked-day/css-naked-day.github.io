@@ -1,0 +1,9 @@
+display = "Suthers"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://softwarephilosophy.com/"
+title = "Suthers"
+years = [ 2006 ]

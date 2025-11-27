@@ -1,0 +1,9 @@
+display = "Blog di Jimmi"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://7girello.net/"
+title = "Blog di Jimmi"
+years = [ 2007 ]

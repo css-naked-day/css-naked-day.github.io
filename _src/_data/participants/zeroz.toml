@@ -1,0 +1,9 @@
+display = "ZeroZ"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.zeroz.cn/blog"
+title = "ZeroZ"
+years = [ 2009 ]

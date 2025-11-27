@@ -1,0 +1,9 @@
+display = "Tips and Tricks"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.nikolovbg.com/"
+title = "Tips and Tricks"
+years = [ 2009 ]

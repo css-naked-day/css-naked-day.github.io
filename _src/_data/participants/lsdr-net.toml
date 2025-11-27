@@ -1,0 +1,12 @@
+display = "LSDR.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://lsdr.net/blog/"
+title = "LSDR.net"
+years = [
+	2007,
+	2008 
+]

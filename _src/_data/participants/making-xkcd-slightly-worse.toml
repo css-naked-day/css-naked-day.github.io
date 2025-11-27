@@ -1,0 +1,9 @@
+display = "Making XKCD Slightly Worse"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://xkcdsw.com/"
+title = "Making XKCD Slightly Worse"
+years = [ 2009 ]

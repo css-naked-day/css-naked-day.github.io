@@ -1,0 +1,9 @@
+display = "ITBlog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.itblog.com.ua/"
+title = "ITBlog"
+years = [ 2007 ]

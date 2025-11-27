@@ -1,0 +1,9 @@
+display = "Fabrique Communicatie en Design"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.fabrique.nl/"
+title = "Fabrique Communicatie en Design"
+years = [ 2008 ]

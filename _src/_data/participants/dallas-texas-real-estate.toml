@@ -1,0 +1,9 @@
+display = "Dallas Texas Real Estate"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.viprealtyinfo.com/"
+title = "Dallas Texas Real Estate"
+years = [ 2008 ]

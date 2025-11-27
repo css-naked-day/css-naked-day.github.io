@@ -1,0 +1,9 @@
+display = "Osman S Borutecene"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://osman.borutecene.com/"
+title = "Osman S Borutecene"
+years = [ 2007 ]

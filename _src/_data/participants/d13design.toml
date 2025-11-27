@@ -1,0 +1,9 @@
+display = "d13design"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.d13design.co.uk/"
+title = "d13design"
+years = [ 2008 ]

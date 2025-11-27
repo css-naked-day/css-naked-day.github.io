@@ -1,0 +1,9 @@
+display = "Michael Guill"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.guill-webs.com/"
+title = "Michael Guill"
+years = [ 2007 ]

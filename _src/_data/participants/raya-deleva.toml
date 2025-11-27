@@ -1,0 +1,9 @@
+display = "Raya Deleva"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://rayadeleva.com/"
+title = "Raya Deleva"
+years = [ 2007 ]

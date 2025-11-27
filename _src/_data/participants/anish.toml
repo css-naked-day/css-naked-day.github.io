@@ -1,0 +1,9 @@
+display = "Anish"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.designgala.com/"
+title = "Anish"
+years = [ 2006 ]

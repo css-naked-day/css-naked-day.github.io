@@ -1,0 +1,9 @@
+display = "gefangen im netz"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.spiderpc.de/"
+title = "gefangen im netz"
+years = [ 2008 ]

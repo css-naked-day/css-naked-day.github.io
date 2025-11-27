@@ -1,0 +1,8 @@
+display = "呵呵！的BLOG"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.loveorange.cn/"
+years = [ 2007 ]

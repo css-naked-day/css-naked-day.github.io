@@ -1,0 +1,9 @@
+display = "Rickmann Design"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.rickmann-design.co.uk/"
+title = "Rickmann Design"
+years = [ 2007 ]

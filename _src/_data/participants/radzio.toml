@@ -1,0 +1,9 @@
+display = "Radzio"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://radziu.jogger.pl/"
+title = "Radzio"
+years = [ 2006 ]

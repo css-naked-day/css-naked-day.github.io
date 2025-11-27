@@ -1,0 +1,9 @@
+display = "九能带刀"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://my.opera.com/juvejuve/blog/"
+title = "九能带刀"
+years = [ 2007 ]

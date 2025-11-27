@@ -1,0 +1,12 @@
+display = "Pat Ramsey"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.patramsey.net/"
+title = "Pat Ramsey"
+years = [
+	2007,
+	2008 
+]

@@ -1,0 +1,9 @@
+display = "Denis Defreyne"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://denisdefreyne.com/"
+title = "Denis Defreyne"
+years = [ 2024 ]

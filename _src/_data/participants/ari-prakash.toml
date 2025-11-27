@@ -1,0 +1,10 @@
+display = "Ari Prakash"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://ariscript.org/"
+title = "Ari Prakash"
+years = [ 2025 ]
+

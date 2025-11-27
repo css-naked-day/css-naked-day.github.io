@@ -1,0 +1,9 @@
+display = "Andy Bell"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://hankchizljaw.com/"
+title = "Andy Bell"
+years = [ 2020 ]

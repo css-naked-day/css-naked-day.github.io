@@ -1,0 +1,9 @@
+display = "GustavoRibeiro.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.gustavoribeiro.net/"
+title = "GustavoRibeiro.net"
+years = [ 2009 ]

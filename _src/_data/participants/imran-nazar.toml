@@ -1,0 +1,9 @@
+display = "Imran Nazar"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://imrannazar.com/"
+title = "Imran Nazar"
+years = [ 2009 ]

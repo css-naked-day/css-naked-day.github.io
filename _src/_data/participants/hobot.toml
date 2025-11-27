@@ -1,0 +1,9 @@
+display = "hobot"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://hobot.by.ru"
+title = "hobot"
+years = [ 2007 ]

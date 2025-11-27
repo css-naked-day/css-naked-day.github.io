@@ -1,0 +1,9 @@
+display = "Musix Zone"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://musixzone.com/"
+title = "Musix Zone"
+years = [ 2006 ]

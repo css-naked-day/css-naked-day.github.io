@@ -1,0 +1,9 @@
+display = "f yang"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://hexun.com/elcaro/default.html"
+title = "f yang"
+years = [ 2007 ]

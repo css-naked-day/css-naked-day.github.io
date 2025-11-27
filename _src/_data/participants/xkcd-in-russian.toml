@@ -1,0 +1,9 @@
+display = "xkcd in Russian"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.xkcd.com/"
+title = "xkcd in Russian"
+years = [ 2009 ]

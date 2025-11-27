@@ -1,0 +1,9 @@
+display = "Alex blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://alex.d000.cn/"
+title = "Alex blog"
+years = [ 2007 ]

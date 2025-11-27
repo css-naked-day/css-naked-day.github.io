@@ -1,0 +1,9 @@
+display = "Get The F*cking Out"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.gtfo.ru/"
+title = "Get The F*cking Out"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "gastronaut.info"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.gastronaut.info/"
+title = "gastronaut.info"
+years = [ 2007 ]

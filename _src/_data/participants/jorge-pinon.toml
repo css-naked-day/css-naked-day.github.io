@@ -1,0 +1,9 @@
+display = "Jorge Piñon"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.jorgepinon.com/"
+title = "Jorge Piñon"
+years = [ 2006 ]

@@ -1,0 +1,9 @@
+display = "danrazor.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://danrazor.net/"
+title = "danrazor.net"
+years = [ 2007 ]

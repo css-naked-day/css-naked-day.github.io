@@ -1,0 +1,9 @@
+display = "William Clayton"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.williamclayton.com/"
+title = "William Clayton"
+years = [ 2008 ]

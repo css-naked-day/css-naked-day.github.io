@@ -1,0 +1,9 @@
+display = "Tynset kirke"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://tynsetkirke.no/"
+title = "Tynset kirke"
+years = [ 2009 ]

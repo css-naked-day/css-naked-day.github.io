@@ -1,0 +1,9 @@
+display = "Obec Krajne"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.krajne.sk/"
+title = "Obec Krajne"
+years = [ 2007 ]

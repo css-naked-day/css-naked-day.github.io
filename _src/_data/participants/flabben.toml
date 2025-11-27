@@ -1,0 +1,9 @@
+display = "Flabben"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.flabben.net/blog"
+title = "Flabben"
+years = [ 2008 ]

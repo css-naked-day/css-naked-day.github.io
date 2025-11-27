@@ -1,0 +1,9 @@
+display = "Jesse Rodgers"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://webdevblog.uwaterloo.ca/"
+title = "Jesse Rodgers"
+years = [ 2006 ]

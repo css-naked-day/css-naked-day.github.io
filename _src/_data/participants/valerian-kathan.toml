@@ -1,0 +1,9 @@
+display = "Valerian Kathan"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.valeriankathan.at/"
+title = "Valerian Kathan"
+years = [ 2008 ]

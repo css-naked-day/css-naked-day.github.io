@@ -1,0 +1,17 @@
+display = "I do my own stunts"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://idomyownstunts.blogspot.com/"
+title = "blogspot.com"
+years = [
+	2007,
+	2008 
+]
+
+[[websites]]
+url   = "http://blog.fabricio.org/"
+title = "fabricio.org"
+years = [ 2008 ]

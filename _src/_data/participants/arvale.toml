@@ -1,0 +1,9 @@
+display = "Arvale"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.arvale.net/"
+title = "Arvale"
+years = [ 2008 ]

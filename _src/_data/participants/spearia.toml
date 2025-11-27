@@ -1,0 +1,9 @@
+display = "Spearia"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.spearia.com/"
+title = "Spearia"
+years = [ 2008 ]

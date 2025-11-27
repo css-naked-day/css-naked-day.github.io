@@ -1,0 +1,9 @@
+display = "Mindless Chatter"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.justincox.com/"
+title = "Mindless Chatter"
+years = [ 2007 ]

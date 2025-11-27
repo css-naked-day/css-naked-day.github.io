@@ -1,0 +1,9 @@
+display = "sokin’s blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://and8.net/"
+title = "sokin’s blog"
+years = [ 2009 ]

@@ -1,0 +1,9 @@
+display = "Charles"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.charlesklein.org/"
+title = "Charles"
+years = [ 2006 ]

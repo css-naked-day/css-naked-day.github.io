@@ -1,0 +1,9 @@
+display = "Tech & Dev"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://tech.desvariandoando.com/"
+title = "Tech &amp; Dev"
+years = [ 2008 ]

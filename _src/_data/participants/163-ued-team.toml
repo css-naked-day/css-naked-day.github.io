@@ -1,0 +1,9 @@
+display = "163 UED Team"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.ued163.com/"
+title = "163 UED Team"
+years = [ 2009 ]

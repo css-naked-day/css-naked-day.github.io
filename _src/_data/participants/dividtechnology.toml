@@ -1,0 +1,9 @@
+display = "dividtechnology"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://dividtechnology.com/"
+title = "dividtechnology"
+years = [ 2009 ]

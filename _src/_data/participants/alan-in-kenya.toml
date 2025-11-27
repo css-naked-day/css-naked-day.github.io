@@ -1,0 +1,9 @@
+display = "Alan in Kenya"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://alaninkenya.org/"
+title = "Alan in Kenya"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Boagworld"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.boagworld.com/"
+title = "Boagworld"
+years = [ 2007 ]

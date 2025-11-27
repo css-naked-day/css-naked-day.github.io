@@ -1,0 +1,9 @@
+display = "Gunnar Hafdal"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://gunnarhafdal.com/"
+title = "Gunnar Hafdal"
+years = [ 2007 ]

@@ -1,0 +1,9 @@
+display = "Strelban’s Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.blog.strelban.net/"
+title = "Strelban’s Blog"
+years = [ 2008 ]

@@ -1,0 +1,8 @@
+display = "Peter"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.peter-noster.de/"
+years = [ 2006 ]

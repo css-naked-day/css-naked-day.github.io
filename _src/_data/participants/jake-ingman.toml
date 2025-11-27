@@ -1,0 +1,9 @@
+display = "Jake Ingman"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.readytofail.net/"
+title = "Jake Ingman"
+years = [ 2006 ]

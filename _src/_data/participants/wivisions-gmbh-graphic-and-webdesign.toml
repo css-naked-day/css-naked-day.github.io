@@ -1,0 +1,9 @@
+display = "wivisions GmbH – Graphic- & Webdesign"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.wivisions.ch/"
+title = "wivisions GmbH – Graphic- &amp; Webdesign"
+years = [ 2009 ]

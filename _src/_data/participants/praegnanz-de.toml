@@ -1,0 +1,9 @@
+display = "praegnanz.de"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://praegnanz.de/"
+title = "praegnanz.de"
+years = [ 2007 ]

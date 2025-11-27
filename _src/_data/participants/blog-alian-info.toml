@@ -1,0 +1,9 @@
+display = "blog alian.info"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://alian.info/"
+title = "blog alian.info"
+years = [ 2007 ]

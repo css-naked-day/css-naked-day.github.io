@@ -1,0 +1,9 @@
+display = "Mercury State"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.mercurystate.com/"
+title = "Mercury State"
+years = [ 2008 ]

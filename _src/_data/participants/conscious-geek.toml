@@ -1,0 +1,9 @@
+display = "Conscious Geek"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.consciousgeek.com/"
+title = "Conscious Geek"
+years = [ 2007 ]

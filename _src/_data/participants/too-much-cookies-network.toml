@@ -1,0 +1,9 @@
+display = "Too Much Cookies Network"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.toomuchcookies.net/"
+title = "Too Much Cookies Network"
+years = [ 2008 ]

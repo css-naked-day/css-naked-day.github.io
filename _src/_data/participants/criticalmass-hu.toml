@@ -1,0 +1,9 @@
+display = "criticalmass.hu"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://criticalmass.hu/"
+title = "criticalmass.hu"
+years = [ 2007 ]

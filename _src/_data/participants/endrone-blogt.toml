@@ -1,0 +1,9 @@
+display = "Endrone blogt"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.endrone.com/"
+title = "Endrone blogt"
+years = [ 2007 ]

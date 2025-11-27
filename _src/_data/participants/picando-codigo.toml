@@ -1,0 +1,14 @@
+display = "Picando Código"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.picandocodigo.net/"
+title = "Picando Código"
+years = [ 2008 ]
+
+[[websites]]
+url   = "http://picandocodigo.net/"
+title = "Picando Código"
+years = [ 2009 ]

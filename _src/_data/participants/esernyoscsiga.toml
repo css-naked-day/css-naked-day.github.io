@@ -1,0 +1,9 @@
+display = "esernyoscsiga"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://esernyoscsiga.13wings.net/"
+title = "esernyoscsiga"
+years = [ 2008 ]

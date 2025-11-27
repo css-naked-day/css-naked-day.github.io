@@ -1,0 +1,9 @@
+display = "Andreas Ostheimer im Internet"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.ostheimer.at/"
+title = "Andreas Ostheimer im Internet"
+years = [ 2008 ]

@@ -1,0 +1,12 @@
+display = "Jason Clark"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://jclark.org/weblog/"
+title = "Jason Clark"
+years = [
+	2006,
+	2008 
+]

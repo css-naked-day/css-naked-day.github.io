@@ -1,0 +1,9 @@
+display = "Emingos"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://emi.wazzap.dk/"
+title = "Emingos"
+years = [ 2006 ]

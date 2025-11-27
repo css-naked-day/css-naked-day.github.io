@@ -1,0 +1,9 @@
+display = "LOLBostons"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.lolbostons.com/"
+title = "LOLBostons"
+years = [ 2008 ]

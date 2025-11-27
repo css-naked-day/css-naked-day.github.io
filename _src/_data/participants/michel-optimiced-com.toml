@@ -1,0 +1,9 @@
+display = "Michel (optimiced.com)"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.optimiced.com/"
+title = "Michel (optimiced.com)"
+years = [ 2008 ]

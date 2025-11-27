@@ -1,0 +1,9 @@
+display = "Jidah Hamidy"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.jiduh,com"
+title = "Jidah Hamidy"
+years = [ 2009 ]

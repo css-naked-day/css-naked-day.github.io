@@ -1,0 +1,9 @@
+display = "OpenJS"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.openjs.com/"
+title = "OpenJS"
+years = [ 2007 ]

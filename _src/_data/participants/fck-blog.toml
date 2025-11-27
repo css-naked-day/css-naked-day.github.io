@@ -1,0 +1,9 @@
+display = "FCK-Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.fck-blog.de/"
+title = "FCK-Blog"
+years = [ 2009 ]

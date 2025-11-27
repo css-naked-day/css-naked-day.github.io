@@ -1,0 +1,9 @@
+display = "Fluffi"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.winzipp.org/"
+title = "Fluffi"
+years = [ 2006 ]

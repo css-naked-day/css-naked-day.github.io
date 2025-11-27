@@ -1,0 +1,9 @@
+display = "Morioka.as"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://morioka-as.org/"
+title = "Morioka.as"
+years = [ 2009 ]

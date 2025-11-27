@@ -1,0 +1,9 @@
+display = "Ferenc Veres"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://lion.xaraya.hu/"
+title = "Ferenc Veres"
+years = [ 2009 ]

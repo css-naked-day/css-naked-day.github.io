@@ -1,0 +1,9 @@
+display = "Designing Interactive"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.designinginteractive.com/"
+title = "Designing Interactive"
+years = [ 2008 ]

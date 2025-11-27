@@ -1,0 +1,9 @@
+display = "naturally enlarged weblog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://koew.net/"
+title = "naturally enlarged weblog"
+years = [ 2008 ]

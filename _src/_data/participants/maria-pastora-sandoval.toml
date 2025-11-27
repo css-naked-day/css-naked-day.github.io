@@ -1,0 +1,9 @@
+display = "Maria Pastora Sandoval"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.mariapastora.cl"
+title = "Maria Pastora Sandoval"
+years = [ 2007 ]

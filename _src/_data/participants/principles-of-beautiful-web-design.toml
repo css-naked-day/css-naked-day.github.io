@@ -1,0 +1,9 @@
+display = "Principles of Beautiful Web Design"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.principlesofbeautifulwebdesign.com/"
+title = "Principles of Beautiful Web Design"
+years = [ 2008 ]

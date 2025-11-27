@@ -1,0 +1,9 @@
+display = "Mihalytch"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://mihalytch.org.ua/"
+title = "Mihalytch"
+years = [ 2009 ]

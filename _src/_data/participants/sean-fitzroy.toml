@@ -1,0 +1,9 @@
+display = "Sean Fitzroy"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.seanfitzroy.com/"
+title = "Sean Fitzroy"
+years = [ 2009 ]

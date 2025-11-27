@@ -1,0 +1,9 @@
+display = "As A Star"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.asastar.com/"
+title = "As A Star"
+years = [ 2007 ]

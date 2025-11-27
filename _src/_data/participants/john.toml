@@ -1,0 +1,9 @@
+display = "John"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://jowra.com/"
+title = "John"
+years = [ 2006 ]

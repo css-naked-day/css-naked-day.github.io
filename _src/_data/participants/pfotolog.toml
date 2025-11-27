@@ -1,0 +1,9 @@
+display = "Pfotolog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.pfotolog.com/archives/"
+title = "Pfotolog"
+years = [ 2006 ]

@@ -1,0 +1,9 @@
+display = "aobo"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.jsssc.cn"
+title = "aobo"
+years = [ 2009 ]

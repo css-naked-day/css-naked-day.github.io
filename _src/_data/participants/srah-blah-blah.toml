@@ -1,0 +1,9 @@
+display = "srah blah blah"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.srah.net/weblog"
+title = "srah blah blah"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Happy Pixels"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://happypixels.net/"
+title = "Happy Pixels"
+years = [ 2009 ]

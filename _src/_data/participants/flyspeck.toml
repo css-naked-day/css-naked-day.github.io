@@ -1,0 +1,9 @@
+display = "Flyspeck"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://flyspeck.talpai.net/"
+title = "Flyspeck"
+years = [ 2008 ]

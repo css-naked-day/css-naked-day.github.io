@@ -1,0 +1,9 @@
+display = "blog.the-kid.org"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.the-kid.org/"
+title = "blog.the-kid.org"
+years = [ 2008 ]

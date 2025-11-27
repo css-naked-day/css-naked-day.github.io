@@ -1,0 +1,9 @@
+display = "life.love.web."
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://romey.fr/"
+title = "life.love.web."
+years = [ 2007 ]

@@ -1,0 +1,9 @@
+display = "Tamburix"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.tamburix.com/"
+title = "Tamburix"
+years = [ 2006 ]

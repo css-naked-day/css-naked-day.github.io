@@ -1,0 +1,9 @@
+display = "Dorothea"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://cavlec.yarinareth.net/"
+title = "Dorothea"
+years = [ 2006 ]

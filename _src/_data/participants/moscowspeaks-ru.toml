@@ -1,0 +1,9 @@
+display = "Moscowspeaks.ru"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://moscowspeaks.ru"
+title = "Moscowspeaks.ru"
+years = [ 2009 ]

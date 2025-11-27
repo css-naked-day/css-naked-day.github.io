@@ -1,0 +1,9 @@
+display = "Gary Barber"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://manwithnoblog.com/"
+title = "Gary Barber"
+years = [ 2009 ]

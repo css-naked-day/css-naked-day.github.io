@@ -1,0 +1,9 @@
+display = "Adam Wilcox’s WilcosWorld"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://wilcosworld.co.uk/"
+title = "Adam Wilcox’s WilcosWorld"
+years = [ 2008 ]

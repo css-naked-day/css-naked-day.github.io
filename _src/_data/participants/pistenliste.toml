@@ -1,0 +1,9 @@
+display = "PistenListe"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.pistenliste.de/"
+title = "PistenListe"
+years = [ 2008 ]

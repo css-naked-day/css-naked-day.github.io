@@ -1,0 +1,9 @@
+display = "liuqi"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.liuqi.us/"
+title = "liuqi"
+years = [ 2009 ]

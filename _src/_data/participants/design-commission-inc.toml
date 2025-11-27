@@ -1,0 +1,9 @@
+display = "Design Commission, Inc."
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.designcommission.com/"
+title = "Design Commission, Inc."
+years = [ 2009 ]

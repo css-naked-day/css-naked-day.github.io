@@ -1,0 +1,9 @@
+display = "Britannia Pool League"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://britannia-pool.org/"
+title = "Britannia Pool League"
+years = [ 2007 ]

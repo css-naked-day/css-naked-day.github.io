@@ -1,0 +1,9 @@
+display = "Aarne bloog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://toompark.pri.ee/aarne/"
+title = "Aarne bloog"
+years = [ 2009 ]

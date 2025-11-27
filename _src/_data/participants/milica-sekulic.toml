@@ -1,0 +1,9 @@
+display = "Milica Sekulic"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.ywds.org/ediary"
+title = "Milica Sekulic"
+years = [ 2007 ]

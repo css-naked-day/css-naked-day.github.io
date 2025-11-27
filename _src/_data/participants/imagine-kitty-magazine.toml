@@ -1,0 +1,9 @@
+display = "Imagine Kitty Magazine"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://imaginekitty.com/"
+title = "Imagine Kitty Magazine"
+years = [ 2008 ]

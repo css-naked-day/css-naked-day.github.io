@@ -1,0 +1,9 @@
+display = "Jazz mein Deutsch"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://checkbox.twoday.net/"
+title = "Jazz mein Deutsch"
+years = [ 2008 ]

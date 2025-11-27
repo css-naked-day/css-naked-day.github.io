@@ -1,0 +1,9 @@
+display = "lagnut"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://lagnut.net/"
+title = "lagnut"
+years = [ 2007 ]

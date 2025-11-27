@@ -1,0 +1,9 @@
+display = "Dustin Y."
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://yuengling.net/"
+title = "Dustin Y."
+years = [ 2006 ]

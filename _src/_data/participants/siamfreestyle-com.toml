@@ -1,0 +1,9 @@
+display = "SiamFreestyle.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://samui.siamfreestyle.com/"
+title = "SiamFreestyle.com"
+years = [ 2008 ]

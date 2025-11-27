@@ -1,0 +1,9 @@
+display = "SmashingRed Web & Marketing"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.smashingred.com/"
+title = "SmashingRed Web &amp; Marketing"
+years = [ 2007 ]

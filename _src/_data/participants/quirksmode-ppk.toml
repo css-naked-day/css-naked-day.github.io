@@ -1,0 +1,9 @@
+display = "Quirksmode (PPK)"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.quirksmode.org/"
+title = "Quirksmode (PPK)"
+years = [ 2006 ]

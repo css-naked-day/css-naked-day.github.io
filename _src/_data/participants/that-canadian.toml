@@ -1,0 +1,9 @@
+display = "That Canadian"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://thatcanadian.com/"
+title = "That Canadian"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "SPHERICAL MUSIC BLOG"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.makou.com/"
+title = "SPHERICAL MUSIC BLOG"
+years = [ 2007 ]

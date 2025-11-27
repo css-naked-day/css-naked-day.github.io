@@ -1,0 +1,9 @@
+display = "Hogyan?"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.hogyan.org/"
+title = "Hogyan?"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Brian McAllister"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.frequency-decoder.com/"
+title = "Brian McAllister"
+years = [ 2008 ]

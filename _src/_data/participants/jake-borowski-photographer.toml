@@ -1,0 +1,9 @@
+display = "Jake Borowski – Photographer"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.jakeborowski.com/"
+title = "Jake Borowski – Photographer"
+years = [ 2009 ]

@@ -1,0 +1,9 @@
+display = "Sepatahkata"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.sepatahkata.or.id/"
+title = "Sepatahkata"
+years = [ 2006 ]

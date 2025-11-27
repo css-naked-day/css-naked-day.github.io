@@ -1,0 +1,9 @@
+display = "frogx.three, diseño web"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.frogx3.com/"
+title = "frogx.three, diseño web"
+years = [ 2008 ]

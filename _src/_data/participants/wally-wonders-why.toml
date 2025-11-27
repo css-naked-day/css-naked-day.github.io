@@ -1,0 +1,9 @@
+display = "Wally Wonders Why"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.wallywonderswhy.com/"
+title = "Wally Wonders Why"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Craig Saila"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.saila.com/"
+title = "Craig Saila"
+years = [ 2006 ]

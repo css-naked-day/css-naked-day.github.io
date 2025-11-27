@@ -1,0 +1,9 @@
+display = "Colin Smiley"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://colinsmiley.net/"
+title = "Colin Smiley"
+years = [ 2008 ]

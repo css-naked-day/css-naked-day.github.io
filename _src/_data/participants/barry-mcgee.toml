@@ -1,0 +1,9 @@
+display = "Barry McGee"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.barrymcgee.net"
+title = "Barry McGee"
+years = [ 2007 ]

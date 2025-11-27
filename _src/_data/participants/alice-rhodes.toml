@@ -1,0 +1,10 @@
+display = "Alice Rhodes"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://alicerhodes.com/"
+title = "Alice Rhodes"
+years = [ 2025 ]
+

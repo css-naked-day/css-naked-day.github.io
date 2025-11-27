@@ -1,0 +1,14 @@
+display = "Jeremy Visser"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://jeremy.sunriseroad.net/"
+title = "Jeremy Visser"
+years = [ 2007 ]
+
+[[websites]]
+url   = "http://jeremy.visser.name/"
+title = "Jeremy Visser"
+years = [ 2008 ]

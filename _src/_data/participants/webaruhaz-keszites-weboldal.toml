@@ -1,0 +1,9 @@
+display = "webáruház készítés, weboldal"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://netpromo.hu/"
+title = "webáruház készítés, weboldal"
+years = [ 2008 ]

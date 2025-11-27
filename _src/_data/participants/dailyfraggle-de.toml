@@ -1,0 +1,9 @@
+display = "dailyfraggle.de"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.dailyfraggle.de/"
+title = "dailyfraggle.de"
+years = [ 2009 ]

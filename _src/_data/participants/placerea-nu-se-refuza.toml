@@ -1,0 +1,9 @@
+display = "Placerea nu se refuza"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://groller.info/geza/"
+title = "Placerea nu se refuza"
+years = [ 2007 ]

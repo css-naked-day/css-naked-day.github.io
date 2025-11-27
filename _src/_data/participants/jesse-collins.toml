@@ -1,0 +1,9 @@
+display = "Jesse Collins"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.jessecollins.com/"
+title = "Jesse Collins"
+years = [ 2006 ]

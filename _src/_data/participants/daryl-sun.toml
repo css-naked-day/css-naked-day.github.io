@@ -1,0 +1,11 @@
+display = "Daryl Sun"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://blog.darylsun.page/"
+years = [
+	2024,
+	2025 
+]

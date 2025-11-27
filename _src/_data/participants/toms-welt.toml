@@ -1,0 +1,9 @@
+display = "Toms Welt"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.tomsdimension.de/"
+title = "Toms Welt"
+years = [ 2008 ]

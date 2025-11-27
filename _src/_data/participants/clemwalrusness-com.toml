@@ -1,0 +1,9 @@
+display = "clemwalrusness.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.clemwalrusness.com/"
+title = "clemwalrusness.com"
+years = [ 2008 ]

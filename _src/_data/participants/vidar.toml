@@ -1,0 +1,9 @@
+display = "Vidar"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://vidar.xmgfree.com/site"
+title = "Vidar"
+years = [ 2006 ]

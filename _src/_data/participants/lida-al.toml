@@ -1,0 +1,9 @@
+display = "Lida al"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.lidam.info/"
+title = "Lida al"
+years = [ 2009 ]

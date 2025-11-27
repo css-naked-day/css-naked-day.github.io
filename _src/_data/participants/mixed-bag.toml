@@ -1,0 +1,9 @@
+display = "Mixed bag"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.demix.com.cn/"
+title = "Mixed bag"
+years = [ 2008 ]

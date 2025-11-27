@@ -1,0 +1,9 @@
+display = "Flight of The Eaglehawk"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://eaglehawkonline.com/blog/"
+title = "Flight of The Eaglehawk"
+years = [ 2008 ]

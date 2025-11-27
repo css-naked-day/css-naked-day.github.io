@@ -1,0 +1,9 @@
+display = "Maxcy"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.maxcy.nl/"
+title = "Maxcy"
+years = [ 2006 ]

@@ -1,0 +1,9 @@
+display = "3ma RUSSIA CSS Naked Day"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://3ma.ru/note/day-not-css/"
+title = "3ma RUSSIA CSS Naked Day"
+years = [ 2009 ]

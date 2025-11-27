@@ -1,0 +1,9 @@
+display = "Karine Sabatier"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.karinesabatier.net/"
+title = "Karine Sabatier"
+years = [ 2009 ]

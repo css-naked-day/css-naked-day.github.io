@@ -1,0 +1,9 @@
+display = "Trident Design"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.tridentdesign.com/"
+title = "Trident Design"
+years = [ 2007 ]

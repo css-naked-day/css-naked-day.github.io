@@ -1,0 +1,9 @@
+display = "wirgestalter"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://wirgestalter.ch/"
+title = "wirgestalter"
+years = [ 2009 ]

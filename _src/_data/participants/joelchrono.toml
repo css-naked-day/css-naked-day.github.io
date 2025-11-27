@@ -1,0 +1,9 @@
+display = "joelchrono"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://joelchrono.xyz/"
+title = "joelchrono"
+years = [ 2024 ]

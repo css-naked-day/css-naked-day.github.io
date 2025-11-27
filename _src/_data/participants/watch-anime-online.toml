@@ -1,0 +1,9 @@
+display = "Watch anime online"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://animekun.ru/"
+title = "Watch anime online"
+years = [ 2009 ]

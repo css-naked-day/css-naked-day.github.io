@@ -1,0 +1,9 @@
+display = "crigon.name"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://crigon.name/"
+title = "crigon.name"
+years = [ 2008 ]

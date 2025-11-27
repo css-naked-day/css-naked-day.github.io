@@ -1,0 +1,9 @@
+display = "UAU"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.uaustudio.com/"
+title = "UAU"
+years = [ 2008 ]

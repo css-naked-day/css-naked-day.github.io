@@ -1,0 +1,9 @@
+display = "Sarah Friedlander"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.sarahfriedlander.com/blog"
+title = "Sarah Friedlander"
+years = [ 2008 ]

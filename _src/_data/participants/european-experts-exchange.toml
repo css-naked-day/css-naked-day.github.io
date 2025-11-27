@@ -1,0 +1,9 @@
+display = "European Experts Exchange"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.europeanexperts.org/"
+title = "European Experts Exchange"
+years = [ 2009 ]

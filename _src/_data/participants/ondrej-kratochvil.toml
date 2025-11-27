@@ -1,0 +1,9 @@
+display = "Ondrej Kratochvil"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.ondrejkratochvil.eu/"
+title = "Ondrej Kratochvil"
+years = [ 2007 ]

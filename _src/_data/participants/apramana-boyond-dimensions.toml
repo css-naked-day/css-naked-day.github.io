@@ -1,0 +1,9 @@
+display = "Apramana | Boyond Dimensions"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://apramana.com/"
+title = "Apramana | Boyond Dimensions"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Norsu Innovation Consulting"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://norsu.eu"
+title = "Norsu Innovation Consulting"
+years = [ 2021 ]

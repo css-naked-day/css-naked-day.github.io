@@ -1,0 +1,9 @@
+display = "freeQnet"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.freeqnet.de/"
+title = "freeQnet"
+years = [ 2009 ]

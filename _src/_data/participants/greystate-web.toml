@@ -1,0 +1,10 @@
+display = "Greystate Web"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://greystate.dk/"
+title = "Greystate Web"
+years = [ 2025 ]
+

@@ -1,0 +1,9 @@
+display = "Yet another PickUpBlog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.lickins.de/"
+title = "Yet another PickUpBlog"
+years = [ 2008 ]

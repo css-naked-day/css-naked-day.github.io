@@ -1,0 +1,9 @@
+display = "Elfen Lied"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://my-elfen-lied.ru/"
+title = "Elfen Lied"
+years = [ 2009 ]

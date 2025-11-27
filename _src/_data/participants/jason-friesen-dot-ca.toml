@@ -1,0 +1,9 @@
+display = "Jason Friesen {dot} ca"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://jasonfriesen.ca/"
+title = "Jason Friesen {dot} ca"
+years = [ 2008 ]

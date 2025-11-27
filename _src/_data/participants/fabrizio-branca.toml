@@ -1,0 +1,9 @@
+display = "Fabrizio Branca"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.fabrizio-branca.de/blog"
+title = "Fabrizio Branca"
+years = [ 2006 ]

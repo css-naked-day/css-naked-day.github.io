@@ -1,0 +1,9 @@
+display = "Torrents Search Engine"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.torrentz.ws/"
+title = "Torrents Search Engine"
+years = [ 2007 ]

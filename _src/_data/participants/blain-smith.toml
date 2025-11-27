@@ -1,0 +1,9 @@
+display = "Blain Smith"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://blainsmith.com/"
+title = "Blain Smith"
+years = [ 2024 ]

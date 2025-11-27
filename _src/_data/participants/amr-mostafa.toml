@@ -1,0 +1,9 @@
+display = "Amr Mostafa"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://amrmostafa.org/"
+title = "Amr Mostafa"
+years = [ 2009 ]

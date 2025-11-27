@@ -1,0 +1,9 @@
+display = "Reliant Resources"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.rlnt.org/"
+title = "Reliant Resources"
+years = [ 2009 ]

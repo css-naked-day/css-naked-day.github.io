@@ -1,0 +1,9 @@
+display = "adactio"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://adactio.com/"
+title = "adactio"
+years = [ 2009 ]

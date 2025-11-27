@@ -1,0 +1,9 @@
+display = "Sunlust’s Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.blog.sunlust.net/"
+title = "Sunlust’s Blog"
+years = [ 2008 ]

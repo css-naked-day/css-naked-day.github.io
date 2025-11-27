@@ -1,0 +1,9 @@
+display = "gulu77"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.gulu77.com/"
+title = "gulu77"
+years = [ 2008 ]

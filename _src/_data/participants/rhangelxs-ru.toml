@@ -1,0 +1,9 @@
+display = "rhangelxs.ru"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.rhangelxs.ru"
+title = "rhangelxs.ru"
+years = [ 2009 ]

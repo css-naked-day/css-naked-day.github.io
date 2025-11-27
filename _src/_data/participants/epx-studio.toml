@@ -1,0 +1,9 @@
+display = "EPX studio"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.epxstudio.com/"
+title = "EPX studio"
+years = [ 2007 ]

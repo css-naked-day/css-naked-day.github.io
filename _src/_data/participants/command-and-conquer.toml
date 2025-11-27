@@ -1,0 +1,9 @@
+display = "Command and Conquer"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://cckw.ru/"
+title = "Command and Conquer"
+years = [ 2009 ]

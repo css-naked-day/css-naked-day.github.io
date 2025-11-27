@@ -1,0 +1,9 @@
+display = "Erratic Wisdom"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://erraticwisdom.com/"
+title = "Erratic Wisdom"
+years = [ 2006 ]

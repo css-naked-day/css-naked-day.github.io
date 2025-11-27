@@ -1,0 +1,9 @@
+display = "My First ActionScript Application"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.yesutin.com/"
+title = "My First ActionScript Application"
+years = [ 2008 ]

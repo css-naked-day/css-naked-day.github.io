@@ -1,0 +1,9 @@
+display = "Wayne"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.redipixel.com/"
+title = "Wayne"
+years = [ 2006 ]

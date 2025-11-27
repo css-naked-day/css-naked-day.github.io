@@ -1,0 +1,9 @@
+display = "McFuture"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.mcfuture.net/"
+title = "McFuture"
+years = [ 2006 ]

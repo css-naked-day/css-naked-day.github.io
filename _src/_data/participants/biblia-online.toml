@@ -1,0 +1,9 @@
+display = "Biblia Online"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.bibliaonline.com.br/"
+title = "Biblia Online"
+years = [ 2007 ]

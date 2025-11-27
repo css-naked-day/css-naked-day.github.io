@@ -1,0 +1,9 @@
+display = "Supasco"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.supasco.com/"
+title = "Supasco"
+years = [ 2009 ]

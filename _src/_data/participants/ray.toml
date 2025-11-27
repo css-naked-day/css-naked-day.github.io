@@ -1,0 +1,9 @@
+display = "Ray"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://pujutengineered.blogspot.com/"
+title = "Ray"
+years = [ 2006 ]

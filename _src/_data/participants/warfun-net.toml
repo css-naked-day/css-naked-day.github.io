@@ -1,0 +1,9 @@
+display = "WarFUN.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.warfun.net/"
+title = "WarFUN.net"
+years = [ 2007 ]

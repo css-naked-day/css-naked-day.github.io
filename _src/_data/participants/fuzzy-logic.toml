@@ -1,0 +1,9 @@
+display = "Fuzzy Logic"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.sacredpaws.org/"
+title = "Fuzzy Logic"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "James Chan"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.ashchan.com/"
+title = "James Chan"
+years = [ 2009 ]

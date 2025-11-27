@@ -1,0 +1,9 @@
+display = "freQvibez"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://freqvibez.net/"
+title = "freQvibez"
+years = [ 2007 ]

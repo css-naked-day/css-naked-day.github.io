@@ -1,0 +1,9 @@
+display = "Natalia Ventre"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://nataliaventre.com/"
+title = "Natalia Ventre"
+years = [ 2009 ]

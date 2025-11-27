@@ -1,0 +1,9 @@
+display = "Squio.nl"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://squio.nl/blog/"
+title = "Squio.nl"
+years = [ 2008 ]

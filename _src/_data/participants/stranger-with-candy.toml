@@ -1,0 +1,9 @@
+display = "Stranger with Candy"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.strangerwithcandy.org/"
+title = "Stranger with Candy"
+years = [ 2007 ]

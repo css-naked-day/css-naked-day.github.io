@@ -1,0 +1,9 @@
+display = "Of The Week"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://readotw.com/"
+title = "Of The Week"
+years = [ 2009 ]

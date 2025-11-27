@@ -1,0 +1,9 @@
+display = "misslucyjane.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://misslucyjane.com/"
+title = "misslucyjane.com"
+years = [ 2008 ]

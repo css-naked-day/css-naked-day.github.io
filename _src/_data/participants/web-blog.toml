@@ -1,0 +1,13 @@
+display = "Web標準Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://standards.mitsue.co.jp/"
+title = "Web標準Blog"
+years = [
+	2007,
+	2008,
+	2009 
+]

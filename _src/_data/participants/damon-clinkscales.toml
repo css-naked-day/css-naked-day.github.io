@@ -1,0 +1,9 @@
+display = "Damon Clinkscales"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://damonclinkscales.com/"
+title = "Damon Clinkscales"
+years = [ 2007 ]

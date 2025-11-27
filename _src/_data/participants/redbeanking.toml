@@ -1,0 +1,9 @@
+display = "redbeanking"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://redbeanking.spaces.live.com/"
+title = "redbeanking"
+years = [ 2008 ]

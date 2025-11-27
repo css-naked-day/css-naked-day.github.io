@@ -1,0 +1,9 @@
+display = "Ben Eastaugh"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://ionfish.co.uk/"
+title = "Ben Eastaugh"
+years = [ 2006 ]

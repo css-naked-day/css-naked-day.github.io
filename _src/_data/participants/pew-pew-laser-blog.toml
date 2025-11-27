@@ -1,0 +1,9 @@
+display = "Pew Pew Laser Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.pewpewlaser.com/"
+title = "Pew Pew Laser Blog"
+years = [ 2008 ]

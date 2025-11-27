@@ -1,0 +1,9 @@
+display = "Loopymeg"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.loopymeg.com/"
+title = "Loopymeg"
+years = [ 2008 ]

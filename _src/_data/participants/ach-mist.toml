@@ -1,0 +1,9 @@
+display = "Ach!Mist"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.achmmist.de/blog"
+title = "Ach!Mist"
+years = [ 2008 ]

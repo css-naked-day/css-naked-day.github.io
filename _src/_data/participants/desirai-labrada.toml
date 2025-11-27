@@ -1,0 +1,9 @@
+display = "Desirai Labrada"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://desirai.com/"
+title = "Desirai Labrada"
+years = [ 2008 ]

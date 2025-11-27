@@ -1,0 +1,9 @@
+display = "nebelseetal"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.nebelsetal.de/"
+title = "nebelseetal"
+years = [ 2009 ]

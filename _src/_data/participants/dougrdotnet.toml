@@ -1,0 +1,12 @@
+display = "dougrdotnet"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://dougr.net/"
+title = "dougrdotnet"
+years = [
+	2008,
+	2009 
+]

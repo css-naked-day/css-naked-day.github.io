@@ -1,0 +1,9 @@
+display = "Asphaug.info"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://asphaug.start-1.info/"
+title = "Asphaug.info"
+years = [ 2007 ]

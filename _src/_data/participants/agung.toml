@@ -1,0 +1,9 @@
+display = "Agung"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.agung.or.id/"
+title = "Agung"
+years = [ 2006 ]

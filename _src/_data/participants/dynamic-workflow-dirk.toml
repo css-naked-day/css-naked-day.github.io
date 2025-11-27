@@ -1,0 +1,9 @@
+display = "Dynamic Workflow (Dirk)"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.dynamicworkflow.com/"
+title = "Dynamic Workflow (Dirk)"
+years = [ 2006 ]

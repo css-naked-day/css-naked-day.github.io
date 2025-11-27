@@ -1,0 +1,9 @@
+display = "infidel-regime.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://infidel-regime.com/"
+title = "infidel-regime.com"
+years = [ 2007 ]

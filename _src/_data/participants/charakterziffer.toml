@@ -1,0 +1,9 @@
+display = "charakterziffer"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://charakterziffer.github.io/"
+title = "charakterziffer"
+years = [ 2024 ]

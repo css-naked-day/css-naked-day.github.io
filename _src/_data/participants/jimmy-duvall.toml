@@ -1,0 +1,9 @@
+display = "Jimmy Duvall"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.jduvall.com/"
+title = "Jimmy Duvall"
+years = [ 2006 ]

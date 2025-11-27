@@ -1,0 +1,9 @@
+display = "Ruth Kalinka"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.ruthkalinka.com/"
+title = "Ruth Kalinka"
+years = [ 2008 ]

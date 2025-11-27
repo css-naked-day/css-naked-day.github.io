@@ -1,0 +1,9 @@
+display = "Jeff Triplett"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://jefftriplett.com/"
+title = "Jeff Triplett"
+years = [ 2009 ]

@@ -1,0 +1,9 @@
+display = "Jugando entre diseñadores"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.nnatali.com/"
+title = "Jugando entre diseñadores"
+years = [ 2009 ]

@@ -1,0 +1,9 @@
+display = "Kodamotiv – oblikovanje spletnih strani"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.kodamotiv.com/"
+title = "Kodamotiv – oblikovanje spletnih strani"
+years = [ 2009 ]

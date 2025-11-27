@@ -1,0 +1,9 @@
+display = "Webdesign Hamburg"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.jab-design.de/"
+title = "Webdesign Hamburg"
+years = [ 2008 ]

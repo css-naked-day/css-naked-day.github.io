@@ -1,0 +1,9 @@
+display = "Medra – blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://medra.jogger.pl/"
+title = "Medra – blog"
+years = [ 2007 ]

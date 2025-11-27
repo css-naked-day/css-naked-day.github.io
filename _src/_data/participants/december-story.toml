@@ -1,0 +1,9 @@
+display = "December Story"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://decemberstory.tistory.com/"
+title = "December Story"
+years = [ 2008 ]

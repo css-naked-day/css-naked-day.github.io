@@ -1,0 +1,9 @@
+display = "Blue Cow"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blue-cow.info/"
+title = "Blue Cow"
+years = [ 2009 ]

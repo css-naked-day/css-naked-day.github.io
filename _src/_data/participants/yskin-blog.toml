@@ -1,0 +1,9 @@
+display = "Yskin Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://yskin.net/"
+title = "Yskin Blog"
+years = [ 2008 ]

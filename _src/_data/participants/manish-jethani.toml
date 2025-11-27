@@ -1,0 +1,9 @@
+display = "Manish Jethani"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://mannu.livejournal.com/"
+title = "Manish Jethani"
+years = [ 2006 ]

@@ -1,0 +1,9 @@
+display = "필자투(pilza2)"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://pilza2.com/blog/"
+title = "필자투(pilza2)"
+years = [ 2007 ]

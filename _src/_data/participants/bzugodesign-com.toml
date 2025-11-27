@@ -1,0 +1,9 @@
+display = "bzugodesign.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.bzugodesign.com/"
+title = "bzugodesign.com"
+years = [ 2008 ]

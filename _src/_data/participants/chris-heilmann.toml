@@ -1,0 +1,9 @@
+display = "Chris Heilmann"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.wait-till-i.com/"
+title = "Chris Heilmann"
+years = [ 2006 ]

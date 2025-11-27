@@ -1,0 +1,9 @@
+display = "Our Take"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://take.gosammy.com/"
+title = "Our Take"
+years = [ 2007 ]

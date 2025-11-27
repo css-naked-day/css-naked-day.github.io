@@ -1,0 +1,9 @@
+display = "Saarbrücken Blues Softball"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.saarbrueckenblues.de/"
+title = "Saarbrücken Blues Softball"
+years = [ 2008 ]

@@ -1,0 +1,10 @@
+display = "Klaas Pieter Annema"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://annema.me/"
+title = "Klaas Pieter Annema"
+years = [ 2025 ]
+

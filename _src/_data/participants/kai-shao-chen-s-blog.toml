@@ -1,0 +1,9 @@
+display = "Kai-shao Chen’s Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.kaishao.idv.tw/"
+title = "Kai-shao Chen’s Blog"
+years = [ 2008 ]

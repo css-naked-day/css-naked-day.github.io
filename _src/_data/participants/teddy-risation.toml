@@ -1,0 +1,12 @@
+display = "teddY-risatioN™"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.teddy-o-ted.com/"
+title = "teddY-risatioN™"
+years = [
+	2008,
+	2009 
+]

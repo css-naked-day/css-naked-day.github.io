@@ -1,0 +1,9 @@
+display = "Brainside Out"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.brainsideout.com/"
+title = "Brainside Out"
+years = [ 2007 ]

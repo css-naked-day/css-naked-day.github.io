@@ -1,0 +1,14 @@
+display = "kunshou blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://kunshou.cn99.com/"
+title = "kunshou blog"
+years = [ 2007 ]
+
+[[websites]]
+url   = "http://www.kunshou.net/"
+title = "Kunshou Blog"
+years = [ 2008 ]

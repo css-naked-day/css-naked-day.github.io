@@ -1,0 +1,12 @@
+display = "Figure and Sound"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://figureandsound.com/"
+title = "Figure and Sound"
+years = [
+	2007,
+	2008 
+]

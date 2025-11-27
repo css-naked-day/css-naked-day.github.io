@@ -1,0 +1,9 @@
+display = "Eff Seven"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://effseven.co.uk/"
+title = "Eff Seven"
+years = [ 2008 ]

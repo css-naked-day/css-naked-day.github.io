@@ -1,0 +1,9 @@
+display = "Jens"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.stripmusic.se/"
+title = "Jens"
+years = [ 2006 ]

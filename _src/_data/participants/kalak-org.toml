@@ -1,0 +1,12 @@
+display = "kalak.org"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.kalak.org/"
+title = "kalak.org"
+years = [
+	2008,
+	2009 
+]

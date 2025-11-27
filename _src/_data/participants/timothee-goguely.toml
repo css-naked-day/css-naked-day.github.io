@@ -1,0 +1,10 @@
+display = "Timothée Goguely"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://timothee.goguely.com/"
+title = "Timothée Goguely"
+years = [ 2025 ]
+

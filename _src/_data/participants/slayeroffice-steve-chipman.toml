@@ -1,0 +1,9 @@
+display = "Slayeroffice (Steve Chipman)"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://slayeroffice.com/"
+title = "Slayeroffice (Steve Chipman)"
+years = [ 2006 ]

@@ -1,0 +1,9 @@
+display = "indigo’s digital mirror"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://indigos.cn/"
+title = "indigo’s digital mirror"
+years = [ 2007 ]

@@ -1,0 +1,9 @@
+display = "Haggard Design"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.haggard.com.au/"
+title = "Haggard Design"
+years = [ 2009 ]

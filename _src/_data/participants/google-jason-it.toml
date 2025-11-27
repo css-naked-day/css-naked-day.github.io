@@ -1,0 +1,8 @@
+display = "Google是彩色的"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://my.opera.com/JasonIT/"
+years = [ 2007 ]

@@ -1,0 +1,9 @@
+display = "Karol Krakowiak – Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.karolkrakowiak.com/"
+title = "Karol Krakowiak – Blog"
+years = [ 2009 ]

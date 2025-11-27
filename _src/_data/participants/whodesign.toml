@@ -1,0 +1,9 @@
+display = "Whodesign"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.whodesign.com/"
+title = "Whodesign"
+years = [ 2007 ]

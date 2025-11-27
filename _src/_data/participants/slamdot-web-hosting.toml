@@ -1,0 +1,9 @@
+display = "Slamdot web hosting"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.slamdot.com/"
+title = "Slamdot web hosting"
+years = [ 2009 ]

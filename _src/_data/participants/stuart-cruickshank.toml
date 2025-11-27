@@ -1,0 +1,9 @@
+display = "Stuart Cruickshank"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.stuartandpetra.com/"
+title = "Stuart Cruickshank"
+years = [ 2006 ]

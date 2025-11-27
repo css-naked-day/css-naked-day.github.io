@@ -1,0 +1,9 @@
+display = "Pixo-Design"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.pixo-design.fr/"
+title = "Pixo-Design"
+years = [ 2007 ]

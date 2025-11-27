@@ -1,0 +1,9 @@
+display = "48-Hour Days"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.kashubeck.com/"
+title = "48-Hour Days"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "KimchiDreams"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.kimchidreams.net/"
+title = "KimchiDreams"
+years = [ 2007 ]

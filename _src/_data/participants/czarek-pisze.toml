@@ -1,0 +1,9 @@
+display = "Czarek Pisze"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://czarny.jogger.pl/"
+title = "Czarek Pisze"
+years = [ 2007 ]

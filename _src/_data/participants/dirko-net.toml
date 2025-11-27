@@ -1,0 +1,9 @@
+display = "dirko.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://dirko.net/"
+title = "dirko.net"
+years = [ 2008 ]

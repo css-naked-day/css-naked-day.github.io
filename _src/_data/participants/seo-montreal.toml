@@ -1,0 +1,9 @@
+display = "seo montreal"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.samuellavoie.com/"
+title = "seo montreal"
+years = [ 2008 ]

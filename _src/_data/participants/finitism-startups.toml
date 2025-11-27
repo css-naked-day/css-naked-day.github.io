@@ -1,0 +1,9 @@
+display = "Finitism Startups"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://finitism.com/"
+title = "Finitism Startups"
+years = [ 2009 ]

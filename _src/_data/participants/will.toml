@@ -1,0 +1,9 @@
+display = "Will"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://willmonwah.blogspot.com/"
+title = "Will"
+years = [ 2006 ]

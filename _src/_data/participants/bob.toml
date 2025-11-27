@@ -1,0 +1,14 @@
+display = "Bob的部落格"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.bo-blog.com/weblog/index.php"
+title = "Bob的部落格"
+years = [ 2007 ]
+
+[[websites]]
+url   = "http://bob.my/"
+title = "Bob"
+years = [ 2008 ]

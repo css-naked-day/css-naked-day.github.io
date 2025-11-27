@@ -1,0 +1,9 @@
+display = "Chris Glass"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://chrisglass.com/"
+title = "Chris Glass"
+years = [ 2009 ]

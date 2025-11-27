@@ -1,0 +1,9 @@
+display = "etrib.de zieht blank!"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://etrib.de/"
+title = "etrib.de zieht blank!"
+years = [ 2007 ]

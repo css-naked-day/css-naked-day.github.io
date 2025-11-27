@@ -1,0 +1,9 @@
+display = "What the deuce"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.whatthedeuce.co.nz/"
+title = "What the deuce"
+years = [ 2007 ]

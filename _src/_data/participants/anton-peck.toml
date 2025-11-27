@@ -1,0 +1,9 @@
+display = "Anton Peck"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://antonpeck.com/"
+title = "Anton Peck"
+years = [ 2007 ]

@@ -1,0 +1,9 @@
+display = "redbrick’s private Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.redbrick.de/"
+title = "redbrick’s private Blog"
+years = [ 2009 ]

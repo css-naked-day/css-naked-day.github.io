@@ -1,0 +1,9 @@
+display = "i:lieq"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://ilieq.tistory.com/"
+title = "i:lieq"
+years = [ 2008 ]

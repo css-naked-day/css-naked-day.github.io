@@ -1,0 +1,9 @@
+display = "Lyrik Online"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.lyrikonline.org/"
+title = "Lyrik Online"
+years = [ 2009 ]

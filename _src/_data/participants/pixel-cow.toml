@@ -1,0 +1,9 @@
+display = "Pixel Cow"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.pixelcow.com/blog/"
+title = "Pixel Cow"
+years = [ 2006 ]

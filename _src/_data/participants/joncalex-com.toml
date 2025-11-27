@@ -1,0 +1,9 @@
+display = "joncalex.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.joncalex.com/"
+title = "joncalex.com"
+years = [ 2007 ]

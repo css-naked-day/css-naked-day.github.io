@@ -1,0 +1,9 @@
+display = "mickro.design"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.mickro.de/"
+title = "mickro.design"
+years = [ 2007 ]

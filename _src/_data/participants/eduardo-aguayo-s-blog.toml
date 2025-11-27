@@ -1,0 +1,9 @@
+display = "Eduardo Aguayo’s Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.aguayoki.cl/blog/"
+title = "Eduardo Aguayo’s Blog"
+years = [ 2007 ]

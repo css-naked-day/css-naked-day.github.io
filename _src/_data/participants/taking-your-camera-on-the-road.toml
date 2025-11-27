@@ -1,0 +1,9 @@
+display = "Taking Your Camera on the Road"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.cameraontheroad.com/"
+title = "Taking Your Camera on the Road"
+years = [ 2007 ]

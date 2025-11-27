@@ -1,0 +1,9 @@
+display = "AuldHost"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.auldhost.com/"
+title = "AuldHost"
+years = [ 2008 ]

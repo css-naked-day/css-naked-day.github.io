@@ -1,0 +1,9 @@
+display = "stefan.waidele.info"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://stefan.waidele.info/"
+title = "stefan.waidele.info"
+years = [ 2009 ]

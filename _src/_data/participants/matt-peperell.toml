@@ -1,0 +1,9 @@
+display = "Matt Peperell"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://www.peperell.com/"
+title = "Matt Peperell"
+years = [ 2024 ]

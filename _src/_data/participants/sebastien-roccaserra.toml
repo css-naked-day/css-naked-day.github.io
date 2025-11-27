@@ -1,0 +1,10 @@
+display = "Sébastien Roccaserra"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://sroccaserra.fr/"
+title = "Sébastien Roccaserra"
+years = [ 2025 ]
+

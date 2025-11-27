@@ -1,0 +1,9 @@
+display = "juanita’s Web Spot 2"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.jack-in.com/"
+title = "juanita’s Web Spot 2"
+years = [ 2009 ]

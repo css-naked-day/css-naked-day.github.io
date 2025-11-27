@@ -1,0 +1,9 @@
+display = "kikke.hu"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://kikke.hu/"
+title = "kikke.hu"
+years = [ 2007 ]

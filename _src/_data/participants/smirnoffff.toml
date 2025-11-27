@@ -1,0 +1,9 @@
+display = "Smirnoffff"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://smirnoffff.info/blogo/"
+title = "Smirnoffff"
+years = [ 2006 ]

@@ -1,0 +1,9 @@
+display = "h4x3d.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.h4x3d.com/"
+title = "h4x3d.com"
+years = [ 2008 ]

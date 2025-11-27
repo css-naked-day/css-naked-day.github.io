@@ -1,0 +1,9 @@
+display = "Rick’s HideOut"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://rick.jinlabs.com/"
+title = "Rick’s HideOut"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "cole007.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://cole007.net/"
+title = "cole007.net"
+years = [ 2008 ]

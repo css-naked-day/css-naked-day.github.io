@@ -1,0 +1,9 @@
+display = "dirty boudoir"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.dirtyboudoir.be"
+title = "dirty boudoir"
+years = [ 2008 ]

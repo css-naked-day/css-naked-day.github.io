@@ -1,0 +1,12 @@
+display = "Googlisti"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://googlisti.com/"
+title = "Googlisti"
+years = [
+	2006,
+	2007 
+]

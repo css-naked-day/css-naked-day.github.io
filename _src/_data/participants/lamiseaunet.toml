@@ -1,0 +1,9 @@
+display = "Lamiseaunet"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.lamiseaunet.com/"
+title = "Lamiseaunet"
+years = [ 2008 ]

@@ -1,0 +1,10 @@
+display = "B. Bergeron"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://www.bbergeron.xyz/"
+title = "B. Bergeron"
+years = [ 2025 ]
+

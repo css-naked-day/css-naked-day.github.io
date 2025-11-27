@@ -1,0 +1,9 @@
+display = "OMG Luckymike!"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://omg.luckymike.com/"
+title = "OMG Luckymike!"
+years = [ 2008 ]

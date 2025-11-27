@@ -1,0 +1,9 @@
+display = "Jean-Jacques Halans – Afterhours"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://halans.com/"
+title = "Jean-Jacques Halans – Afterhours"
+years = [ 2009 ]

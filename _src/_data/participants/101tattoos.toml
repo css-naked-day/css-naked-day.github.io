@@ -1,0 +1,9 @@
+display = "101tattoos"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://101tattoos.com/"
+title = "101tattoos"
+years = [ 2009 ]

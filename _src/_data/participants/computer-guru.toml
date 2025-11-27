@@ -1,0 +1,9 @@
+display = "Computer Guru"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://neosmart.net/blog"
+title = "Computer Guru"
+years = [ 2006 ]

@@ -1,0 +1,9 @@
+display = "NiKiZh.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://nikizh.com/"
+title = "NiKiZh.com"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "jayesel.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://jayesel.net/"
+title = "jayesel.net"
+years = [ 2009 ]

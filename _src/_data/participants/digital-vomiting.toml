@@ -1,0 +1,9 @@
+display = "Digital Vomiting"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.sinisa.org/"
+title = "Digital Vomiting"
+years = [ 2007 ]

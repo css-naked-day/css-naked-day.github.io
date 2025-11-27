@@ -1,0 +1,9 @@
+display = "Estrup"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://stokkonservativ.dk/"
+title = "Estrup"
+years = [ 2006 ]

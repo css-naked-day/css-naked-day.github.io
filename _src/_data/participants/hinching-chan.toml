@@ -1,0 +1,9 @@
+display = "Hinching Chan"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://hinching/"
+title = "Hinching Chan"
+years = [ 2007 ]

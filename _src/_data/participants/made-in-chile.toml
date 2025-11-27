@@ -1,0 +1,9 @@
+display = "made in Chile"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.gerlach.cl/"
+title = "made in Chile"
+years = [ 2007 ]

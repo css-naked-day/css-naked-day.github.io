@@ -1,0 +1,12 @@
+display = "scribu"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://scribu.net/"
+title = "scribu"
+years = [
+	2008,
+	2009 
+]

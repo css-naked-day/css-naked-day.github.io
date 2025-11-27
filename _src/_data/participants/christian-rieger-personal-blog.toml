@@ -1,0 +1,9 @@
+display = "Christian Rieger personal Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.christianrieger.de/"
+title = "Christian Rieger personal Blog"
+years = [ 2009 ]

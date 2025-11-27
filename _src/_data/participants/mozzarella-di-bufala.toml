@@ -1,0 +1,9 @@
+display = "mozzarella di bufala"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.lacompagniadelcavatappi.it/catalog/mozzarella-di-bufala-campana-dop-kg-100-p-85.html"
+title = "mozzarella di bufala"
+years = [ 2007 ]

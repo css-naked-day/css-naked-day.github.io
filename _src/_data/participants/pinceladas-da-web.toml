@@ -1,0 +1,9 @@
+display = "Pinceladas da Web"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.pinceladasdaweb.com.br/blog/"
+title = "Pinceladas da Web"
+years = [ 2008 ]

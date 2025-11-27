@@ -1,0 +1,9 @@
+display = "Samuel Mateo, Jr."
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.samuelmateo.com/"
+title = "Samuel Mateo, Jr."
+years = [ 2006 ]

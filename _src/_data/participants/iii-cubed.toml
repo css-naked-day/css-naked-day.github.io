@@ -1,0 +1,9 @@
+display = "III cubed"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.iiicubed.com/"
+title = "III cubed"
+years = [ 2008 ]

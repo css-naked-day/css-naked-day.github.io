@@ -1,0 +1,9 @@
+display = "Jed Sundwall"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://jedsundwall.com/"
+title = "Jed Sundwall"
+years = [ 2009 ]

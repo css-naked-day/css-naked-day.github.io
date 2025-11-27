@@ -1,0 +1,9 @@
+display = "Sentinel Design Group"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://sentineldesign.net/"
+title = "Sentinel Design Group"
+years = [ 2009 ]

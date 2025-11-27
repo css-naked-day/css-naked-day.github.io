@@ -1,0 +1,12 @@
+display = "Michael Reeps"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.redtailonline.com/"
+title = "Michael Reeps"
+years = [
+	2007,
+	2009 
+]

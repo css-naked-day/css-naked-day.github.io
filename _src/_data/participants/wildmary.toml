@@ -1,0 +1,9 @@
+display = "Wildmary"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://wildmary.net-sauvage.com/weblog"
+title = "Wildmary"
+years = [ 2006 ]

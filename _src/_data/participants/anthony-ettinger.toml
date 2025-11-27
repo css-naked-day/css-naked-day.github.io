@@ -1,0 +1,9 @@
+display = "Anthony Ettinger"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.chovy.com/"
+title = "Anthony Ettinger"
+years = [ 2006 ]

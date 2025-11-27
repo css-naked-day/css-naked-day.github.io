@@ -1,0 +1,9 @@
+display = "Scott Johnson"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://scottj.info/"
+title = "Scott Johnson"
+years = [ 2008 ]
