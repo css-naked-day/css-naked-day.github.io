@@ -30,8 +30,8 @@ jobs:
           switches: -rlD --delete --exclude='.htaccess'
           path: _site/
           remote_path: ${{ secrets.REMOTE_PATH_STAGING }}
-          remote_host: ${{ secrets.REMOTE_HOST }}
-          remote_port: ${{ secrets.REMOTE_PORT }}
-          remote_user: ${{ secrets.REMOTE_USER }}
-          remote_key: ${{ secrets.REMOTE_PRIVATE_KEY }}
-          remote_key_pass: ${{ secrets.REMOTE_PRIVATE_KEY_PASS }}
+          remote_host: ${{ secrets.REMOTE_HOST_STAGING }}
+          remote_port: ${{ secrets.REMOTE_PORT_STAGING }}
+          remote_user: ${{ secrets.REMOTE_USER_STAGING }}
+          remote_key: ${{ secrets.REMOTE_PRIVATE_KEY_STAGING }}
+          remote_key_pass: ${{ secrets.REMOTE_PRIVATE_KEY_PASS_STAGING }}
