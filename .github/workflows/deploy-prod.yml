@@ -8,7 +8,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-olatest
+    runs-on: ubuntu-latest
     steps:
       # Check-out the repository under $GITHUB_WORKSPACE.
       - uses: actions/checkout@master
