@@ -1,14 +1,14 @@
-name: Deploy Eleventy on staging via rsync
+name: Deploy Eleventy on prod via rsync
 
 on:
   push:
-    branches: [staging]
+    branches: [master]
   pull_request:
-    branches: [staging]
+    branches: [master]
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-olatest
     steps:
       # Check-out the repository under $GITHUB_WORKSPACE.
       - uses: actions/checkout@master
@@ -29,9 +29,9 @@ jobs:
         with:
           switches: -rlD --delete --exclude='.htaccess'
           path: _site/
-          remote_path: ${{ secrets.REMOTE_PATH_STAGING }}
-          remote_host: ${{ secrets.REMOTE_HOST_STAGING }}
-          remote_port: ${{ secrets.REMOTE_PORT_STAGING }}
-          remote_user: ${{ secrets.REMOTE_USER_STAGING }}
-          remote_key: ${{ secrets.REMOTE_PRIVATE_KEY_STAGING }}
-          remote_key_pass: ${{ secrets.REMOTE_PRIVATE_KEY_PASS_STAGING }}
+          remote_path: ${{ secrets.REMOTE_PATH_PROD }}
+          remote_host: ${{ secrets.REMOTE_HOST_PROD }}
+          remote_port: ${{ secrets.REMOTE_PORT_PROD }}
+          remote_user: ${{ secrets.REMOTE_USER_PROD }}
+          remote_key: ${{ secrets.REMOTE_PRIVATE_KEY_PROD }}
+          remote_key_pass: ${{ secrets.REMOTE_PRIVATE_KEY_PASS_PROD }}
