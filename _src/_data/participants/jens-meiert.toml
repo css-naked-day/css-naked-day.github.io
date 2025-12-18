@@ -9,6 +9,7 @@ username  = "j9t"
 
 [[websites]]
 url   = "https://meiert.com/"
+homeURL = true
 years = [
 	2006,
 	2015,

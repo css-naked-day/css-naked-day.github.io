@@ -4,6 +4,7 @@ display = "Dominik Schwind"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "https://lostfocus.de/"
-title = "LostFocus"
-years = [ 2024 ]
+url     = "https://lostfocus.de/"
+homeURL = false
+title   = "LostFocus"
+years   = [ 2024 ]

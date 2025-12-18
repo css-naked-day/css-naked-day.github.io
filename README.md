@@ -16,7 +16,7 @@ We are using [Toml configuration files](https://toml.io/) to structure data. Her
 
 ### Bare minimum
 
-The following will show as “_[css-naked-day.org]_”:
+The following will show as “_[css-naked-day.org][]_”:
 
 ```toml
 [[websites]]
@@ -26,7 +26,7 @@ years = [2006, 2010]
 
 ### With a display name
 
-The following will show as “_[Naked Days Corp]_”:
+The following will show as “_[Naked Days Corp][]_”:
 
 ```toml
 display = "Naked Days Corp"
@@ -36,9 +36,28 @@ url   = "https://css-naked-day.org/"
 years = [2006, 2010]
 ```
 
+### With a display name and one website
+
+If you add `homeURL = false` to a website, the URL will not apply to your _display_ name.
+
+The following will show as “_Naked Days Corp: [CSS Naked Day][]_” instead of “_[Naked Days Corp][]_”.
+
+```toml
+display = "Naked Days Corp"
+
+[[websites]]
+url     = "https://css-naked-day.org/"
+homeURL = false
+years   = [2006, 2010]
+```
+
 ### With multiple websites
 
-The following will show as “_[Naked Days Corp]_” in 2006 and “_Naked Days Corp: [CSS Naked Day] & [JS Naked Day]_” in 2010:
+The following will show as:
+
+* “_[Naked Days Corp][]_” in 2006,
+* “_Naked Days Corp: [CSS Naked Day][] & [JS Naked Day][]_” in 2008,
+* “_[Naked Days Corp][JS Naked Day]_” in 2010:
 
 ```toml
 display = "Naked Days Corp"
@@ -46,12 +65,35 @@ display = "Naked Days Corp"
 [[websites]]
 url   = "https://css-naked-day.org/"
 title = "CSS Naked Day"
-years = [2006, 2010]
+years = [2006, 2008]
 
 [[websites]]
 url   = "https://js-naked-day.org/"
 title = "JS Naked Day"
-years = [2010]
+years = [2008, 2010]
+```
+
+Adding `homeURL = true` on a website will only merge this one with your _display_ name.
+
+The following will show as:
+
+* “_[Naked Days Corp][]_” in 2006,
+* “_Naked Days Corp: [CSS Naked Day][] & [JS Naked Day][]_” in 2008,
+* “_Naked Days Corp: [JS Naked Day][]_” in 2010:
+
+```toml
+display = "Naked Days Corp"
+
+[[websites]]
+url     = "https://css-naked-day.org/"
+homeURL = true
+title   = "CSS Naked Day"
+years   = [2006, 2008]
+
+[[websites]]
+url   = "https://js-naked-day.org/"
+title = "JS Naked Day"
+years = [2008, 2010]
 ```
 
 ### Advanced formatting
@@ -61,6 +103,8 @@ By default, more than one entry will be listed as “_`display`: [website1](), [
 His websites will appear as “_Tom Hazledine: [tomhazledine.com](https://tomhazledine.com/) (some of which is [always naked](https://tomhazledine.com/css-naked-day/))_”
 
 ### More than complete
+
+---
 
 We are not using all data yet, but feel free to add them, as we might improve the website with it!
 
@@ -118,5 +162,4 @@ npm run dev
 [css-naked-day.org]: https://css-naked-day.org/
 [Naked Days Corp]: https://css-naked-day.org/
 [CSS Naked Day]: https://css-naked-day.org/
-[Naked]: https://css-naked-day.org/
 [JS Naked Day]: https://js-naked-day.org/

@@ -4,7 +4,8 @@ display = "Matthew Graybosch"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "https://starbreaker.org/"
-title = "starbreaker.org"
-years = [ 2025 ]
+url     = "https://starbreaker.org/"
+homeURL = false
+title   = "starbreaker.org"
+years   = [ 2024, 2025 ]
 

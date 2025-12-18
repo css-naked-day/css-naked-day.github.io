@@ -48,14 +48,14 @@
 					<ol>
 						{% for filename, participations in participations | getParticipantsForYear(year) | groupby('participant') %}
 							{% set participant = participants[filename] %}
-							{% set websites = participant | getParticipantWebsitesForYear(year) %}
+							{% set websitesForYear = participant | getParticipantWebsitesForYear(year) %}
 
 							<li>
-								{%- if websites | length === 1 -%}
-									{% linkNoSpam filename | getParticipantDisplayName, websites[0] %}
+								{%- if participant | mergeNameWithURL(websitesForYear) -%}
+									{% linkNoSpam filename | getParticipantDisplayName, websitesForYear[0] %}
 								{%- else -%}
 									{{- filename | getParticipantDisplayName }}:
-									{% formatWebsitesForYear websites -%}
+									{% formatWebsitesForYear websitesForYear -%}
 								{% endif -%}
 							</li>
 						{% endfor %}

@@ -41,6 +41,22 @@ export default function (eleventyConfig) {
 		return participant.websites.filter(website => website.years.includes(year));
 	});
 
+	eleventyConfig.addFilter('mergeNameWithURL', function(participant, websitesForYear) {
+		// Is there only one website for the current year?
+		if (websitesForYear.length > 1) {
+			return false;
+		}
+
+		// Is there at least one `homeURL` in the user file.
+		const hasHomeURL = participant.websites.some(website => website.homeURL !== undefined);
+
+		if (!hasHomeURL) {
+			return true;
+		}
+
+		return websitesForYear[0].homeURL;
+	});
+
 	// eleventyComputed data filters.
 	// ---------------------------------------------------------------------------
 
