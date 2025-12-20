@@ -1,0 +1,9 @@
+display = "bamatone.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.bamatone.net/"
+title = "bamatone.net"
+years = [ 2007 ]

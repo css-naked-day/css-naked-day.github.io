@@ -1,0 +1,9 @@
+display = "tnn"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.tnn.net"
+title = "tnn"
+years = [ 2007 ]

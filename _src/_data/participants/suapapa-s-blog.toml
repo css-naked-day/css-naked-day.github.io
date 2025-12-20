@@ -1,0 +1,9 @@
+display = "Suapapa’s Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.suapapa.net/"
+title = "Suapapa’s Blog"
+years = [ 2008 ]

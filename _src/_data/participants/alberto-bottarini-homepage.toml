@@ -1,0 +1,9 @@
+display = "alberto bottarini homepage"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.albertobottarini.com/"
+title = "alberto bottarini homepage"
+years = [ 2007 ]

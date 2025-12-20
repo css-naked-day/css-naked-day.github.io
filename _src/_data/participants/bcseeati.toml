@@ -1,0 +1,9 @@
+display = "BCSEEATI"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.bcse.info/"
+title = "BCSEEATI"
+years = [ 2006 ]

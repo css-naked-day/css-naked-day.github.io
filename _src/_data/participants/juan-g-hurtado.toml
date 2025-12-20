@@ -1,0 +1,9 @@
+display = "Juan G. Hurtado"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://armonia.spiral-static.org/"
+title = "Juan G. Hurtado"
+years = [ 2006 ]

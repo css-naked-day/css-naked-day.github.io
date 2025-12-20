@@ -1,0 +1,37 @@
+name: Deploy Eleventy on staging via rsync
+
+on:
+  push:
+    branches: [staging]
+  pull_request:
+    branches: [staging]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Check-out the repository under $GITHUB_WORKSPACE.
+      - uses: actions/checkout@master
+
+      - name: Install dependencies.
+        run: npm ci
+
+      - name: Lint with fix.
+        run: npx eslint --fix
+
+      # Build the website with Eleventy.
+      - name: Build Eleventy.
+        run: npm run build
+
+      # Rsync files via SSH.
+      - name: Sync files with server.
+        uses: burnett01/rsync-deployments@master
+        with:
+          switches: -rlD --delete --exclude='.htaccess'
+          path: _site/
+          remote_path: ${{ secrets.REMOTE_PATH_STAGING }}
+          remote_host: ${{ secrets.REMOTE_HOST_STAGING }}
+          remote_port: ${{ secrets.REMOTE_PORT_STAGING }}
+          remote_user: ${{ secrets.REMOTE_USER_STAGING }}
+          remote_key: ${{ secrets.REMOTE_PRIVATE_KEY_STAGING }}
+          remote_key_pass: ${{ secrets.REMOTE_PRIVATE_KEY_PASS_STAGING }}

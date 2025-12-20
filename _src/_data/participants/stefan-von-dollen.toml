@@ -1,0 +1,9 @@
+display = "Stefan Von Dollen"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.vondollens.us/"
+title = "Stefan Von Dollen"
+years = [ 2006 ]

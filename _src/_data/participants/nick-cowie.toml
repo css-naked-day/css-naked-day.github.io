@@ -1,0 +1,9 @@
+display = "Nick Cowie"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://nickcowie.com/"
+title = "Nick Cowie"
+years = [ 2007 ]

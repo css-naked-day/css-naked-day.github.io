@@ -1,0 +1,9 @@
+display = "Zumo de rata"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://geloye.dsland.org/"
+title = "Zumo de rata"
+years = [ 2009 ]

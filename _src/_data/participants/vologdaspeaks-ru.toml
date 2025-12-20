@@ -1,0 +1,9 @@
+display = "VologdaSpeaks.ru"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://vologdaspeaks.ru"
+title = "VologdaSpeaks.ru"
+years = [ 2009 ]

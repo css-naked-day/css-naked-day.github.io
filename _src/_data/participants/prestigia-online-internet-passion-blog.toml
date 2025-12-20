@@ -1,0 +1,9 @@
+display = "Prestigia Online – Internet Passion Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.prestigiaonline.com/blog/"
+title = "Prestigia Online – Internet Passion Blog"
+years = [ 2009 ]

@@ -1,0 +1,9 @@
+display = "Zeb"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.zebsblog.com/"
+title = "Zeb"
+years = [ 2008 ]

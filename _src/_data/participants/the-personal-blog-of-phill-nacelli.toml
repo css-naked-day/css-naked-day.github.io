@@ -1,0 +1,9 @@
+display = "The personal blog of Phill Nacelli."
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.phillnacelli.net/"
+title = "The personal blog of Phill Nacelli."
+years = [ 2009 ]

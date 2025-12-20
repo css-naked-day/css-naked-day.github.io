@@ -1,0 +1,9 @@
+display = "bruto"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://bruto.muzaidin.com/"
+title = "bruto"
+years = [ 2009 ]

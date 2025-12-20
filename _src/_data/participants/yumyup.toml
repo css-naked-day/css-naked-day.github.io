@@ -1,0 +1,9 @@
+display = "YumYup"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.yumyup.unbeknownst-music.org/"
+title = "YumYup"
+years = [ 2007 ]

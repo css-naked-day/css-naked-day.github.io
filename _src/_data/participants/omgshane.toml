@@ -1,0 +1,9 @@
+display = "omgshane"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://shaneblog.tumblr.com/"
+title = "omgshane"
+years = [ 2009 ]

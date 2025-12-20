@@ -1,0 +1,9 @@
+display = "CSS Showcase"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.cssshowcase.co.uk/"
+title = "CSS Showcase"
+years = [ 2008 ]

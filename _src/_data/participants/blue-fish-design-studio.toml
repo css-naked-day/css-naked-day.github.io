@@ -1,0 +1,9 @@
+display = "Blue Fish Design Studio"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://bluefishdesignstudio.com/"
+title = "Blue Fish Design Studio"
+years = [ 2009 ]

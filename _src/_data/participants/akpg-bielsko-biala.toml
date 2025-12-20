@@ -1,0 +1,9 @@
+display = "AKPG Bielsko-Biala"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.akpg.xorg.pl/"
+title = "AKPG Bielsko-Biala"
+years = [ 2007 ]

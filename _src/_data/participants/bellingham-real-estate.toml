@@ -1,0 +1,9 @@
+display = "Bellingham Real Estate"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://ryanmartinrealestate.com/"
+title = "Bellingham Real Estate"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Kerpens Werbeagentur Lucido Media"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://lucido-media.de"
+title = "Kerpens Werbeagentur Lucido Media"
+years = [ 2009 ]

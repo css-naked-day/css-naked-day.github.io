@@ -1,0 +1,9 @@
+display = "Dagi3d"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://dagi3d.net/"
+title = "Dagi3d"
+years = [ 2006 ]

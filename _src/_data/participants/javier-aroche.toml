@@ -1,0 +1,9 @@
+display = "Javier Aroche"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://jaroche.wordpress.com/"
+title = "Javier Aroche"
+years = [ 2007 ]

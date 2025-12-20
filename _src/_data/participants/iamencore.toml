@@ -1,0 +1,9 @@
+display = "IAmEncore"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.iamencore.com/"
+title = "IAmEncore"
+years = [ 2007 ]

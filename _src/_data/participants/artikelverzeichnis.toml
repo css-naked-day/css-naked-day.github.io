@@ -1,0 +1,9 @@
+display = "Artikelverzeichnis"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.destinatorsp.de/"
+title = "Artikelverzeichnis"
+years = [ 2008 ]

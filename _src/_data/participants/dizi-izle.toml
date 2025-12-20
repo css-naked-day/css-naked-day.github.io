@@ -1,0 +1,9 @@
+display = "dizi izle"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.dizi-izle.gen.tr/"
+title = "dizi izle"
+years = [ 2008 ]

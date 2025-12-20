@@ -1,0 +1,10 @@
+display = "Nick Simson"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://nicksimson.com/"
+title = "Nick Simson"
+years = [ 2025 ]
+

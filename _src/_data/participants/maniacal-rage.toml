@@ -1,0 +1,9 @@
+display = "Maniacal Rage"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://maniacalrage.net/"
+title = "Maniacal Rage"
+years = [ 2007 ]

@@ -1,0 +1,9 @@
+display = "xenox"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blogg.langemyhr.org/"
+title = "xenox"
+years = [ 2008 ]

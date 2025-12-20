@@ -1,0 +1,9 @@
+display = "Den of Foxes"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://dof.kitsunecrossing.com/"
+title = "Den of Foxes"
+years = [ 2008 ]

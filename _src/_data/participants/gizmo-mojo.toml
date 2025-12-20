@@ -1,0 +1,9 @@
+display = "Gizmo Mojo"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.gizmomojo.com/"
+title = "Gizmo Mojo"
+years = [ 2008 ]

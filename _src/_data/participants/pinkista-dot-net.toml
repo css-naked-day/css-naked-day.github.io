@@ -1,0 +1,9 @@
+display = "Pinkista[dot]net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.pinkista.net/"
+title = "Pinkista[dot]net"
+years = [ 2007 ]

@@ -1,0 +1,9 @@
+display = "Mustache Competition (Chris LaQuerre)"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.mustachecompetition.com/"
+title = "Mustache Competition (Chris LaQuerre)"
+years = [ 2006 ]

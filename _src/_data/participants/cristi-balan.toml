@@ -1,0 +1,9 @@
+display = "Cristi Balan"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://evil.che.lu/"
+title = "Cristi Balan"
+years = [ 2007 ]

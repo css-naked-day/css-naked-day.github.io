@@ -1,0 +1,9 @@
+display = "Nocturnal Transmission"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.siraya.idv.tw/"
+title = "Nocturnal Transmission"
+years = [ 2008 ]

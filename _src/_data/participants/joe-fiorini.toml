@@ -1,0 +1,9 @@
+display = "Joe Fiorini"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://joefiorini.com/"
+title = "Joe Fiorini"
+years = [ 2009 ]

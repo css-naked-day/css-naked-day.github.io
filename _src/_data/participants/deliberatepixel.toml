@@ -1,0 +1,9 @@
+display = "DeliberatePixel"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.deliberatepixel.com/"
+title = "DeliberatePixel"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Technocolor.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.technocolor.net/"
+title = "Technocolor.net"
+years = [ 2007 ]

@@ -1,0 +1,9 @@
+display = "spiri.dk"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://spiri.dk/"
+title = "spiri.dk"
+years = [ 2008 ]

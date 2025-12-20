@@ -1,0 +1,9 @@
+display = "Robert Bue"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.komplekser.net/"
+title = "Robert Bue"
+years = [ 2007 ]

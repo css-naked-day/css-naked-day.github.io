@@ -1,0 +1,8 @@
+display = "Michael"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.kimili.com/"
+years = [ 2006 ]

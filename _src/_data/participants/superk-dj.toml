@@ -1,0 +1,9 @@
+display = "//superk.dj/"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://superk.dj/"
+title = "//superk.dj/"
+years = [ 2007 ]

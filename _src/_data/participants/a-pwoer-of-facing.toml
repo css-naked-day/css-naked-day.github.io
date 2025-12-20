@@ -1,0 +1,9 @@
+display = "A Pwoer of Facing"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.poweroffacing.com/"
+title = "A Pwoer of Facing"
+years = [ 2009 ]

@@ -1,0 +1,9 @@
+display = "fberriman"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://fberriman.com/"
+title = "fberriman"
+years = [ 2007 ]

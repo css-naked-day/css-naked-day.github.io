@@ -1,0 +1,12 @@
+display = "Eric Martin"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.ericmmartin.com/"
+title = "Eric Martin"
+years = [
+	2008,
+	2009 
+]

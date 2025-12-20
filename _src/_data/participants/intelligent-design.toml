@@ -1,0 +1,9 @@
+display = "Intelligent Design"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://webdesign.timches.com/"
+title = "Intelligent Design"
+years = [ 2007 ]

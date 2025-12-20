@@ -1,0 +1,9 @@
+display = "Reed Martz"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://reedsworld.org/"
+title = "Reed Martz"
+years = [ 2006 ]

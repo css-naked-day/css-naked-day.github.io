@@ -1,0 +1,9 @@
+display = "Sam Newman"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.magpiebrain.com/"
+title = "Sam Newman"
+years = [ 2006 ]

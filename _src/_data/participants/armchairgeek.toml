@@ -1,0 +1,9 @@
+display = "armchairgeek"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.armchairgeek.com/"
+title = "armchairgeek"
+years = [ 2008 ]

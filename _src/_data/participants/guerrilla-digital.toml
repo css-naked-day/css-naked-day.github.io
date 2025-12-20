@@ -1,0 +1,9 @@
+display = "Guerrilla Digital"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.guerrilladigital.cc/"
+title = "Guerrilla Digital"
+years = [ 2008 ]

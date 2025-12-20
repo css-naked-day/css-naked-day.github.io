@@ -1,0 +1,9 @@
+display = "Zsocblog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.zsoc.net/"
+title = "Zsocblog"
+years = [ 2008 ]

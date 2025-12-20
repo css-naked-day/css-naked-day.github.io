@@ -1,0 +1,9 @@
+display = "tin4e-blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://tin4e.wordpress.com/"
+title = "tin4e-blog"
+years = [ 2008 ]

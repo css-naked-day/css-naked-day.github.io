@@ -1,0 +1,9 @@
+display = "Imagespace – Nonprofits and Web 2.0"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.dogstar.org/"
+title = "Imagespace – Nonprofits and Web 2.0"
+years = [ 2009 ]

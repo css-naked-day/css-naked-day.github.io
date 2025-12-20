@@ -1,0 +1,9 @@
+display = "Michael Dick"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.m1k3.net/"
+title = "Michael Dick"
+years = [ 2007 ]

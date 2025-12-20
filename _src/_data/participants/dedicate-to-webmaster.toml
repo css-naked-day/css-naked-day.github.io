@@ -1,0 +1,9 @@
+display = "Dedicate to webmaster…"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.master-web.info/"
+title = "Dedicate to webmaster…"
+years = [ 2008 ]

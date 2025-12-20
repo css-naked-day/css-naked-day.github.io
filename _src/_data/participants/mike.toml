@@ -1,0 +1,9 @@
+display = "Mike"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://fightgandhi.net/weblog"
+title = "Mike"
+years = [ 2006 ]

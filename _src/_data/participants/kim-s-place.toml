@@ -1,0 +1,9 @@
+display = "Kim’s Place"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.ssmrocks.com/kimnovak/"
+title = "Kim’s Place"
+years = [ 2009 ]

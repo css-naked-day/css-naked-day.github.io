@@ -1,0 +1,9 @@
+display = "Judith Wolst"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.judithwolst.se/"
+title = "Judith Wolst"
+years = [ 2009 ]

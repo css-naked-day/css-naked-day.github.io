@@ -1,0 +1,12 @@
+display = "Chris Burnell"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://chrisburnell.com/"
+years = [
+	2023,
+	2024,
+	2025 
+]

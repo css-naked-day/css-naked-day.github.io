@@ -1,0 +1,9 @@
+display = "Placona’s Adobe ColdFusion Blo"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.placona.co.uk/blog"
+title = "Placona’s Adobe ColdFusion Blo"
+years = [ 2007 ]

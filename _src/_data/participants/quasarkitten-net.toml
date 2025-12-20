@@ -1,0 +1,9 @@
+display = "Quasarkitten.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.quasarkitten.net/"
+title = "Quasarkitten.net"
+years = [ 2009 ]

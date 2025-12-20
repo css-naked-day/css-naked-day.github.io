@@ -1,0 +1,9 @@
+display = "Brooker Fanatics"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.brookerfanatics.com/"
+title = "Brooker Fanatics"
+years = [ 2008 ]

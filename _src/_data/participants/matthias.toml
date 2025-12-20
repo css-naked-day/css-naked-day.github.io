@@ -1,0 +1,9 @@
+display = "Matthias"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.mr-entwicklung.de/naked/"
+title = "Matthias"
+years = [ 2006 ]

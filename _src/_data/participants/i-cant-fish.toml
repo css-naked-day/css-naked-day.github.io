@@ -1,0 +1,9 @@
+display = "i can't fish"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.icantfish.com/"
+title = "i can&#39;t fish"
+years = [ 2008 ]

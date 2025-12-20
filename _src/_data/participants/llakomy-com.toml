@@ -1,0 +1,9 @@
+display = "llakomy.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.llakomy.com/"
+title = "llakomy.com"
+years = [ 2008 ]

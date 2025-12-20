@@ -1,0 +1,14 @@
+display = "Sitemap"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.rapidsitemap.com/"
+title = "in english"
+years = [ 2009 ]
+
+[[websites]]
+url   = "http://www.sitemap.gen.tr/"
+title = "in turkish"
+years = [ 2009 ]

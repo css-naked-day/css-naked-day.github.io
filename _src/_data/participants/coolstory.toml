@@ -1,0 +1,9 @@
+display = "coolstory"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://coolstory.biz/"
+title = "coolstory"
+years = [ 2008 ]

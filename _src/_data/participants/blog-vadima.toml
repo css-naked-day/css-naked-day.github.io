@@ -1,0 +1,9 @@
+display = "Blog Vadima"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://vadim.com.ua/"
+title = "Blog Vadima"
+years = [ 2008 ]

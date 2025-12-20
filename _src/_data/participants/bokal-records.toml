@@ -1,0 +1,9 @@
+display = "Bokal Records"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.bokal.eu/"
+title = "Bokal Records"
+years = [ 2007 ]

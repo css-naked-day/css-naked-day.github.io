@@ -1,0 +1,9 @@
+display = "Vincenzo Scamporlino – Inform."
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.scamporlino.it/"
+title = "Vincenzo Scamporlino – Inform."
+years = [ 2007 ]

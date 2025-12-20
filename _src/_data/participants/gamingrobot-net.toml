@@ -1,0 +1,9 @@
+display = "GamingRobot.Net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.gamingrobot.net/"
+title = "GamingRobot.Net"
+years = [ 2009 ]

@@ -1,0 +1,9 @@
+display = "badpixel blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.badpixel.net/"
+title = "badpixel blog"
+years = [ 2009 ]

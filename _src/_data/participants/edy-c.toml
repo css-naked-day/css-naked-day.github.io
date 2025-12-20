@@ -1,0 +1,9 @@
+display = "edy c"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://edy.caplang.net/"
+title = "edy c"
+years = [ 2008 ]

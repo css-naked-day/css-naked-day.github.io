@@ -1,0 +1,9 @@
+display = "Peter Arbuthnott"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://hardbutnot.blogspot.com/"
+title = "Peter Arbuthnott"
+years = [ 2006 ]

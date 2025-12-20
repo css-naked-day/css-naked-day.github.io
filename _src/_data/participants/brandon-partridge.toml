@@ -1,0 +1,9 @@
+display = "Brandon Partridge"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.brandonpartridge.com/"
+title = "Brandon Partridge"
+years = [ 2008 ]

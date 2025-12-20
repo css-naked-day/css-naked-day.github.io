@@ -1,0 +1,9 @@
+display = "Kelly Baker"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.kellybaker.ca/"
+title = "Kelly Baker"
+years = [ 2008 ]

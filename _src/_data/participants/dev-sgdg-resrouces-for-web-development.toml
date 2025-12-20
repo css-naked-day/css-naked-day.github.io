@@ -1,0 +1,9 @@
+display = "dev.SGDG – Resrouces for Web Development"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://dev.sgdg.net/"
+title = "dev.SGDG – Resrouces for Web Development"
+years = [ 2008 ]

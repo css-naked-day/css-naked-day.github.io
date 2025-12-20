@@ -1,0 +1,9 @@
+display = "Michalis Pichler"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://buypichler.com/"
+title = "Michalis Pichler"
+years = [ 2007 ]

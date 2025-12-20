@@ -1,0 +1,9 @@
+display = "www.studentskemestecko.cz"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.studentskemestecko.cz/"
+title = "www.studentskemestecko.cz"
+years = [ 2008 ]

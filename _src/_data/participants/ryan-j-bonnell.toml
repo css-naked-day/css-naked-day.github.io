@@ -1,0 +1,12 @@
+display = "Ryan J. Bonnell"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://ryanjbonnell.com/"
+title = "Ryan J. Bonnell"
+years = [
+	2006,
+	2007 
+]

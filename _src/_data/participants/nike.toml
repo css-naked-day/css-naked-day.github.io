@@ -1,0 +1,9 @@
+display = "Nike"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.nike.com"
+title = "Nike"
+years = [ 2009 ]

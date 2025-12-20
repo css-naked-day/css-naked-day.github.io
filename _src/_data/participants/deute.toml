@@ -1,0 +1,9 @@
+display = "Deute"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://mydeute.com/soojung/"
+title = "Deute"
+years = [ 2006 ]

@@ -1,0 +1,9 @@
+display = "Buayacorp"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.buayacorp.com/"
+title = "Buayacorp"
+years = [ 2007 ]

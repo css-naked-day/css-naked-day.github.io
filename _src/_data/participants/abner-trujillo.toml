@@ -1,0 +1,9 @@
+display = "Abner Trujillo"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.abnertrujillo.com/blog"
+title = "Abner Trujillo"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "IVershuo’s Blog (Beta)"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://beta.ivershuo.cn/"
+title = "IVershuo’s Blog (Beta)"
+years = [ 2009 ]

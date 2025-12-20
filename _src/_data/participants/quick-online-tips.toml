@@ -1,0 +1,12 @@
+display = "Quick Online Tips"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.quickonlinetips.com/"
+title = "Quick Online Tips"
+years = [
+	2007,
+	2008 
+]

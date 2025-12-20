@@ -1,0 +1,9 @@
+display = "Juan Pablo Aqueveque"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.juque.cl/"
+title = "Juan Pablo Aqueveque"
+years = [ 2007 ]

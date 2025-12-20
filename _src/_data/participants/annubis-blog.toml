@@ -1,0 +1,9 @@
+display = "Annubis Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.schweizer-web.ch/"
+title = "Annubis Blog"
+years = [ 2009 ]

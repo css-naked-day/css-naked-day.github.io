@@ -1,0 +1,9 @@
+display = "Mikhail Turenko"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://turenko.com/blog/"
+title = "Mikhail Turenko"
+years = [ 2008 ]

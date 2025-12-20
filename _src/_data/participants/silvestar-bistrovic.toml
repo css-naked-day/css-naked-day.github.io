@@ -1,0 +1,10 @@
+display = "Silvestar Bistrović"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://www.silvestar.codes/"
+title = "Silvestar Bistrović"
+years = [ 2025 ]
+

@@ -1,0 +1,9 @@
+display = "Velmont (Odin Hørthe)"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.velmont.net/"
+title = "Velmont (Odin Hørthe)"
+years = [ 2008 ]

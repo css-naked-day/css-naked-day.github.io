@@ -1,0 +1,9 @@
+display = "Erin Caton"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://erincaton.ca/"
+title = "Erin Caton"
+years = [ 2008 ]

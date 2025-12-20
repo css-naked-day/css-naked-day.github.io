@@ -1,0 +1,9 @@
+display = "Webseite von Christian Berendt"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.thorlin.de/"
+title = "Webseite von Christian Berendt"
+years = [ 2008 ]

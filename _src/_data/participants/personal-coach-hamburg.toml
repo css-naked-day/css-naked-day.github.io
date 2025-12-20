@@ -1,0 +1,9 @@
+display = "Personal Coach Hamburg"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.beratensein.de/"
+title = "Personal Coach Hamburg"
+years = [ 2008 ]

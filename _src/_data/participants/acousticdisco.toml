@@ -1,0 +1,9 @@
+display = "AcousticDisco"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://acousticdisco.hu/"
+title = "AcousticDisco"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Plain Ray"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.leiyutian.cn/"
+title = "Plain Ray"
+years = [ 2007 ]

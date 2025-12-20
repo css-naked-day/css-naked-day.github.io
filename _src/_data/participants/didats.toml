@@ -1,0 +1,9 @@
+display = "Didats"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://didats.net/"
+title = "Didats"
+years = [ 2006 ]

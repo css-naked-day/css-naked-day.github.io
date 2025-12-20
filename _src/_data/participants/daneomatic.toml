@@ -1,0 +1,9 @@
+display = "Daneomatic"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.daneomatic.com/"
+title = "Daneomatic"
+years = [ 2007 ]

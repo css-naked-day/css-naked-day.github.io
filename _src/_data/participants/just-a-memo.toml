@@ -1,0 +1,9 @@
+display = "Just a Memo"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.justamemo.com/"
+title = "Just a Memo"
+years = [ 2007 ]

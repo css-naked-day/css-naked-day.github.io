@@ -1,0 +1,9 @@
+display = "HERMANNS DESIGN"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.hermanns-design.de/"
+title = "HERMANNS DESIGN"
+years = [ 2008 ]

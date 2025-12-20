@@ -1,0 +1,9 @@
+display = "Clagnut (Richard Rutter)"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.clagnut.com/"
+title = "Clagnut (Richard Rutter)"
+years = [ 2006 ]

@@ -1,0 +1,9 @@
+display = "Reid Yokoyama"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.reidyokoyama.com/"
+title = "Reid Yokoyama"
+years = [ 2009 ]

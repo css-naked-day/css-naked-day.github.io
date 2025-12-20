@@ -1,0 +1,9 @@
+display = "Králik – Filip Krayzel"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://kralik.profitux.cz/"
+title = "Králik – Filip Krayzel"
+years = [ 2007 ]

@@ -1,0 +1,9 @@
+display = "Lövquist & Partners"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.lovquist.com/"
+title = "Lövquist &amp; Partners"
+years = [ 2009 ]

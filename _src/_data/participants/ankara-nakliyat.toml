@@ -1,0 +1,20 @@
+display = "ankara nakliyat"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.ankaraevdenevenakliyeci.com/"
+years = [ 2008 ]
+
+[[websites]]
+url   = "http://www.ankaranakliyat.info/"
+years = [ 2009 ]
+
+[[websites]]
+url   = "http://www.baskentlojistik.net/"
+years = [ 2009 ]
+
+[[websites]]
+url   = "http://www.nakliyatevdeneve.name/"
+years = [ 2009 ]

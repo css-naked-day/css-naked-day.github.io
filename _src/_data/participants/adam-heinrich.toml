@@ -1,0 +1,9 @@
+display = "Adam Heinrich"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.mrkev.info/"
+title = "Adam Heinrich"
+years = [ 2007 ]

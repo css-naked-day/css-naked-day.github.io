@@ -1,0 +1,13 @@
+display = "Jonathan Eckmier"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.reinspire.net/"
+title = "Jonathan Eckmier"
+years = [
+	2006,
+	2007,
+	2008 
+]

@@ -1,0 +1,9 @@
+display = "Filův blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.filosof.biz/"
+title = "Filův blog"
+years = [ 2007 ]

@@ -1,0 +1,9 @@
+display = "Brad Fults"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://h3h.net/"
+title = "Brad Fults"
+years = [ 2007 ]

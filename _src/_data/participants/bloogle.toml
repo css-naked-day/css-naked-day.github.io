@@ -1,0 +1,9 @@
+display = "Bloogle"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.bloogle.com.ua/"
+title = "Bloogle"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Tartarus.kr"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.tartarus.kr/"
+title = "Tartarus.kr"
+years = [ 2008 ]

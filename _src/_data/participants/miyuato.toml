@@ -1,0 +1,9 @@
+display = "Miyuato"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.miyuato.com/"
+title = "Miyuato"
+years = [ 2009 ]

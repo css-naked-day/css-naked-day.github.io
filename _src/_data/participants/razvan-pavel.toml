@@ -1,0 +1,9 @@
+display = "Razvan Pavel"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.razvanpavel.com/"
+title = "Razvan Pavel"
+years = [ 2009 ]

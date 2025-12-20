@@ -1,0 +1,9 @@
+display = "Halans – afterhours"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.halans.be/"
+title = "Halans – afterhours"
+years = [ 2008 ]

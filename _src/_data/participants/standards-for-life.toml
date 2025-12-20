@@ -1,0 +1,9 @@
+display = "Standards for Life"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://standardsforlife.com/"
+title = "Standards for Life"
+years = [ 2008 ]

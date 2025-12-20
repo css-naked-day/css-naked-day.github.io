@@ -1,0 +1,9 @@
+display = "J. Bradford Dillon"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://jbradforddillon.com/"
+title = "J. Bradford Dillon"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "entertainer"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.entertainer.vhost.lt/wp/"
+title = "entertainer"
+years = [ 2007 ]

@@ -1,0 +1,9 @@
+display = "xoyoer"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.wanghaibin.com/"
+title = "xoyoer"
+years = [ 2007 ]

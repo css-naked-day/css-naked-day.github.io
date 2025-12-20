@@ -1,0 +1,9 @@
+display = "Kris Blogt"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.krisvandenbergh.be/"
+title = "Kris Blogt"
+years = [ 2008 ]

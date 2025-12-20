@@ -1,0 +1,9 @@
+display = "Boris"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.dyingeyes.de/"
+title = "Boris"
+years = [ 2006 ]

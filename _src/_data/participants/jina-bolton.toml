@@ -1,0 +1,9 @@
+display = "Jina Bolton"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://jinabolton.com/"
+title = "Jina Bolton"
+years = [ 2007 ]

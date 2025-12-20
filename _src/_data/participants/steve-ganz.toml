@@ -1,0 +1,14 @@
+display = "Steve Ganz"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://steve.ganz.name/"
+title = "Steve Ganz"
+years = [
+	2006,
+	2007,
+	2008,
+	2009 
+]

@@ -1,0 +1,9 @@
+display = "Brendan"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://incoherently.net/"
+title = "Brendan"
+years = [ 2006 ]

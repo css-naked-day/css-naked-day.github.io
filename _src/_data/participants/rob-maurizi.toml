@@ -1,0 +1,9 @@
+display = "Rob Maurizi"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://robmaurizi.com/"
+title = "Rob Maurizi"
+years = [ 2008 ]

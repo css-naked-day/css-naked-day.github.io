@@ -1,0 +1,9 @@
+display = "Ryochan’s Asylum"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://ryochan7.webfactional.com/"
+title = "Ryochan’s Asylum"
+years = [ 2009 ]

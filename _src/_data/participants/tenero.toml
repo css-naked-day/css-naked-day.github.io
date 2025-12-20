@@ -1,0 +1,9 @@
+display = "tenero"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://tenero.cnblogs.com/"
+title = "tenero"
+years = [ 2007 ]

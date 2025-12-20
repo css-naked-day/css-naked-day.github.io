@@ -1,0 +1,9 @@
+display = "Sexy Plus Size Lingerie"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.myfavoritelingerie.com/"
+title = "Sexy Plus Size Lingerie"
+years = [ 2007 ]

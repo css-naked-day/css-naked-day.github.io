@@ -1,0 +1,9 @@
+display = "distanz.ch"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://distanz.ch/"
+title = "distanz.ch"
+years = [ 2008 ]

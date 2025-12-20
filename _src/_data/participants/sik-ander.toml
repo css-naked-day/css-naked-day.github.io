@@ -1,0 +1,9 @@
+display = "Sik Ander"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.sikander.org/"
+title = "Sik Ander"
+years = [ 2006 ]

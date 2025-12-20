@@ -1,0 +1,10 @@
+display = "Gustavo Ribeiro"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://gustavoribeiro.net/"
+title = "Gustavo Ribeiro"
+years = [ 2025 ]
+

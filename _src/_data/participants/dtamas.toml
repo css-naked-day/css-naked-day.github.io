@@ -1,0 +1,9 @@
+display = "Dtamas"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.dtamas.dynamo.hu/"
+title = "Dtamas"
+years = [ 2006 ]

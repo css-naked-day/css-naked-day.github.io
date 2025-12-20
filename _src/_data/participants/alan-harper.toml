@@ -1,0 +1,9 @@
+display = "Alan Harper"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.aussiegeek.net/"
+title = "Alan Harper"
+years = [ 2008 ]

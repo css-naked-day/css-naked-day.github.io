@@ -1,0 +1,9 @@
+display = "Nick Pettazzoni"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://nickpettazzoni.com/"
+title = "Nick Pettazzoni"
+years = [ 2008 ]

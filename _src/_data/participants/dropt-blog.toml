@@ -1,0 +1,9 @@
+display = "Dropt Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://labs.dropit.se/blogs"
+title = "Dropt Blog"
+years = [ 2009 ]

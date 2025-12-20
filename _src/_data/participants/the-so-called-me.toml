@@ -1,0 +1,9 @@
+display = "The So Called Me"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://thesocalledme.net/"
+title = "The So Called Me"
+years = [ 2008 ]

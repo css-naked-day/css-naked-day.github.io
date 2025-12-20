@@ -1,0 +1,9 @@
+display = "Andrius Mazeika"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.mazeika.org/"
+title = "Andrius Mazeika"
+years = [ 2006 ]

@@ -1,0 +1,9 @@
+display = "amio’s Dreamscape"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.amio.cn/"
+title = "amio’s Dreamscape"
+years = [ 2007 ]

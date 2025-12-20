@@ -1,0 +1,9 @@
+display = "TapazInDaNet"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://tapazukk.net/"
+title = "TapazInDaNet"
+years = [ 2008 ]

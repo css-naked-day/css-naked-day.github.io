@@ -1,0 +1,9 @@
+display = "Maxcreation"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://maxcreation.freezee.org/"
+title = "Maxcreation"
+years = [ 2007 ]

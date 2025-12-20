@@ -1,0 +1,9 @@
+display = "TightyWhities"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://tightywhities.lost-whisper.info/"
+title = "TightyWhities"
+years = [ 2007 ]

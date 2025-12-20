@@ -1,0 +1,9 @@
+display = "Boris Schapira"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://boris.schapira.dev/"
+title = "Boris Schapira"
+years = [ 2020 ]

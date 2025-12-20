@@ -1,0 +1,9 @@
+display = "Tomas Caspers"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.einfach-fuer-alle.de/blog/"
+title = "Tomas Caspers"
+years = [ 2006 ]

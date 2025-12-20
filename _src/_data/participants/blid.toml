@@ -1,0 +1,9 @@
+display = "Blid"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blid.jogger.pl/"
+title = "Blid"
+years = [ 2006 ]

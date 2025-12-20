@@ -1,0 +1,9 @@
+display = "Pysselklubben"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.deals.se/deal_1271106089.htm"
+title = "Pysselklubben"
+years = [ 2008 ]

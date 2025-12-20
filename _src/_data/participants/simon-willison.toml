@@ -1,0 +1,9 @@
+display = "Simon Willison"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://simon.incutio.com/"
+title = "Simon Willison"
+years = [ 2006 ]

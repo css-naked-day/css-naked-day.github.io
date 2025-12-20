@@ -1,0 +1,9 @@
+display = "My Life on the Net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.mylifeonthenet.com/"
+title = "My Life on the Net"
+years = [ 2008 ]

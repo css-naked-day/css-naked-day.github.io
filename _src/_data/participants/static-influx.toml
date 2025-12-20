@@ -1,0 +1,9 @@
+display = "Static Influx"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://brodyh.ath.cx/stc/lang=en"
+title = "Static Influx"
+years = [ 2009 ]

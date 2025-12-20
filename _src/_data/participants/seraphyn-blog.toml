@@ -1,0 +1,9 @@
+display = "Seraphyn Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://seraphyn.deveth.org/"
+title = "Seraphyn Blog"
+years = [ 2009 ]

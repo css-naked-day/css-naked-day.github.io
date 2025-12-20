@@ -1,0 +1,9 @@
+display = "Muistio"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.yojih.net/muistio/"
+title = "Muistio"
+years = [ 2008 ]

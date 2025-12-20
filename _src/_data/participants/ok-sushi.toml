@@ -1,0 +1,9 @@
+display = "OK Sushi"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://oksushi.com/"
+title = "OK Sushi"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Disko, Sean Patterson"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://disko.hipscene.net/"
+title = "Disko, Sean Patterson"
+years = [ 2008 ]

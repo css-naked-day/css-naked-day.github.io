@@ -1,0 +1,9 @@
+display = "Yeni Setiawan"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://the.sandalian.com/"
+title = "Yeni Setiawan"
+years = [ 2008 ]

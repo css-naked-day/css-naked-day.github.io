@@ -1,0 +1,9 @@
+display = "Pilza 2"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://pilza2.com/blog/"
+title = "Pilza 2"
+years = [ 2006 ]

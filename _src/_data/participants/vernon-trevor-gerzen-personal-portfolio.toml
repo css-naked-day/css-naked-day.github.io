@@ -1,0 +1,9 @@
+display = "Vernon Trevor Gerzen-Personal Portfolio"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.vernontgerzen.com/"
+title = "Vernon Trevor Gerzen-Personal Portfolio"
+years = [ 2008 ]

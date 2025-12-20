@@ -1,0 +1,9 @@
+display = "Alter Ego Resonerar"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://resonerar.se/"
+title = "Alter Ego Resonerar"
+years = [ 2008 ]

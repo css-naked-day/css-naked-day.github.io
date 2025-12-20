@@ -1,0 +1,9 @@
+display = "Clueless Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://dbabbitt.blogspot.com/"
+title = "Clueless Blog"
+years = [ 2009 ]

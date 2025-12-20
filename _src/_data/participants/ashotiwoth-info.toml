@@ -1,0 +1,9 @@
+display = "ashotiwoth.info"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.ashotiwoth.info/"
+title = "ashotiwoth.info"
+years = [ 2008 ]

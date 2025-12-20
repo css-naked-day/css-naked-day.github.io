@@ -1,0 +1,9 @@
+display = "Ryan Gregg"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://ryangregg.com/"
+title = "Ryan Gregg"
+years = [ 2006 ]

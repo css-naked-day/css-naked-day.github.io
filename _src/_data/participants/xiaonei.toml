@@ -1,0 +1,9 @@
+display = "xiaonei"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.xiaonei.com/"
+title = "xiaonei"
+years = [ 2007 ]

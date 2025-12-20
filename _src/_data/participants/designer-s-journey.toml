@@ -1,0 +1,9 @@
+display = "Designer’s Journey"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://msdigitaldesign.com/"
+title = "Designer’s Journey"
+years = [ 2007 ]

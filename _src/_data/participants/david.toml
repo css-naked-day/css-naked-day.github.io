@@ -1,0 +1,9 @@
+display = "David"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.david.nu/"
+title = "David"
+years = [ 2008 ]

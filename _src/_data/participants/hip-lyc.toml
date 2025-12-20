@@ -1,0 +1,9 @@
+display = "Hip-Lyc"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://river-to-ocean.com/hip-lyc/"
+title = "Hip-Lyc"
+years = [ 2007 ]

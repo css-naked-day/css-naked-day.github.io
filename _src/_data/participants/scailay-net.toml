@@ -1,0 +1,9 @@
+display = "Scailay.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://scailay.net/"
+title = "Scailay.net"
+years = [ 2007 ]

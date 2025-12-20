@@ -1,0 +1,9 @@
+display = "Pixline"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://pixline.net/"
+title = "Pixline"
+years = [ 2008 ]

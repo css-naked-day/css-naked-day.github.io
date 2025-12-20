@@ -1,0 +1,9 @@
+display = "cleaned.de"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://cleaned.de/"
+title = "cleaned.de"
+years = [ 2008 ]

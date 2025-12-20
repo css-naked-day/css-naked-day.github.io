@@ -1,0 +1,9 @@
+display = "Web-Graphics (Nate Steiner)"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://web-graphics.com/"
+title = "Web-Graphics (Nate Steiner)"
+years = [ 2006 ]

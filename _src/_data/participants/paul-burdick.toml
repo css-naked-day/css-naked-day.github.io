@@ -1,0 +1,9 @@
+display = "Paul Burdick"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.reedmaniac.com/"
+title = "Paul Burdick"
+years = [ 2006 ]

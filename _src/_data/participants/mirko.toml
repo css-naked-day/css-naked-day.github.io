@@ -1,0 +1,9 @@
+display = "Mirko"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.nousab.org/"
+title = "Mirko"
+years = [ 2006 ]

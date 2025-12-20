@@ -1,0 +1,9 @@
+display = "Eric Meyer"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://meyerweb.com/"
+title = "Eric Meyer"
+years = [ 2020 ]

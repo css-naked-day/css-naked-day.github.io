@@ -1,0 +1,9 @@
+display = "rarefaction.co.uk"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.jsworld.co.uk/rarefaction"
+title = "rarefaction.co.uk"
+years = [ 2007 ]

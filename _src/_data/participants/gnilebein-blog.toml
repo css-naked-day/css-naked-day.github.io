@@ -1,0 +1,9 @@
+display = "gnilebein Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.gnilebein.de/"
+title = "gnilebein Blog"
+years = [ 2009 ]

@@ -1,0 +1,9 @@
+display = "Your Eyes Only"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.roodo.com/yuki1021"
+title = "Your Eyes Only"
+years = [ 2007 ]

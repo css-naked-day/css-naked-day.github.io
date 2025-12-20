@@ -1,0 +1,9 @@
+display = "Jess Planck"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://funroe.net/"
+title = "Jess Planck"
+years = [ 2009 ]

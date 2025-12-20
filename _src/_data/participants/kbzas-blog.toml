@@ -1,0 +1,9 @@
+display = "KbzA´s blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.kbza.org/"
+title = "KbzA´s blog"
+years = [ 2009 ]

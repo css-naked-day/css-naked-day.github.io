@@ -1,0 +1,9 @@
+display = "Natalie Jost"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://nataliejost.com/"
+title = "Natalie Jost"
+years = [ 2006 ]

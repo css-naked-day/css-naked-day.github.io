@@ -1,0 +1,9 @@
+display = "Haugland.ca"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://haugland.ca/"
+title = "Haugland.ca"
+years = [ 2007 ]

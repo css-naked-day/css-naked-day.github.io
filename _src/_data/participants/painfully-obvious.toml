@@ -1,0 +1,9 @@
+display = "Painfully Obvious"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://andrewdupont.net/"
+title = "Painfully Obvious"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Nestor’s Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://nestor.redesprofesionales.com/"
+title = "Nestor’s Blog"
+years = [ 2009 ]

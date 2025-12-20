@@ -1,0 +1,9 @@
+display = "dio5.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.dio5.com/"
+title = "dio5.com"
+years = [ 2007 ]

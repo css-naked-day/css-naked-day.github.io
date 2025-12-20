@@ -1,0 +1,9 @@
+display = "Angered Thoughts"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.angeredthoughts.com/"
+title = "Angered Thoughts"
+years = [ 2007 ]

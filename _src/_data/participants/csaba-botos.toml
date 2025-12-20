@@ -1,0 +1,9 @@
+display = "Csaba Botos"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://botos.eu/blog"
+title = "Csaba Botos"
+years = [ 2008 ]

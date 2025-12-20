@@ -1,0 +1,11 @@
+display = "Mikkel Munch Mortensen"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://www.detfalskested.dk/"
+years = [
+	2024,
+	2025 
+]

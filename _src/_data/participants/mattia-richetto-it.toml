@@ -1,0 +1,9 @@
+display = "Mattia Richetto . it"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.mattiarichetto.it/"
+title = "Mattia Richetto . it"
+years = [ 2007 ]

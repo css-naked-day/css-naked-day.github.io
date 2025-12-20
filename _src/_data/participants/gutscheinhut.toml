@@ -1,0 +1,9 @@
+display = "Gutscheinhut"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.gutscheinhut.com/"
+title = "Gutscheinhut"
+years = [ 2008 ]

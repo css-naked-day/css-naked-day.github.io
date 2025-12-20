@@ -1,0 +1,9 @@
+display = "Trip Solo"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://flaviens.com/blog/"
+title = "Trip Solo"
+years = [ 2008 ]

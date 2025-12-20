@@ -1,0 +1,9 @@
+display = "Vatican Apartment, Rome"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.vaticanapartment.it/"
+title = "Vatican Apartment, Rome"
+years = [ 2009 ]

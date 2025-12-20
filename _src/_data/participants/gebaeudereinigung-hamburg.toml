@@ -1,0 +1,9 @@
+display = "Gebäudereinigung Hamburg"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.gsh-allesklar.de"
+title = "Gebäudereinigung Hamburg"
+years = [ 2008 ]

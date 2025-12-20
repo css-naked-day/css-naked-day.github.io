@@ -1,0 +1,9 @@
+display = "Alekozai’s Website"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://alekozai.com/emal/"
+title = "Alekozai’s Website"
+years = [ 2008 ]

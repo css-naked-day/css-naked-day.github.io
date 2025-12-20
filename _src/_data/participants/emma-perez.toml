@@ -1,0 +1,9 @@
+display = "Emma Perez"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://be-stereo.org/"
+title = "Emma Perez"
+years = [ 2007 ]

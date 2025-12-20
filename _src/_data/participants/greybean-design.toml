@@ -1,0 +1,9 @@
+display = "greybean|design"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.greybean.com/"
+title = "greybean|design"
+years = [ 2008 ]

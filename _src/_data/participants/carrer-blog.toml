@@ -1,0 +1,9 @@
+display = "Carrer Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.vcarrer.com/"
+title = "Carrer Blog"
+years = [ 2009 ]

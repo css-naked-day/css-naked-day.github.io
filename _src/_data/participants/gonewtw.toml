@@ -1,0 +1,14 @@
+display = "GoneWTW"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.gengbing.com/aboutme/index.php"
+title = "aboutme"
+years = [ 2007 ]
+
+[[websites]]
+url   = "http://www.gengbing.com/"
+title = "GoneWTW"
+years = [ 2007 ]

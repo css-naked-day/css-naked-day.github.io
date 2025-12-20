@@ -1,0 +1,9 @@
+display = "gmachina"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://gmachina.com/"
+title = "gmachina"
+years = [ 2008 ]

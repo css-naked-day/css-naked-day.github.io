@@ -1,0 +1,9 @@
+display = "Dan Mall"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.danielmall.com/"
+title = "Dan Mall"
+years = [ 2006 ]

@@ -1,0 +1,9 @@
+display = "hopper intermedia"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.hopper-intermedia.de/"
+title = "hopper intermedia"
+years = [ 2008 ]

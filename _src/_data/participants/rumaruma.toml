@@ -1,0 +1,9 @@
+display = "rumaruma"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.rumaruma.com/"
+title = "rumaruma"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Frederic de Villamil.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://fredericdevillamil.com"
+title = "Frederic de Villamil.com"
+years = [ 2007 ]

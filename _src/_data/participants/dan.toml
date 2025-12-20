@@ -1,0 +1,9 @@
+display = "Dan"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.osirra.com/"
+title = "Dan"
+years = [ 2006 ]

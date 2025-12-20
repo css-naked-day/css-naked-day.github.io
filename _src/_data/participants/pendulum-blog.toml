@@ -1,0 +1,9 @@
+display = "Pendulum blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.grakhov.com/"
+title = "Pendulum blog"
+years = [ 2009 ]

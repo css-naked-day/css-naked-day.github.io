@@ -1,0 +1,9 @@
+display = "Eidetic Opacity"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://alex.leonard.ie/"
+title = "Eidetic Opacity"
+years = [ 2009 ]

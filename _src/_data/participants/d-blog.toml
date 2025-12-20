@@ -1,0 +1,9 @@
+display = "D-Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://dmay.net/blog"
+title = "D-Blog"
+years = [ 2008 ]

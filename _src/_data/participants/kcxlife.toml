@@ -1,0 +1,9 @@
+display = "KCXLiFe"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.kcxlife.net/"
+title = "KCXLiFe"
+years = [ 2007 ]

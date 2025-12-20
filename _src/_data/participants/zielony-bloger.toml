@@ -1,0 +1,9 @@
+display = "zielony bloger"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://bloggerpl.com/"
+title = "zielony bloger"
+years = [ 2008 ]

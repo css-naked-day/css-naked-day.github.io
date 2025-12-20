@@ -1,0 +1,9 @@
+display = "introspective snapshots"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.sheysmith.com/"
+title = "introspective snapshots"
+years = [ 2008 ]

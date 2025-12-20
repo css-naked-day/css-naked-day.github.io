@@ -1,0 +1,9 @@
+display = "A Little Journal"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://agung.isnotcyb.org/"
+title = "A Little Journal"
+years = [ 2007 ]

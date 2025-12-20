@@ -1,0 +1,9 @@
+display = "pregos blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.pregos.info/"
+title = "pregos blog"
+years = [ 2009 ]

@@ -1,0 +1,9 @@
+display = "FTC SPbSPU"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://ftk.spbstu.ru/"
+title = "FTC SPbSPU"
+years = [ 2007 ]

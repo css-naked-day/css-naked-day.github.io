@@ -1,0 +1,9 @@
+display = "project.47"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://project47.viscountbox.com/"
+title = "project.47"
+years = [ 2007 ]

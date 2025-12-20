@@ -1,0 +1,9 @@
+display = "Mogdesign – Jojo Toth"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://mogdesign.eu/blog/"
+title = "Mogdesign – Jojo Toth"
+years = [ 2009 ]

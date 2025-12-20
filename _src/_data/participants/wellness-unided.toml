@@ -1,0 +1,9 @@
+display = "Wellness Unided"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.wellness-united.de/"
+title = "Wellness Unided"
+years = [ 2008 ]

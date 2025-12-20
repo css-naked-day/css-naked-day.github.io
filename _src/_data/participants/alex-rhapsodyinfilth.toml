@@ -1,0 +1,8 @@
+display = "Alex"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.rhapsodyinfilth.com/"
+years = [ 2006 ]

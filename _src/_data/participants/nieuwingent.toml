@@ -1,0 +1,9 @@
+display = "Nieuwingent"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.nieuwingent.be/"
+title = "Nieuwingent"
+years = [ 2008 ]

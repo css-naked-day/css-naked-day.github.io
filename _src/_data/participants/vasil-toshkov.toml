@@ -1,0 +1,9 @@
+display = "Vasil Toshkov"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.cloxy.com/"
+title = "Vasil Toshkov"
+years = [ 2007 ]

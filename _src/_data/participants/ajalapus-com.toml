@@ -1,0 +1,9 @@
+display = "AjaLapus.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://www.ajalapus.com/"
+title = "AjaLapus.com"
+years = [ 2007 ]

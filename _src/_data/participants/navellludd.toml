@@ -1,0 +1,9 @@
+display = "Navellludd"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://navelludd.se/"
+title = "Navellludd"
+years = [ 2009 ]

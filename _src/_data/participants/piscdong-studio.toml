@@ -1,0 +1,18 @@
+display = "PiscDong Studio"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.piscdong.com/x/"
+title = "PiscDong Studio"
+years = [ 2006 ]
+
+[[websites]]
+url   = "http://www.piscdong.com/"
+title = "PiscDong studio"
+years = [
+	2007,
+	2008,
+	2009 
+]

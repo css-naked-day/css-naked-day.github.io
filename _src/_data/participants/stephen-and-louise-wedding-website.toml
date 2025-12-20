@@ -1,0 +1,9 @@
+display = "Stephen and Louise Wedding Website"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://stephenandlouise.co.uk/"
+title = "Stephen and Louise Wedding Website"
+years = [ 2008 ]

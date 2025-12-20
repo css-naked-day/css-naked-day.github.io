@@ -1,0 +1,9 @@
+display = "Whelan Design"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.whelandesign.com/"
+title = "Whelan Design"
+years = [ 2007 ]

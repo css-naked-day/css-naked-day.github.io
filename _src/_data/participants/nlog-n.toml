@@ -1,0 +1,17 @@
+display = "nlog(n)"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://nlogn.ath.cx/"
+title = "nlog(n)"
+years = [
+	2007,
+	2009 
+]
+
+[[websites]]
+url   = "http://nlogn.ath.cx/archives/001008.html"
+title = "nlog(n)"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "jaadu hai"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.jaaduhai.com/blog/"
+title = "jaadu hai"
+years = [ 2009 ]

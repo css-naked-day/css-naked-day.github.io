@@ -1,0 +1,9 @@
+display = "americaneagle.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.americaneagle.com"
+title = "americaneagle.com"
+years = [ 2009 ]

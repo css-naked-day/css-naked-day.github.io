@@ -1,0 +1,9 @@
+display = "medienstadt.info"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.medienstadt.info/"
+title = "medienstadt.info"
+years = [ 2009 ]

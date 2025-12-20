@@ -1,0 +1,9 @@
+display = "dexbol"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://dexbol.com/"
+title = "dexbol"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "DavCec"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://davcec.altervista.org/"
+title = "DavCec"
+years = [ 2007 ]

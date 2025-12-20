@@ -1,0 +1,9 @@
+display = "x5.log"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://liushen.org/blog/"
+title = "x5.log"
+years = [ 2007 ]

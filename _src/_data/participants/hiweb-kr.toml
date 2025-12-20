@@ -1,0 +1,9 @@
+display = "hiweb.kr"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.hiweb.kr/"
+title = "hiweb.kr"
+years = [ 2009 ]

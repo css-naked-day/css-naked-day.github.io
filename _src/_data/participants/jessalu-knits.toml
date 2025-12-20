@@ -1,0 +1,9 @@
+display = "JessaLu Knits"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.jessaluknits.com/"
+title = "JessaLu Knits"
+years = [ 2008 ]

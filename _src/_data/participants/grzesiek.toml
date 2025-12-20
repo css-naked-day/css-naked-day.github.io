@@ -1,0 +1,9 @@
+display = "Grzesiek"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://granatowysen.net/"
+title = "Grzesiek"
+years = [ 2006 ]

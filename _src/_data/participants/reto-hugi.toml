@@ -1,0 +1,12 @@
+display = "Reto Hugi"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://hugi.to/blog/"
+title = "Reto Hugi"
+years = [
+	2007,
+	2008 
+]

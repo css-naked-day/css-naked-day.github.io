@@ -1,0 +1,9 @@
+display = "Авторский блог direqtor"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://shaman.asiadata.ru/"
+title = "Авторский блог direqtor"
+years = [ 2009 ]

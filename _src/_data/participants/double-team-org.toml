@@ -1,0 +1,12 @@
+display = "double-team.org"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.double-team.org/"
+title = "double-team.org"
+years = [
+	2007,
+	2008 
+]

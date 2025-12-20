@@ -1,0 +1,9 @@
+display = "Siolon"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.siolon.com/"
+title = "Siolon"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Mia Holte"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.miaholte.com/"
+title = "Mia Holte"
+years = [ 2009 ]

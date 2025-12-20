@@ -1,0 +1,9 @@
+display = "Miles Rausch"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://milesrausch.com/"
+title = "Miles Rausch"
+years = [ 2007 ]

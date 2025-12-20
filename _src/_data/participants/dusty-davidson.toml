@@ -1,0 +1,9 @@
+display = "Dusty Davidson"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.dustyd.net/"
+title = "Dusty Davidson"
+years = [ 2007 ]

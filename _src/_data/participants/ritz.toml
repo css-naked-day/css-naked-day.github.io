@@ -1,0 +1,9 @@
+display = "Ritz"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://wurkit.com/"
+title = "Ritz"
+years = [ 2006 ]

@@ -1,0 +1,9 @@
+display = "MacJi"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.macji.com/"
+title = "MacJi"
+years = [ 2008 ]

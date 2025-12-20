@@ -1,0 +1,9 @@
+display = "Angelique Weger"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://angeliqueweger.com/"
+title = "Angelique Weger"
+years = [ 2022 ]

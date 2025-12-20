@@ -1,0 +1,9 @@
+display = "Themen und Neues rund um WordPress"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://meinerosen.piranho.de/blog/"
+title = "Themen und Neues rund um WordPress"
+years = [ 2009 ]

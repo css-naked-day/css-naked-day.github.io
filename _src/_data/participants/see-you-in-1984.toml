@@ -1,0 +1,9 @@
+display = "See You in 1984"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://seeyouin1984.com/"
+title = "See You in 1984"
+years = [ 2008 ]

@@ -1,0 +1,8 @@
+display = "beckgom’s fabula"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.beckgom.com/"
+years = [ 2008 ]

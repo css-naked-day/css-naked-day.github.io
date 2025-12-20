@@ -1,0 +1,9 @@
+display = "The Prompt Corner"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.tentpeg.org/promptcorner"
+title = "The Prompt Corner"
+years = [ 2008 ]

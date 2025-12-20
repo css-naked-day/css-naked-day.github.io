@@ -1,0 +1,14 @@
+display = "Mynios"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.mynios.de/"
+title = "Mynios"
+years = [ 2008 ]
+
+[[websites]]
+url   = "http://mynios.de/"
+title = "Mynios"
+years = [ 2009 ]

@@ -1,0 +1,9 @@
+display = "Code Red"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.codedread.com/"
+title = "Code Red"
+years = [ 2006 ]

@@ -1,0 +1,9 @@
+display = "Shoppingresa"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.shoppingresa.se/"
+title = "Shoppingresa"
+years = [ 2009 ]

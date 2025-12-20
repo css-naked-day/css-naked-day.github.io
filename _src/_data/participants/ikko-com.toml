@@ -1,0 +1,9 @@
+display = "ikko.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://1kko.com/"
+title = "ikko.com"
+years = [ 2008 ]

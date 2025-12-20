@@ -1,0 +1,9 @@
+display = "CVJM Nürnberg"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.cvjm-nuernberg.de/"
+title = "CVJM Nürnberg"
+years = [ 2009 ]

@@ -1,0 +1,9 @@
+display = "Zeblog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.zepont.hu/"
+title = "Zeblog"
+years = [ 2007 ]

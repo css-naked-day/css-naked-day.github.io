@@ -1,0 +1,9 @@
+display = "Blog sur l’informatique Open Source"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.blios.net"
+title = "Blog sur l’informatique Open Source"
+years = [ 2009 ]

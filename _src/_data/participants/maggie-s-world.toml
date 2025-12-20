@@ -1,0 +1,9 @@
+display = "Maggie’s World"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://maggies-world.com/"
+title = "Maggie’s World"
+years = [ 2007 ]

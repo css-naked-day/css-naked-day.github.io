@@ -1,0 +1,8 @@
+display = "Chris"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.blog-of-chris.com/"
+years = [ 2006 ]

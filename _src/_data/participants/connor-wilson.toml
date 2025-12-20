@@ -1,0 +1,9 @@
+display = "Connor Wilson"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.connorwilson.com/"
+title = "Connor Wilson"
+years = [ 2008 ]

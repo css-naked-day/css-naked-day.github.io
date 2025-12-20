@@ -1,0 +1,9 @@
+display = "Kusaker.log"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://d.hatena.ne.jp/kusaker/"
+title = "Kusaker.log"
+years = [ 2007 ]

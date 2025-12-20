@@ -1,0 +1,9 @@
+display = "Henrietta@Sunshine State"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.ettachou.com/"
+title = "Henrietta@Sunshine State"
+years = [ 2008 ]

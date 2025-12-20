@@ -1,0 +1,9 @@
+display = "cute-leather"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.cute-leather.com/"
+title = "cute-leather"
+years = [ 2008 ]

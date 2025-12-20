@@ -1,0 +1,9 @@
+display = "Visual mantras for madmen"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://gallery.ee/"
+title = "Visual mantras for madmen"
+years = [ 2009 ]

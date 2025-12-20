@@ -1,0 +1,9 @@
+display = "Lenoza Network"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://seo.lenoza.com/"
+title = "Lenoza Network"
+years = [ 2007 ]

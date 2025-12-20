@@ -1,0 +1,9 @@
+display = "Ashley It"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.ashleyit.com/"
+title = "Ashley It"
+years = [ 2006 ]

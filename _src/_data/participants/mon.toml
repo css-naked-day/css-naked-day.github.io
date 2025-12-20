@@ -1,0 +1,9 @@
+display = "Mon!"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://insomnia.m3w.com.ar/"
+title = "Mon!"
+years = [ 2006 ]

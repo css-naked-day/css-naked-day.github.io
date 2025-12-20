@@ -1,0 +1,9 @@
+display = "Christian Ziebarth"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.christianziebarth.com/"
+title = "Christian Ziebarth"
+years = [ 2008 ]

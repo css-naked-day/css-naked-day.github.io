@@ -1,0 +1,9 @@
+display = "Incongruous Balderdash"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.xvzx.net/"
+title = "Incongruous Balderdash"
+years = [ 2008 ]

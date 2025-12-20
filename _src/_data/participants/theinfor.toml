@@ -1,0 +1,9 @@
+display = "Theinfor"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.theinfor.com/"
+title = "Theinfor"
+years = [ 2006 ]

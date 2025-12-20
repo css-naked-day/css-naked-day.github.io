@@ -1,0 +1,9 @@
+display = "mattdetails"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.mattdetails.com/"
+title = "mattdetails"
+years = [ 2007 ]

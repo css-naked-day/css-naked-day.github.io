@@ -1,0 +1,9 @@
+display = "Design Diversity"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.designdiversity.com/"
+title = "Design Diversity"
+years = [ 2008 ]

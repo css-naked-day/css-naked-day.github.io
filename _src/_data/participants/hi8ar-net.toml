@@ -1,0 +1,9 @@
+display = "hi8ar.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://hi8ar.net/"
+title = "hi8ar.net"
+years = [ 2009 ]

@@ -1,0 +1,9 @@
+display = "Henrik’s Twitter"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://twitter.com/ItsHenrik"
+title = "Henrik’s Twitter"
+years = [ 2009 ]

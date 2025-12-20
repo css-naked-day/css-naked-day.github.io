@@ -1,0 +1,9 @@
+display = "www dot Sterling Ely dot com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.sterlingely.com/"
+title = "www dot Sterling Ely dot com"
+years = [ 2008 ]

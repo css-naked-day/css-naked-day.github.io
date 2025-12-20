@@ -1,0 +1,9 @@
+display = "Adriano – WEB is Brutal"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://7pl.pl/"
+title = "Adriano – WEB is Brutal"
+years = [ 2007 ]

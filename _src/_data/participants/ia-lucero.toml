@@ -1,0 +1,9 @@
+display = "ia lucero"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://stellify.net/"
+title = "ia lucero"
+years = [ 2009 ]

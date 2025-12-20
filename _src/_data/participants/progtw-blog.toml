@@ -1,0 +1,9 @@
+display = "progtw-blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.progtw.de/"
+title = "progtw-blog"
+years = [ 2009 ]

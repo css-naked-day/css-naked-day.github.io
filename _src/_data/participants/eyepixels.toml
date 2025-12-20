@@ -1,0 +1,9 @@
+display = "eyePIXELS"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://makkistudios.com/"
+title = "eyePIXELS"
+years = [ 2007 ]

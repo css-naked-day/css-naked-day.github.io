@@ -1,0 +1,9 @@
+display = "Damoun60"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://damoun60.free.fr/blog/"
+title = "Damoun60"
+years = [ 2008 ]

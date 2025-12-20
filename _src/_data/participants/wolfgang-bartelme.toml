@@ -1,0 +1,9 @@
+display = "Wolfgang Bartelme"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://bartelme.at/"
+title = "Wolfgang Bartelme"
+years = [ 2006 ]

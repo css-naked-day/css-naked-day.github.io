@@ -1,0 +1,9 @@
+display = "yudesign"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.yudesign.cn/"
+title = "yudesign"
+years = [ 2009 ]

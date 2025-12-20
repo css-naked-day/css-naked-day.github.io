@@ -1,0 +1,9 @@
+display = "HATSUMATSU"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://hatsumatsu.de/"
+title = "HATSUMATSU"
+years = [ 2008 ]

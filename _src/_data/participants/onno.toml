@@ -1,0 +1,9 @@
+display = "Onno"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.jassesnee.de/blog/"
+title = "Onno"
+years = [ 2006 ]

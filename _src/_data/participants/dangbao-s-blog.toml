@@ -1,0 +1,9 @@
+display = "Dangbao’s Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.dangbao.net/"
+title = "Dangbao’s Blog"
+years = [ 2009 ]

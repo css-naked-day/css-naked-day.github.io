@@ -1,0 +1,9 @@
+display = "Kelly Gifford"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.kgiff.com/"
+title = "Kelly Gifford"
+years = [ 2008 ]

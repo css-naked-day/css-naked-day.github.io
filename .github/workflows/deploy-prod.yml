@@ -1,0 +1,37 @@
+name: Deploy Eleventy on prod via rsync
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Check-out the repository under $GITHUB_WORKSPACE.
+      - uses: actions/checkout@master
+
+      - name: Install dependencies.
+        run: npm ci
+
+      - name: Lint with fix.
+        run: npx eslint --fix
+
+      # Build the website with Eleventy.
+      - name: Build Eleventy.
+        run: npm run build
+
+      # Rsync files via SSH.
+      - name: Sync files with server.
+        uses: burnett01/rsync-deployments@master
+        with:
+          switches: -rlD --delete --exclude='.htaccess'
+          path: _site/
+          remote_path: ${{ secrets.REMOTE_PATH_PROD }}
+          remote_host: ${{ secrets.REMOTE_HOST_PROD }}
+          remote_port: ${{ secrets.REMOTE_PORT_PROD }}
+          remote_user: ${{ secrets.REMOTE_USER_PROD }}
+          remote_key: ${{ secrets.REMOTE_PRIVATE_KEY_PROD }}
+          remote_key_pass: ${{ secrets.REMOTE_PRIVATE_KEY_PASS_PROD }}

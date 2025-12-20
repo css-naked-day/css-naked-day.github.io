@@ -1,0 +1,10 @@
+display = "Adrian"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://adrian.web.id/"
+title = "Adrian"
+years = [ 2006 ]
+

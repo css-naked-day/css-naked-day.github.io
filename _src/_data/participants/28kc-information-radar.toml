@@ -1,0 +1,9 @@
+display = "28KC Information Radar"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.28kc.com/"
+title = "28KC Information Radar"
+years = [ 2008 ]

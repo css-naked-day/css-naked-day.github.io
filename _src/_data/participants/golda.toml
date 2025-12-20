@@ -1,0 +1,9 @@
+display = "Golda"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://9olda.net/"
+title = "Golda"
+years = [ 2006 ]

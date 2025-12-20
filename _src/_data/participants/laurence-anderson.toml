@@ -1,0 +1,9 @@
+display = "Laurence Anderson"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://amacgenius.com/"
+title = "Laurence Anderson"
+years = [ 2006 ]

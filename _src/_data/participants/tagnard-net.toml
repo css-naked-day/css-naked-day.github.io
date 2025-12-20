@@ -1,0 +1,9 @@
+display = "Tagnard.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://tagnard.net/"
+title = "Tagnard.net"
+years = [ 2007 ]

@@ -1,0 +1,8 @@
+display = "colorjd"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://life.colorjd.com/"
+years = [ 2007 ]

@@ -1,0 +1,9 @@
+display = "mr nice ash"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://dhost.info/mrniceash/"
+title = "mr nice ash"
+years = [ 2007 ]

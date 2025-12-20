@@ -1,0 +1,9 @@
+display = "wasabicube"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.wasabicube.com/"
+title = "wasabicube"
+years = [ 2007 ]

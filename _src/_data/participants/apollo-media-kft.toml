@@ -1,0 +1,9 @@
+display = "Apolló Média Kft"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://apollomedia.hu/"
+title = "Apolló Média Kft"
+years = [ 2008 ]

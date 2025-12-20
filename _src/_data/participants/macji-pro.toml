@@ -1,0 +1,9 @@
+display = "MacJi Pro"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.macji.com/"
+title = "MacJi Pro"
+years = [ 2009 ]

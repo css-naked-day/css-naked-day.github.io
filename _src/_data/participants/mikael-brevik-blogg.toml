@@ -1,0 +1,9 @@
+display = "Mikael Brevik Blogg"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://mikaelb.net/"
+title = "Mikael Brevik Blogg"
+years = [ 2008 ]

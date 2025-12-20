@@ -1,0 +1,9 @@
+display = "Blog de Cristian Giménez"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.cristiang.net/"
+title = "Blog de Cristian Giménez"
+years = [ 2008 ]

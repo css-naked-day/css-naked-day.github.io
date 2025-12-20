@@ -1,0 +1,9 @@
+display = "Wii Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://wii-blog.de/"
+title = "Wii Blog"
+years = [ 2008 ]

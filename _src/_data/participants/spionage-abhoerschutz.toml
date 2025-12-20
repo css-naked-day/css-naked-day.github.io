@@ -1,0 +1,9 @@
+display = "Spionage Abhörschutz"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.shopping-alarm.de/"
+title = "Spionage Abhörschutz"
+years = [ 2008 ]

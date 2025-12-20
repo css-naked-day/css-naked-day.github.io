@@ -1,0 +1,9 @@
+display = "Troels Thomsen"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.150985.com/"
+title = "Troels Thomsen"
+years = [ 2006 ]

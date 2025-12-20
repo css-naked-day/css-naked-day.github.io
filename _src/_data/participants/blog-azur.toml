@@ -1,0 +1,9 @@
+display = "Blog Azur"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://azur.fr.nf/"
+title = "Blog Azur"
+years = [ 2008 ]

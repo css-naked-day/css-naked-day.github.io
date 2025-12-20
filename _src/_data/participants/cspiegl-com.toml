@@ -1,0 +1,9 @@
+display = "CSPIEGL.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://cspiegl.com/"
+title = "CSPIEGL.com"
+years = [ 2009 ]

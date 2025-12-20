@@ -1,0 +1,9 @@
+display = "Buyruk"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://buyruk.org/"
+title = "Buyruk"
+years = [ 2007 ]

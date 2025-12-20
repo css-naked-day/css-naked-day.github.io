@@ -1,0 +1,9 @@
+display = "bertdesign.de"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.bertdesign.de/"
+title = "bertdesign.de"
+years = [ 2008 ]

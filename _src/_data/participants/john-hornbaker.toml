@@ -1,0 +1,12 @@
+display = "John Hornbaker"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://johnhornbaker.com/"
+title = "John Hornbaker"
+years = [
+	2007,
+	2008 
+]

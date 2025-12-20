@@ -1,0 +1,9 @@
+display = "Valeriu Tihai"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://valeriu.tihai.md/"
+title = "Valeriu Tihai"
+years = [ 2008 ]

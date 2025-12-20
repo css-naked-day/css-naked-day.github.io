@@ -1,0 +1,9 @@
+display = "Sxe İndir"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.sxe-indir.gen.tr/"
+title = "Sxe İndir"
+years = [ 2009 ]

@@ -1,0 +1,9 @@
+display = "David Hemphill"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.sparrowstyle.com/"
+title = "David Hemphill"
+years = [ 2006 ]

@@ -1,0 +1,9 @@
+display = "effercio by cdharrison"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://cdharrison.com/"
+title = "effercio by cdharrison"
+years = [ 2007 ]

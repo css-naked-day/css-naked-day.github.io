@@ -1,0 +1,9 @@
+display = "Chad Lindstrom"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://chadlindstrom.ca/"
+title = "Chad Lindstrom"
+years = [ 2008 ]

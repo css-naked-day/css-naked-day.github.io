@@ -1,0 +1,9 @@
+display = "Homesite of PaLyCH"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://palpalych.ru/"
+title = "Homesite of PaLyCH"
+years = [ 2009 ]

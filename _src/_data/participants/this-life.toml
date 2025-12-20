@@ -1,0 +1,9 @@
+display = "This Life"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://thislife.nu/"
+title = "This Life"
+years = [ 2007 ]

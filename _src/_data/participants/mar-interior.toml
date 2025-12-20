@@ -1,0 +1,9 @@
+display = "mar Interior"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://marinterior.com/"
+title = "mar Interior"
+years = [ 2009 ]

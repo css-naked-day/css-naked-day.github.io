@@ -1,0 +1,9 @@
+display = "Blog @ ashotiwoth.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.ashotiwoth.com/blog"
+title = "Blog @ ashotiwoth.com"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Mathieu Gagnon"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://mathieu.gagnon.name/"
+title = "Mathieu Gagnon"
+years = [ 2008 ]

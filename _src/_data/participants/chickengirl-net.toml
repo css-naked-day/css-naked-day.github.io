@@ -1,0 +1,9 @@
+display = "ChickenGirl.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.chickengirl.net/"
+title = "ChickenGirl.net"
+years = [ 2008 ]

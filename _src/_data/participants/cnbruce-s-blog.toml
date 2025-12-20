@@ -1,0 +1,9 @@
+display = "cnbruce’s blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.cnbruce.com/"
+title = "cnbruce’s blog"
+years = [ 2007 ]

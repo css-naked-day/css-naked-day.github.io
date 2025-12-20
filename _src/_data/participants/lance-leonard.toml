@@ -1,0 +1,9 @@
+display = "Lance Leonard"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.solarfrog.com/"
+title = "Lance Leonard"
+years = [ 2007 ]

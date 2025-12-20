@@ -1,0 +1,9 @@
+display = "Gatopardo"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://rincondelgatopardo.blogspot.com/"
+title = "Gatopardo"
+years = [ 2006 ]

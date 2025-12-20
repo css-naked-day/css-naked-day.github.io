@@ -1,0 +1,9 @@
+display = "the Beard Itch"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://bearditch.com/"
+title = "the Beard Itch"
+years = [ 2009 ]

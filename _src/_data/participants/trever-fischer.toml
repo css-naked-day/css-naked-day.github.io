@@ -1,0 +1,9 @@
+display = "Trever Fischer"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://wm161.net/"
+title = "Trever Fischer"
+years = [ 2006 ]

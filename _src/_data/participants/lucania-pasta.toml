@@ -1,0 +1,9 @@
+display = "Lucania Pasta"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.lucaniapasta.it/"
+title = "Lucania Pasta"
+years = [ 2009 ]

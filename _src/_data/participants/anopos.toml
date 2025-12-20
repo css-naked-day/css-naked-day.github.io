@@ -1,0 +1,9 @@
+display = "anopos"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.anopos.com/"
+title = "anopos"
+years = [ 2009 ]

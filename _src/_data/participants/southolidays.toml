@@ -1,0 +1,9 @@
+display = "Southolidays"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.southolidays.com/"
+title = "Southolidays"
+years = [ 2007 ]

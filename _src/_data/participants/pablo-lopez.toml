@@ -1,0 +1,9 @@
+display = "Pablo López"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.hacce.com/"
+title = "Pablo López"
+years = [ 2006 ]

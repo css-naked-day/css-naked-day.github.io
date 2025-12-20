@@ -1,0 +1,14 @@
+display = "Crazy Web"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.webdeveloping.cn/"
+title = "home"
+years = [ 2009 ]
+
+[[websites]]
+url   = "http://www.webdeveloping.cn/blog/"
+title = "blog"
+years = [ 2009 ]

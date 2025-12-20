@@ -1,0 +1,9 @@
+display = "Migi"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://shexxi.nu/"
+title = "Migi"
+years = [ 2006 ]

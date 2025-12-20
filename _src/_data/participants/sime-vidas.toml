@@ -1,0 +1,10 @@
+display = "Šime Vidas"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url     = "https://webplatform.news/"
+homeURL = false
+title   = "Web Platform News"
+years   = [ 2023 ]

@@ -1,0 +1,9 @@
+display = "moosedenied"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.moosedenied.com/"
+title = "moosedenied"
+years = [ 2008 ]

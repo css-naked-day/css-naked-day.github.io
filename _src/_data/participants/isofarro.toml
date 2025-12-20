@@ -1,0 +1,9 @@
+display = "Isofarro"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.isolani.co.uk/blog/"
+title = "Isofarro"
+years = [ 2006 ]

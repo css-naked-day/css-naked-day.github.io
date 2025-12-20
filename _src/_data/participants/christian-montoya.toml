@@ -1,0 +1,9 @@
+display = "Christian Montoya"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.christianmontoya.com/"
+title = "Christian Montoya"
+years = [ 2006 ]

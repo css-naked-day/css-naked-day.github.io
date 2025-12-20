@@ -1,0 +1,9 @@
+display = "holst.notes"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://holst.biz/notes/"
+title = "holst.notes"
+years = [ 2007 ]

@@ -1,0 +1,9 @@
+display = "我自己|MYZIJI.CN"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "HTTP://WWW.MYZIJI.CN"
+title = "我自己|MYZIJI.CN"
+years = [ 2007 ]

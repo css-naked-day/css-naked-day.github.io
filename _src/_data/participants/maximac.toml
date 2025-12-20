@@ -1,0 +1,9 @@
+display = "MaxiMac"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://maximac.se/"
+title = "MaxiMac"
+years = [ 2009 ]

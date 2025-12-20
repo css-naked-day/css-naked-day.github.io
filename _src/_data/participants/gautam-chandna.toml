@@ -1,0 +1,9 @@
+display = "Gautam Chandna"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://chandna.blogspot.com/"
+title = "Gautam Chandna"
+years = [ 2006 ]

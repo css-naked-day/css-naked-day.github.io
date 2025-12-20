@@ -1,0 +1,9 @@
+display = "minizen"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.minizen.net/"
+title = "minizen"
+years = [ 2007 ]

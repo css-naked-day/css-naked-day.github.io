@@ -1,0 +1,9 @@
+display = "L-Ray.de"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://l-ray.de/"
+title = "L-Ray.de"
+years = [ 2008 ]

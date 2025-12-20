@@ -1,0 +1,9 @@
+display = "Execoot"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://execoot.wordpress.com/"
+title = "Execoot"
+years = [ 2009 ]

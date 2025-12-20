@@ -1,0 +1,9 @@
+display = "Point studios"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://point-studios.com/"
+title = "Point studios"
+years = [ 2007 ]

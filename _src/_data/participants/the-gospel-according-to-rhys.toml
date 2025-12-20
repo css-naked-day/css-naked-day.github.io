@@ -1,0 +1,9 @@
+display = "The Gospel According To Rhys"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.gospelrhys.co.uk/"
+title = "The Gospel According To Rhys"
+years = [ 2007 ]

@@ -1,0 +1,9 @@
+display = "otype.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://otype.net/"
+title = "otype.net"
+years = [ 2009 ]

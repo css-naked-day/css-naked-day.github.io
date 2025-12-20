@@ -1,0 +1,9 @@
+display = "Mike Haugland"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://haugland.ca/"
+title = "Mike Haugland"
+years = [ 2006 ]

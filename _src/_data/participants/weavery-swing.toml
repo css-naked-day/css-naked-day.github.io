@@ -1,0 +1,9 @@
+display = "Weavery Swing"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://ginalan.com/blog/"
+title = "Weavery Swing"
+years = [ 2007 ]

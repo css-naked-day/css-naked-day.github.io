@@ -1,0 +1,9 @@
+display = "delpher"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://delpher.od.ua/"
+title = "delpher"
+years = [ 2008 ]

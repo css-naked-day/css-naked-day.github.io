@@ -1,0 +1,12 @@
+display = "Travis Swicegood"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.travisswicegood.com/"
+title = "Travis Swicegood"
+years = [
+	2007,
+	2008 
+]

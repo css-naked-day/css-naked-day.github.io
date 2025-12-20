@@ -1,0 +1,9 @@
+display = "freeQblog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.freeqworld.de/"
+title = "freeQblog"
+years = [ 2008 ]

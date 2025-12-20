@@ -1,0 +1,9 @@
+display = "bluviews.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://bluviews.com/"
+title = "bluviews.com"
+years = [ 2009 ]

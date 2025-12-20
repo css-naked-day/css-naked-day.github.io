@@ -1,0 +1,9 @@
+display = "Rune M. Andersen"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://wiki.ime.ntnu.no/studier"
+title = "Rune M. Andersen"
+years = [ 2006 ]

@@ -1,0 +1,9 @@
+display = "Didoo"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.didoo.net/"
+title = "Didoo"
+years = [ 2008 ]

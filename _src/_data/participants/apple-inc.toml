@@ -1,0 +1,9 @@
+display = "Apple Inc."
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://apple.com/"
+title = "Apple Inc."
+years = [ 2008 ]

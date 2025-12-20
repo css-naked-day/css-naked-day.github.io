@@ -1,0 +1,9 @@
+display = "Jakoblog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://jakoblog.de/"
+title = "Jakoblog"
+years = [ 2009 ]

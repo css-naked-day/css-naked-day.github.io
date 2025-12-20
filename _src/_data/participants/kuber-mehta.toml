@@ -1,0 +1,10 @@
+display = "Kuber Mehta"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://kuberwastaken.github.io/"
+title = "Kuber Mehta"
+years = [ 2025 ]
+

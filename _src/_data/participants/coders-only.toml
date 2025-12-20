@@ -1,0 +1,10 @@
+display = "Coders Only"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://codersonly.org/"
+title = "Coders Only"
+years = [ 2025 ]
+

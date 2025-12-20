@@ -1,0 +1,9 @@
+display = "Ingo"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.ingo-renner.com/"
+title = "Ingo"
+years = [ 2006 ]

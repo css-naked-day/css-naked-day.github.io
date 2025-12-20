@@ -1,0 +1,9 @@
+display = "Johannes la Poutre"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://joe.lapoutre.com/"
+title = "Johannes la Poutre"
+years = [ 2006 ]

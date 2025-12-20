@@ -1,0 +1,9 @@
+display = "Jacky Alciné"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://jacky.wtf/"
+title = "Jacky Alciné"
+years = [ 2022 ]

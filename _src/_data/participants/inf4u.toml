@@ -1,0 +1,9 @@
+display = "inf4u"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://inf4u.org.ua/"
+title = "inf4u"
+years = [ 2009 ]

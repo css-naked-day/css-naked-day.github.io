@@ -1,0 +1,9 @@
+display = "Mario Raudsepp"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.nanoweb.pri.ee/"
+title = "Mario Raudsepp"
+years = [ 2007 ]

@@ -1,0 +1,9 @@
+display = "nonsmokingarea.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://nonsmokingarea.com/blog/"
+title = "nonsmokingarea.com"
+years = [ 2009 ]

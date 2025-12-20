@@ -1,0 +1,9 @@
+display = "sky line blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://sky-line.jp/blog/"
+title = "sky line blog"
+years = [ 2007 ]

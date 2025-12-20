@@ -1,0 +1,9 @@
+display = "de:code / luca ceccarini"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.decode.cc/"
+title = "de:code / luca ceccarini"
+years = [ 2007 ]

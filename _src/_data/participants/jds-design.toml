@@ -1,0 +1,9 @@
+display = "JDS Design"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.johandesilva.co.uk/"
+title = "JDS Design"
+years = [ 2008 ]

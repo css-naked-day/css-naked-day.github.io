@@ -1,0 +1,9 @@
+display = "Omar A Rodriguez"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.gnlnx.net/"
+title = "Omar A Rodriguez"
+years = [ 2009 ]

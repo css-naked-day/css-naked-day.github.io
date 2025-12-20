@@ -1,0 +1,9 @@
+display = "Sven"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.pop64.de/"
+title = "Sven"
+years = [ 2006 ]

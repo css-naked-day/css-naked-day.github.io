@@ -1,0 +1,9 @@
+display = "Jody"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://sonicmoo.halowdesign.com/"
+title = "Jody"
+years = [ 2006 ]

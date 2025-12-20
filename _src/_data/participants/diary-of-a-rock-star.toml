@@ -1,0 +1,9 @@
+display = "Diary of a Rock Star"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.diaryofarockstar.com/"
+title = "Diary of a Rock Star"
+years = [ 2007 ]

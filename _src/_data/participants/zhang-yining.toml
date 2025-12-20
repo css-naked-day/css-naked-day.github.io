@@ -1,0 +1,9 @@
+display = "Zhang Yining"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.yining.org/"
+title = "Zhang Yining"
+years = [ 2006 ]

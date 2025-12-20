@@ -1,0 +1,9 @@
+display = "Gore Galore"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.goregalore.com/"
+title = "Gore Galore"
+years = [ 2008 ]

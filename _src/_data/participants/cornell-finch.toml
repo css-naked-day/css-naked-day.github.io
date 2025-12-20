@@ -1,0 +1,9 @@
+display = "Cornell FInch"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.cornellfinch.com/"
+title = "Cornell FInch"
+years = [ 2007 ]

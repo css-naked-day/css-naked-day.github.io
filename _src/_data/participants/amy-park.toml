@@ -1,0 +1,9 @@
+display = "Amy Park"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://amysoul.com/blog/"
+title = "Amy Park"
+years = [ 2006 ]

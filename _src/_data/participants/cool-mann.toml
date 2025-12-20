@@ -1,0 +1,9 @@
+display = "Cool Mann"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.duechiacchiere.it/"
+title = "Cool Mann"
+years = [ 2006 ]

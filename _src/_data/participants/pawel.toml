@@ -1,0 +1,9 @@
+display = "Pawel"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://pawel.saikko.com/"
+title = "Pawel"
+years = [ 2006 ]

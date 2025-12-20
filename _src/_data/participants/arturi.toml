@@ -1,0 +1,9 @@
+display = "arturi"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://arturi.info/"
+title = "arturi"
+years = [ 2007 ]

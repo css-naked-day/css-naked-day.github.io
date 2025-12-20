@@ -1,0 +1,9 @@
+display = "vbali blogja"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.linuxforge.hu/"
+title = "vbali blogja"
+years = [ 2008 ]

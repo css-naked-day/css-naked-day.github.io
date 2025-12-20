@@ -1,0 +1,9 @@
+display = "NUNO’s TRANSISTOR"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://transistor.tistory.com/"
+title = "NUNO’s TRANSISTOR"
+years = [ 2008 ]

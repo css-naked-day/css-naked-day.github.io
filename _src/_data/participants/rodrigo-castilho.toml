@@ -1,0 +1,9 @@
+display = "RODrigo CASTilho"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.rodcast.com.br/"
+title = "RODrigo CASTilho"
+years = [ 2008 ]

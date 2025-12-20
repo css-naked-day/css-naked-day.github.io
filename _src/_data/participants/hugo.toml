@@ -1,0 +1,9 @@
+display = "Hugo"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://solo.infames.org/"
+title = "Hugo"
+years = [ 2006 ]

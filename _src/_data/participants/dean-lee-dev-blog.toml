@@ -1,0 +1,9 @@
+display = "DEAN LEE:/DEV/BLOG"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.deanlee.cn/"
+title = "DEAN LEE:/DEV/BLOG"
+years = [ 2007 ]

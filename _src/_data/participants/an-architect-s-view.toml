@@ -1,0 +1,9 @@
+display = "An Architect’s View"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://corfield.org/"
+title = "An Architect’s View"
+years = [ 2009 ]

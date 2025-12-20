@@ -1,0 +1,13 @@
+display = "Trevor Davis"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://trevordavis.net/"
+title = "Trevor Davis"
+years = [
+	2007,
+	2008,
+	2009 
+]

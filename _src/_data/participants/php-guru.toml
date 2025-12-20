@@ -1,0 +1,12 @@
+display = "PHP Guru"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.phpguru.cz/"
+title = "PHP Guru"
+years = [
+	2008,
+	2009 
+]

@@ -1,0 +1,9 @@
+display = "Antonio Fullone"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.antoniofullone.com/"
+title = "Antonio Fullone"
+years = [ 2015 ]

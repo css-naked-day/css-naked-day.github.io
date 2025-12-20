@@ -1,0 +1,9 @@
+display = "Acid Smile"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://acidsmile.co.uk/"
+title = "Acid Smile"
+years = [ 2006 ]

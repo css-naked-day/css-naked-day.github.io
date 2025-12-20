@@ -1,0 +1,9 @@
+display = "Wieder was gelernt"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.wiederwasgelernt.de/"
+title = "Wieder was gelernt"
+years = [ 2008 ]

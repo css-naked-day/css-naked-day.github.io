@@ -1,0 +1,9 @@
+display = "Ronny-Andres absolutisme"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://ronny-andre.no/"
+title = "Ronny-Andres absolutisme"
+years = [ 2008 ]

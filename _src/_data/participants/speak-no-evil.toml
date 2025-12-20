@@ -1,0 +1,9 @@
+display = "speak no evil"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://lipilee.hu/"
+title = "speak no evil"
+years = [ 2008 ]

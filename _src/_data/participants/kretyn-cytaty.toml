@@ -1,0 +1,9 @@
+display = "Kretyn cytaty"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.kretyn.com/"
+title = "Kretyn cytaty"
+years = [ 2007 ]

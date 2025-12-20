@@ -1,0 +1,9 @@
+display = "Rodrigo Soriano"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://aerodrigos.lynxdesign.com.br/"
+title = "Rodrigo Soriano"
+years = [ 2007 ]

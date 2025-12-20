@@ -1,0 +1,9 @@
+display = "Conrad Decker"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://conraddecker.com"
+title = "Conrad Decker"
+years = [ 2008 ]

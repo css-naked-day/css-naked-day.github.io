@@ -1,0 +1,9 @@
+display = "webdesign schlumpf bremen"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.1pixel.de/"
+title = "webdesign schlumpf bremen"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Karl Wackerberg"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://wackerberg.se/"
+title = "Karl Wackerberg"
+years = [ 2009 ]

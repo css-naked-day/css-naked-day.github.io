@@ -1,0 +1,9 @@
+display = "Psychopsia"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://vision.psychopsia.com/"
+title = "Psychopsia"
+years = [ 2007 ]

@@ -1,0 +1,9 @@
+display = "The Journal | Derek Davis"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://derekdavis.org/"
+title = "The Journal | Derek Davis"
+years = [ 2007 ]

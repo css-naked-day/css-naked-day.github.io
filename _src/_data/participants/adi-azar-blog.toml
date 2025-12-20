@@ -1,0 +1,9 @@
+display = "Adi Azar blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.adiazar.com/"
+title = "Adi Azar blog"
+years = [ 2008 ]

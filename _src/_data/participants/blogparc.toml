@@ -1,0 +1,9 @@
+display = "blogparc"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blogparc.blog86.fc2.com/"
+title = "blogparc"
+years = [ 2007 ]

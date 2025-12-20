@@ -1,0 +1,9 @@
+display = "StudLife"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://studlife.dp.ua/"
+title = "StudLife"
+years = [ 2008 ]

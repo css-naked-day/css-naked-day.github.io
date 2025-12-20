@@ -1,0 +1,9 @@
+display = "bankfish’s blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.bankfish.net/"
+title = "bankfish’s blog"
+years = [ 2007 ]

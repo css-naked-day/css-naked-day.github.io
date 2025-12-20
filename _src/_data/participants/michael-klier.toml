@@ -1,0 +1,9 @@
+display = "Michael Klier"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.chimeric.de/"
+title = "Michael Klier"
+years = [ 2008 ]

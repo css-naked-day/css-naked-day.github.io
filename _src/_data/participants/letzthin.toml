@@ -1,0 +1,9 @@
+display = "letzthin"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.letzthin.de/"
+title = "letzthin"
+years = [ 2008 ]

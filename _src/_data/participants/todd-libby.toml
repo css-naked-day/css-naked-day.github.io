@@ -1,0 +1,9 @@
+display = "Todd Libby"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://toddl.dev/"
+title = "Todd Libby"
+years = [ 2020 ]

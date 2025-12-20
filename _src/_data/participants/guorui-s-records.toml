@@ -1,0 +1,9 @@
+display = "GuoRui’s Records"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.guorui.org/"
+title = "GuoRui’s Records"
+years = [ 2009 ]

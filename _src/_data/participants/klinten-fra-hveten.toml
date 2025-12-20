@@ -1,0 +1,14 @@
+display = "Klinten fra hveten"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://lawier.blogspot.com/"
+title = "Klinten fra hveten"
+years = [ 2007 ]
+
+[[websites]]
+url   = "http://www.lailand.net/blogg"
+title = "Klinten fra Hveten"
+years = [ 2009 ]

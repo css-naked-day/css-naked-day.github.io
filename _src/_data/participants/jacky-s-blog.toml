@@ -1,0 +1,9 @@
+display = "網絡暴民 Jacky’s BLOG"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://jacky.seezone.net/"
+title = "網絡暴民 Jacky’s BLOG"
+years = [ 2008 ]

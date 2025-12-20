@@ -1,0 +1,9 @@
+display = "Lindsay Evans"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://lindsayevans.com/"
+title = "Lindsay Evans"
+years = [ 2006 ]

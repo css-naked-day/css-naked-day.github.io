@@ -1,0 +1,9 @@
+display = "DJ from Russia"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://djfromrussia.com/"
+title = "DJ from Russia"
+years = [ 2008 ]

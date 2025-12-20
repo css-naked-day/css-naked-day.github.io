@@ -1,0 +1,9 @@
+display = "Greenguy blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.kurniadi.com"
+title = "Greenguy blog"
+years = [ 2007 ]

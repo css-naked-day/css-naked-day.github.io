@@ -1,0 +1,12 @@
+display = "Man with no Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://manwithnoblog.com/"
+title = "Man with no Blog"
+years = [
+	2007,
+	2008 
+]

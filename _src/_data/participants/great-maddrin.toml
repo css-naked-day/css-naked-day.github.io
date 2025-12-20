@@ -1,0 +1,9 @@
+display = "Great Maddrin!"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.greatmaddrin.com"
+title = "Great Maddrin!"
+years = [ 2007 ]

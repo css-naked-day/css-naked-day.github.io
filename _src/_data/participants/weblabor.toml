@@ -1,0 +1,9 @@
+display = "Weblabor"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://weblabor.hu/"
+title = "Weblabor"
+years = [ 2008 ]

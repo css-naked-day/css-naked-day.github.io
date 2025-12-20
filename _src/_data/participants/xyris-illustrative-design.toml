@@ -1,0 +1,9 @@
+display = "Xyris Illustrative Design"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.xyris.ca/"
+title = "Xyris Illustrative Design"
+years = [ 2007 ]

@@ -1,0 +1,9 @@
+display = "Tanemori"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://d.hatena.ne.jp/tanemori/"
+title = "Tanemori"
+years = [ 2006 ]

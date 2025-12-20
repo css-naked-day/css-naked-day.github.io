@@ -1,0 +1,9 @@
+display = "Cleanstick"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://cleanstick.net/planet/"
+title = "Cleanstick"
+years = [ 2007 ]

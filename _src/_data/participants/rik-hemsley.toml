@@ -1,0 +1,9 @@
+display = "Rik Hemsley"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://rikkus.info/"
+title = "Rik Hemsley"
+years = [ 2006 ]

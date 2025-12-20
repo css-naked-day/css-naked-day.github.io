@@ -1,0 +1,9 @@
+display = "xkcd in Deutsch"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://thorstenpeh.de/xkcd-in-deutsch/"
+title = "xkcd in Deutsch"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Kimai"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.kimai.de/"
+title = "Kimai"
+years = [ 2007 ]

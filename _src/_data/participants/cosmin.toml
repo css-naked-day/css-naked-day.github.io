@@ -1,0 +1,9 @@
+display = "Cosmin"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://cosmincimpoi.blogspot.com/"
+title = "Cosmin"
+years = [ 2006 ]

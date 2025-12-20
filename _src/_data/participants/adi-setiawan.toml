@@ -1,0 +1,12 @@
+display = "Adi Setiawan"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://ex3me.org/"
+title = "Adi Setiawan"
+years = [
+	2007,
+	2008 
+]

@@ -1,0 +1,9 @@
+display = "Johna"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://action.nu/johna"
+title = "Johna"
+years = [ 2006 ]

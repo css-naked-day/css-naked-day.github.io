@@ -1,0 +1,12 @@
+display = "kobak pont org"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://kobak.org/"
+title = "kobak pont org"
+years = [
+	2008,
+	2009 
+]

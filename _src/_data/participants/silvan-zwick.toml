@@ -1,0 +1,10 @@
+display = "Silvan Zwick"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://silvanzwick.com/"
+title = "Silvan Zwick"
+years = [ 2025 ]
+

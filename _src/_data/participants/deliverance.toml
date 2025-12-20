@@ -1,0 +1,9 @@
+display = "deliverance"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://dliv.blogspot.com/"
+title = "deliverance"
+years = [ 2007 ]

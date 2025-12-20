@@ -1,0 +1,12 @@
+display = "Bare Thomas"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://thomas.hemmeligadresse.com/"
+title = "Bare Thomas"
+years = [
+	2008,
+	2009 
+]

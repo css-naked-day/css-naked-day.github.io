@@ -1,0 +1,9 @@
+display = "Gani"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://tigasatuempat.com/"
+title = "Gani"
+years = [ 2006 ]

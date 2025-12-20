@@ -1,0 +1,9 @@
+display = "Exibit"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.exibit.be/"
+title = "Exibit"
+years = [ 2007 ]

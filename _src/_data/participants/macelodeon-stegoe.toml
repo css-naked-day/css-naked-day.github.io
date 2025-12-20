@@ -1,0 +1,9 @@
+display = "Macelodeon (Stegoe)"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://macelodeon.de/"
+title = "Macelodeon (Stegoe)"
+years = [ 2006 ]

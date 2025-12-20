@@ -1,0 +1,9 @@
+display = "André Luís"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://andr3.net/blog"
+title = "André Luís"
+years = [ 2008 ]

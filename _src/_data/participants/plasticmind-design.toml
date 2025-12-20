@@ -1,0 +1,9 @@
+display = "Plasticmind Design"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://plasticmind.com/"
+title = "Plasticmind Design"
+years = [ 2008 ]

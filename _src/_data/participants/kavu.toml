@@ -1,0 +1,9 @@
+display = "kavu"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://goout.seesaa.net/"
+title = "kavu"
+years = [ 2008 ]

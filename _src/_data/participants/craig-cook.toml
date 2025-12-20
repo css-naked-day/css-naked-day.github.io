@@ -1,0 +1,12 @@
+display = "Craig Cook"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://geek.focalcurve.com/"
+title = "Craig Cook"
+years = [
+	2007,
+	2008 
+]

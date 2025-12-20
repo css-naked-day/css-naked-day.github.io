@@ -1,0 +1,9 @@
+display = "CRAZY PEOPLE"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://crazy-people.pl"
+title = "CRAZY PEOPLE"
+years = [ 2009 ]

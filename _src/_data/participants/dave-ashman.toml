@@ -1,0 +1,9 @@
+display = "Dave Ashman"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.iamdash.net/"
+title = "Dave Ashman"
+years = [ 2007 ]

@@ -1,0 +1,9 @@
+display = "Isaac Z. Schlueter"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://isaacschlueter.com/"
+title = "Isaac Z. Schlueter"
+years = [ 2006 ]

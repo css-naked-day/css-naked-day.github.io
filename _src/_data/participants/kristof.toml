@@ -1,0 +1,9 @@
+display = "Kristof"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://leicht.ykom.de/"
+title = "Kristof"
+years = [ 2006 ]

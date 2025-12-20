@@ -1,0 +1,9 @@
+display = "TheStasis"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://thestasis.com/"
+title = "TheStasis"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Josh KNutson"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://joshknutson.net/"
+title = "Josh KNutson"
+years = [ 2008 ]

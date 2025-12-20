@@ -1,0 +1,9 @@
+display = "eight-cubed.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.eight-cubed.com/blog/index.html"
+title = "eight-cubed.com"
+years = [ 2009 ]

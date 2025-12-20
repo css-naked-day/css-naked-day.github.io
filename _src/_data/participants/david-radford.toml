@@ -1,0 +1,9 @@
+display = "David Radford"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.bigredradish.com/"
+title = "David Radford"
+years = [ 2007 ]

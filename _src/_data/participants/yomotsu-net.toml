@@ -1,0 +1,17 @@
+display = "yomotsu-net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.yomotsu.net/"
+title = "yomotsu-net"
+years = [
+	2007,
+	2008 
+]
+
+[[websites]]
+url   = "http://yomotsu.net/"
+title = "yomotsu.net"
+years = [ 2009 ]

@@ -1,0 +1,9 @@
+display = "Auduns IT weblogg"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://audun.norblogg.net/"
+title = "Auduns IT weblogg"
+years = [ 2007 ]

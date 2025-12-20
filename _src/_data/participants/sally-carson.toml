@@ -1,0 +1,9 @@
+display = "Sally Carson"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.fixpert.com/"
+title = "Sally Carson"
+years = [ 2006 ]

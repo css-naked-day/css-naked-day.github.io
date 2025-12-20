@@ -1,0 +1,9 @@
+display = "PaRaDoX Information Boutique"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.paradox.do.am/"
+title = "PaRaDoX Information Boutique"
+years = [ 2008 ]

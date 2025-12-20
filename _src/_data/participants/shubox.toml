@@ -1,0 +1,9 @@
+display = "Shubox"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://shubox.net/"
+title = "Shubox"
+years = [ 2008 ]

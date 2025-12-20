@@ -1,0 +1,8 @@
+display = "StreamFM"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://radio.stream.uz/"
+years = [ 2008 ]

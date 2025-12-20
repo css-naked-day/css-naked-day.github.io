@@ -1,0 +1,9 @@
+display = "Internet Brain"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://imaginaryworld.net/"
+title = "Internet Brain"
+years = [ 2007 ]

@@ -1,0 +1,9 @@
+display = "life Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://lordfish.wiiarefree.org/blog/life/"
+title = "life Blog"
+years = [ 2008 ]

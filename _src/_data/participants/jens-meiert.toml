@@ -1,0 +1,51 @@
+display   = "Jens Oliver Meiert"
+firstname = "Jens Oliver"
+surname   = "Meiert"
+email     = "info@meiert.com"
+username  = "j9t"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://meiert.com/"
+homeURL = true
+years = [
+	2006,
+	2015,
+]
+
+[[websites]]
+url   = "https://worlds-highest-website.com/"
+title = "The World’s Highest Website"
+group = false
+years = [ 2021, ]
+
+[[websites]]
+url   = "https://frontenddogma.com/"
+title = "Frontend Dogma"
+years = [
+	2022,
+	2023,
+	2024,
+]
+
+[[websites]]
+url   = "https://frontenddogma.com/?uitest.com"
+title = "UITest.com"
+years = [
+	2021,
+	2022,
+]
+
+# Accounts
+# ------------------------------------------------------------------------------
+
+[[accounts]]
+type = "Mastodon"
+url  = "https://mas.to/@j9t"
+
+[[accounts]]
+type     = "GitHub"
+url      = "https://github.com/j9t"
+username = "j9t"

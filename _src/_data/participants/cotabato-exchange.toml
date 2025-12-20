@@ -1,0 +1,9 @@
+display = "Cotabato Exchange"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://cotabatoexchange.net76.net/"
+title = "Cotabato Exchange"
+years = [ 2009 ]

@@ -1,0 +1,12 @@
+display = "Yskin’s Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://yskin.net/"
+title = "Yskin’s Blog"
+years = [
+	2007,
+	2009 
+]

@@ -1,0 +1,9 @@
+display = "Ricky Romero"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.anim8.biz/"
+title = "Ricky Romero"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Troy Dallas"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.zujik.com/"
+title = "Troy Dallas"
+years = [ 2008 ]

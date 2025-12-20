@@ -1,0 +1,9 @@
+display = "Nico Granelli"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://vidapractica.com.ar/"
+title = "Nico Granelli"
+years = [ 2006 ]

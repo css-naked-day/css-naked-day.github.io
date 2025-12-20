@@ -1,0 +1,9 @@
+display = "Charn BloG"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://charni.org/"
+title = "Charn BloG"
+years = [ 2008 ]

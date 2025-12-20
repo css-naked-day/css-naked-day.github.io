@@ -1,0 +1,9 @@
+display = "Akelarreweb"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.akelarreweb.com/"
+title = "Akelarreweb"
+years = [ 2007 ]

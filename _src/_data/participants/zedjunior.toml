@@ -1,0 +1,9 @@
+display = "Zedjunior"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.zedjunior.com/"
+title = "Zedjunior"
+years = [ 2007 ]

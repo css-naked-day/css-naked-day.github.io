@@ -1,0 +1,9 @@
+display = "Blog Lorda AgEnTa"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.lord-agent.net/"
+title = "Blog Lorda AgEnTa"
+years = [ 2007 ]

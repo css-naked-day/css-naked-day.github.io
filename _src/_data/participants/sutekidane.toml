@@ -1,0 +1,9 @@
+display = "Sutekidane"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.sutekidane.net/blog/"
+title = "Sutekidane"
+years = [ 2007 ]

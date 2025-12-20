@@ -1,0 +1,9 @@
+display = "Baris Solution – Blog Area"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.baris-solution.de/"
+title = "Baris Solution – Blog Area"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Shwe Darling"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.shwedarling.com/blog"
+title = "Shwe Darling"
+years = [ 2006 ]

@@ -1,0 +1,9 @@
+display = "Michel"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://mstyles.de/"
+title = "Michel"
+years = [ 2006 ]

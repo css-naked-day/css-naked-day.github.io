@@ -1,0 +1,9 @@
+display = "Andreas Gohr"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.splitbrain.org/"
+title = "Andreas Gohr"
+years = [ 2007 ]

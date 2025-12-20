@@ -1,0 +1,9 @@
+display = "jasonspage.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://jasonspage.net/"
+title = "jasonspage.net"
+years = [ 2008 ]

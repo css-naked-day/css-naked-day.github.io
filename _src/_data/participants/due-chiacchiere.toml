@@ -1,0 +1,25 @@
+display = "Due Chiacchiere"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.duechiacchiere.it/"
+title = "due chiacchiere"
+years = [
+	2007,
+	2009 
+]
+
+[[websites]]
+url   = "https://www.duechiacchiere.it/"
+title = "Due Chiacchiere"
+years = [ 2022 ]
+
+[[websites]]
+url   = "https://duechiacchiere.it/"
+title = "Due Chiacchiere"
+years = [
+	2023,
+	2024 
+]

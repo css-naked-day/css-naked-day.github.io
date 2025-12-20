@@ -1,0 +1,9 @@
+display = "Dan Gayle"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://dangayle.com/"
+title = "Dan Gayle"
+years = [ 2009 ]

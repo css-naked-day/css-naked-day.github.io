@@ -1,0 +1,9 @@
+display = "Boggle The Mind"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.bogglethemind.com/"
+title = "Boggle The Mind"
+years = [ 2007 ]

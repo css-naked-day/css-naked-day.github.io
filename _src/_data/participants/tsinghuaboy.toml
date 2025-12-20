@@ -1,0 +1,9 @@
+display = "tsinghuaboy"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.tsinghuaboy.cn/"
+title = "tsinghuaboy"
+years = [ 2007 ]

@@ -1,0 +1,9 @@
+display = "B2B Trade – bectrade"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.bectrade.com/"
+title = "B2B Trade – bectrade"
+years = [ 2008 ]

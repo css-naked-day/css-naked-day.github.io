@@ -1,0 +1,9 @@
+display = "Opus-i.plus"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://opusi.blog6.fc2.com/"
+title = "Opus-i.plus"
+years = [ 2007 ]

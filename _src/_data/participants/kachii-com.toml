@@ -1,0 +1,9 @@
+display = "kachii.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://kachii.com/"
+title = "kachii.com"
+years = [ 2007 ]

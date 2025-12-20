@@ -1,0 +1,9 @@
+display = "andr3.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://andr3.net/blog"
+title = "andr3.net"
+years = [ 2009 ]

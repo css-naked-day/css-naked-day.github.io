@@ -1,0 +1,9 @@
+display = "[T]issues"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.vashira.com/tissues/"
+title = "[T]issues"
+years = [ 2009 ]

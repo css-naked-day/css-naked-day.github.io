@@ -1,0 +1,9 @@
+display = "Chris Allen"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://whispering-screams.net/"
+title = "Chris Allen"
+years = [ 2007 ]

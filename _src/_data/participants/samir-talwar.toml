@@ -1,0 +1,10 @@
+display = "Samir Talwar"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://functional.computer/"
+title = "Samir Talwar"
+years = [ 2025 ]
+

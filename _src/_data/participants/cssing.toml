@@ -1,0 +1,12 @@
+display = "CSSing"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://cssing.org.ua/"
+title = "CSSing"
+years = [
+	2007,
+	2008 
+]

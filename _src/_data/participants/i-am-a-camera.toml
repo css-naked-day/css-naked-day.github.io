@@ -1,0 +1,9 @@
+display = "i am a camera"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://iamacamera.org/"
+title = "i am a camera"
+years = [ 2008 ]

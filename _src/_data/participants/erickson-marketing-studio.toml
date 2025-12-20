@@ -1,0 +1,9 @@
+display = "Erickson Marketing Studio"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://ericksonstudio.com/"
+title = "Erickson Marketing Studio"
+years = [ 2007 ]

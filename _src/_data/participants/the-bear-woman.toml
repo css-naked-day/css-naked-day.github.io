@@ -1,0 +1,9 @@
+display = "The Bear Woman"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://ursulabear.com/"
+title = "The Bear Woman"
+years = [ 2008 ]

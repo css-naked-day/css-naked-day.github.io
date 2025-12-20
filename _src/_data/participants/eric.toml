@@ -1,0 +1,9 @@
+display = "Eric"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://yatil.de/"
+title = "Eric"
+years = [ 2006 ]

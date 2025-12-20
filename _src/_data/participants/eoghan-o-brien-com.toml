@@ -1,0 +1,9 @@
+display = "Eoghan O'Brien.com"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.eoghanobrien.com/"
+title = "Eoghan O&#39;Brien.com"
+years = [ 2007 ]

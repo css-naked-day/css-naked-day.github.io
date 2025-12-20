@@ -1,0 +1,9 @@
+display = "Pugia"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.pugia.com/"
+title = "Pugia"
+years = [ 2006 ]

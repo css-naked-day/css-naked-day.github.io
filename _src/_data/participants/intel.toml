@@ -1,0 +1,9 @@
+display = "反intel中国"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.letni.cn/"
+title = "反intel中国"
+years = [ 2009 ]

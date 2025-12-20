@@ -1,0 +1,9 @@
+display = "tsuki story"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://tsuki.zc.bz/blog"
+title = "tsuki story"
+years = [ 2007 ]

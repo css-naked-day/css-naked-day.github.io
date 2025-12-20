@@ -1,0 +1,9 @@
+display = "AmooDaily"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://amoolove.tistory.com/"
+title = "AmooDaily"
+years = [ 2008 ]

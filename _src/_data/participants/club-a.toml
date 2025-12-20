@@ -1,0 +1,9 @@
+display = "Club A"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.bluesomeone.com/amsterdam/"
+title = "Club A"
+years = [ 2007 ]

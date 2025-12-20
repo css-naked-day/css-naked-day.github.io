@@ -1,0 +1,9 @@
+display = "Online Marketing Hamburg"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.effektor.de/"
+title = "Online Marketing Hamburg"
+years = [ 2008 ]

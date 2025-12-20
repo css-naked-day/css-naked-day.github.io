@@ -1,0 +1,9 @@
+display = "TheDavis Blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://arpaneting.es/"
+title = "TheDavis Blog"
+years = [ 2009 ]

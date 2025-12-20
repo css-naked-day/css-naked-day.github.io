@@ -1,0 +1,9 @@
+display = "The Social Life of The Freethi"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://theuniquesociety.gilbertemano.com/"
+title = "The Social Life of The Freethi"
+years = [ 2007 ]

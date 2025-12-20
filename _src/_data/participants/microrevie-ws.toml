@@ -1,0 +1,9 @@
+display = "microrevie.ws"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://microrevie.ws/"
+title = "microrevie.ws"
+years = [ 2008 ]

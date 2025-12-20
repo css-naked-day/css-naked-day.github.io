@@ -1,0 +1,9 @@
+display = "Dan Perdue"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://dperdue.com/"
+title = "Dan Perdue"
+years = [ 2006 ]

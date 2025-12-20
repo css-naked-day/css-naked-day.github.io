@@ -1,0 +1,9 @@
+display = "Yenblog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://weizeyan.128.tofor.com/"
+title = "Yenblog"
+years = [ 2008 ]

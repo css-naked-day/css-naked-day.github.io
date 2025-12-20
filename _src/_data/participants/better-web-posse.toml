@@ -1,0 +1,9 @@
+display = "Better Web Posse"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.betterwebposse.com/"
+title = "Better Web Posse"
+years = [ 2008 ]

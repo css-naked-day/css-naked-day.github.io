@@ -1,0 +1,9 @@
+display = "Travis Seitler"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://travis.webseitler.com/"
+title = "Travis Seitler"
+years = [ 2008 ]

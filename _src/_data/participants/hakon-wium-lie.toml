@@ -1,0 +1,9 @@
+display = "Håkon Wium Lie"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://people.opera.com/howcome/"
+title = "Håkon Wium Lie"
+years = [ 2006 ]

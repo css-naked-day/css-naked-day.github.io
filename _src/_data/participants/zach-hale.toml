@@ -1,0 +1,9 @@
+display = "Zach Hale"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://semistereo.com/"
+title = "Zach Hale"
+years = [ 2006 ]

@@ -1,0 +1,9 @@
+display = "James Gregory"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.jagregory.com/"
+title = "James Gregory"
+years = [ 2006 ]

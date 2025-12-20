@@ -1,0 +1,12 @@
+display = "jillapalooza"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.jillapalooza.com/"
+title = "jillapalooza"
+years = [
+	2008,
+	2009 
+]

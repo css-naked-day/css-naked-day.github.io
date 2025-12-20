@@ -1,0 +1,9 @@
+display = "Meurglys"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.meurglys.net/"
+title = "Meurglys"
+years = [ 2006 ]

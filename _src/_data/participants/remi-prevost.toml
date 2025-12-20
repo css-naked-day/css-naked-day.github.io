@@ -1,0 +1,12 @@
+display = "Remi Prevost"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://remiprevost.com/"
+title = "Remi Prevost"
+years = [
+	2006,
+	2007 
+]

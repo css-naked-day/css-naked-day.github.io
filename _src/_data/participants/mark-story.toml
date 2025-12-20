@@ -1,0 +1,9 @@
+display = "Mark Story"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://mark-story.com/"
+title = "Mark Story"
+years = [ 2009 ]

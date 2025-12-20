@@ -1,0 +1,9 @@
+display = "Bahar Yıldızı"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.kumbag.info/"
+title = "Bahar Yıldızı"
+years = [ 2007 ]

@@ -1,0 +1,9 @@
+display = "DJ FROM RUSSIA (BOOKING)"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://booking.djfromrussia.com/"
+title = "DJ FROM RUSSIA (BOOKING)"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "El Bloc del Joan Ayza"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.joanayza.com/wordpress"
+title = "El Bloc del Joan Ayza"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Julia Elman"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.juliaelman.com/"
+title = "Julia Elman"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "Marat Dyatko"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.dyatko.ru/"
+title = "Marat Dyatko"
+years = [ 2008 ]

@@ -1,0 +1,9 @@
+display = "A Dad’s Life"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.adadslife.com/"
+title = "A Dad’s Life"
+years = [ 2008 ]

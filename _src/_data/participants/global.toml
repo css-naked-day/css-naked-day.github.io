@@ -1,0 +1,9 @@
+display = "global"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.globalmt.com.tr/"
+title = "global"
+years = [ 2007 ]

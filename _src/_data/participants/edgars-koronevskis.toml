@@ -1,0 +1,9 @@
+display = "Edgars Koronevskis"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.koronevskis.lv/"
+title = "Edgars Koronevskis"
+years = [ 2008 ]

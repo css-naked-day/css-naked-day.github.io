@@ -1,0 +1,9 @@
+display = "Kyle Fox"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://kylefox.ca/"
+title = "Kyle Fox"
+years = [ 2009 ]

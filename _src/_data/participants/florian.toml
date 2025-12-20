@@ -1,0 +1,9 @@
+display = "Florian"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://malerama.de/"
+title = "Florian"
+years = [ 2006 ]

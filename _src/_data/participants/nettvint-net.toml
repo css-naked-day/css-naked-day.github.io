@@ -1,0 +1,9 @@
+display = "Nettvint.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.nettvint.net/"
+title = "Nettvint.net"
+years = [ 2007 ]

@@ -1,0 +1,8 @@
+display = "von Halle bis Leipzig"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.von-halle-bis-leipzig.de/"
+years = [ 2008 ]

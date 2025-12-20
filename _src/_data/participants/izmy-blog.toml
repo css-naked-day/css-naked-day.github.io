@@ -1,0 +1,9 @@
+display = "izmy blog"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://blog.izmy.eu/"
+title = "izmy blog"
+years = [ 2007 ]

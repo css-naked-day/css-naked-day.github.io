@@ -1,0 +1,9 @@
+display = "Alternate.org"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.alternate.org/"
+title = "Alternate.org"
+years = [ 2007 ]

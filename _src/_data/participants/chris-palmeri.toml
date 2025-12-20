@@ -1,0 +1,9 @@
+display = "Chris Palmeri"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.chrispalmeri.com/"
+title = "Chris Palmeri"
+years = [ 2009 ]

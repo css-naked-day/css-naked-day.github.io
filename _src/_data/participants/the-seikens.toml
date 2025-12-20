@@ -1,0 +1,9 @@
+display = "the Seikens"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "http://www.seikens.com/"
+title = "the Seikens"
+years = [ 2007 ]
