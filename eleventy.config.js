@@ -1,5 +1,5 @@
 import toml from '@iarna/toml';
-import { minify, getPreset } from 'html-minifier-next';
+import { minify } from 'html-minifier-next';
 
 function getWebsiteDomain(url) {
 	return url.replace(
@@ -124,8 +124,7 @@ export default function (eleventyConfig) {
 	eleventyConfig.addTransform('htmlmin', function(content) {
 		if (this.page.outputPath && this.page.outputPath.endsWith('.html')) {
 			let minified = minify(content, {
-				...getPreset('comprehensive'),
-				collapseInlineTagWhitespace: false // TODO: Remove with HTML Minifier Next 5.x.x
+				preset: 'comprehensive',
 			});
 			return minified;
 		}
