@@ -1,4 +1,5 @@
 import toml from '@iarna/toml';
+import { minify, getPreset } from 'html-minifier-next';
 
 function getWebsiteDomain(url) {
 	return url.replace(
@@ -115,6 +116,20 @@ export default function (eleventyConfig) {
 		}
 
 		return output;
+	});
+
+	// HTML minification
+	// ===============================================================================================
+
+	eleventyConfig.addTransform('htmlmin', function(content) {
+		if (this.page.outputPath && this.page.outputPath.endsWith('.html')) {
+			let minified = minify(content, {
+				...getPreset('comprehensive'),
+				collapseInlineTagWhitespace: false // TODO: Remove with HTML Minifier Next 5.x.x
+			});
+			return minified;
+		}
+		return content;
 	});
 
 	// ===============================================================================================
