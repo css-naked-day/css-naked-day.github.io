@@ -33,3 +33,7 @@ jobs:
           remote_user: ${{ secrets.REMOTE_USER_PROD }}
           remote_key: ${{ secrets.REMOTE_PRIVATE_KEY_PROD }}
           remote_key_pass: ${{ secrets.REMOTE_PRIVATE_KEY_PASS_PROD }}
+
+    permissions:
+      contents: read
+      pull-requests: write
