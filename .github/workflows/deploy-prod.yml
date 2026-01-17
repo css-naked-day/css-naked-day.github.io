@@ -2,7 +2,7 @@ name: Deploy Eleventy on prod via rsync
 
 on:
   push:
-    branches: [master]
+    branches: [main]
 
 jobs:
   build:
