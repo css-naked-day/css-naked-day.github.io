@@ -1,0 +1,22 @@
+name: Test building Eleventy when a Pull Request is created or updated.
+
+on:
+  pull_request:
+    types: [opened, edited, reopened, synchronize]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Check-out the repository under $GITHUB_WORKSPACE.
+      - uses: actions/checkout@master
+
+      - name: Install dependencies.
+        run: npm ci
+
+      - name: Lint with fix.
+        run: npx eslint --fix
+
+      # Build the website with Eleventy.
+      - name: Build Eleventy.
+        run: npm run build
