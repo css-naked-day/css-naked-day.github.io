@@ -35,3 +35,8 @@ jobs:
           remote_user: ${{ secrets.REMOTE_USER_STAGING }}
           remote_key: ${{ secrets.REMOTE_PRIVATE_KEY_STAGING }}
           remote_key_pass: ${{ secrets.REMOTE_PRIVATE_KEY_PASS_STAGING }}
+
+    permissions:
+      contents: read
+      pull-requests: write
+
