@@ -2,7 +2,7 @@
 
 “Show off your semantic `<body>`”: [_April 9 is CSS Naked Day!_](https://css-naked-day.org/)
 
-If you’re participating, add or update a [file in participants](https://github.com/css-naked-day/css-naked-day.github.io/tree/issues/160-refactor-eleventy/_src/_data/participants)!
+If you’re participating, add or update a [file in participants](https://github.com/css-naked-day/css-naked-day.org/tree/issues/160-refactor-eleventy/_src/_data/participants)!
 
 If you have been participating and are not listed, feel free to make a pull request and give us reasonable clues. A link to [an archive URL documenting your participation](https://web.archive.org/) is ideal, but you might also point to articles or online mentions of your participation.
 
@@ -98,7 +98,7 @@ years = [2008, 2010]
 
 ### Advanced formatting
 
-By default, more than one entry will be listed as “_`display`: [website1](), [website2]() & [website3]()_”. [Tom Hazeldine’s config file](https://github.com/css-naked-day/css-naked-day.github.io/blob/430c7d632bddd5d4fb1a17799ac5fc45cee49fab/_src/_data/participants/tom-hazledine.toml#L14-L16) is a good example of a more free-flow writing of entries.
+By default, more than one entry will be listed as “_`display`: [website1](), [website2]() & [website3]()_”. [Tom Hazeldine’s config file](https://github.com/css-naked-day/css-naked-day.org/blob/430c7d632bddd5d4fb1a17799ac5fc45cee49fab/_src/_data/participants/tom-hazledine.toml#L14-L16) is a good example of a more free-flow writing of entries.
 
 His websites will appear as “_Tom Hazledine: [tomhazledine.com](https://tomhazledine.com/) (some of which is [always naked](https://tomhazledine.com/css-naked-day/))_”
 

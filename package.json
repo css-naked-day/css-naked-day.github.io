@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/css-naked-day/css-naked-day.github.io.git"
+    "url": "git+https://github.com/css-naked-day/css-naked-day.org.git"
   },
   "keywords": [
     "css",
@@ -19,7 +19,7 @@
   "author": "CSS Naked Day",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/css-naked-day/css-naked-day.github.io/issues"
+    "url": "https://github.com/css-naked-day/css-naked-day.org/issues"
   },
   "homepage": "https://css-naked-day.org/",
   "devDependencies": {
