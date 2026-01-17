@@ -40,7 +40,7 @@ years = [2006, 2010]
 
 If you add `homeURL = false` to a website, the URL will not apply to your _display_ name.
 
-The following will show as “_Naked Days Corp: [CSS Naked Day][]_” instead of “_[Naked Days Corp][]_”.
+The following will show as “_Naked Days Corp: [css-naked-day.org][]_” instead of “_[Naked Days Corp][]_”.
 
 ```toml
 display = "Naked Days Corp"
