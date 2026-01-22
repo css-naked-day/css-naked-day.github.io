@@ -4,12 +4,18 @@ layout: base.njk
 title: "CSS Naked Day"
 ---
 <h3>April 9 is CSS Naked Day!</h3>
+
 <p>Join us for the yearly festivities on April 9 of going nude on the Web!</p>
+
 <!-- <h3><a id="where-is-design" href="#where-is-design">Where did the design go?</a></h3>
 <p>The website you just came from is not broken, its owner has decided to participate to CSS Naked Day! CSS Naked Day is an event that is held once per year to celebrate good and well planned design. The website you come from will be back to its normal state tomorrow.</p>
+
 <h3><a id="meaning" href="#meaning">What does that mean?</a></h3> -->
+
 <p>The idea behind CSS Naked Day is to promote web standards. Plain and simple. This includes proper use of HTML, semantic markup, a good hierarchy structure, and of course, a good old play on words. In the words of 2006, it’s time to show off your &lt;body&gt; for what it really is.</p>
+
 <h3><a id="editions" href="#editions">CSS Naked Day editions</a></h3>
+
 <ul>
 	{% for year in range(globals.yearStart, globals.yearCurrent + 1) | reverse %}
 	<li>
@@ -21,12 +27,19 @@ title: "CSS Naked Day"
 	</li>
 	{% endfor %}
 </ul>
+
 <h3><a id="participate" href="#participate">How to participate</a></h3>
+
 <p>On April 9, simply remove all CSS from your website, stripping it entirely of its design.</p>
+
 <p>You can link to this page to let your visitors know about the nudity of your website! This option is for those who feel a need to give their visitors a reference as to what’s going on. This is not about getting traffic or making money. There are no ads on this site, nor will there ever be. This is about you, the people; getting naked.</p>
+
 <p>You can instead add your website(s) here by <a href="https://github.com/css-naked-day/css-naked-day.org/issues/new">creating an issue</a> or <a href="https://github.com/css-naked-day/css-naked-day.org">adding a file in the proper folder</a>!</p>
+
 <h3><a id="developers" href="#developers">Don’t think, just strip</a></h3>
+
 <p>Here is a sample PHP function for developers:</p>
+
 <pre><code>&lt;?php
   function isNakedDay() {
     $now = new \DateTime('now', new \DateTimeZone('UTC'));
@@ -35,7 +48,9 @@ title: "CSS Naked Day"
     return $now &gt;= $start && $now &lt; $end;
   }
 ?&gt;</code></pre>
+
 <p>Use it like this:</p>
+
 <pre><code>&lt;head&gt;
   …
   &lt;?php if(!isNakedDay()) : ?&gt;
@@ -43,10 +58,15 @@ title: "CSS Naked Day"
   &lt;?php endif; ?&gt;
   …
 &lt;/head&gt;</code></pre>
+
 <h3><a id="timespan" href="#timespan">Wait… isn’t that 50 hours?</a></h3>
+
 <p>That’s correct. CSS Naked Day lasts for one international day. Technically speaking, it will be April 9 somewhere in the world for 50 hours, from <strong>00:00, April 9 UTC+14:00</strong> to <strong>00:00, April 10 UTC-12:00</strong> (<em>10:00, April 8 UTC+00:00</em> to <em>12:00, April 10 UTC+00:00</em>). This is to ensure that everyone’s website will be publicly nude for the entire world to see at any given time during April 9.</p>
+
 <h3><a id="tools" href="#tools">Tools and plugins</a></h3>
+
 <p>Attention plugin developers: If you have a CSS Naked Day plugin for a popular CMS, or written in a programming language not listed here, feel free to make a pull request and add it, or to post an email on the <a href="https://groups.google.com/g/css-naked-day">dedicated Google group</a> if you’re not familiar with Git.</p>
+
 <ul>
 	<li><a href="https://www.ajalapus.com/">Aja</a> updated their most excellent <a href="https://www.ajalapus.com/downloads/css-naked-day/">WordPress Naked Day Plugin</a>.</li>
 	<li><a href="https://web.archive.org/web/20150227130740/http://hugi.to/blog/">Reto</a> has created a <a href="http://downloads.sourceforge.net/lifetype/1.2_cssnaked.zip?download">Naked Day plugin for the LifeType Blogging platform</a>.</li>
@@ -58,10 +78,15 @@ title: "CSS Naked Day"
 	<li>If you are a Rails developer, check out the <a href="https://github.com/danielsellergren/css_naked_day_rails">css_naked_day_rails</a> gem by <a href="https://danielsellergren.com/">Daniel Sellergren</a>.</li>
 	<li>If you have lots of raw HTML, use <a href="https://gist.github.com/alifeee/75df204c2be3815806e1d4be47e54d08">this bash script</a> to remove style sheets, <code>style</code> elements, and inline styles.</li>
 </ul>
+
 <h3><a id="origins" href="#origins">Origins</a></h3>
+
 <p>CSS Naked Day started in <a href="https://web.archive.org/web/20060409133500/http://naked.dustindiaz.com/">2006 by Dustin Diaz</a>, who organized it until <a href="https://web.archive.org/web/20090503155846/http://naked.dustindiaz.com:80/">2009</a>. From <a href="https://web.archive.org/web/20100516032732/http://naked.threepixeldrift.com/">2010</a> until <a href="https://web.archive.org/web/20140817035514/http://naked.threepixeldrift.com/">2014</a>, it was hosted by Taylor Satula. The content in this page is extracted from the content of the respective pages. Since 2015, the project is maintained by <a href="https://arkhi.org/">Fabien Basmaison</a> and <a href="https://meiert.com/">Jens Oliver Meiert</a>. (Jens once worked on a <a href="https://meiert.com/blog/css-naked-day-and-wikipedia/">proposal for a CSS Naked Day Wikipedia page</a> that retells the story.)</p>
+
 <h3>Famous words</h3>
+
 <blockquote>
 	<p>This is a fun idea, fully in line with the reasons for creating CSS in the first place. While most designers are attracted by the extra presentational capabilities, saving HTML from becoming a presentational language was probably a more important motivation for most people who participated in the beginning.</p>
 </blockquote>
+
 <p><cite>Håkon Wium Lie</cite></p>

@@ -20,7 +20,9 @@ permalink: /{{ year | slugify }}.html
 		{% endif %}
 	{% endfor %}
 </p>
+
 <h3>Kudos to these websites who got naked in {{ year }}!</h3>
+
 <ol>
 	{% for filename, participations in participations | getParticipantsForYear(year) | groupby('participant') %}
 		{% set participant = participants[filename] %}
@@ -35,6 +37,7 @@ permalink: /{{ year | slugify }}.html
 		</li>
 	{% endfor %}
 </ol>
+
 <p>
 	Feel free to
 	<a href='https://github.com/css-naked-day/css-naked-day.org/new/master/?filename=_data/participants/my-name.toml&value=display%20%3D%20%22MY%20NAME%22%0A%0A%23%20Websites%0A%23%20------------------------------------------------------------------------------%0A%0A%5B%5Bwebsites%5D%5D%0Aurl%20%20%20%3D%20%22URL_OF_MY_WEBSITE%22%0Ayears%20%3D%20%5B%0A%20%20%0A%5D'>add yours</a>!
