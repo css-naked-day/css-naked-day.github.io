@@ -1,8 +1,9 @@
 ---
-# description: "TODO"
+layout: base.njk
 eleventyComputed:
   title: "CSS Naked Day {{ year }}"
-layout: base.njk
+  description: "List of websites which stripped their CSS in {{ year }}"
+
 # See `pagination.before` in separate year.11tydata.js
 pagination:
   data: participants
@@ -10,8 +11,10 @@ pagination:
   alias: year
 permalink: /{{ year | slugify }}.html
 ---
+
 <p>
 	<a href="/">Home</a>
+
 	{% for year in range(globals.yearStart, globals.yearCurrent + 1) %}
 		{% if participationsCount[year] > 0 %}
 			· <a href="{{ year | slugify }}.html">{{ year }}</a>
@@ -27,6 +30,7 @@ permalink: /{{ year | slugify }}.html
 	{% for filename, participations in participations | getParticipantsForYear(year) | groupby('participant') %}
 		{% set participant = participants[filename] %}
 		{% set websitesForYear = participant | getParticipantWebsitesForYear(year) %}
+
 		<li>
 			{%- if participant | mergeNameWithURL(websitesForYear) -%}
 				{% linkNoSpam filename | getParticipantDisplayName, websitesForYear[0] %}

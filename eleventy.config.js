@@ -13,7 +13,6 @@ function getWebsiteDomain(url) {
 
 export default function (eleventyConfig) {
 	eleventyConfig.setQuietMode(true);
-
 	eleventyConfig.setInputDirectory('_src');
 
 	// Host static assets. Anything from `./public/` goes to site’s root `/`.
@@ -126,8 +125,10 @@ export default function (eleventyConfig) {
 			let minified = minify(content, {
 				preset: 'comprehensive',
 			});
+
 			return minified;
 		}
+
 		return content;
 	});
 

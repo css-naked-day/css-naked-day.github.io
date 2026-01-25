@@ -1,8 +1,9 @@
 ---
-# description: "TODO"
 layout: base.njk
 title: "CSS Naked Day"
+description: "Promoting Web standards all declarations at a time"
 ---
+
 <h3>April 9 is CSS Naked Day!</h3>
 
 <p>Join us for the yearly festivities on April 9 of going nude on the Web!</p>
@@ -18,13 +19,13 @@ title: "CSS Naked Day"
 
 <ul>
 	{% for year in range(globals.yearStart, globals.yearCurrent + 1) | reverse %}
-	<li>
-		{% if participationsCount[year] > 0 %}
-			<a href="{{ year | slugify }}.html">{{ year }}</a>
-		{% else %}
-			{{ year }}
-		{% endif %}
-	</li>
+		<li>
+			{% if participationsCount[year] > 0 %}
+				<a href="{{ year | slugify }}.html">{{ year }}</a>
+			{% else %}
+				{{ year }}
+			{% endif %}
+		</li>
 	{% endfor %}
 </ul>
 
