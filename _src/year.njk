@@ -14,6 +14,7 @@ permalink: /{{ year | slugify }}.html
 
 <p>
 	<a href="/">Home</a>
+
 	{% for year in range(globals.yearStart, globals.yearCurrent + 1) %}
 		{% if participationsCount[year] > 0 %}
 			· <a href="{{ year | slugify }}.html">{{ year }}</a>
