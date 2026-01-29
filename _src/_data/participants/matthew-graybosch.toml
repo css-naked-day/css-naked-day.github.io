@@ -7,5 +7,8 @@ display = "Matthew Graybosch"
 url     = "https://starbreaker.org/"
 homeURL = false
 title   = "starbreaker.org"
-years   = [ 2024, 2025 ]
+years   = [
+	2024,
+	2025 
+]
 
