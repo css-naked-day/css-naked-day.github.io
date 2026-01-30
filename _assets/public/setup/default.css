@@ -459,3 +459,12 @@
 	}
 
 }
+
+a:not([href]) {
+	color: initial;
+	cursor: auto;
+}
+
+[aria-current] {
+	font-weight: bold;
+}
