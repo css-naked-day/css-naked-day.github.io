@@ -8,9 +8,9 @@ username  = "j9t"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "https://meiert.com/"
+url     = "https://meiert.com/"
 homeURL = true
-years = [
+years   = [
 	2006,
 	2015,
 ]

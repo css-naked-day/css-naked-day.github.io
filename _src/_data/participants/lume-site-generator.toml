@@ -4,5 +4,5 @@ display = "Lume (a static site generator)"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url     = "https://lume.land/"
-years   = [ 2025 ]
+url   = "https://lume.land/"
+years = [ 2025 ]
