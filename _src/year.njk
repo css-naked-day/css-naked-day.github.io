@@ -20,7 +20,7 @@ permalink: /{{ year | slugify }}.html
 
 		·
 		<a
-			{%- if  not isCurrentPage and participationsCount[listYear] > 0 %}
+			{%- if not isCurrentPage and participationsCount[listYear] > 0 %}
 				href="{{ listYear | slugify }}.html"
 			{%- endif %}
 
