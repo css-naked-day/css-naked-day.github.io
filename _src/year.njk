@@ -15,12 +15,21 @@ permalink: /{{ year | slugify }}.html
 <p>
 	<a href="/">Home</a>
 
-	{% for year in range(globals.yearStart, globals.yearCurrent + 1) %}
-		{% if participationsCount[year] > 0 %}
-			· <a href="{{ year | slugify }}.html">{{ year }}</a>
-		{% else %}
-			· {{ year }}
-		{% endif %}
+	{% for listYear in range(globals.yearStart, globals.yearCurrent + 1) %}
+		{% set isCurrentPage = listYear === year %}
+
+		·
+		<a
+			{%- if not isCurrentPage and participationsCount[listYear] > 0 %}
+				href="{{ listYear | slugify }}.html"
+			{%- endif %}
+
+			{%- if isCurrentPage %}
+				aria-current="page"
+			{%- endif %}
+		>
+			{{- listYear -}}
+		</a>
 	{% endfor %}
 </p>
 
