@@ -1,0 +1,7 @@
+---
+permalink: /thisYearURLs.txt
+---
+
+{%- for url in globals.currentYear | getWebsitesForYear %}
+  {{- url }}
+{% endfor -%}
