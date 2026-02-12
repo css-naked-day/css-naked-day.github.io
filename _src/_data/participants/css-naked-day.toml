@@ -1,0 +1,10 @@
+display = "CSS Naked Day"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://css-naked-day.org/"
+years = [
+	2026
+]
