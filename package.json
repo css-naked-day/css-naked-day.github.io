@@ -29,7 +29,7 @@
     "@stylistic/eslint-plugin": "^5.5.0",
     "eslint": "^9.39.1",
     "eslint-plugin-toml": "^1.0.4",
-    "globals": "^16.5.0",
+    "globals": "^17.3.0",
     "html-minifier-next": "^5.1.0",
     "regexp.escape": "^2.0.1"
   }
