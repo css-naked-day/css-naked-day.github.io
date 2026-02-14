@@ -74,6 +74,27 @@ export default function (eleventyConfig) {
 			.sort((a, b) => a.participant > b.participant ? 1 : -1);
 	});
 
+	/**
+	 * Get all websites for the requested year.
+	 *
+	 * @param  {string) year - target year
+	 * @return {array}  URLs for websites participating for this year
+	 */
+	eleventyConfig.addFilter('getWebsitesForYear', function(year) {
+		const participants = this.ctx.participants;
+		const websitesForYear = [];
+
+		for (const participant in participants) {
+			participants[participant].websites.forEach(website => {
+				if(website.years.includes(year)) {
+					websitesForYear.push(website.url);
+				}
+			});
+		};
+
+		return websitesForYear;
+	});
+
 	// Shortcodes
 	// ===============================================================================================
 
