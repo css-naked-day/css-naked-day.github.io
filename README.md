@@ -2,7 +2,7 @@
 
 “Show off your semantic `<body>`”: [_April 9 is CSS Naked Day!_](https://css-naked-day.org/)
 
-If you’re participating, add or update a [file in participants](https://github.com/css-naked-day/css-naked-day.org/tree/issues/160-refactor-eleventy/_src/_data/participants)!
+If you’re participating, add or update a [file in participants](https://github.com/css-naked-day/css-naked-day.org/tree/main/_src/_data/participants)!
 
 If you have been participating and are not listed, feel free to make a pull request and give us reasonable clues. A link to [an archive URL documenting your participation](https://web.archive.org/) is ideal, but you might also point to articles or online mentions of your participation.
 
