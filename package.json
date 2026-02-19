@@ -28,7 +28,7 @@
     "@iarna/toml": "^2.2.5",
     "@stylistic/eslint-plugin": "^5.8.0",
     "eslint": "^10.0.0",
-    "eslint-plugin-toml": "^1.0.4",
+    "eslint-plugin-toml": "^1.1.1",
     "globals": "^17.3.0",
     "html-minifier-next": "^5.1.1",
     "regexp.escape": "^2.0.1"
