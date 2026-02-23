@@ -30,7 +30,7 @@
     "eslint": "^10.0.0",
     "eslint-plugin-toml": "^1.1.1",
     "globals": "^17.3.0",
-    "html-minifier-next": "^5.1.1",
+    "html-minifier-next": "^5.1.2",
     "regexp.escape": "^2.0.1"
   }
 }
