@@ -1,3 +1,18 @@
+/*
+	Revert all properties to user or browser values,
+	except elements with the class mo-cssnd and their descendants.
+*/
+@scope (.cssnd) to (.no-cssnd) {
+	:scope, * {
+		all: revert !important;
+	}
+}
+
+* {
+	tab-size: 2ch !important;
+}
+
+
 /* TODO: Refactor and optimize */
 
 @media screen, print {
