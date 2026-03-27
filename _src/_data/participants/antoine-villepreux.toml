@@ -26,17 +26,17 @@ type = "Mastodon"
 url  = "https://indieweb.social/@villapirorum"
 
 [[accounts]]
-type     = "Codeberg"
-url      = "https://codeberg.org/villepreux"
+type = "Codeberg"
+url  = "https://codeberg.org/villepreux"
 
 [[accounts]]
-type     = "PixelFed"
-url      = "https://pixelfed.social/villepreux"
+type = "PixelFed"
+url  = "https://pixelfed.social/villepreux"
 
 [[accounts]]
-type     = "CodePen"
-url      = "https://codepen.io/villepreux"
+type = "CodePen"
+url  = "https://codepen.io/villepreux"
 
 [[accounts]]
-type     = "GitHub"
-url      = "https://github.com/villepreux"
+type = "GitHub"
+url  = "https://github.com/villepreux"
