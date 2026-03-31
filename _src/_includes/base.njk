@@ -7,8 +7,8 @@
 		<meta charset="utf-8">
 		<title>{{ title }}</title>
 		<link rel="icon" href="/favicon.ico">
-		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Chivo:900">
-		<link rel="stylesheet" href="setup/default.css">
+		{% if not globals.isNakedDay %}<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Chivo:900">
+		<link rel="stylesheet" href="setup/default.css">{% endif %}
 		<meta name="viewport" content="initial-scale=1,width=device-width">
 		<meta name="og:type" content="website">
 		<meta property="og:title" content="{{ title }}">
