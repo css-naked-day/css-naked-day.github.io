@@ -18,7 +18,7 @@ description: "Promoting Web standards all declarations at a time"
 
 <h3><a id="editions" href="#editions">CSS Naked Day editions</a></h3>
 
-<ul>
+<ul class="inline-list">
 	{% for year in range(globals.yearStart, globals.yearCurrent + 1) | reverse %}
 		<li>
 			{% if participationsCount[year] > 0 %}

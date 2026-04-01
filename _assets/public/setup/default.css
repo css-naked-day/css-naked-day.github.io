@@ -2,6 +2,14 @@
 	tab-size: 2ch !important;
 }
 
+.inline-list {
+	display: flex;
+	flex-wrap: wrap;
+	list-style-type: none;
+	gap: 0.25rem 1rem;
+	padding-inline-start: 0;
+}
+
 /* TODO: Refactor and optimize */
 
 @media screen, print {
