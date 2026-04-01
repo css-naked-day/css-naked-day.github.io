@@ -7,16 +7,6 @@
 		<meta charset="utf-8">
 		<title>{{ title }}</title>
 		<link rel="icon" href="/favicon.ico">
-
-		<script>
-			const today = new Date();
-			const isCSSND = today.getMonth() + 1 === 4 && today.getDate() === 9;
-
-			if (isCSSND) {
-				document.querySelector('html').classList.add('cssnd');
-			}
-		</script>
-
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Chivo:900">
 		<link rel="stylesheet" href="/setup/default.css">
 		<meta name="viewport" content="initial-scale=1,width=device-width">
@@ -56,15 +46,5 @@
 				</footer>
 			</div>
 		</div>
-
-		<template id="cssnd-callout">
-			We are celebrating <strong>CSS Naked Day</strong>!
-		</template>
-
-		<script>
-			if (isCSSND) {
-				document.querySelector('body').prepend(document.querySelector('#cssnd-callout').content.cloneNode(true));
-			}
-		</script>
 	</body>
 </html>
