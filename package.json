@@ -23,13 +23,13 @@
   },
   "homepage": "https://css-naked-day.org/",
   "devDependencies": {
-    "@11ty/eleventy": "^3.1.2",
+    "@11ty/eleventy": "^3.1.5",
     "@eslint/js": "^10.0.1",
     "@iarna/toml": "^2.2.5",
-    "@stylistic/eslint-plugin": "^5.9.0",
-    "eslint": "^10.0.2",
+    "@stylistic/eslint-plugin": "^5.10.0",
+    "eslint": "^10.1.0",
     "eslint-plugin-toml": "^1.3.1",
-    "globals": "^17.3.0",
+    "globals": "^17.4.0",
     "html-minifier-next": "^5.1.5",
     "regexp.escape": "^2.0.1"
   }
