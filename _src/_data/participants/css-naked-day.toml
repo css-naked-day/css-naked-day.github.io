@@ -4,7 +4,7 @@ display = "CSS Naked Day"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://css-naked-day.org/"
+url   = "https://css-naked-day.org/"
 years = [
 	2026,
 ]
