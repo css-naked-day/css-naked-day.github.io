@@ -1,4 +1,6 @@
 display = "Klaas Pieter Annema"
+firstname = "Klaas Pieter"
+surname = "Annema"
 
 # Websites
 # ------------------------------------------------------------------------------
@@ -6,5 +8,12 @@ display = "Klaas Pieter Annema"
 [[websites]]
 url   = "https://annema.me/"
 title = "Klaas Pieter Annema"
-years = [ 2025 ]
+years = [ 2025, 2026 ]
 
+[[accounts]]
+type = "Mastodon"
+url  = "https://mastodon.design/@kp"
+
+[[accounts]]
+type = "GitHub"
+url  = "https://github.com/klaaspieter"
