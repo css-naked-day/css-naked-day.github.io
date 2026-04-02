@@ -1,10 +1,21 @@
 display = "Frontend Dogma"
 
+# TODO: Either update with information in jens-meiert.toml and remove entries there (preferred?), or move to jens-meiert.toml
+
 # Websites
 # ------------------------------------------------------------------------------
 
 [[websites]]
 url   = "https://frontenddogma.com/"
 title = "Frontend Dogma"
-years = [ 2025 ]
+years = [
+	2025,
+	2026,
+]
 
+# Accounts
+# ------------------------------------------------------------------------------
+
+[[accounts]]
+type = "Mastodon"
+url  = "https://mas.to/@frontenddogma"

@@ -1,5 +1,5 @@
 display   = "Jens Oliver Meiert"
-firstname = "Jens Oliver"
+firstname = "Jens"
 surname   = "Meiert"
 email     = "info@meiert.com"
 username  = "j9t"
@@ -16,12 +16,6 @@ years   = [
 ]
 
 [[websites]]
-url   = "https://worlds-highest-website.com/"
-title = "The World’s Highest Website"
-group = false
-years = [ 2021, ]
-
-[[websites]]
 url   = "https://frontenddogma.com/"
 title = "Frontend Dogma"
 years = [
@@ -36,6 +30,16 @@ title = "UITest.com"
 years = [
 	2021,
 	2022,
+]
+
+# TODO: Move to worlds-highest-website.toml?
+
+[[websites]]
+url   = "https://worlds-highest-website.com/"
+title = "The World’s Highest Website"
+group = false
+years = [
+	2021,
 ]
 
 # Accounts
