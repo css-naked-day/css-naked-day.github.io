@@ -1,6 +1,7 @@
 ---
 layout: base.njk
-title: "CSS Naked Day"
+eleventyComputed:
+  title: "{{ globals.websiteName }}"
 subtitle: "Show off your semantic <code>&lt;body&gt;</code>!"
 description: "Promoting Web standards all declarations at a time"
 ---
@@ -18,7 +19,7 @@ description: "Promoting Web standards all declarations at a time"
 
 <h3><a id="editions" href="#editions">CSS Naked Day editions</a></h3>
 
-<ul class="inline-list">
+<ul class="editions-list">
 	{% for year in range(globals.yearStart, globals.yearCurrent + 1) | reverse %}
 		<li>
 			{% if participationsCount[year] > 0 %}

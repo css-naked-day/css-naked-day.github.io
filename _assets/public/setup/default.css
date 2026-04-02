@@ -1,16 +1,12 @@
-* {
-	tab-size: 2ch !important;
-}
+/* TODO: Refactor and optimize */
 
-.inline-list {
+.editions-list {
 	display: flex;
 	flex-wrap: wrap;
 	list-style-type: none;
 	gap: 0.25rem 1rem;
 	padding-inline-start: 0;
 }
-
-/* TODO: Refactor and optimize */
 
 @media screen, print {
 
@@ -159,6 +155,7 @@
 		color: #f2f2f2;
 		text-shadow: none;
 		background: #303030;
+		tab-size: 2ch;
 	}
 
 	pre code {
