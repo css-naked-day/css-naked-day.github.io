@@ -4,7 +4,6 @@ display = "Ari Prakash"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "https://ariscript.org/"
+url   = "https://ari.foo/"
 title = "Ari Prakash"
-years = [ 2025 ]
-
+years = [ 2026, 2025 ]
