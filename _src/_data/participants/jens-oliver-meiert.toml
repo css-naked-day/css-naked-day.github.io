@@ -16,23 +16,14 @@ years   = [
 ]
 
 [[websites]]
-url   = "https://frontenddogma.com/"
-title = "Frontend Dogma"
-years = [
-	2022,
-	2023,
-	2024,
-]
-
-[[websites]]
+# UITest.com used to be a separate site, but was merged with Frontend Dogma in 2022
 url   = "https://frontenddogma.com/?uitest.com"
 title = "UITest.com"
 years = [
+	2006,
 	2021,
 	2022,
 ]
-
-# TODO: Move to worlds-highest-website.toml?
 
 [[websites]]
 url   = "https://worlds-highest-website.com/"
