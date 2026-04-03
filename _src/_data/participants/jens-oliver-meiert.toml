@@ -1,5 +1,5 @@
 display   = "Jens Oliver Meiert"
-firstname = "Jens Oliver"
+firstname = "Jens"
 surname   = "Meiert"
 email     = "info@meiert.com"
 username  = "j9t"
@@ -16,26 +16,20 @@ years   = [
 ]
 
 [[websites]]
-url   = "https://worlds-highest-website.com/"
-title = "The World’s Highest Website"
-group = false
-years = [ 2021, ]
-
-[[websites]]
-url   = "https://frontenddogma.com/"
-title = "Frontend Dogma"
-years = [
-	2022,
-	2023,
-	2024,
-]
-
-[[websites]]
+# UITest.com used to be a separate site, but was merged with Frontend Dogma in 2022
 url   = "https://frontenddogma.com/?uitest.com"
 title = "UITest.com"
 years = [
+	2006,
 	2021,
 	2022,
+]
+
+[[websites]]
+url   = "https://worlds-highest-website.com/"
+title = "The World’s Highest Website"
+years = [
+	2021,
 ]
 
 # Accounts
