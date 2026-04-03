@@ -28,7 +28,6 @@ years = [
 [[websites]]
 url   = "https://worlds-highest-website.com/"
 title = "The World’s Highest Website"
-group = false
 years = [
 	2021,
 ]
