@@ -4,6 +4,6 @@ display = "NaTaKu"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.nataku.es/"
+url   = "https://web.archive.org/web/http://blog.nataku.es/"
 title = "NaTaKu"
 years = [ 2008 ]

@@ -4,6 +4,6 @@ display = "El Paso Futbol Sala"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.elpasofutbol.com/"
+url   = "https://web.archive.org/web/http://www.elpasofutbol.com/"
 title = "El Paso Futbol Sala"
 years = [ 2009 ]

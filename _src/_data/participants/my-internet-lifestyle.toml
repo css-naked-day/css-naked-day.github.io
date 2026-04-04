@@ -4,6 +4,6 @@ display = "My Internet Lifestyle"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://nina.hey.nu/"
+url   = "https://web.archive.org/web/http://nina.hey.nu/"
 title = "My Internet Lifestyle"
 years = [ 2008 ]

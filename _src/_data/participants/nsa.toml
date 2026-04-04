@@ -4,6 +4,6 @@ display = "NSA"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.tehnsa.ath.cx:4242/zenbb"
+url   = "https://web.archive.org/web/http://www.tehnsa.ath.cx:4242/zenbb"
 title = "NSA"
 years = [ 2006 ]

@@ -4,6 +4,6 @@ display = "Dominik Napierała online portfolio"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.dominik.napierala.biz/"
+url   = "https://web.archive.org/web/http://www.dominik.napierala.biz/"
 title = "Dominik Napierała online portfolio"
 years = [ 2008 ]

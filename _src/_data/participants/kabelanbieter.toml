@@ -4,6 +4,6 @@ display = "Kabelanbieter"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://kabel-anbieter.com/"
+url   = "https://web.archive.org/web/http://kabel-anbieter.com/"
 title = "Kabelanbieter"
 years = [ 2009 ]

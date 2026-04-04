@@ -4,6 +4,6 @@ display = "The Digital Portfolio of Zach Young"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://zachyoung.net/"
+url   = "https://web.archive.org/web/http://zachyoung.net/"
 title = "The Digital Portfolio of Zach Young"
 years = [ 2008 ]

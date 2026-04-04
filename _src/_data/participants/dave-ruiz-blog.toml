@@ -4,6 +4,6 @@ display = "Dave Ruiz Blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.daveruiz.net/"
+url   = "https://web.archive.org/web/http://blog.daveruiz.net/"
 title = "Dave Ruiz Blog"
 years = [ 2009 ]

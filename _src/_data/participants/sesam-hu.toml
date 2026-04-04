@@ -4,7 +4,7 @@ display = "sesam.hu"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.sesam.hu/WordPress/"
+url   = "https://web.archive.org/web/2007/http://www.sesam.hu/WordPress/"
 title = "sesam.hu"
 years = [ 2008 ]
 

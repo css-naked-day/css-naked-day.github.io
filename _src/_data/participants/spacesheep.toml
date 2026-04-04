@@ -4,6 +4,6 @@ display = "spacesheep"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://spacesheep.net/"
+url   = "https://web.archive.org/web/http://spacesheep.net/"
 title = "spacesheep"
 years = [ 2009 ]

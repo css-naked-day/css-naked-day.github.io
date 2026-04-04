@@ -4,6 +4,6 @@ display = "westup"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://mutaxia.org/blog/"
+url   = "https://web.archive.org/web/http://mutaxia.org/blog/"
 title = "westup"
 years = [ 2007 ]

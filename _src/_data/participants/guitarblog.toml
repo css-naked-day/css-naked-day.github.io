@@ -4,6 +4,6 @@ display = "guitarblog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://gy.ere.be/"
+url   = "https://web.archive.org/web/http://gy.ere.be/"
 title = "guitarblog"
 years = [ 2008 ]

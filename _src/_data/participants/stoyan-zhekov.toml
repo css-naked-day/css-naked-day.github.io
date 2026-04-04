@@ -4,6 +4,6 @@ display = "Stoyan Zhekov"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://planet.zhekov.net/"
+url   = "https://web.archive.org/web/http://planet.zhekov.net/"
 title = "Stoyan Zhekov"
 years = [ 2008 ]

@@ -4,6 +4,6 @@ display = "Armit"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.aboutwebdesigning.com/"
+url   = "https://web.archive.org/web/http://www.aboutwebdesigning.com/"
 title = "Armit"
 years = [ 2006 ]

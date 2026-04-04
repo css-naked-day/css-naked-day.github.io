@@ -4,6 +4,6 @@ display = "Online Yellow Pages"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.onlinebizbuzz.com/"
+url   = "https://web.archive.org/web/http://www.onlinebizbuzz.com/"
 title = "Online Yellow Pages"
 years = [ 2008 ]

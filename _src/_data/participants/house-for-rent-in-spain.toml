@@ -4,6 +4,6 @@ display = "house for rent in Spain"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.casavera.org"
+url   = "https://web.archive.org/web/http://www.casavera.org"
 title = "house for rent in Spain"
 years = [ 2007 ]

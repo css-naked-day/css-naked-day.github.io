@@ -4,6 +4,6 @@ display = "life Blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://lordfish.wiiarefree.org/blog/life/"
+url   = "https://web.archive.org/web/http://lordfish.wiiarefree.org/blog/life/"
 title = "life Blog"
 years = [ 2008 ]

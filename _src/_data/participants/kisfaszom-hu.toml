@@ -4,6 +4,6 @@ display = "kisfaszom.hu"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.kisfaszom.hu/"
+url   = "https://web.archive.org/web/http://www.kisfaszom.hu/"
 title = "kisfaszom.hu"
 years = [ 2008 ]

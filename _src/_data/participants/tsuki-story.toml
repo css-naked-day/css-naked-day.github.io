@@ -4,6 +4,6 @@ display = "tsuki story"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://tsuki.zc.bz/blog"
+url   = "https://web.archive.org/web/http://tsuki.zc.bz/blog"
 title = "tsuki story"
 years = [ 2007 ]

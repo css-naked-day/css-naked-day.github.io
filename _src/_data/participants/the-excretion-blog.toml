@@ -4,6 +4,6 @@ display = "The Excretion Blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://ex.tistory.com/"
+url   = "https://web.archive.org/web/http://ex.tistory.com/"
 title = "The Excretion Blog"
 years = [ 2009 ]

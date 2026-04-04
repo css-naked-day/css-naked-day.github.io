@@ -4,6 +4,6 @@ display = "Happy Pixels"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://happypixels.net/"
+url   = "https://web.archive.org/web/http://happypixels.net/"
 title = "Happy Pixels"
 years = [ 2009 ]

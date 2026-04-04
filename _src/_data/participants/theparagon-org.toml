@@ -4,6 +4,6 @@ display = "theParagon.org"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.theparagon.org/"
+url   = "https://web.archive.org/web/http://www.theparagon.org/"
 title = "theParagon.org"
 years = [ 2007 ]

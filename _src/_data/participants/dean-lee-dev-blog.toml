@@ -4,6 +4,6 @@ display = "DEAN LEE:/DEV/BLOG"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.deanlee.cn/"
+url   = "https://web.archive.org/web/http://www.deanlee.cn/"
 title = "DEAN LEE:/DEV/BLOG"
 years = [ 2007 ]

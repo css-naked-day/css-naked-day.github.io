@@ -4,6 +4,6 @@ display = "Невропатолог"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://wwwneurologist.ru/"
+url   = "https://web.archive.org/web/http://wwwneurologist.ru/"
 title = "Невропатолог"
 years = [ 2009 ]

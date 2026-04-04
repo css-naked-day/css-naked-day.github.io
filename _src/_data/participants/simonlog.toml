@@ -4,6 +4,6 @@ display = "SimOnLog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.simonlog.com/"
+url   = "https://web.archive.org/web/http://www.simonlog.com/"
 title = "SimOnLog"
 years = [ 2007 ]

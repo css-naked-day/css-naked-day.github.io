@@ -4,6 +4,6 @@ display = "Megafiles.ru"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.megafiles.ru/"
+url   = "https://web.archive.org/web/http://www.megafiles.ru/"
 title = "Megafiles.ru"
 years = [ 2008 ]

@@ -4,6 +4,6 @@ display = "todoslot"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.todoslot.es/"
+url   = "https://web.archive.org/web/http://www.todoslot.es/"
 title = "todoslot"
 years = [ 2008 ]

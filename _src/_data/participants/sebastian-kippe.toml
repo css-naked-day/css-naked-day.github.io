@@ -4,7 +4,7 @@ display = "Sebastian Kippe"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://sebastiankippe.de/weblog"
+url   = "https://web.archive.org/web/http://sebastiankippe.de/weblog"
 title = "Sebastian Kippe"
 years = [
 	2006,

@@ -4,6 +4,6 @@ display = "可也-Rukey’s website"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.rukey.cn/"
+url   = "https://web.archive.org/web/http://www.rukey.cn/"
 title = "可也-Rukey’s website"
 years = [ 2009 ]

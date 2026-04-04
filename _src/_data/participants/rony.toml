@@ -4,6 +4,6 @@ display = "Rony"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://spravodaj.madaj.net/"
+url   = "https://web.archive.org/web/http://spravodaj.madaj.net/"
 title = "Rony"
 years = [ 2006 ]

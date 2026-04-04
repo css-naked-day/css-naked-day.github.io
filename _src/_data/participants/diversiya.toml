@@ -4,6 +4,6 @@ display = "diversiya"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://atrada.ru/"
+url   = "https://web.archive.org/web/http://atrada.ru/"
 title = "diversiya"
 years = [ 2008 ]

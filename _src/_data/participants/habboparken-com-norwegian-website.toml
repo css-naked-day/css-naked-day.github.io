@@ -4,6 +4,6 @@ display = "Habboparken.com (Norwegian website)"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://habboparken.com/"
+url   = "https://web.archive.org/web/2007/http://habboparken.com/"
 title = "Habboparken.com (Norwegian website)"
 years = [ 2008 ]

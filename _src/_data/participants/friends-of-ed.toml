@@ -4,7 +4,7 @@ display = "friends of ED"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.friendsofed.com/"
+url   = "https://web.archive.org/web/2007/http://www.friendsofed.com/"
 title = "friends of ED"
 years = [
 	2007,

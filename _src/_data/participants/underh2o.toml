@@ -4,6 +4,6 @@ display = "underh2o"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://underh2o.org/blog"
+url   = "https://web.archive.org/web/http://underh2o.org/blog"
 title = "underh2o"
 years = [ 2008 ]

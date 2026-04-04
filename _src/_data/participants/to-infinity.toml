@@ -4,6 +4,6 @@ display = "To Infinity"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.inexistent.org/"
+url   = "https://web.archive.org/web/http://blog.inexistent.org/"
 title = "To Infinity"
 years = [ 2008 ]

@@ -4,6 +4,6 @@ display = "百度"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.baidu,com"
+url   = "https://web.archive.org/web/http://www.baidu,com"
 title = "百度"
 years = [ 2007 ]

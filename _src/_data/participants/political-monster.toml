@@ -4,6 +4,6 @@ display = "Political Monster"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://politicalmonster.org/"
+url   = "https://web.archive.org/web/http://politicalmonster.org/"
 title = "Political Monster"
 years = [ 2007 ]

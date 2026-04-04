@@ -4,6 +4,6 @@ display = "G4ss13 Blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://tee.frih.net/blog"
+url   = "https://web.archive.org/web/2008/http://tee.frih.net/blog"
 title = "G4ss13 Blog"
 years = [ 2009 ]

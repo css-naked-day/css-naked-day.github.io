@@ -4,6 +4,6 @@ display = "Sciambola!"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.sciambola.org/"
+url   = "https://web.archive.org/web/http://blog.sciambola.org/"
 title = "Sciambola!"
 years = [ 2009 ]

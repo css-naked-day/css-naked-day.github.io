@@ -4,6 +4,6 @@ display = "Lyrik Online"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.lyrikonline.org/"
+url   = "https://web.archive.org/web/2008/http://www.lyrikonline.org/"
 title = "Lyrik Online"
 years = [ 2009 ]

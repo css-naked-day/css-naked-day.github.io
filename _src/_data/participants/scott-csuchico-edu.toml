@@ -4,5 +4,5 @@ display = "Scott"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://fozzy.csuchico.edu/wordpress/"
+url   = "https://web.archive.org/web/http://fozzy.csuchico.edu/wordpress/"
 years = [ 2006 ]

@@ -4,6 +4,6 @@ display = "KnopPzOne"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.knoppzone.de/"
+url   = "https://web.archive.org/web/http://blog.knoppzone.de/"
 title = "KnopPzOne"
 years = [ 2008 ]

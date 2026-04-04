@@ -4,6 +4,6 @@ display = "Yenblog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://weizeyan.128.tofor.com/"
+url   = "https://web.archive.org/web/http://weizeyan.128.tofor.com/"
 title = "Yenblog"
 years = [ 2008 ]

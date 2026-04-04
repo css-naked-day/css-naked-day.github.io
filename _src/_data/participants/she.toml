@@ -4,6 +4,6 @@ display = "She"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://nonull.com/"
+url   = "https://web.archive.org/web/http://nonull.com/"
 title = "She"
 years = [ 2006 ]

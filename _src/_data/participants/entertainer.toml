@@ -4,6 +4,6 @@ display = "entertainer"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.entertainer.vhost.lt/wp/"
+url   = "https://web.archive.org/web/2006/http://www.entertainer.vhost.lt/wp/"
 title = "entertainer"
 years = [ 2007 ]

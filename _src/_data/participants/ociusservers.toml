@@ -4,6 +4,6 @@ display = "OciusServers"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.ociusservers.com/"
+url   = "https://web.archive.org/web/http://www.ociusservers.com/"
 title = "OciusServers"
 years = [ 2007 ]

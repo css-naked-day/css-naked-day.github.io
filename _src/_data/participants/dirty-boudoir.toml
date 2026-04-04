@@ -4,6 +4,6 @@ display = "dirty boudoir"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.dirtyboudoir.be"
+url   = "https://web.archive.org/web/http://www.dirtyboudoir.be"
 title = "dirty boudoir"
 years = [ 2008 ]

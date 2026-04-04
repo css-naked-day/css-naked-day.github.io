@@ -4,6 +4,6 @@ display = "Sébastien Castiel / Blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.sebastien-castiel.info/"
+url   = "https://web.archive.org/web/2007/http://www.sebastien-castiel.info/"
 title = "Sébastien Castiel / Blog"
 years = [ 2008 ]

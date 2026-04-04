@@ -4,6 +4,6 @@ display = "rbc.ru"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://rbc.ru"
+url   = "https://web.archive.org/web/http://rbc.ru"
 title = "rbc.ru"
 years = [ 2009 ]

@@ -4,6 +4,6 @@ display = "Another Friday"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://another-friday.com/"
+url   = "https://web.archive.org/web/http://another-friday.com/"
 title = "Another Friday"
 years = [ 2007 ]

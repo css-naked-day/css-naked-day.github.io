@@ -4,6 +4,6 @@ display = "The Watchmaker Project"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.thewatchmakerproject.com/"
+url   = "https://web.archive.org/web/http://www.thewatchmakerproject.com/"
 title = "The Watchmaker Project"
 years = [ 2008 ]

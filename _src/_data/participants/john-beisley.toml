@@ -4,6 +4,6 @@ display = "John Beisley"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://greatred.pengus.net/"
+url   = "https://web.archive.org/web/http://greatred.pengus.net/"
 title = "John Beisley"
 years = [ 2006 ]

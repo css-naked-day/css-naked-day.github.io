@@ -4,6 +4,6 @@ display = "Web Car Mag"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://webcarmag.ifastnet.com/"
+url   = "https://web.archive.org/web/http://webcarmag.ifastnet.com/"
 title = "Web Car Mag"
 years = [ 2007 ]

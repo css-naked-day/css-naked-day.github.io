@@ -4,6 +4,6 @@ display = "Drobkovy stránky"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://drobek.nadrobeny.net/"
+url   = "https://web.archive.org/web/http://drobek.nadrobeny.net/"
 title = "Drobkovy stránky"
 years = [ 2008 ]

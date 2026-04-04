@@ -4,6 +4,6 @@ display = "Jesse Rodgers"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://webdevblog.uwaterloo.ca/"
+url   = "https://web.archive.org/web/http://webdevblog.uwaterloo.ca/"
 title = "Jesse Rodgers"
 years = [ 2006 ]

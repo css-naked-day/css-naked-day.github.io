@@ -4,6 +4,6 @@ display = "the DtTvB’s Site"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://dttvb.yi.org/"
+url   = "https://web.archive.org/web/http://dttvb.yi.org/"
 title = "the DtTvB’s Site"
 years = [ 2007 ]

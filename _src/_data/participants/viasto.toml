@@ -4,6 +4,6 @@ display = "Viasto"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://viasto.net/"
+url   = "https://web.archive.org/web/http://viasto.net/"
 title = "Viasto"
 years = [ 2007 ]

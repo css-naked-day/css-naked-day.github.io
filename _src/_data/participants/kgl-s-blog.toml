@@ -4,7 +4,7 @@ display = "kgl’s blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.kgl.idv.tw/"
+url   = "https://web.archive.org/web/http://blog.kgl.idv.tw/"
 title = "kgl’s blog"
 years = [
 	2007,

@@ -4,6 +4,6 @@ display = "SCV君"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://scvlife.egloos.com/"
+url   = "https://web.archive.org/web/http://scvlife.egloos.com/"
 title = "SCV君"
 years = [ 2008 ]

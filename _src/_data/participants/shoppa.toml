@@ -4,6 +4,6 @@ display = "Shoppa"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.shop-online.se/"
+url   = "https://web.archive.org/web/http://www.shop-online.se/"
 title = "Shoppa"
 years = [ 2008 ]

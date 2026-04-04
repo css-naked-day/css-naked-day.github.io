@@ -4,6 +4,6 @@ display = "I eat pancakes"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://ieatpancakes.com/"
+url   = "https://web.archive.org/web/http://ieatpancakes.com/"
 title = "I eat pancakes"
 years = [ 2007 ]

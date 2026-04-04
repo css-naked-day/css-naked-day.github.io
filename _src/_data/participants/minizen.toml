@@ -4,6 +4,6 @@ display = "minizen"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.minizen.net/"
+url   = "https://web.archive.org/web/http://www.minizen.net/"
 title = "minizen"
 years = [ 2007 ]

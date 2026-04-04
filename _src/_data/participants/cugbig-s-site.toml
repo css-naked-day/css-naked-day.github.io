@@ -4,6 +4,6 @@ display = "Cugbig’s Site"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.cugbig.net/"
+url   = "https://web.archive.org/web/http://www.cugbig.net/"
 title = "Cugbig’s Site"
 years = [ 2007 ]

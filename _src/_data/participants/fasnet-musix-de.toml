@@ -4,6 +4,6 @@ display = "fasnet-musix.de"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.fasnet-musix.de/"
+url   = "https://web.archive.org/web/2007/http://www.fasnet-musix.de/"
 title = "fasnet-musix.de"
 years = [ 2008 ]

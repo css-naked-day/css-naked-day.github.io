@@ -4,6 +4,6 @@ display = "Stoepselchen"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.stoepselchen.net/index.php"
+url   = "https://web.archive.org/web/http://www.stoepselchen.net/index.php"
 title = "Stoepselchen"
 years = [ 2006 ]

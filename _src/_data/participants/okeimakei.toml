@@ -4,6 +4,6 @@ display = "Okeimakei"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://okeimakei.bitacoras.com/"
+url   = "https://web.archive.org/web/http://okeimakei.bitacoras.com/"
 title = "Okeimakei"
 years = [ 2006 ]

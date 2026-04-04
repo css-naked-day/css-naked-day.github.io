@@ -4,11 +4,11 @@ display = "auduns.no"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.auduns.no/"
+url   = "https://web.archive.org/web/http://www.auduns.no/"
 title = "auduns.no"
 years = [ 2007 ]
 
 [[websites]]
-url   = "http://auduns.no/"
+url   = "https://web.archive.org/web/2007/http://auduns.no/"
 title = "Auduns.no"
 years = [ 2008 ]

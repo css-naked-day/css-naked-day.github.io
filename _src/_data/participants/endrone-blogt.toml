@@ -4,6 +4,6 @@ display = "Endrone blogt"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.endrone.com/"
+url   = "https://web.archive.org/web/http://www.endrone.com/"
 title = "Endrone blogt"
 years = [ 2007 ]

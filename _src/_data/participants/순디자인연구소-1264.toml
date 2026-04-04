@@ -4,6 +4,6 @@ display = "순디자인연구소"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.soondesign.co.kr/"
+url   = "https://web.archive.org/web/http://www.soondesign.co.kr/"
 title = "순디자인연구소"
 years = [ 2009 ]

@@ -4,6 +4,6 @@ display = "只眼看世界"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.itsair.com/"
+url   = "https://web.archive.org/web/2007/http://blog.itsair.com/"
 title = "只眼看世界"
 years = [ 2008 ]

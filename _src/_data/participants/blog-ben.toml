@@ -4,6 +4,6 @@ display = "blog@ben"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://bpruneau.blogspot.com/"
+url   = "https://web.archive.org/web/http://bpruneau.blogspot.com/"
 title = "blog@ben"
 years = [ 2007 ]

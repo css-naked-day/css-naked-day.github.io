@@ -4,6 +4,6 @@ display = "MaxBloger.com"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://maxbloger.com/"
+url   = "https://web.archive.org/web/http://maxbloger.com/"
 title = "MaxBloger.com"
 years = [ 2008 ]

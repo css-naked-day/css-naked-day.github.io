@@ -4,6 +4,6 @@ display = "Kinesphere"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://kinesphere.frycorpnetwork.com/"
+url   = "https://web.archive.org/web/http://kinesphere.frycorpnetwork.com/"
 title = "Kinesphere"
 years = [ 2008 ]

@@ -4,6 +4,6 @@ display = "Swanky Conservative"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://swankyconservative.com/"
+url   = "https://web.archive.org/web/http://swankyconservative.com/"
 title = "Swanky Conservative"
 years = [ 2008 ]

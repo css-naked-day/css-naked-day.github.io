@@ -4,6 +4,6 @@ display = "Christine Røde"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://inexistent.org/"
+url   = "https://web.archive.org/web/http://inexistent.org/"
 title = "Christine Røde"
 years = [ 2008 ]

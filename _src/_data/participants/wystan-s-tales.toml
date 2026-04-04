@@ -4,6 +4,6 @@ display = "wystan’s tales"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.wystan.net/"
+url   = "https://web.archive.org/web/http://blog.wystan.net/"
 title = "wystan’s tales"
 years = [ 2008 ]

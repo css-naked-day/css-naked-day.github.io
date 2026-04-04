@@ -4,6 +4,6 @@ display = "PurplepixelDotNet"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.purplepixel.net/"
+url   = "https://web.archive.org/web/http://www.purplepixel.net/"
 title = "PurplepixelDotNet"
 years = [ 2007 ]

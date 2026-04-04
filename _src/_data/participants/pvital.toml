@@ -4,6 +4,6 @@ display = "~pvital"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.pvital.org/"
+url   = "https://web.archive.org/web/http://www.pvital.org/"
 title = "~pvital"
 years = [ 2008 ]

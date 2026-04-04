@@ -4,6 +4,6 @@ display = "Welche-Digitalkamera"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.welche-digitalkamera.de/"
+url   = "https://web.archive.org/web/http://www.welche-digitalkamera.de/"
 title = "Welche-Digitalkamera"
 years = [ 2009 ]

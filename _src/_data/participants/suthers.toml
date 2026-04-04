@@ -4,6 +4,6 @@ display = "Suthers"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://softwarephilosophy.com/"
+url   = "https://web.archive.org/web/http://softwarephilosophy.com/"
 title = "Suthers"
 years = [ 2006 ]

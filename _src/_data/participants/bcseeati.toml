@@ -4,6 +4,6 @@ display = "BCSEEATI"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.bcse.info/"
+url   = "https://web.archive.org/web/http://blog.bcse.info/"
 title = "BCSEEATI"
 years = [ 2006 ]

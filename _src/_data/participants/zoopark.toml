@@ -4,6 +4,6 @@ display = "zoopark"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.zoopark.su/"
+url   = "https://web.archive.org/web/http://www.zoopark.su/"
 title = "zoopark"
 years = [ 2008 ]

@@ -4,6 +4,6 @@ display = "CSH Blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://clauber.coffeebreakers.org/"
+url   = "https://web.archive.org/web/2007/http://clauber.coffeebreakers.org/"
 title = "CSH Blog"
 years = [ 2008 ]

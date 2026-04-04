@@ -4,6 +4,6 @@ display = "LexaT"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://lexat.org/"
+url   = "https://web.archive.org/web/http://lexat.org/"
 title = "LexaT"
 years = [ 2009 ]

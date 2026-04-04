@@ -4,6 +4,6 @@ display = "paulmichaelsmith.blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.paulmichaelsmith.com/blog/"
+url   = "https://web.archive.org/web/2006/http://www.paulmichaelsmith.com/blog/"
 title = "paulmichaelsmith.blog"
 years = [ 2007 ]

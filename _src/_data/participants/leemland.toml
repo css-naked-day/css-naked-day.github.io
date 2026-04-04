@@ -4,6 +4,6 @@ display = "LeemLand"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://Leeem.freehostia.com/wordpress/"
+url   = "https://web.archive.org/web/http://Leeem.freehostia.com/wordpress/"
 title = "LeemLand"
 years = [ 2008 ]

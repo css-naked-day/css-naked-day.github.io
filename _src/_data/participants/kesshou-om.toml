@@ -4,6 +4,6 @@ display = "kesshou.om"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://kesshou.com/"
+url   = "https://web.archive.org/web/http://kesshou.com/"
 title = "kesshou.om"
 years = [ 2008 ]

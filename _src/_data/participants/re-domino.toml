@@ -4,6 +4,6 @@ display = "re:Domino"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.dagerot.com/"
+url   = "https://web.archive.org/web/http://www.dagerot.com/"
 title = "re:Domino"
 years = [ 2008 ]

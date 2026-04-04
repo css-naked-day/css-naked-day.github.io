@@ -4,6 +4,6 @@ display = "Blog sur l’informatique Open Source"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.blios.net"
+url   = "https://web.archive.org/web/2008/http://www.blios.net"
 title = "Blog sur l’informatique Open Source"
 years = [ 2009 ]

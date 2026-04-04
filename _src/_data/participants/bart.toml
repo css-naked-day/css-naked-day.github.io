@@ -4,6 +4,6 @@ display = "Bart"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://bartart.thischick.com/"
+url   = "https://web.archive.org/web/http://bartart.thischick.com/"
 title = "Bart"
 years = [ 2006 ]

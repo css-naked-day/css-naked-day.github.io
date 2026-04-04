@@ -4,6 +4,6 @@ display = "Fr34k Lab"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://fr34k.ccbastards.org/"
+url   = "https://web.archive.org/web/http://fr34k.ccbastards.org/"
 title = "Fr34k Lab"
 years = [ 2008 ]

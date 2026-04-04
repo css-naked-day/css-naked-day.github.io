@@ -4,6 +4,6 @@ display = "kemi-log"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://kemi.versus.jp/kemi/"
+url   = "https://web.archive.org/web/2006/http://kemi.versus.jp/kemi/"
 title = "kemi-log"
 years = [ 2007 ]

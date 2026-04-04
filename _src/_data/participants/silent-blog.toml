@@ -4,6 +4,6 @@ display = ".silent blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.silentroach.ru/"
+url   = "https://web.archive.org/web/http://www.silentroach.ru/"
 title = ".silent blog"
 years = [ 2009 ]

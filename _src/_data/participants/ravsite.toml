@@ -4,6 +4,6 @@ display = "Ravsite"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.ravsite.boo.pl/"
+url   = "https://web.archive.org/web/http://www.ravsite.boo.pl/"
 title = "Ravsite"
 years = [ 2008 ]

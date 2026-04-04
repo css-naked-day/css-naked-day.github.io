@@ -4,6 +4,6 @@ display = "fraktalia"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.fraktal.org/"
+url   = "https://web.archive.org/web/http://www.fraktal.org/"
 title = "fraktalia"
 years = [ 2007 ]

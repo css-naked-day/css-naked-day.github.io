@@ -4,6 +4,6 @@ display = "清新世界"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.trueme.org/"
+url   = "https://web.archive.org/web/http://www.trueme.org/"
 title = "清新世界"
 years = [ 2007 ]

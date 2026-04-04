@@ -4,6 +4,6 @@ display = "Fuzzy Logic"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.sacredpaws.org/"
+url   = "https://web.archive.org/web/http://blog.sacredpaws.org/"
 title = "Fuzzy Logic"
 years = [ 2008 ]

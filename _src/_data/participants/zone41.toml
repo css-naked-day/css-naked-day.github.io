@@ -4,6 +4,6 @@ display = "zone41"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://zone41.info/"
+url   = "https://web.archive.org/web/http://zone41.info/"
 title = "zone41"
 years = [ 2008 ]

@@ -4,6 +4,6 @@ display = "Salezjanie 1A"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://salezjanie.one.pl/"
+url   = "https://web.archive.org/web/http://salezjanie.one.pl/"
 title = "Salezjanie 1A"
 years = [ 2007 ]

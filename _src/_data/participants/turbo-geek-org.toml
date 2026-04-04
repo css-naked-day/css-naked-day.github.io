@@ -4,6 +4,6 @@ display = "Turbo-Geek.org"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.turbo-geek.org/"
+url   = "https://web.archive.org/web/http://www.turbo-geek.org/"
 title = "Turbo-Geek.org"
 years = [ 2008 ]
