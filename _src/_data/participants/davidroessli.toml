@@ -1,0 +1,15 @@
+display = "David Roessli"
+firstname = "David"
+surname   = "Roessli"
+
+[[websites]]
+url   = "https://davidroessli.com/"
+years = [2020, 2021, 2022, 2023, 2024, 2025, 2026]
+
+[[accounts]]
+type = "Mastodon"
+url  = "https://mastodon.social/@davidroessli"
+
+[[accounts]]
+type     = "Bluesky"
+url      = "https://bsky.app/profile/davidroessli.com"
