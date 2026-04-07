@@ -1,0 +1,19 @@
+display   = "Nikita Karamov"
+firstname = "Nikita"
+surname   = "Karamov"
+email     = "me@kytta.dev"
+username  = "kytta"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://www.kytta.dev"
+years = [ 2026 ]
+
+# Accounts
+# ------------------------------------------------------------------------------
+
+[[accounts]]
+type = "Fediverse"
+url  = "https://polymaths.social/@kytta"
