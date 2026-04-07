@@ -14,4 +14,14 @@ years = [
 	2023,
 	2024,
 	2025,
+	2026
 ]
+
+[[accounts]]
+type = "Mastodon"
+url  = "https://mastodon.social/@davidroessli"
+
+[[accounts]]
+type     = "Bluesky"
+url      = "https://bsky.app/profile/davidroessli.com"
+
