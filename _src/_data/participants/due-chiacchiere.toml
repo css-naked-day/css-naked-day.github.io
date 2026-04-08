@@ -4,22 +4,15 @@ display = "Due Chiacchiere"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.duechiacchiere.it/"
-title = "due chiacchiere"
-years = [
-	2007,
-	2009 
-]
-
-[[websites]]
-url   = "https://www.duechiacchiere.it/"
-title = "Due Chiacchiere"
-years = [ 2022 ]
-
-[[websites]]
 url   = "https://duechiacchiere.it/"
 title = "Due Chiacchiere"
 years = [
+	2006,
+	2007,
+	2008,
+	2022,
 	2023,
-	2024 
+	2024,
+	2025,
+	2026
 ]
