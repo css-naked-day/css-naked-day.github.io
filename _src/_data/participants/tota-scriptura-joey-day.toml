@@ -1,0 +1,9 @@
+display = "Tota Scriptura (Joey Day)"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://totascriptura.org"
+title = "Tota Scriptura (Joey Day)"
+years = [ 2026 ]
