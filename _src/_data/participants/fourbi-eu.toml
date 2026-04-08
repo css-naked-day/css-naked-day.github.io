@@ -1,0 +1,29 @@
+display = "joachim r."
+email   = "joachim@fourbi.eu"
+
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://fourbi.eu"
+years = [
+  2026
+]
+
+
+# Accounts
+# ------------------------------------------------------------------------------
+
+[[accounts]]
+type = "Mastodon"
+url  = "https://boitam.eu/@joachim"
+
+[[accounts]]
+type     = "Codeberg"
+url      = "https://codeberg.org/joachim-fourbi"
+
+[[accounts]]
+type     = "GitHub"
+url      = "https://github.com/joachimesque"
+username = "joachimesque"
