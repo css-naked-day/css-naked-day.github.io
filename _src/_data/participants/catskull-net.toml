@@ -1,0 +1,9 @@
+display = "catskull.net"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://catskull.net/"
+title = "catskull.net"
+years = [ 2026 ]
