@@ -1,0 +1,9 @@
+display = "Taxodium"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://taxodium.ink"
+title = "Taxodium"
+years = [ 2026 ]
