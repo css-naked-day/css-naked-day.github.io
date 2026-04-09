@@ -1,0 +1,9 @@
+display = "Lippe"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://lip.pe/"
+title = "lip.pe"
+years = [ 2026 ]
