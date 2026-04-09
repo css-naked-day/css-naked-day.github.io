@@ -1,0 +1,104 @@
+---
+layout: base.njk
+title: "CSS Naked Day — Strip CSS"
+description: "Tools to implement CSS Naked day"
+---
+
+<h2><a id="without-css" href="#without-css">Don’t load CSS</a></h2>
+
+<h3><a id="with-static-site-generators" href="#with-static-site-generators">With static site generators</a></h3>
+
+<p>This Pull Request explains how to <a href="https://github.com/css-naked-day/css-naked-day.org/pull/295/changes">use cronjobs and GitHub Workflows to remove styles from the build</a>.</p>
+
+<h3><a id="with-php" href="#with-php">With PHP</a></h3>
+
+<pre><code>&lt;?php
+  function isNakedDay() {
+    $now = new \DateTime('now', new \DateTimeZone('UTC'));
+    $start = new \DateTime('00:00, April 9', new \DateTimeZone('+14:00'));
+    $end = new \DateTime('00:00, April 10', new \DateTimeZone('-12:00'));
+    return $now &gt;= $start && $now &lt; $end;
+  }
+?&gt;</code></pre>
+
+<p>Use it like this to disable stylesheets:</p>
+
+<pre><code>&lt;head&gt;
+  …
+  &lt;?php if(!isNakedDay()) : ?&gt;
+    &lt;link rel="stylesheet" href="styles.css" /&gt;
+  &lt;?php endif; ?&gt;
+  …
+&lt;/head&gt;</code></pre>
+
+<h2><a id="revert-css" href="#revert-css">Revert CSS?!</a></h2>
+
+<p>This method is not the most performant one, but HTML elements will display as originally intended by the browser. It can be useful if you don’t manage the server yourself or if you want to keep the logic in your templates.</p>
+
+<p><code>* { all: revert !important; }</code> should reset all <a href="https://www.w3.org/TR/css/#author">author</a> styles to <a href="https://www.w3.org/TR/css/#user">user</a> or <em>browser</em> defined values.</p>
+
+<p>In <abbr title="Plain Old Semantic HTML">POSH</abbr>, we can assign a <code>cssnd</code> class to <code>&lt;html&gt;</code> with JavaScript (or any other language of your choosing), then display a message at the top of the document:</p>
+
+<ol>
+	<li>
+		At the very top of the <code>&lt;head&gt;</code>, add the following:
+
+		<pre><code>&lt;style&gt;
+	.cssnd * { all: revert !important; }
+&lt;/style&gt;
+
+&lt;script&gt;
+	const today = new Date();
+	const isCSSND = today.getMonth() + 1 === 4 && today.getDate() === 9;
+	if (isCSSND) {
+		document.querySelector('html').classList.add('cssnd');
+	}
+&lt;/script&gt;</code></pre>
+	</li>
+
+	<li>
+		At the very end of the <code>&lt;body&gt;</code>:
+
+		<pre><code>&lt;template id="cssnd-callout"&gt;
+	My Site is celebrating &lt;a href="https://css-naked-day.org/"&gt;CSS Naked Day&lt;/a&gt;!
+&lt;/template&gt;
+
+&lt;script&gt;
+	if (isCSSND) {
+		document.querySelector('body').prepend(document.querySelector('#cssnd-callout').content.cloneNode(true));
+	}
+&lt;/script&gt;</code></pre>
+	</li>
+</ol>
+
+
+<p>If you need to keep some styling in your documents, you can use the following rule and add a <code>no-cssnd</code> class to any element. It will keep its styling, descendants included, until another <code>cssnd</code> is met:</p>
+
+<pre><code>@scope (.cssnd) to (.no-cssnd) {
+	:scope, * {
+		all: revert !important;
+	}
+}</code></pre>
+
+<h2><a id="tools" href="#tools">Tools and plugins</a></h2>
+
+<p>Attention plugin developers! If you have a <em>CSS Naked Day</em> plugin for a popular CMS, or written in a programming language not listed here, feel free to <a href="https://source.css-naked-day.org/css-naked-day.org/compare">open a pull request</a> or <a href="mailto:contact%40css-naked-day%2Ecom">drop us an email</a> if you’re not familiar with Git.</p>
+
+<ul>
+	<li>You could use <a href="https://weblog.200ok.com.au/">Ben Buchanan</a>’s <a href="/tools/200ok-css-naked-day-javascript.js">JavaScript snippet</a>. Works anywhere, removes everything, buyer beware!</li>
+	<li><a href="https://jefftriplett.com/">Jeff Triplett</a> gives us a nice <a href="https://www.djangosnippets.org/snippets/1421/">Django Snippet</a> for you Python folk.</li>
+	<li>If you are a Gopher, check out the <a href="https://github.com/omz13/today-go">today-go</a> package by <a href="https://omz13.com/">David Somers</a>.</li>
+	<li>Drupal users, <a href="https://www.drupal.org/project/naked">get the module</a>!</li>
+	<li>If you are a Rails developer, check out the <a href="https://github.com/danielsellergren/css_naked_day_rails">css_naked_day_rails</a> gem by <a href="https://danielsellergren.com/">Daniel Sellergren</a>.</li>
+	<li>If you have lots of raw HTML, use <a href="https://gist.github.com/alifeee/75df204c2be3815806e1d4be47e54d08">this bash script</a> to remove style sheets, <code>style</code> elements, and inline styles.</li>
+</ul>
+
+<h3>Archives</h3>
+
+<p>This tools and plugins were developped and are not maintained anymore. Feel free to contact their author or implement your own:</p>
+
+<ul>
+	<li><a href="https://www.ajalapus.com/">Aja</a> had their most excellent <a href="https://www.ajalapus.com/downloads/css-naked-day/">WordPress Naked Day Plugin</a>.</li>
+	<li><a href="https://web.archive.org/web/20150227130740/http://hugi.to/blog/">Reto</a> had created a <a href="http://downloads.sourceforge.net/lifetype/1.2_cssnaked.zip?download">Naked Day plugin for the LifeType Blogging platform</a>.</li>
+	<li>Sasha Gerrand gave us a <a href="https://sasha.gerrand.id.au/2009/04/05/css-naked-day/">great Perl subroutine</a>.</li>
+</ul>
