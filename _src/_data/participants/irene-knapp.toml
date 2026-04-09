@@ -1,0 +1,10 @@
+display   = "Irene Knapp"
+
+# Websites
+# ------------------------------------------------------------------------------
+
+[[websites]]
+url   = "https://irenes.space/"
+years = [
+	2026,
+]
