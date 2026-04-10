@@ -4,6 +4,6 @@ display = "Proxistep Ukraine"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://proxistep.com.ua/"
+url   = "https://web.archive.org/web/http://proxistep.com.ua/"
 title = "Proxistep Ukraine"
 years = [ 2007 ]

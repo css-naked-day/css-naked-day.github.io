@@ -4,6 +4,6 @@ display = "Amped Web Standards"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.ampedwebstandards.com/"
+url   = "https://web.archive.org/web/http://www.ampedwebstandards.com/"
 title = "Amped Web Standards"
 years = [ 2009 ]

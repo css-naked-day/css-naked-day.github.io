@@ -4,7 +4,7 @@ display = "Ludwik.org"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://ludwik.org/"
+url   = "https://web.archive.org/web/http://ludwik.org/"
 title = "Ludwik.org"
 years = [
 	2007,

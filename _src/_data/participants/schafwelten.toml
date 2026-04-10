@@ -4,6 +4,6 @@ display = "schafwelten"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.knuspermagier.de/"
+url   = "https://web.archive.org/web/http://www.knuspermagier.de/"
 title = "schafwelten"
 years = [ 2008 ]

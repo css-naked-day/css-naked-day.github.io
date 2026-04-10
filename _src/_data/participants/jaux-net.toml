@@ -4,6 +4,6 @@ display = "jaux.net"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://jaux.net/"
+url   = "https://web.archive.org/web/http://jaux.net/"
 title = "jaux.net"
 years = [ 2009 ]

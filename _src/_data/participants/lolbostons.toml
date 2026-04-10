@@ -4,6 +4,6 @@ display = "LOLBostons"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.lolbostons.com/"
+url   = "https://web.archive.org/web/2007/http://www.lolbostons.com/"
 title = "LOLBostons"
 years = [ 2008 ]

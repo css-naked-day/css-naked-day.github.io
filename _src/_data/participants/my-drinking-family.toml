@@ -4,6 +4,6 @@ display = "My Drinking Family"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.mydrinkinfamily.com/"
+url   = "https://web.archive.org/web/http://www.mydrinkinfamily.com/"
 title = "My Drinking Family"
 years = [ 2006 ]

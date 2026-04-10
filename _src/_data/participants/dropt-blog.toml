@@ -4,6 +4,6 @@ display = "Dropt Blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://labs.dropit.se/blogs"
+url   = "https://web.archive.org/web/http://labs.dropit.se/blogs"
 title = "Dropt Blog"
 years = [ 2009 ]

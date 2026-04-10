@@ -4,6 +4,6 @@ display = "RPGN Mirror 2 – BAMAToNE"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://rpgn.bamatone.net/"
+url   = "https://web.archive.org/web/http://rpgn.bamatone.net/"
 title = "RPGN Mirror 2 – BAMAToNE"
 years = [ 2007 ]

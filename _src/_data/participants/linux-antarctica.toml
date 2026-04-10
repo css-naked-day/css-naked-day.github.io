@@ -4,6 +4,6 @@ display = "Linux Antarctica"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.linuxantarctica.com/"
+url   = "https://web.archive.org/web/http://www.linuxantarctica.com/"
 title = "Linux Antarctica"
 years = [ 2009 ]

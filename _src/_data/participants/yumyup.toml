@@ -4,6 +4,6 @@ display = "YumYup"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.yumyup.unbeknownst-music.org/"
+url   = "https://web.archive.org/web/http://www.yumyup.unbeknownst-music.org/"
 title = "YumYup"
 years = [ 2007 ]

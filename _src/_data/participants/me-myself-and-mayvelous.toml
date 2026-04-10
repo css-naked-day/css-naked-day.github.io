@@ -4,6 +4,6 @@ display = "Me, Myself and Mayvelous"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.mayvelous.com/"
+url   = "https://web.archive.org/web/http://www.mayvelous.com/"
 title = "Me, Myself and Mayvelous"
 years = [ 2007 ]

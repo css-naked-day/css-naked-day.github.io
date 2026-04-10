@@ -4,6 +4,6 @@ display = "Shaka Web"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://shakaweb.org/"
+url   = "https://web.archive.org/web/http://shakaweb.org/"
 title = "Shaka Web"
 years = [ 2006 ]

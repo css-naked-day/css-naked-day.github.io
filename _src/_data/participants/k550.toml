@@ -4,6 +4,6 @@ display = "k550"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.k550i.info/"
+url   = "https://web.archive.org/web/http://www.k550i.info/"
 title = "k550"
 years = [ 2007 ]

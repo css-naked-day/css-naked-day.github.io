@@ -4,6 +4,6 @@ display = "orie’s webpage"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://orie.msk.ru/"
+url   = "https://web.archive.org/web/http://orie.msk.ru/"
 title = "orie’s webpage"
 years = [ 2008 ]

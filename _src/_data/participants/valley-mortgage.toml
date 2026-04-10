@@ -4,6 +4,6 @@ display = "Valley Mortgage"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.aspenvalleymortgage.com/"
+url   = "https://web.archive.org/web/2008/http://www.aspenvalleymortgage.com/"
 title = "Valley Mortgage"
 years = [ 2009 ]

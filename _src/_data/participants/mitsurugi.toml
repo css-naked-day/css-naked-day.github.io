@@ -4,6 +4,6 @@ display = "Mitsurugi"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.niorcs.com/"
+url   = "https://web.archive.org/web/http://www.niorcs.com/"
 title = "Mitsurugi"
 years = [ 2007 ]

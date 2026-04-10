@@ -4,6 +4,6 @@ display = "Jordi Pujalte"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://loc.abses.com/"
+url   = "https://web.archive.org/web/http://loc.abses.com/"
 title = "Jordi Pujalte"
 years = [ 2006 ]

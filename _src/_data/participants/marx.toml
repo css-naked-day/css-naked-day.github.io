@@ -4,6 +4,6 @@ display = "marx"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.marx.livenet.pl/index.php"
+url   = "https://web.archive.org/web/http://www.marx.livenet.pl/index.php"
 title = "marx"
 years = [ 2007 ]

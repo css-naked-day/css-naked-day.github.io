@@ -4,6 +4,6 @@ display = "aeli.cho"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://theboy.tistory.com/"
+url   = "https://web.archive.org/web/http://theboy.tistory.com/"
 title = "aeli.cho"
 years = [ 2008 ]

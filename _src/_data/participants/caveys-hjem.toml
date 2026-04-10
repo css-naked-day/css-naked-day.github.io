@@ -4,7 +4,7 @@ display = "Caveys hjem"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://cavey.no/"
+url   = "https://web.archive.org/web/2007/http://cavey.no/"
 title = "Caveys hjem"
 years = [
 	2007,

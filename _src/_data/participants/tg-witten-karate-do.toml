@@ -4,6 +4,6 @@ display = "TG Witten Karate-Do"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.karate.witten.org/"
+url   = "https://web.archive.org/web/http://www.karate.witten.org/"
 title = "TG Witten Karate-Do"
 years = [ 2008 ]

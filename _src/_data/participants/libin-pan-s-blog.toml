@@ -4,6 +4,6 @@ display = "Libin Pan’s Blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.libinpan.com/"
+url   = "https://web.archive.org/web/http://blog.libinpan.com/"
 title = "Libin Pan’s Blog"
 years = [ 2009 ]

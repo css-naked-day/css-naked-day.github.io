@@ -4,6 +4,6 @@ display = "ZUF Züri Ultimate Flyers"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://zuf.ultimate.ch/"
+url   = "https://web.archive.org/web/http://zuf.ultimate.ch/"
 title = "ZUF Züri Ultimate Flyers"
 years = [ 2008 ]

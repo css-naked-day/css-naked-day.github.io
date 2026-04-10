@@ -4,6 +4,6 @@ display = "versbox"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://versbox.org/"
+url   = "https://web.archive.org/web/http://versbox.org/"
 title = "versbox"
 years = [ 2007 ]

@@ -4,6 +4,6 @@ display = "ВГПУ"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://fsrpip.ru"
+url   = "https://web.archive.org/web/http://fsrpip.ru"
 title = "ВГПУ"
 years = [ 2009 ]

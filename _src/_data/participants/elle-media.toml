@@ -4,6 +4,6 @@ display = "Elle Media"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.getelle.com/"
+url   = "https://web.archive.org/web/http://www.getelle.com/"
 title = "Elle Media"
 years = [ 2008 ]

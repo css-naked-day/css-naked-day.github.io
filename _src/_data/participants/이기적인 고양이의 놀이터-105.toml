@@ -4,6 +4,6 @@ display = "이기적인 고양이의 놀이터"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://dotcat.net/"
+url   = "https://web.archive.org/web/http://dotcat.net/"
 title = "이기적인 고양이의 놀이터"
 years = [ 2008 ]

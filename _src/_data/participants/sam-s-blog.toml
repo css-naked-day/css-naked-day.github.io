@@ -4,6 +4,6 @@ display = "Sam’s Blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.whatdoiknow.co.uk/"
+url   = "https://web.archive.org/web/http://www.whatdoiknow.co.uk/"
 title = "Sam’s Blog"
 years = [ 2008 ]

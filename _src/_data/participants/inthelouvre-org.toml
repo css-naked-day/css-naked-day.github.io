@@ -4,6 +4,6 @@ display = "inthelouvre.org"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://inthelouvre.org/"
+url   = "https://web.archive.org/web/http://inthelouvre.org/"
 title = "inthelouvre.org"
 years = [ 2009 ]

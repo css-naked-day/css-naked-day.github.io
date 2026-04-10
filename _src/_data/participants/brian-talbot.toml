@@ -4,6 +4,6 @@ display = "Brian Talbot"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.brian-talbot.com/portfolio"
+url   = "https://web.archive.org/web/http://www.brian-talbot.com/portfolio"
 title = "Brian Talbot"
 years = [ 2008 ]

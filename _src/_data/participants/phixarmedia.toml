@@ -4,6 +4,6 @@ display = "Phixarmedia"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.phixarmedia.com/"
+url   = "https://web.archive.org/web/http://www.phixarmedia.com/"
 title = "Phixarmedia"
 years = [ 2009 ]

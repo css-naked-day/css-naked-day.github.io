@@ -4,6 +4,6 @@ display = "Topt’s Blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.aoxia.com/"
+url   = "https://web.archive.org/web/http://www.aoxia.com/"
 title = "Topt’s Blog"
 years = [ 2008 ]

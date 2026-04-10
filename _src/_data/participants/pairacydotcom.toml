@@ -4,6 +4,6 @@ display = "pairacyDotCom"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.pairacy.com/"
+url   = "https://web.archive.org/web/http://www.pairacy.com/"
 title = "pairacyDotCom"
 years = [ 2008 ]

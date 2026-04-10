@@ -4,6 +4,6 @@ display = "Lucky Sneaks"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://luckysneaks.com/"
+url   = "https://web.archive.org/web/http://luckysneaks.com/"
 title = "Lucky Sneaks"
 years = [ 2008 ]

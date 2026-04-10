@@ -4,6 +4,6 @@ display = "Zoekmachine Optimalisatie"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.traffictrader.nl/"
+url   = "https://web.archive.org/web/http://www.traffictrader.nl/"
 title = "Zoekmachine Optimalisatie"
 years = [ 2007 ]

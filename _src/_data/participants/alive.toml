@@ -4,6 +4,6 @@ display = "ALIVE"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.weiren.org/"
+url   = "https://web.archive.org/web/http://blog.weiren.org/"
 title = "ALIVE"
 years = [ 2009 ]

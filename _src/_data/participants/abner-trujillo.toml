@@ -4,6 +4,6 @@ display = "Abner Trujillo"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.abnertrujillo.com/blog"
+url   = "https://web.archive.org/web/http://www.abnertrujillo.com/blog"
 title = "Abner Trujillo"
 years = [ 2008 ]

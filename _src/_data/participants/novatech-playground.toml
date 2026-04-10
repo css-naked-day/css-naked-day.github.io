@@ -4,6 +4,6 @@ display = "novatech playground"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://wan.pengganas.net/"
+url   = "https://web.archive.org/web/http://wan.pengganas.net/"
 title = "novatech playground"
 years = [ 2007 ]

@@ -4,6 +4,6 @@ display = "Notatki (Notes)"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://roberto.ovh.org/blog"
+url   = "https://web.archive.org/web/http://roberto.ovh.org/blog"
 title = "Notatki (Notes)"
 years = [ 2008 ]

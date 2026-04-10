@@ -4,6 +4,6 @@ display = "Prius Links"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://priuslinks.com/"
+url   = "https://web.archive.org/web/2006/http://priuslinks.com/"
 title = "Prius Links"
 years = [ 2007 ]

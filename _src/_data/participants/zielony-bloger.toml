@@ -4,6 +4,6 @@ display = "zielony bloger"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://bloggerpl.com/"
+url   = "https://web.archive.org/web/http://bloggerpl.com/"
 title = "zielony bloger"
 years = [ 2008 ]

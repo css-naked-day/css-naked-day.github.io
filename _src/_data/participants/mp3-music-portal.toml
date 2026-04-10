@@ -4,6 +4,6 @@ display = "MP3 Music Portal"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.mp3easy.net/"
+url   = "https://web.archive.org/web/http://www.mp3easy.net/"
 title = "MP3 Music Portal"
 years = [ 2008 ]

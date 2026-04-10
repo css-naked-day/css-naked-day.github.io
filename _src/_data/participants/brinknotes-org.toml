@@ -4,6 +4,6 @@ display = "BrinkNotes.ORG"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://brinknotes.org/"
+url   = "https://web.archive.org/web/http://brinknotes.org/"
 title = "BrinkNotes.ORG"
 years = [ 2007 ]

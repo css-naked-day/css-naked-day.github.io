@@ -4,6 +4,6 @@ display = "Dragon’s page"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.dragon.profitux.cz/"
+url   = "https://web.archive.org/web/2006/http://www.dragon.profitux.cz/"
 title = "Dragon’s page"
 years = [ 2007 ]

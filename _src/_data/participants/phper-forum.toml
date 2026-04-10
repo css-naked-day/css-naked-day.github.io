@@ -4,6 +4,6 @@ display = "phper forum"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.seoyou.cn/"
+url   = "https://web.archive.org/web/http://www.seoyou.cn/"
 title = "phper forum"
 years = [ 2008 ]

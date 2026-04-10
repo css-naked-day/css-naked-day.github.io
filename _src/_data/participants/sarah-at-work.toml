@@ -4,6 +4,6 @@ display = "sarah-at-work"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.sarah-at-work.de/"
+url   = "https://web.archive.org/web/http://www.sarah-at-work.de/"
 title = "sarah-at-work"
 years = [ 2009 ]

@@ -4,6 +4,6 @@ display = "vbali’s blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.linuxforge.hu/"
+url   = "https://web.archive.org/web/http://blog.linuxforge.hu/"
 title = "vbali’s blog"
 years = [ 2009 ]

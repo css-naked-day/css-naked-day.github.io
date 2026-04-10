@@ -4,6 +4,6 @@ display = "小马"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.xiaoma.org/"
+url   = "https://web.archive.org/web/http://www.xiaoma.org/"
 title = "小马"
 years = [ 2009 ]

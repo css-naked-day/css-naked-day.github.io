@@ -4,6 +4,6 @@ display = "MihailFedorov.ru"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://mihailfedorov.ru/"
+url   = "https://web.archive.org/web/http://mihailfedorov.ru/"
 title = "MihailFedorov.ru"
 years = [ 2008 ]

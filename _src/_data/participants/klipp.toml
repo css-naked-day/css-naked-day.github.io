@@ -4,6 +4,6 @@ display = "klipp"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://feed43.com/4783248130034338.xml"
+url   = "https://web.archive.org/web/http://feed43.com/4783248130034338.xml"
 title = "klipp"
 years = [ 2008 ]

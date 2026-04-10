@@ -4,6 +4,6 @@ display = "Talk is cheap…"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://arda.pardusman.org/blog/"
+url   = "https://web.archive.org/web/http://arda.pardusman.org/blog/"
 title = "Talk is cheap…"
 years = [ 2007 ]

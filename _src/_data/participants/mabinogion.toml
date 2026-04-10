@@ -4,6 +4,6 @@ display = "MabinogiON"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://mabinogion.tistory.com/"
+url   = "https://web.archive.org/web/http://mabinogion.tistory.com/"
 title = "MabinogiON"
 years = [ 2008 ]

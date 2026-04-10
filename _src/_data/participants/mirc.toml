@@ -4,6 +4,6 @@ display = "mirc"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.mirc.in/"
+url   = "https://web.archive.org/web/http://www.mirc.in/"
 title = "mirc"
 years = [ 2008 ]

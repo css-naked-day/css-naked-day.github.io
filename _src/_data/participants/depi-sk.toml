@@ -4,7 +4,7 @@ display = "depi.sk"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://depi.sk/"
+url   = "https://web.archive.org/web/2008/http://depi.sk/"
 title = "depi.sk"
 years = [
 	2008,

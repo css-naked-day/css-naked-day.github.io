@@ -4,6 +4,6 @@ display = "xsive"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.xsive.co.nz/"
+url   = "https://web.archive.org/web/http://blog.xsive.co.nz/"
 title = "xsive"
 years = [ 2008 ]

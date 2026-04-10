@@ -4,6 +4,6 @@ display = "Annubis Blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.schweizer-web.ch/"
+url   = "https://web.archive.org/web/http://blog.schweizer-web.ch/"
 title = "Annubis Blog"
 years = [ 2009 ]

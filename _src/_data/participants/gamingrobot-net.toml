@@ -4,6 +4,6 @@ display = "GamingRobot.Net"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.gamingrobot.net/"
+url   = "https://web.archive.org/web/http://www.gamingrobot.net/"
 title = "GamingRobot.Net"
 years = [ 2009 ]

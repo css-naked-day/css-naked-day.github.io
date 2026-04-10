@@ -4,6 +4,6 @@ display = "Winnext"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://thewinnext.com/"
+url   = "https://web.archive.org/web/http://thewinnext.com/"
 title = "Winnext"
 years = [ 2009 ]

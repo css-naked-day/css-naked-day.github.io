@@ -4,7 +4,7 @@ display = "Apuntes al Margen"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://apuntesalmargen.com/"
+url   = "https://web.archive.org/web/http://apuntesalmargen.com/"
 title = "Apuntes al Margen"
 years = [
 	2008,

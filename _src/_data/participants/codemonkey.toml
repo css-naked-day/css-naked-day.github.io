@@ -4,6 +4,6 @@ display = "Codemonkey"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.soundofone.com/"
+url   = "https://web.archive.org/web/2007/http://www.soundofone.com/"
 title = "Codemonkey"
 years = [ 2008 ]

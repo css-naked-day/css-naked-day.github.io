@@ -4,6 +4,6 @@ display = "Ceдьmoй Сайт"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://7thsite.ru/"
+url   = "https://web.archive.org/web/http://7thsite.ru/"
 title = "Ceдьmoй Сайт"
 years = [ 2008 ]

@@ -4,6 +4,6 @@ display = "miradlo bloggt"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.miradlo.net/bloggt/"
+url   = "https://web.archive.org/web/http://www.miradlo.net/bloggt/"
 title = "miradlo bloggt"
 years = [ 2009 ]

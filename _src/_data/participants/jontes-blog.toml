@@ -4,6 +4,6 @@ display = "Jontes blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.jontes.info/"
+url   = "https://web.archive.org/web/http://www.jontes.info/"
 title = "Jontes blog"
 years = [ 2008 ]

@@ -4,6 +4,6 @@ display = "GilesVG"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.gilesvg.com/"
+url   = "https://web.archive.org/web/http://www.gilesvg.com/"
 title = "GilesVG"
 years = [ 2009 ]

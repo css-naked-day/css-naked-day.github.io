@@ -4,6 +4,6 @@ display = "wangjiafeng.com"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.wangjiafeng.com/blog/"
+url   = "https://web.archive.org/web/http://www.wangjiafeng.com/blog/"
 title = "wangjiafeng.com"
 years = [ 2008 ]

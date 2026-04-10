@@ -4,6 +4,6 @@ display = "Greenguy blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.kurniadi.com"
+url   = "https://web.archive.org/web/http://www.kurniadi.com"
 title = "Greenguy blog"
 years = [ 2007 ]

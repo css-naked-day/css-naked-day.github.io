@@ -4,6 +4,6 @@ display = "the jantzie"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.jantzie.com/"
+url   = "https://web.archive.org/web/http://www.jantzie.com/"
 title = "the jantzie"
 years = [ 2008 ]

@@ -4,6 +4,6 @@ display = "The Blog of Josh Stodola"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.josh420.com/"
+url   = "https://web.archive.org/web/http://blog.josh420.com/"
 title = "The Blog of Josh Stodola"
 years = [ 2008 ]

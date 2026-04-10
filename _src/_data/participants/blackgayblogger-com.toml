@@ -4,6 +4,6 @@ display = "BlackGayBlogger.com"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.blackgayblogger.com/"
+url   = "https://web.archive.org/web/http://www.blackgayblogger.com/"
 title = "BlackGayBlogger.com"
 years = [ 2007 ]

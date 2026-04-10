@@ -4,6 +4,6 @@ display = "Kgl"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.kgl.idv.tw/"
+url   = "https://web.archive.org/web/http://blog.kgl.idv.tw/"
 title = "Kgl"
 years = [ 2006 ]

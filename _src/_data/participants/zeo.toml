@@ -4,7 +4,7 @@ display = "Zeo"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://zeo.unic.net.my/"
+url   = "https://web.archive.org/web/2007/http://zeo.unic.net.my/"
 title = "Zeo"
 years = [
 	2007,

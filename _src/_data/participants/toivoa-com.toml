@@ -4,6 +4,6 @@ display = "Toivoa.com"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.toivoa.com/"
+url   = "https://web.archive.org/web/2007/http://blog.toivoa.com/"
 title = "Toivoa.com"
 years = [ 2008 ]

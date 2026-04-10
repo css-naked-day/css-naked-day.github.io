@@ -4,6 +4,6 @@ display = "媒体在线"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.mediaol.cn/"
+url   = "https://web.archive.org/web/http://www.mediaol.cn/"
 title = "媒体在线"
 years = [ 2007 ]

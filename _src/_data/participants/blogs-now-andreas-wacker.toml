@@ -4,6 +4,6 @@ display = "Blogs Now (Andreas Wacker)"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.blogsnow.com/"
+url   = "https://web.archive.org/web/http://www.blogsnow.com/"
 title = "Blogs Now (Andreas Wacker)"
 years = [ 2006 ]

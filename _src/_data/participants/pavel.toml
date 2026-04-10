@@ -4,6 +4,6 @@ display = "Pavel"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://houbba.czweb.org/"
+url   = "http://web.archive.org/web/20060419032212/http://houbba.czweb.org:80/"
 title = "Pavel"
 years = [ 2006 ]

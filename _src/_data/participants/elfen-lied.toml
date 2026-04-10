@@ -4,6 +4,6 @@ display = "Elfen Lied"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://my-elfen-lied.ru/"
+url   = "https://web.archive.org/web/2008/http://my-elfen-lied.ru/"
 title = "Elfen Lied"
 years = [ 2009 ]

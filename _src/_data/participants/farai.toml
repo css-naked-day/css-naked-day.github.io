@@ -4,6 +4,6 @@ display = "Farai"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "https://www.farai.xyz/"
+url   = "https://web.archive.org/web/https://www.farai.xyz/"
 title = "Farai"
 years = [ 2023 ]

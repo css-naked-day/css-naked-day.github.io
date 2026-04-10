@@ -4,6 +4,6 @@ display = "mBaumer.de – Markus Baumer"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://mbaumer.de/"
+url   = "https://web.archive.org/web/http://mbaumer.de/"
 title = "mBaumer.de – Markus Baumer"
 years = [ 2007 ]

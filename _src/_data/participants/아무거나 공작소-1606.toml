@@ -4,6 +4,6 @@ display = "아무거나 공작소"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.naxer.net/"
+url   = "https://web.archive.org/web/http://blog.naxer.net/"
 title = "아무거나 공작소"
 years = [ 2007 ]

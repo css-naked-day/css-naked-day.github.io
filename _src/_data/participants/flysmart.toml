@@ -4,6 +4,6 @@ display = "Flysmart"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://flysmart.info/"
+url   = "https://web.archive.org/web/http://flysmart.info/"
 title = "Flysmart"
 years = [ 2008 ]

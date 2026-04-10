@@ -4,6 +4,6 @@ display = "EdB"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://wonderwinds.com/"
+url   = "https://web.archive.org/web/http://wonderwinds.com/"
 title = "EdB"
 years = [ 2008 ]

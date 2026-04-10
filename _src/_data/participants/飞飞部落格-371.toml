@@ -4,6 +4,6 @@ display = "飞飞部落格"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://chenefei.com/"
+url   = "https://web.archive.org/web/http://chenefei.com/"
 title = "飞飞部落格"
 years = [ 2007 ]

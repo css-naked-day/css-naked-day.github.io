@@ -4,6 +4,6 @@ display = "Fluffi"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.winzipp.org/"
+url   = "https://web.archive.org/web/http://www.winzipp.org/"
 title = "Fluffi"
 years = [ 2006 ]

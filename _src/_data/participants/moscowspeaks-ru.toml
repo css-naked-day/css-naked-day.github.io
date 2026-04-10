@@ -4,6 +4,6 @@ display = "Moscowspeaks.ru"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://moscowspeaks.ru"
+url   = "https://web.archive.org/web/http://moscowspeaks.ru"
 title = "Moscowspeaks.ru"
 years = [ 2009 ]

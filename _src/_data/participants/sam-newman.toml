@@ -4,6 +4,6 @@ display = "Sam Newman"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.magpiebrain.com/"
+url   = "https://web.archive.org/web/http://www.magpiebrain.com/"
 title = "Sam Newman"
 years = [ 2006 ]

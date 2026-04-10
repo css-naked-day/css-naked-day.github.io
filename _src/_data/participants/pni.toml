@@ -4,6 +4,6 @@ display = "Pni"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://skrubu.net/"
+url   = "https://web.archive.org/web/http://skrubu.net/"
 title = "Pni"
 years = [ 2006 ]

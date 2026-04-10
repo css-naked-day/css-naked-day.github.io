@@ -4,6 +4,6 @@ display = "Spionage Abhörschutz"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.shopping-alarm.de/"
+url   = "https://web.archive.org/web/http://www.shopping-alarm.de/"
 title = "Spionage Abhörschutz"
 years = [ 2008 ]

@@ -4,6 +4,6 @@ display = "w200"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.w200i.info/"
+url   = "https://web.archive.org/web/http://www.w200i.info/"
 title = "w200"
 years = [ 2007 ]

@@ -4,6 +4,6 @@ display = "HORSES FOR SALE"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.cavalos.com.pt/"
+url   = "https://web.archive.org/web/http://www.cavalos.com.pt/"
 title = "HORSES FOR SALE"
 years = [ 2007 ]

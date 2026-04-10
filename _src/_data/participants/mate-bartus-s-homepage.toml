@@ -4,7 +4,7 @@ display = "Máté Bartus’s homepage"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://bartusmate.hu/"
+url   = "https://web.archive.org/web/http://bartusmate.hu/"
 title = "Máté Bartus’s homepage"
 years = [
 	2008,

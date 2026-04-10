@@ -4,6 +4,6 @@ display = "UK Online"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.adiknows.co.uk/"
+url   = "https://web.archive.org/web/2007/http://www.adiknows.co.uk/"
 title = "UK Online"
 years = [ 2008 ]

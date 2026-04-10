@@ -4,6 +4,6 @@ display = "nebelseetal"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.nebelsetal.de/"
+url   = "https://web.archive.org/web/http://www.nebelsetal.de/"
 title = "nebelseetal"
 years = [ 2009 ]

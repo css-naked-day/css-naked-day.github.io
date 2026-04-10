@@ -4,6 +4,6 @@ display = "Bikes & More"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.bikie.de/"
+url   = "https://web.archive.org/web/http://www.bikie.de/"
 title = "Bikes &amp; More"
 years = [ 2007 ]

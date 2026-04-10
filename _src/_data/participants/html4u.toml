@@ -4,6 +4,6 @@ display = "html4u"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://html4u.pl/"
+url   = "https://web.archive.org/web/http://html4u.pl/"
 title = "html4u"
 years = [ 2007 ]

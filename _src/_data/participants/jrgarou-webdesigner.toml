@@ -4,6 +4,6 @@ display = "Jrgarou webdesigner"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.jrgarou.com/"
+url   = "https://web.archive.org/web/http://www.jrgarou.com/"
 title = "Jrgarou webdesigner"
 years = [ 2009 ]

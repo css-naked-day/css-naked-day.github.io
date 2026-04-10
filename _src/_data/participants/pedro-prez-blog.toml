@@ -4,6 +4,6 @@ display = "Pedro Prez Blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.pedroprez.com.ar/"
+url   = "https://web.archive.org/web/http://www.pedroprez.com.ar/"
 title = "Pedro Prez Blog"
 years = [ 2008 ]

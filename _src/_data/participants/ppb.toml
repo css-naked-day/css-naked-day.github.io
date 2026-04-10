@@ -4,6 +4,6 @@ display = "ppb"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://potentpoetbear.com/"
+url   = "https://web.archive.org/web/http://potentpoetbear.com/"
 title = "ppb"
 years = [ 2008 ]

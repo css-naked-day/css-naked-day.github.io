@@ -4,7 +4,7 @@ display = "Bolgyar.ru"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://bolgyar.ru/"
+url   = "https://web.archive.org/web/http://bolgyar.ru/"
 years = [ 2009 ]
 
 [[websites]]

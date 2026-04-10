@@ -4,6 +4,6 @@ display = "Notes from a Messy Desk"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://woss.name/"
+url   = "https://web.archive.org/web/http://woss.name/"
 title = "Notes from a Messy Desk"
 years = [ 2007 ]

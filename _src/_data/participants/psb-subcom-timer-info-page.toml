@@ -4,6 +4,6 @@ display = "PSB-Subcom Timer info page"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://psbs.no-ip.info/"
+url   = "https://web.archive.org/web/http://psbs.no-ip.info/"
 title = "PSB-Subcom Timer info page"
 years = [ 2007 ]

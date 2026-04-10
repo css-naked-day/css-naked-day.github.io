@@ -4,6 +4,6 @@ display = "dizi izle"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.dizi-izle.gen.tr/"
+url   = "https://web.archive.org/web/http://www.dizi-izle.gen.tr/"
 title = "dizi izle"
 years = [ 2008 ]

@@ -4,7 +4,7 @@ display = "Blog I&WS"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.iws.com.ve/"
+url   = "https://web.archive.org/web/http://blog.iws.com.ve/"
 title = "Blog I&amp;WS"
 years = [
 	2008,

@@ -4,6 +4,6 @@ display = "Gebäudereinigung Hamburg"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.gsh-allesklar.de"
+url   = "https://web.archive.org/web/2007/http://www.gsh-allesklar.de"
 title = "Gebäudereinigung Hamburg"
 years = [ 2008 ]

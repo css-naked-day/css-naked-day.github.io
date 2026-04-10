@@ -4,6 +4,6 @@ display = "Blue Cord Biblioblog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.bluecord.org/biblioblog"
+url   = "https://web.archive.org/web/http://www.bluecord.org/biblioblog"
 title = "Blue Cord Biblioblog"
 years = [ 2008 ]

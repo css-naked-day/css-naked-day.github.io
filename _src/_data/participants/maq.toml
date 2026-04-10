@@ -4,6 +4,6 @@ display = "MAQ"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.maq.se/"
+url   = "https://web.archive.org/web/http://www.maq.se/"
 title = "MAQ"
 years = [ 2009 ]

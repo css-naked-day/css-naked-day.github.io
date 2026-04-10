@@ -4,6 +4,6 @@ display = "鑫个人站点"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.autsboke.com/"
+url   = "https://web.archive.org/web/2006/http://www.autsboke.com/"
 title = "鑫个人站点"
 years = [ 2007 ]

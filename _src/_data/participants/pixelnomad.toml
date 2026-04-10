@@ -4,6 +4,6 @@ display = "Pixelnomad"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.pixelnomad.com/"
+url   = "https://web.archive.org/web/http://www.pixelnomad.com/"
 title = "Pixelnomad"
 years = [ 2007 ]

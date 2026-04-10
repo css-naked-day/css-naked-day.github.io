@@ -4,7 +4,7 @@ display = "John Hornbaker"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://johnhornbaker.com/"
+url   = "https://web.archive.org/web/http://johnhornbaker.com/"
 title = "John Hornbaker"
 years = [
 	2007,

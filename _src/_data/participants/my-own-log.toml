@@ -4,6 +4,6 @@ display = "my own log"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.nugrahadi.pramono.info/"
+url   = "https://web.archive.org/web/http://www.nugrahadi.pramono.info/"
 title = "my own log"
 years = [ 2008 ]

@@ -4,6 +4,6 @@ display = "PSB-Subcom"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://psbs.no-ip.info/"
+url   = "https://web.archive.org/web/http://psbs.no-ip.info/"
 title = "PSB-Subcom"
 years = [ 2006 ]
