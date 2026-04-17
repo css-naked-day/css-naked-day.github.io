@@ -4,6 +4,6 @@ display = "NiKiZh.com"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://nikizh.com/"
+url   = "https://web.archive.org/web/http://nikizh.com/"
 title = "NiKiZh.com"
 years = [ 2008 ]

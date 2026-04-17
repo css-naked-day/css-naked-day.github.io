@@ -4,6 +4,6 @@ display = "Huiju’s weblog : jugug.net"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://jugug.net/"
+url   = "https://web.archive.org/web/http://jugug.net/"
 title = "Huiju’s weblog : jugug.net"
 years = [ 2008 ]

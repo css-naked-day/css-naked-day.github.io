@@ -4,6 +4,6 @@ display = "vivrenu.tv"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.vivrenu.tv/"
+url   = "https://web.archive.org/web/http://www.vivrenu.tv/"
 title = "vivrenu.tv"
 years = [ 2009 ]

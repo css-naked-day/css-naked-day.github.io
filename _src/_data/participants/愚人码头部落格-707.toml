@@ -4,6 +4,6 @@ display = "愚人码头部落格"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.ajoys.com/"
+url   = "https://web.archive.org/web/http://www.ajoys.com/"
 title = "愚人码头部落格"
 years = [ 2007 ]

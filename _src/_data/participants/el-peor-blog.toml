@@ -4,6 +4,6 @@ display = "El Peor Blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.elpeorblog.com/"
+url   = "https://web.archive.org/web/2006/http://www.elpeorblog.com/"
 title = "El Peor Blog"
 years = [ 2007 ]

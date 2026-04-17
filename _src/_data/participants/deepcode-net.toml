@@ -4,6 +4,6 @@ display = "Deepcode.net"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://deepcode.net/"
+url   = "https://web.archive.org/web/http://deepcode.net/"
 title = "Deepcode.net"
 years = [ 2009 ]

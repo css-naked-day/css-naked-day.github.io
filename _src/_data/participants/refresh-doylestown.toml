@@ -4,6 +4,6 @@ display = "Refresh Doylestown"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.refreshdoylestown.org/"
+url   = "https://web.archive.org/web/http://www.refreshdoylestown.org/"
 title = "Refresh Doylestown"
 years = [ 2009 ]

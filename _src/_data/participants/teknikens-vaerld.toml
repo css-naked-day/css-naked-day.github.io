@@ -4,6 +4,6 @@ display = "Teknikens värld"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://magazines.se/index.php?news=15"
+url   = "https://web.archive.org/web/http://magazines.se/index.php?news=15"
 title = "Teknikens värld"
 years = [ 2008 ]

@@ -4,6 +4,6 @@ display = "Linke"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.linke.viscountbox.com/"
+url   = "https://web.archive.org/web/http://www.linke.viscountbox.com/"
 title = "Linke"
 years = [ 2007 ]

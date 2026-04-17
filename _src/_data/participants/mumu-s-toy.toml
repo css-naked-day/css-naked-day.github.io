@@ -4,6 +4,6 @@ display = "mumu’s toy"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.12-9.org/"
+url   = "https://web.archive.org/web/http://blog.12-9.org/"
 title = "mumu’s toy"
 years = [ 2007 ]

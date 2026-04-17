@@ -4,6 +4,6 @@ display = "Great Maddrin!"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.greatmaddrin.com"
+url   = "https://web.archive.org/web/http://www.greatmaddrin.com"
 title = "Great Maddrin!"
 years = [ 2007 ]

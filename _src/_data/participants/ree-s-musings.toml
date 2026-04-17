@@ -4,6 +4,6 @@ display = "Ree’s musings"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://ree.tabulas.com/"
+url   = "https://web.archive.org/web/http://ree.tabulas.com/"
 title = "Ree’s musings"
 years = [ 2008 ]

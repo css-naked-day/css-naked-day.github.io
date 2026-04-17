@@ -4,6 +4,6 @@ display = "Blackened"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://eax.jerrcs.com/blog/"
+url   = "https://web.archive.org/web/http://eax.jerrcs.com/blog/"
 title = "Blackened"
 years = [ 2008 ]

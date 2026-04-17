@@ -4,6 +4,6 @@ display = "Digicted"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://digicted.nl/"
+url   = "https://web.archive.org/web/http://digicted.nl/"
 title = "Digicted"
 years = [ 2007 ]

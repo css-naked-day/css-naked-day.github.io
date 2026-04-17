@@ -4,6 +4,6 @@ display = "DotNetWizard"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://dotnetwizard.net/"
+url   = "https://web.archive.org/web/2007/http://dotnetwizard.net/"
 title = "DotNetWizard"
 years = [ 2008 ]

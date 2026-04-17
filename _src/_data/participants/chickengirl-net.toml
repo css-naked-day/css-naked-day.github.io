@@ -4,6 +4,6 @@ display = "ChickenGirl.net"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.chickengirl.net/"
+url   = "https://web.archive.org/web/http://www.chickengirl.net/"
 title = "ChickenGirl.net"
 years = [ 2008 ]

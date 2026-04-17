@@ -4,6 +4,6 @@ display = "RAGARD"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.ragard-jp.com/"
+url   = "https://web.archive.org/web/2007/http://www.ragard-jp.com/"
 title = "RAGARD"
 years = [ 2008 ]

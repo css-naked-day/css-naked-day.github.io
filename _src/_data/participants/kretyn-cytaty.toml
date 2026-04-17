@@ -4,6 +4,6 @@ display = "Kretyn cytaty"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.kretyn.com/"
+url   = "https://web.archive.org/web/http://www.kretyn.com/"
 title = "Kretyn cytaty"
 years = [ 2007 ]

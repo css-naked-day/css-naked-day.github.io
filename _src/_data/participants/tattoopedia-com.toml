@@ -4,6 +4,6 @@ display = "Tattoopedia.com"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.tattoopedia.com/"
+url   = "https://web.archive.org/web/http://www.tattoopedia.com/"
 title = "Tattoopedia.com"
 years = [ 2007 ]

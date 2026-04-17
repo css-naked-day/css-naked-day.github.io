@@ -4,6 +4,6 @@ display = "WildWebWeaving"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://wildwebweaving.com/"
+url   = "https://web.archive.org/web/http://wildwebweaving.com/"
 title = "WildWebWeaving"
 years = [ 2008 ]

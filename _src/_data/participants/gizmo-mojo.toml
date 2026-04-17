@@ -4,6 +4,6 @@ display = "Gizmo Mojo"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.gizmomojo.com/"
+url   = "https://web.archive.org/web/2007/http://www.gizmomojo.com/"
 title = "Gizmo Mojo"
 years = [ 2008 ]

@@ -4,6 +4,6 @@ display = "Swiss Metablog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.ch/blog/"
+url   = "https://web.archive.org/web/http://blog.ch/blog/"
 title = "Swiss Metablog"
 years = [ 2006 ]

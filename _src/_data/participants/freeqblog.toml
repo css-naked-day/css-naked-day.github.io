@@ -4,6 +4,6 @@ display = "freeQblog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.freeqworld.de/"
+url   = "https://web.archive.org/web/http://blog.freeqworld.de/"
 title = "freeQblog"
 years = [ 2008 ]

@@ -4,6 +4,6 @@ display = "sfidare.ro"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.sfidare.ro/"
+url   = "https://web.archive.org/web/http://www.sfidare.ro/"
 title = "sfidare.ro"
 years = [ 2009 ]

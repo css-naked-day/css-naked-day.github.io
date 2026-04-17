@@ -4,6 +4,6 @@ display = "Mihalytch"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://mihalytch.org.ua/"
+url   = "https://web.archive.org/web/http://mihalytch.org.ua/"
 title = "Mihalytch"
 years = [ 2009 ]

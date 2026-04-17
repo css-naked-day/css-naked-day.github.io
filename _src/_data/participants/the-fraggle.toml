@@ -4,6 +4,6 @@ display = "The Fraggle"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.dailyfraggle.de/"
+url   = "https://web.archive.org/web/2005/http://www.dailyfraggle.de/"
 title = "The Fraggle"
 years = [ 2006 ]

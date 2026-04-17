@@ -4,6 +4,6 @@ display = "Aenimablog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://aperfectcircle.hu/blog"
+url   = "https://web.archive.org/web/http://aperfectcircle.hu/blog"
 title = "Aenimablog"
 years = [ 2007 ]

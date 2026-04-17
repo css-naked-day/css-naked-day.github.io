@@ -4,6 +4,6 @@ display = "Bibula alternatiff magazine"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://bibart.info/bibula/index.php"
+url   = "https://web.archive.org/web/http://bibart.info/bibula/index.php"
 title = "Bibula alternatiff magazine"
 years = [ 2007 ]

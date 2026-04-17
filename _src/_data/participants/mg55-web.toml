@@ -4,6 +4,6 @@ display = "MG55 Web"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.mg55.net/"
+url   = "https://web.archive.org/web/http://www.mg55.net/"
 title = "MG55 Web"
 years = [ 2008 ]

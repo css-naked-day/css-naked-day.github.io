@@ -4,6 +4,6 @@ display = "板栗知识站"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://chestnut.xiexiao.com/"
+url   = "http://web.archive.org/web/20080611212944/http://chestnut.xiexiao.com:80/"
 title = "板栗知识站"
 years = [ 2008 ]

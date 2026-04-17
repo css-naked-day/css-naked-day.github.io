@@ -4,6 +4,6 @@ display = "Canadian Yellow Pages"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.internetyp.ca/"
+url   = "https://web.archive.org/web/2007/http://www.internetyp.ca/"
 title = "Canadian Yellow Pages"
 years = [ 2008 ]

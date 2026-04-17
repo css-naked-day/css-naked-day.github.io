@@ -4,6 +4,6 @@ display = "webaddictz"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.webaddictz.nl/"
+url   = "https://web.archive.org/web/http://www.webaddictz.nl/"
 title = "webaddictz"
 years = [ 2007 ]

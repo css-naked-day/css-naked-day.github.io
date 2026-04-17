@@ -4,6 +4,6 @@ display = "Billy’s Big Adventures"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.billysbigadventures.com/"
+url   = "https://web.archive.org/web/http://blog.billysbigadventures.com/"
 title = "Billy’s Big Adventures"
 years = [ 2007 ]

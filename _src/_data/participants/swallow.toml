@@ -4,6 +4,6 @@ display = "swallow"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://dmedia.centerbbs.com/blog/"
+url   = "https://web.archive.org/web/http://dmedia.centerbbs.com/blog/"
 title = "swallow"
 years = [ 2009 ]

@@ -4,6 +4,6 @@ display = "BKLove Blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://bklove.info/"
+url   = "https://web.archive.org/web/2008/http://bklove.info/"
 title = "BKLove Blog"
 years = [ 2009 ]

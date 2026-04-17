@@ -4,6 +4,6 @@ display = "linkswarm"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.linkswarm.com/"
+url   = "https://web.archive.org/web/http://www.linkswarm.com/"
 title = "linkswarm"
 years = [ 2007 ]

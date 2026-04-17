@@ -4,6 +4,6 @@ display = "AWGPN Health Atlas Portal"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://healthatlas.org.au"
+url   = "https://web.archive.org/web/http://healthatlas.org.au"
 title = "AWGPN Health Atlas Portal"
 years = [ 2008 ]

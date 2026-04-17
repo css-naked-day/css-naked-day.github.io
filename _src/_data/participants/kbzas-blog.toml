@@ -4,6 +4,6 @@ display = "KbzA´s blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.kbza.org/"
+url   = "https://web.archive.org/web/http://www.kbza.org/"
 title = "KbzA´s blog"
 years = [ 2009 ]

@@ -4,6 +4,6 @@ display = "Jachty Miś"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.mis.org.pl/"
+url   = "https://web.archive.org/web/http://www.mis.org.pl/"
 title = "Jachty Miś"
 years = [ 2007 ]

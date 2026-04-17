@@ -4,6 +4,6 @@ display = "Pfotolog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.pfotolog.com/archives/"
+url   = "https://web.archive.org/web/http://www.pfotolog.com/archives/"
 title = "Pfotolog"
 years = [ 2006 ]

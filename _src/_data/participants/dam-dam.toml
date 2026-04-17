@@ -4,6 +4,6 @@ display = "dam-dam"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.dam-dam.de/"
+url   = "https://web.archive.org/web/http://www.dam-dam.de/"
 title = "dam-dam"
 years = [ 2009 ]

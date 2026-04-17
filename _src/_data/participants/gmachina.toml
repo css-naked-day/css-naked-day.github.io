@@ -4,6 +4,6 @@ display = "gmachina"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://gmachina.com/"
+url   = "https://web.archive.org/web/2007/http://gmachina.com/"
 title = "gmachina"
 years = [ 2008 ]

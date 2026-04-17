@@ -4,7 +4,7 @@ display = "The J Spot"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://racoma.com.ph/"
+url   = "https://web.archive.org/web/http://racoma.com.ph/"
 title = "The J Spot"
 years = [
 	2007,

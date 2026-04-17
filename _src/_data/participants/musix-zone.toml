@@ -4,6 +4,6 @@ display = "Musix Zone"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://musixzone.com/"
+url   = "https://web.archive.org/web/http://musixzone.com/"
 title = "Musix Zone"
 years = [ 2006 ]

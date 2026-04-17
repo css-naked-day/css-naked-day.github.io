@@ -4,6 +4,6 @@ display = "Communication Research Wiki"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://wiki.commres.org/"
+url   = "https://web.archive.org/web/2008/http://wiki.commres.org/"
 title = "Communication Research Wiki"
 years = [ 2009 ]

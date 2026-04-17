@@ -4,6 +4,6 @@ display = "Jászbróker"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://jaszbroker.hu/"
+url   = "https://web.archive.org/web/http://jaszbroker.hu/"
 title = "Jászbróker"
 years = [ 2008 ]

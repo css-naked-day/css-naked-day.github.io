@@ -4,6 +4,6 @@ display = "A Little Journal"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://agung.isnotcyb.org/"
+url   = "https://web.archive.org/web/http://agung.isnotcyb.org/"
 title = "A Little Journal"
 years = [ 2007 ]

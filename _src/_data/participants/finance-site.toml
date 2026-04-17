@@ -4,6 +4,6 @@ display = "Finance site"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.loancalculatorusa.com/"
+url   = "https://web.archive.org/web/http://www.loancalculatorusa.com/"
 title = "Finance site"
 years = [ 2009 ]

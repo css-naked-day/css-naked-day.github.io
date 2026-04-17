@@ -4,6 +4,6 @@ display = "czarny net"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://czarny.net.pl/"
+url   = "https://web.archive.org/web/2008/http://czarny.net.pl/"
 title = "czarny net"
 years = [ 2009 ]

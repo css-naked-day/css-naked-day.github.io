@@ -4,6 +4,6 @@ display = "BangkokWaler"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.bangkok-walker.com/"
+url   = "https://web.archive.org/web/http://www.bangkok-walker.com/"
 title = "BangkokWaler"
 years = [ 2008 ]

@@ -4,7 +4,7 @@ display = "GuitarAngel.net"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.guitarangel.net/"
+url   = "https://web.archive.org/web/http://www.guitarangel.net/"
 title = "GuitarAngel.net"
 years = [
 	2007,

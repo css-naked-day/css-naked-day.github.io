@@ -4,6 +4,6 @@ display = "Elinity web design"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.elinity.com/"
+url   = "https://web.archive.org/web/2007/http://www.elinity.com/"
 title = "Elinity web design"
 years = [ 2008 ]

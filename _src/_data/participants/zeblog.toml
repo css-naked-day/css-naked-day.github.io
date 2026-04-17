@@ -4,6 +4,6 @@ display = "Zeblog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.zepont.hu/"
+url   = "https://web.archive.org/web/http://blog.zepont.hu/"
 title = "Zeblog"
 years = [ 2007 ]

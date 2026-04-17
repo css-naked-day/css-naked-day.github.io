@@ -4,6 +4,6 @@ display = "Dylan"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://workingmodel.net/"
+url   = "https://web.archive.org/web/http://workingmodel.net/"
 title = "Dylan"
 years = [ 2006 ]

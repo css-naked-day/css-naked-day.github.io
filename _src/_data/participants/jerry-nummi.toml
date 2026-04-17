@@ -4,6 +4,6 @@ display = "Jerry Nummi"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://nummi.org/"
+url   = "https://web.archive.org/web/http://nummi.org/"
 title = "Jerry Nummi"
 years = [ 2007 ]

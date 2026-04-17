@@ -4,6 +4,6 @@ display = "Tech Wizard"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.coolwizardz.com/"
+url   = "https://web.archive.org/web/http://www.coolwizardz.com/"
 title = "Tech Wizard"
 years = [ 2008 ]

@@ -4,6 +4,6 @@ display = "Tipsbolaget"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.tipsbolaget.com/"
+url   = "https://web.archive.org/web/2007/http://www.tipsbolaget.com/"
 title = "Tipsbolaget"
 years = [ 2008 ]

@@ -4,6 +4,6 @@ display = "Dan Bowling"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.northlander.org/"
+url   = "https://web.archive.org/web/http://www.northlander.org/"
 title = "Dan Bowling"
 years = [ 2006 ]

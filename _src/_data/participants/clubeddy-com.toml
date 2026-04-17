@@ -4,6 +4,6 @@ display = "ClubEddy.com"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.clubeddy.com/"
+url   = "https://web.archive.org/web/http://www.clubeddy.com/"
 title = "ClubEddy.com"
 years = [ 2008 ]

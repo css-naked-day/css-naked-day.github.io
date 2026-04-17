@@ -4,6 +4,6 @@ display = "홍익대학교 교육방송국"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://hibs.hongik.ac.kr/"
+url   = "https://web.archive.org/web/http://hibs.hongik.ac.kr/"
 title = "홍익대학교 교육방송국"
 years = [ 2008 ]

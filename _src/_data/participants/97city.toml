@@ -4,6 +4,6 @@ display = "97city"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.97city.com/"
+url   = "https://web.archive.org/web/http://www.97city.com/"
 title = "97city"
 years = [ 2007 ]

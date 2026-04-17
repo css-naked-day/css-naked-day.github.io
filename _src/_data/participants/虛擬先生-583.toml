@@ -4,6 +4,6 @@ display = "虛擬先生"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://vaemon.com/"
+url   = "https://web.archive.org/web/http://vaemon.com/"
 title = "虛擬先生"
 years = [ 2009 ]

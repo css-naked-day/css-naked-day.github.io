@@ -4,6 +4,6 @@ display = "Mockee Labs"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.mockee.com/u/2"
+url   = "https://web.archive.org/web/http://www.mockee.com/u/2"
 title = "Mockee Labs"
 years = [ 2007 ]

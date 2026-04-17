@@ -4,6 +4,6 @@ display = "European Experts Exchange"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.europeanexperts.org/"
+url   = "https://web.archive.org/web/2008/http://www.europeanexperts.org/"
 title = "European Experts Exchange"
 years = [ 2009 ]

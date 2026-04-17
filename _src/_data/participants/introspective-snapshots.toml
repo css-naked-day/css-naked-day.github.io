@@ -4,6 +4,6 @@ display = "introspective snapshots"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.sheysmith.com/"
+url   = "https://web.archive.org/web/http://www.sheysmith.com/"
 title = "introspective snapshots"
 years = [ 2008 ]

@@ -4,6 +4,6 @@ display = "freebie.org.ua"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://freebie.org.ua/"
+url   = "https://web.archive.org/web/http://freebie.org.ua/"
 title = "freebie.org.ua"
 years = [ 2008 ]

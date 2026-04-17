@@ -4,6 +4,6 @@ display = "飘雨社区"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.doyoe.com/"
+url   = "https://web.archive.org/web/http://www.doyoe.com/"
 title = "飘雨社区"
 years = [ 2009 ]

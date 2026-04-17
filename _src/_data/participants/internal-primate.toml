@@ -4,6 +4,6 @@ display = "Internal Primate"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://maris.pytalhost.com/daily/"
+url   = "http://web.archive.org/web/20080625053214/http://maris.pytalhost.com:80/daily/"
 title = "Internal Primate"
 years = [ 2008 ]

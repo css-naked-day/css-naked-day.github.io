@@ -4,6 +4,6 @@ display = "NateTallman.com"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.natetallman.com/"
+url   = "https://web.archive.org/web/http://www.natetallman.com/"
 title = "NateTallman.com"
 years = [ 2008 ]

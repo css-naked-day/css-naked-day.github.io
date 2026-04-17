@@ -4,6 +4,6 @@ display = "Senderswind"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.senderswind.at/"
+url   = "https://web.archive.org/web/http://www.senderswind.at/"
 title = "Senderswind"
 years = [ 2008 ]

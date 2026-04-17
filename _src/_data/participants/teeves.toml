@@ -4,6 +4,6 @@ display = "Teeves"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.teeves.com/"
+url   = "https://web.archive.org/web/2006/http://www.teeves.com/"
 title = "Teeves"
 years = [ 2007 ]

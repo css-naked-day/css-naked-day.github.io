@@ -4,6 +4,6 @@ display = "vinte.ru"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.vinte.ru/"
+url   = "https://web.archive.org/web/http://www.vinte.ru/"
 title = "vinte.ru"
 years = [ 2008 ]

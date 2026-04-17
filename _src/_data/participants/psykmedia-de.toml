@@ -4,6 +4,6 @@ display = "psykmedia.de"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.psykmedia.de/"
+url   = "https://web.archive.org/web/http://www.psykmedia.de/"
 title = "psykmedia.de"
 years = [ 2009 ]

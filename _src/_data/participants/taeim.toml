@@ -4,6 +4,6 @@ display = "Taeim"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://leetaeim.tistory.com/"
+url   = "https://web.archive.org/web/2008/http://leetaeim.tistory.com/"
 title = "Taeim"
 years = [ 2009 ]

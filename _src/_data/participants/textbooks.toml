@@ -4,6 +4,6 @@ display = "Textbooks"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://cheap-used-book.blogspot.com/"
+url   = "https://web.archive.org/web/http://cheap-used-book.blogspot.com/"
 title = "Textbooks"
 years = [ 2008 ]

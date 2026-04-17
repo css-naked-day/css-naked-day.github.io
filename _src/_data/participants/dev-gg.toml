@@ -4,6 +4,6 @@ display = "dev/gg"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://dev.gadu-gadu.pl/"
+url   = "https://web.archive.org/web/http://dev.gadu-gadu.pl/"
 title = "dev/gg"
 years = [ 2008 ]

@@ -4,11 +4,11 @@ display = "Aaron"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.beatledork.com/"
+url   = "https://web.archive.org/web/http://www.beatledork.com/"
 title = "Aaron"
 years = [ 2006 ]
 
 [[websites]]
-url   = "http://www.aaronwang.cn/"
+url   = "https://web.archive.org/web/http://www.aaronwang.cn/"
 title = "Aaron"
 years = [ 2009 ]

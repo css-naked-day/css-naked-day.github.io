@@ -4,6 +4,6 @@ display = "Disease Information Center"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.96169.org/"
+url   = "https://web.archive.org/web/http://www.96169.org/"
 title = "Disease Information Center"
 years = [ 2008 ]

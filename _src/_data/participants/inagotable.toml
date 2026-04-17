@@ -4,6 +4,6 @@ display = "Inagotable"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://inagotable.dnsalias.com/"
+url   = "https://web.archive.org/web/http://inagotable.dnsalias.com/"
 title = "Inagotable"
 years = [ 2007 ]

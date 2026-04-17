@@ -8,7 +8,7 @@ url   = "http://www.geektheplanet.net/"
 years = [ 2007 ]
 
 [[websites]]
-url   = "http://blog.geektheplanet.net/"
+url   = "https://web.archive.org/web/http://blog.geektheplanet.net/"
 years = [
 	2007,
 	2008 

@@ -4,6 +4,6 @@ display = "WordPress Themes Gallery"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://wpsalon.com/"
+url   = "https://web.archive.org/web/http://wpsalon.com/"
 title = "WordPress Themes Gallery"
 years = [ 2008 ]

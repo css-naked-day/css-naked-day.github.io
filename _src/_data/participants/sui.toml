@@ -4,6 +4,6 @@ display = "sui"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://north.suirakukai.com/"
+url   = "https://web.archive.org/web/http://north.suirakukai.com/"
 title = "sui"
 years = [ 2008 ]

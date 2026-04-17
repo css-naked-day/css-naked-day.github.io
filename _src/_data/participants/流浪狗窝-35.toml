@@ -4,6 +4,6 @@ display = "流浪狗窝"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.roamdog.com/"
+url   = "https://web.archive.org/web/http://www.roamdog.com/"
 title = "流浪狗窝"
 years = [ 2007 ]

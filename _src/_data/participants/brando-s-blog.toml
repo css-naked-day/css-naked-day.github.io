@@ -4,6 +4,6 @@ display = "Brando’s blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://xxxholic.cc/"
+url   = "https://web.archive.org/web/http://xxxholic.cc/"
 title = "Brando’s blog"
 years = [ 2007 ]

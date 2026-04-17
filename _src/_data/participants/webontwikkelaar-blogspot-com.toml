@@ -4,6 +4,6 @@ display = "webontwikkelaar.blogspot.com"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://webontwikkelaar.blogspot.com/"
+url   = "https://web.archive.org/web/http://webontwikkelaar.blogspot.com/"
 title = "webontwikkelaar.blogspot.com"
 years = [ 2008 ]

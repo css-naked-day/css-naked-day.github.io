@@ -4,6 +4,6 @@ display = "exhibition"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.tinnoi.com/"
+url   = "https://web.archive.org/web/http://www.tinnoi.com/"
 title = "exhibition"
 years = [ 2009 ]

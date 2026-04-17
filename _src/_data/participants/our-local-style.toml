@@ -4,6 +4,6 @@ display = "Our Local Style"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.ourlocalstyle.com/"
+url   = "https://web.archive.org/web/http://www.ourlocalstyle.com/"
 title = "Our Local Style"
 years = [ 2007 ]

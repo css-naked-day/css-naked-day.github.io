@@ -4,6 +4,6 @@ display = "Debian GNU/Linux Howtos"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://holl.co.at/"
+url   = "https://web.archive.org/web/http://holl.co.at/"
 title = "Debian GNU/Linux Howtos"
 years = [ 2008 ]

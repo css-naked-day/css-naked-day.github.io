@@ -4,6 +4,6 @@ display = "Сотовые аксессуары"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.zeronix.ru/"
+url   = "https://web.archive.org/web/http://www.zeronix.ru/"
 title = "Сотовые аксессуары"
 years = [ 2009 ]

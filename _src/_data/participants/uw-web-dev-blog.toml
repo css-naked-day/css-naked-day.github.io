@@ -4,6 +4,6 @@ display = "UW Web Dev blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://webdevblog.uwaterloo.ca/"
+url   = "https://web.archive.org/web/2006/http://webdevblog.uwaterloo.ca/"
 title = "UW Web Dev blog"
 years = [ 2007 ]

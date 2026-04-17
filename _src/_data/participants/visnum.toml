@@ -4,6 +4,6 @@ display = "VISNUM"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://visnum.com/"
+url   = "https://web.archive.org/web/2006/http://visnum.com/"
 title = "VISNUM"
 years = [ 2007 ]

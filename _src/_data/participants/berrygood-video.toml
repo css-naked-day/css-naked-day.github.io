@@ -4,6 +4,6 @@ display = "BerryGood Video"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.berrygoodvideo.com/"
+url   = "https://web.archive.org/web/http://www.berrygoodvideo.com/"
 title = "BerryGood Video"
 years = [ 2008 ]

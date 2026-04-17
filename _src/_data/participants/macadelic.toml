@@ -4,6 +4,6 @@ display = "Macadelic"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.macadelic.de/"
+url   = "https://web.archive.org/web/http://blog.macadelic.de/"
 title = "Macadelic"
 years = [ 2009 ]

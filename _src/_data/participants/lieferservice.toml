@@ -4,6 +4,6 @@ display = "Lieferservice"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.foodo.de/"
+url   = "https://web.archive.org/web/http://www.foodo.de/"
 title = "Lieferservice"
 years = [ 2008 ]

@@ -4,6 +4,6 @@ display = "bluviews.com"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://bluviews.com/"
+url   = "https://web.archive.org/web/http://bluviews.com/"
 title = "bluviews.com"
 years = [ 2009 ]

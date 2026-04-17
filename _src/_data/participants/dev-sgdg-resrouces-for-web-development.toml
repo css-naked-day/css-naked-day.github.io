@@ -4,6 +4,6 @@ display = "dev.SGDG – Resrouces for Web Development"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://dev.sgdg.net/"
+url   = "https://web.archive.org/web/http://dev.sgdg.net/"
 title = "dev.SGDG – Resrouces for Web Development"
 years = [ 2008 ]

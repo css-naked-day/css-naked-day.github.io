@@ -4,6 +4,6 @@ display = "Verkkotrendit"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blogit.kuluttajatutkimus.fi/verkko/"
+url   = "https://web.archive.org/web/http://blogit.kuluttajatutkimus.fi/verkko/"
 title = "Verkkotrendit"
 years = [ 2008 ]

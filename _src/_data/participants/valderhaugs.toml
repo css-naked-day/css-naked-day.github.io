@@ -4,6 +4,6 @@ display = "Valderhaugs"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://danielbv.hotserv.dk/"
+url   = "https://web.archive.org/web/http://danielbv.hotserv.dk/"
 title = "Valderhaugs"
 years = [ 2007 ]

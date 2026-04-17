@@ -4,6 +4,6 @@ display = "The Daily Time Waster"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.dailytimewaster.com/"
+url   = "https://web.archive.org/web/http://www.dailytimewaster.com/"
 title = "The Daily Time Waster"
 years = [ 2006 ]

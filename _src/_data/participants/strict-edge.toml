@@ -4,7 +4,7 @@ display = "Strict Edge"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.strict-edge.com/"
+url   = "https://web.archive.org/web/http://www.strict-edge.com/"
 title = "Strict Edge"
 years = [
 	2007,

@@ -4,6 +4,6 @@ display = "Sebid"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.hagga.net/"
+url   = "https://web.archive.org/web/http://blog.hagga.net/"
 title = "Sebid"
 years = [ 2006 ]

@@ -4,6 +4,6 @@ display = "Webdesign Köln"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.senkrecht-it.com/"
+url   = "https://web.archive.org/web/http://www.senkrecht-it.com/"
 title = "Webdesign Köln"
 years = [ 2008 ]

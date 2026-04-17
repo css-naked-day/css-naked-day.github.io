@@ -4,6 +4,6 @@ display = "Simon Willison"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://simon.incutio.com/"
+url   = "https://web.archive.org/web/http://simon.incutio.com/"
 title = "Simon Willison"
 years = [ 2006 ]

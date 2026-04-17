@@ -4,6 +4,6 @@ display = "Gwen"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://oui-ja.de/"
+url   = "https://web.archive.org/web/http://oui-ja.de/"
 title = "Gwen"
 years = [ 2006 ]

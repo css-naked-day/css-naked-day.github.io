@@ -4,6 +4,6 @@ display = "The Mozmonkey Block"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.mozmonkey.com/"
+url   = "https://web.archive.org/web/2006/http://blog.mozmonkey.com/"
 title = "The Mozmonkey Block"
 years = [ 2007 ]

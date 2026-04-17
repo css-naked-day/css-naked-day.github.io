@@ -4,6 +4,6 @@ display = "purplog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://englover.cafe24.com/purplog"
+url   = "https://web.archive.org/web/http://englover.cafe24.com/purplog"
 title = "purplog"
 years = [ 2008 ]

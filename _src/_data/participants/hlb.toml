@@ -4,7 +4,7 @@ display = "Hlb"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://hlb.yichi.org/blog/"
+url   = "https://web.archive.org/web/2007/http://hlb.yichi.org/blog/"
 title = "Hlb"
 years = [
 	2006,

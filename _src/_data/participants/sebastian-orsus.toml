@@ -4,7 +4,7 @@ display = "Sebastian"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://home.no.net/orsus/blog/"
+url   = "https://web.archive.org/web/http://home.no.net/orsus/blog/"
 years = [ 2006 ]
 
 [[websites]]

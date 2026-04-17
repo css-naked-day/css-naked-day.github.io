@@ -4,6 +4,6 @@ display = "edu"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.edu-edu.com.cn/"
+url   = "https://web.archive.org/web/http://www.edu-edu.com.cn/"
 title = "edu"
 years = [ 2008 ]

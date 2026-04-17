@@ -4,6 +4,6 @@ display = "JennaJones.com"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.jennajones.com/"
+url   = "https://web.archive.org/web/http://www.jennajones.com/"
 title = "JennaJones.com"
 years = [ 2008 ]

@@ -4,7 +4,7 @@ display = "Slaver’s Blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://slaver.info/"
+url   = "https://web.archive.org/web/http://slaver.info/"
 title = "Slaver’s Blog"
 years = [
 	2008,

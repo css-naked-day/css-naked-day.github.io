@@ -4,6 +4,6 @@ display = "충초딩블로그"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://socrazy.kr/"
+url   = "https://web.archive.org/web/http://socrazy.kr/"
 title = "충초딩블로그"
 years = [ 2009 ]

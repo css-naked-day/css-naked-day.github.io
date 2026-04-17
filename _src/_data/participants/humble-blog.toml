@@ -4,6 +4,6 @@ display = "humble blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.goosol.net/99B/?mode=blog&amp;mId=admin"
+url   = "https://web.archive.org/web/http://www.goosol.net/99B/?mode=blog&amp;mId=admin"
 title = "humble blog"
 years = [ 2008 ]

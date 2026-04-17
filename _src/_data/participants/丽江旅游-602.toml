@@ -4,6 +4,6 @@ display = "丽江旅游"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.17lijiang.com/"
+url   = "https://web.archive.org/web/http://www.17lijiang.com/"
 title = "丽江旅游"
 years = [ 2007 ]
