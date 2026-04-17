@@ -98,13 +98,13 @@ years = [2008, 2010]
 
 ### Advanced formatting
 
-By default, more than one entry will be listed as “_`display`: [website1](), [website2]() & [website3]()_”. [Tom Hazeldine’s config file](https://source.css-naked-day.org/css-naked-day.org/blob/430c7d632bddd5d4fb1a17799ac5fc45cee49fab/_src/_data/participants/tom-hazledine.toml#L14-L16) is a good example of a more free-flow writing of entries.
+By default, more than one entry will be listed as “_`display`: [website1](https://example.com/), [website2](https://example.com/) & [website3](https://example.com/)_”. [Tom Hazeldine’s config file](https://source.css-naked-day.org/css-naked-day.org/blob/430c7d632bddd5d4fb1a17799ac5fc45cee49fab/_src/_data/participants/tom-hazledine.toml#L14-L16) is a good example of a more free-flow writing of entries.
 
 His websites will appear as “_Tom Hazledine: [tomhazledine.com](https://tomhazledine.com/) (some of which is [always naked](https://tomhazledine.com/css-naked-day/))_”
 
-### More than complete
-
 ---
+
+### More than complete
 
 We are not using all data yet, but feel free to add them, as we might improve the website with it!
 
@@ -158,8 +158,3 @@ npm run build
 ```bash
 npm run dev
 ```
-
-[css-naked-day.org]: https://css-naked-day.org/
-[Naked Days Corp]: https://css-naked-day.org/
-[CSS Naked Day]: https://css-naked-day.org/
-[JS Naked Day]: https://js-naked-day.org/
