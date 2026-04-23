@@ -4,6 +4,6 @@ display = "Tagnard.net"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://tagnard.net/"
+url   = "https://web.archive.org/web/2006/http://tagnard.net/"
 title = "Tagnard.net"
 years = [ 2007 ]

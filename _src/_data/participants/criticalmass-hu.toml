@@ -4,6 +4,6 @@ display = "criticalmass.hu"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://criticalmass.hu/"
+url   = "https://web.archive.org/web/http://criticalmass.hu/"
 title = "criticalmass.hu"
 years = [ 2007 ]

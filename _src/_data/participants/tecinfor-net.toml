@@ -4,6 +4,6 @@ display = "tecinfor.net"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://tecinfor.net/"
+url   = "https://web.archive.org/web/http://tecinfor.net/"
 title = "tecinfor.net"
 years = [ 2009 ]

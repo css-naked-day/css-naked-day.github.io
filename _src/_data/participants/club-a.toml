@@ -4,6 +4,6 @@ display = "Club A"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.bluesomeone.com/amsterdam/"
+url   = "https://web.archive.org/web/http://www.bluesomeone.com/amsterdam/"
 title = "Club A"
 years = [ 2007 ]

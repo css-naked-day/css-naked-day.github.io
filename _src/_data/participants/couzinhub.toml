@@ -4,6 +4,6 @@ display = "CouzinHub"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.couzinhub.com/"
+url   = "https://web.archive.org/web/2008/http://www.couzinhub.com/"
 title = "CouzinHub"
 years = [ 2009 ]

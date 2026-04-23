@@ -4,6 +4,6 @@ display = "Блог FX'а"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.fxposter.org/"
+url   = "https://web.archive.org/web/http://blog.fxposter.org/"
 title = "Блог FX&#39;а"
 years = [ 2008 ]

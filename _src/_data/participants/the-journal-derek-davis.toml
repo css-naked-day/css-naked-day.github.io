@@ -4,6 +4,6 @@ display = "The Journal | Derek Davis"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://derekdavis.org/"
+url   = "https://web.archive.org/web/http://derekdavis.org/"
 title = "The Journal | Derek Davis"
 years = [ 2007 ]

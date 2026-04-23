@@ -4,6 +4,6 @@ display = "Fraktfritt"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.fraktfritt.se/"
+url   = "https://web.archive.org/web/http://www.fraktfritt.se/"
 title = "Fraktfritt"
 years = [ 2008 ]

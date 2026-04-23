@@ -4,6 +4,6 @@ display = "apparently.me.uk"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.apparently.me.uk/"
+url   = "https://web.archive.org/web/http://www.apparently.me.uk/"
 title = "apparently.me.uk"
 years = [ 2007 ]

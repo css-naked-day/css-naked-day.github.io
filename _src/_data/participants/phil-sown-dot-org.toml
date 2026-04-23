@@ -4,6 +4,6 @@ display = "Phil’s own Dot Org"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://philsown.org/"
+url   = "https://web.archive.org/web/http://philsown.org/"
 title = "Phil&#39;sown Dot Org"
 years = [ 2009 ]

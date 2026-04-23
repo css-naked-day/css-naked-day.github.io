@@ -4,7 +4,7 @@ display = "Nick Whitmoyer"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://nickwhitmoyer.com/"
+url   = "https://web.archive.org/web/http://nickwhitmoyer.com/"
 title = "Nick Whitmoyer"
 years = [
 	2007,

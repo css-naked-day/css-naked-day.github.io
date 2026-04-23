@@ -4,6 +4,6 @@ display = "WebScriptz"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.webscriptz.net/"
+url   = "https://web.archive.org/web/http://www.webscriptz.net/"
 title = "WebScriptz"
 years = [ 2008 ]

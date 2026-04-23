@@ -4,6 +4,6 @@ display = "JamRadio.org"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.jamradio.org/"
+url   = "https://web.archive.org/web/http://www.jamradio.org/"
 title = "JamRadio.org"
 years = [ 2008 ]

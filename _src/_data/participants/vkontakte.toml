@@ -4,6 +4,6 @@ display = "Вконтакте"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://vkontakte.ru/"
+url   = "https://web.archive.org/web/http://vkontakte.ru/"
 title = "Вконтакте"
 years = [ 2008 ]

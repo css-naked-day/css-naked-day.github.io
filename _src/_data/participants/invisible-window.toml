@@ -4,6 +4,6 @@ display = "Invisible Window"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.invisiblewindow.com/notepad"
+url   = "https://web.archive.org/web/http://www.invisiblewindow.com/notepad"
 title = "Invisible Window"
 years = [ 2007 ]

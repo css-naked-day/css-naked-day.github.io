@@ -4,6 +4,6 @@ display = "Aufgefallen! Blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.aufgefallen.de/"
+url   = "https://web.archive.org/web/http://www.aufgefallen.de/"
 title = "Aufgefallen! Blog"
 years = [ 2008 ]

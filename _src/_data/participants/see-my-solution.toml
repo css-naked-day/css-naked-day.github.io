@@ -4,6 +4,6 @@ display = "See My Solution"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.seemysolution.com/"
+url   = "https://web.archive.org/web/http://www.seemysolution.com/"
 title = "See My Solution"
 years = [ 2008 ]

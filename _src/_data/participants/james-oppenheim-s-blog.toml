@@ -4,7 +4,7 @@ display = "James Oppenheim’s blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.oppenheim.com.au/"
+url   = "https://web.archive.org/web/http://www.oppenheim.com.au/"
 title = "James Oppenheim’s blog"
 years = [
 	2008,

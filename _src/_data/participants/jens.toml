@@ -4,6 +4,6 @@ display = "Jens"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.stripmusic.se/"
+url   = "https://web.archive.org/web/http://www.stripmusic.se/"
 title = "Jens"
 years = [ 2006 ]

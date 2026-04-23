@@ -4,6 +4,6 @@ display = "Thirdwatch Network"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.thirdwatchnet.com/"
+url   = "https://web.archive.org/web/http://www.thirdwatchnet.com/"
 title = "Thirdwatch Network"
 years = [ 2007 ]

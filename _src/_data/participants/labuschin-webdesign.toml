@@ -4,6 +4,6 @@ display = "Labuschin Webdesign"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://labuschin.com/"
+url   = "https://web.archive.org/web/http://labuschin.com/"
 title = "Labuschin Webdesign"
 years = [ 2007 ]

@@ -4,6 +4,6 @@ display = "Ends-Tonight.net"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.ends-tonight.net/"
+url   = "https://web.archive.org/web/http://www.ends-tonight.net/"
 title = "Ends-Tonight.net"
 years = [ 2008 ]

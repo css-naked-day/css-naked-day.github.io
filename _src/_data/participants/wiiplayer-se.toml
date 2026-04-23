@@ -4,6 +4,6 @@ display = "WiiPlayer.se"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.wiiplayer.se/"
+url   = "https://web.archive.org/web/2008/http://www.wiiplayer.se/"
 title = "WiiPlayer.se"
 years = [ 2009 ]

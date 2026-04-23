@@ -4,7 +4,7 @@ display = "Zangel’s"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://zangel.us/"
+url   = "https://web.archive.org/web/http://zangel.us/"
 title = "Zangel’s"
 years = [
 	2007,

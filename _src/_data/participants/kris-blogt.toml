@@ -4,6 +4,6 @@ display = "Kris Blogt"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.krisvandenbergh.be/"
+url   = "https://web.archive.org/web/http://www.krisvandenbergh.be/"
 title = "Kris Blogt"
 years = [ 2008 ]

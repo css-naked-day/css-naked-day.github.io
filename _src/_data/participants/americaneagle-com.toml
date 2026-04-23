@@ -4,6 +4,6 @@ display = "americaneagle.com"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.americaneagle.com"
+url   = "https://web.archive.org/web/http://www.americaneagle.com"
 title = "americaneagle.com"
 years = [ 2009 ]

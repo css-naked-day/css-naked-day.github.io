@@ -4,6 +4,6 @@ display = "Stompy"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.stompy.us/"
+url   = "https://web.archive.org/web/http://www.stompy.us/"
 title = "Stompy"
 years = [ 2008 ]

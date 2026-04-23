@@ -4,6 +4,6 @@ display = "artalmas.hu"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://artalmas.hu/"
+url   = "https://web.archive.org/web/http://artalmas.hu/"
 title = "artalmas.hu"
 years = [ 2009 ]

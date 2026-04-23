@@ -4,6 +4,6 @@ display = "Spedition & Transporte"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.spedition-hellrung.de/"
+url   = "https://web.archive.org/web/http://www.spedition-hellrung.de/"
 title = "Spedition &amp; Transporte"
 years = [ 2008 ]

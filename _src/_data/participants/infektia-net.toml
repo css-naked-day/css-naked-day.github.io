@@ -4,6 +4,6 @@ display = "Infektia.net"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.infektia.net/"
+url   = "https://web.archive.org/web/http://www.infektia.net/"
 title = "Infektia.net"
 years = [ 2007 ]

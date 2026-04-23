@@ -4,6 +4,6 @@ display = "aetherworld"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.aetherworld.org/"
+url   = "https://web.archive.org/web/http://www.aetherworld.org/"
 title = "aetherworld"
 years = [ 2007 ]

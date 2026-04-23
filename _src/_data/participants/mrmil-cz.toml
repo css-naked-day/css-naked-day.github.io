@@ -4,6 +4,6 @@ display = "Mrmil.cz"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.mrmil.cz/"
+url   = "https://web.archive.org/web/http://www.mrmil.cz/"
 title = "Mrmil.cz"
 years = [ 2008 ]

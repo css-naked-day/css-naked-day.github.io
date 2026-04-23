@@ -4,6 +4,6 @@ display = "Libri Aperti"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.libriaperti.org/"
+url   = "https://web.archive.org/web/http://www.libriaperti.org/"
 title = "Libri Aperti"
 years = [ 2007 ]

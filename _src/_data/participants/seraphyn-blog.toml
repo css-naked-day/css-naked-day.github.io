@@ -4,6 +4,6 @@ display = "Seraphyn Blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://seraphyn.deveth.org/"
+url   = "https://web.archive.org/web/http://seraphyn.deveth.org/"
 title = "Seraphyn Blog"
 years = [ 2009 ]

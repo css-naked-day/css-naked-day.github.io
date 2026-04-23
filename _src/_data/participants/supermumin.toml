@@ -4,7 +4,7 @@ display = "Supermumin"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://supermumin.net/"
+url   = "https://web.archive.org/web/2008/http://supermumin.net/"
 title = "Supermumin"
 years = [
 	2007,

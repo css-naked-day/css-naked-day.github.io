@@ -12,6 +12,6 @@ years = [
 ]
 
 [[websites]]
-url   = "http://nlogn.ath.cx/archives/001008.html"
+url   = "https://web.archive.org/web/http://nlogn.ath.cx/archives/001008.html"
 title = "nlog(n)"
 years = [ 2008 ]

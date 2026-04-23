@@ -4,6 +4,6 @@ display = "欧洲旅游"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.17ouzhou.com/"
+url   = "https://web.archive.org/web/http://www.17ouzhou.com/"
 title = "欧洲旅游"
 years = [ 2007 ]

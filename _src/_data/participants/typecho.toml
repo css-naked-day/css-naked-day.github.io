@@ -4,6 +4,6 @@ display = "Typecho"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.typecho.net/"
+url   = "https://web.archive.org/web/http://www.typecho.net/"
 title = "Typecho"
 years = [ 2009 ]

@@ -4,6 +4,6 @@ display = "Quasarkitten.net"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.quasarkitten.net/"
+url   = "https://web.archive.org/web/http://www.quasarkitten.net/"
 title = "Quasarkitten.net"
 years = [ 2009 ]

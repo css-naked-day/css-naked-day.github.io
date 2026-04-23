@@ -4,6 +4,6 @@ display = "sat2way"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.sat2way.com/"
+url   = "https://web.archive.org/web/http://www.sat2way.com/"
 title = "sat2way"
 years = [ 2007 ]

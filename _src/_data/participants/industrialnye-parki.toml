@@ -4,6 +4,6 @@ display = "Индустриальные парки"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://industrial-park.ru"
+url   = "https://web.archive.org/web/2008/http://industrial-park.ru"
 title = "Индустриальные парки"
 years = [ 2009 ]

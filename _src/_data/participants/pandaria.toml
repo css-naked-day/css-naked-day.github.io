@@ -4,6 +4,6 @@ display = "Pandaria"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://pandaria.co.uk/"
+url   = "https://web.archive.org/web/2007/http://pandaria.co.uk/"
 title = "Pandaria"
 years = [ 2008 ]

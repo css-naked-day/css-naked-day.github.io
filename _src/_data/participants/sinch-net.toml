@@ -4,6 +4,6 @@ display = "Sinch.net"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.sinch.net/"
+url   = "https://web.archive.org/web/http://www.sinch.net/"
 title = "Sinch.net"
 years = [ 2009 ]

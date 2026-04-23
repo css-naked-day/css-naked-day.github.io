@@ -4,6 +4,6 @@ display = "HNKweb"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.hnkweb.com/"
+url   = "https://web.archive.org/web/2007/http://www.hnkweb.com/"
 title = "HNKweb"
 years = [ 2008 ]

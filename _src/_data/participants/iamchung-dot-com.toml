@@ -4,6 +4,6 @@ display = "iamchung dot com"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.iamchung.com/"
+url   = "https://web.archive.org/web/http://www.iamchung.com/"
 title = "iamchung dot com"
 years = [ 2008 ]

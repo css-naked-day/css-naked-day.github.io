@@ -4,6 +4,6 @@ display = "Business Directory"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://comline.awardspace.com/"
+url   = "https://web.archive.org/web/http://comline.awardspace.com/"
 title = "Business Directory"
 years = [ 2008 ]

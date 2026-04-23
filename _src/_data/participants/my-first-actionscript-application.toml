@@ -4,6 +4,6 @@ display = "My First ActionScript Application"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.yesutin.com/"
+url   = "https://web.archive.org/web/http://blog.yesutin.com/"
 title = "My First ActionScript Application"
 years = [ 2008 ]

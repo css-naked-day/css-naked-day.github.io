@@ -4,6 +4,6 @@ display = "Matemáticas"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.aulademate.com/"
+url   = "https://web.archive.org/web/http://www.aulademate.com/"
 title = "Matemáticas"
 years = [ 2008 ]

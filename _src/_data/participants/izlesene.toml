@@ -4,6 +4,6 @@ display = "izlesene"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.acizle.net/"
+url   = "https://web.archive.org/web/http://www.acizle.net/"
 title = "izlesene"
 years = [ 2008 ]

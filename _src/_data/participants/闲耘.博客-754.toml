@@ -4,6 +4,6 @@ display = "闲耘.博客"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.xianyun.org/"
+url   = "https://web.archive.org/web/http://blog.xianyun.org/"
 title = "闲耘.博客"
 years = [ 2009 ]

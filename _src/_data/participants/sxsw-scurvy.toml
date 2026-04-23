@@ -4,6 +4,6 @@ display = "SXSW Scurvy"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://sxswscurvy.com/"
+url   = "https://web.archive.org/web/http://sxswscurvy.com/"
 title = "SXSW Scurvy"
 years = [ 2008 ]

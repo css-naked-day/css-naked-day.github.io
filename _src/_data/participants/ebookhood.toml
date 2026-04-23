@@ -4,6 +4,6 @@ display = "Ebookhood"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://ebookhood.com/"
+url   = "https://web.archive.org/web/http://ebookhood.com/"
 title = "Ebookhood"
 years = [ 2008 ]

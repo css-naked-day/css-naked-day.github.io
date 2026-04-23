@@ -4,6 +4,6 @@ display = "Oivallisia juttuja"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.bobs.fi/oiva/"
+url   = "https://web.archive.org/web/http://www.bobs.fi/oiva/"
 title = "Oivallisia juttuja"
 years = [ 2008 ]

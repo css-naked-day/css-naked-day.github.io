@@ -4,6 +4,6 @@ display = "Uninstallme"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://uninstallme.com/"
+url   = "https://web.archive.org/web/http://uninstallme.com/"
 title = "Uninstallme"
 years = [ 2009 ]

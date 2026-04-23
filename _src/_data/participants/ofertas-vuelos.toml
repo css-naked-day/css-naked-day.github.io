@@ -4,6 +4,6 @@ display = "ofertas vuelos"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.ofertasvuelosya.com/"
+url   = "https://web.archive.org/web/http://www.ofertasvuelosya.com/"
 title = "ofertas vuelos"
 years = [ 2008 ]

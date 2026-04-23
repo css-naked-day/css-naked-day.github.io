@@ -4,6 +4,6 @@ display = "写一点"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.xieyidian.com/"
+url   = "https://web.archive.org/web/http://www.xieyidian.com/"
 title = "写一点"
 years = [ 2009 ]

@@ -4,6 +4,6 @@ display = "WordPress SEO Blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.optiniche.com/blog/"
+url   = "https://web.archive.org/web/2006/http://www.optiniche.com/blog/"
 title = "WordPress SEO Blog"
 years = [ 2007 ]

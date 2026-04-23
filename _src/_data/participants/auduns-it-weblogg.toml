@@ -4,6 +4,6 @@ display = "Auduns IT weblogg"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://audun.norblogg.net/"
+url   = "https://web.archive.org/web/2006/http://audun.norblogg.net/"
 title = "Auduns IT weblogg"
 years = [ 2007 ]

@@ -4,6 +4,6 @@ display = "WWW:P"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://wwwp.si/"
+url   = "https://web.archive.org/web/http://wwwp.si/"
 title = "WWW:P"
 years = [ 2009 ]

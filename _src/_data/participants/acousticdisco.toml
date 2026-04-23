@@ -4,6 +4,6 @@ display = "AcousticDisco"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://acousticdisco.hu/"
+url   = "https://web.archive.org/web/http://acousticdisco.hu/"
 title = "AcousticDisco"
 years = [ 2008 ]

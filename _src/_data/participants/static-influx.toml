@@ -4,6 +4,6 @@ display = "Static Influx"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://brodyh.ath.cx/stc/lang=en"
+url   = "https://web.archive.org/web/http://brodyh.ath.cx/stc/lang=en"
 title = "Static Influx"
 years = [ 2009 ]

@@ -4,6 +4,6 @@ display = "/home/daf"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://cdecdf.com/blog"
+url   = "https://web.archive.org/web/2008/http://cdecdf.com/blog"
 title = "/home/daf"
 years = [ 2009 ]

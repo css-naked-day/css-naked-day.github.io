@@ -4,6 +4,6 @@ display = "s55"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.s55.nl/blog"
+url   = "https://web.archive.org/web/http://www.s55.nl/blog"
 title = "s55"
 years = [ 2007 ]

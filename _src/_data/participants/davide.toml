@@ -4,6 +4,6 @@ display = "Davide"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://dailywars.altervista.org/"
+url   = "https://web.archive.org/web/http://dailywars.altervista.org/"
 title = "Davide"
 years = [ 2006 ]

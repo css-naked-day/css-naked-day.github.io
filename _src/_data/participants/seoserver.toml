@@ -4,6 +4,6 @@ display = "Seoserver"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.seoserver.com/"
+url   = "https://web.archive.org/web/2008/http://www.seoserver.com/"
 title = "Seoserver"
 years = [ 2009 ]

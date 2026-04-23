@@ -4,6 +4,6 @@ display = "Trip Solo"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://flaviens.com/blog/"
+url   = "https://web.archive.org/web/2007/http://flaviens.com/blog/"
 title = "Trip Solo"
 years = [ 2008 ]

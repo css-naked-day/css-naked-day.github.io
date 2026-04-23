@@ -4,6 +4,6 @@ display = "KEYMI"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.keymi.cn/"
+url   = "https://web.archive.org/web/http://www.keymi.cn/"
 title = "KEYMI"
 years = [ 2009 ]

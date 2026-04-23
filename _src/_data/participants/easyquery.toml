@@ -4,6 +4,6 @@ display = "easyQuery"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.easyquery.cn/"
+url   = "https://web.archive.org/web/2008/http://www.easyquery.cn/"
 title = "easyQuery"
 years = [ 2009 ]

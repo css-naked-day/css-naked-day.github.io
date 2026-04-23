@@ -4,6 +4,6 @@ display = "Sanity Derailment Webcomic"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://sdcomic.net/"
+url   = "https://web.archive.org/web/http://sdcomic.net/"
 title = "Sanity Derailment Webcomic"
 years = [ 2009 ]

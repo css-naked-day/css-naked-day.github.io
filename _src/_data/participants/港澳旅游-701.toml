@@ -4,6 +4,6 @@ display = "港澳旅游"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.17gangao.com/"
+url   = "https://web.archive.org/web/http://www.17gangao.com/"
 title = "港澳旅游"
 years = [ 2007 ]

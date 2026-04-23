@@ -4,6 +4,6 @@ display = "Nettvint.net"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.nettvint.net/"
+url   = "https://web.archive.org/web/http://www.nettvint.net/"
 title = "Nettvint.net"
 years = [ 2007 ]

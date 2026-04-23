@@ -4,6 +4,6 @@ display = "WebDesign"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.webdesign-in.de/"
+url   = "https://web.archive.org/web/http://www.webdesign-in.de/"
 title = "WebDesign"
 years = [ 2008 ]

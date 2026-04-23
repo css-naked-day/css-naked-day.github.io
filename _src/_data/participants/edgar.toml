@@ -4,6 +4,6 @@ display = "Edgar"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://hotbanana.kicks-ass.org/"
+url   = "https://web.archive.org/web/http://hotbanana.kicks-ass.org/"
 title = "Edgar"
 years = [ 2006 ]

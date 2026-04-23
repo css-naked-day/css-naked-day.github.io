@@ -4,6 +4,6 @@ display = "Geeks Paradox"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.geeksparadox.com/"
+url   = "https://web.archive.org/web/2006/http://www.geeksparadox.com/"
 title = "Geeks Paradox"
 years = [ 2007 ]

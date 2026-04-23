@@ -4,6 +4,6 @@ display = "Reise dilla"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://reisedilla.no/"
+url   = "https://web.archive.org/web/http://reisedilla.no/"
 title = "Reise dilla"
 years = [ 2007 ]

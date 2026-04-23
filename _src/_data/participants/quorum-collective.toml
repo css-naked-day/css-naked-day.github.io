@@ -4,6 +4,6 @@ display = "Quorum Collective"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://qsense.org/"
+url   = "https://web.archive.org/web/http://qsense.org/"
 title = "Quorum Collective"
 years = [ 2009 ]

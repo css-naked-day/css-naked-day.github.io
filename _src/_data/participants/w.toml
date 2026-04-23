@@ -4,6 +4,6 @@ display = "W"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.wision.ch/blog/"
+url   = "https://web.archive.org/web/http://www.wision.ch/blog/"
 title = "W"
 years = [ 2006 ]

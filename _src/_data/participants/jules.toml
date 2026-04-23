@@ -4,6 +4,6 @@ display = "Jules"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://pen-and-ink.ca/"
+url   = "https://web.archive.org/web/http://pen-and-ink.ca/"
 title = "Jules"
 years = [ 2006 ]

@@ -4,6 +4,6 @@ display = "QienKuen’s Weblog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.qienkuen.org/"
+url   = "https://web.archive.org/web/http://www.qienkuen.org/"
 title = "QienKuen’s Weblog"
 years = [ 2008 ]

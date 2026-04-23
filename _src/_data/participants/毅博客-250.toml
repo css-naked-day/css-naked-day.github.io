@@ -4,6 +4,6 @@ display = "毅博客"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://andymao.com/andy/"
+url   = "https://web.archive.org/web/http://andymao.com/andy/"
 title = "毅博客"
 years = [ 2007 ]

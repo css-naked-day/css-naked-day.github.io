@@ -4,6 +4,6 @@ display = "Karol Krakowiak – Blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.karolkrakowiak.com/"
+url   = "https://web.archive.org/web/http://blog.karolkrakowiak.com/"
 title = "Karol Krakowiak – Blog"
 years = [ 2009 ]

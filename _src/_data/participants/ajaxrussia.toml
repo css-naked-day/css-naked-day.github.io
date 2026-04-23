@@ -4,6 +4,6 @@ display = "AjaxRussia"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.ajaxrussia.com/"
+url   = "https://web.archive.org/web/http://www.ajaxrussia.com/"
 title = "AjaxRussia"
 years = [ 2008 ]

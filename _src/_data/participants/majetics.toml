@@ -4,6 +4,6 @@ display = "Majetics"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.majetics.com.ua/"
+url   = "https://web.archive.org/web/http://www.majetics.com.ua/"
 title = "Majetics"
 years = [ 2008 ]

@@ -4,6 +4,6 @@ display = "datenofake.de"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.datenofake.de/"
+url   = "https://web.archive.org/web/2007/http://www.datenofake.de/"
 title = "datenofake.de"
 years = [ 2008 ]

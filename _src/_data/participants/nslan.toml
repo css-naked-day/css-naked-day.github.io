@@ -4,6 +4,6 @@ display = "nsLan"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.nslan.org/"
+url   = "https://web.archive.org/web/http://www.nslan.org/"
 title = "nsLan"
 years = [ 2009 ]

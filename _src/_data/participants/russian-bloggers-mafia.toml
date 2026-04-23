@@ -4,6 +4,6 @@ display = "Russian Bloggers Mafia"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.blogomafia.ru/"
+url   = "https://web.archive.org/web/2008/http://www.blogomafia.ru/"
 title = "Russian Bloggers Mafia"
 years = [ 2009 ]

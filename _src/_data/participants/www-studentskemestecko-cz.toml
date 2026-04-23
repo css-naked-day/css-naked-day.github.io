@@ -4,6 +4,6 @@ display = "www.studentskemestecko.cz"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.studentskemestecko.cz/"
+url   = "https://web.archive.org/web/http://www.studentskemestecko.cz/"
 title = "www.studentskemestecko.cz"
 years = [ 2008 ]

@@ -4,6 +4,6 @@ display = "lokland.cn"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.lokland.cn/"
+url   = "https://web.archive.org/web/http://www.lokland.cn/"
 title = "lokland.cn"
 years = [ 2007 ]

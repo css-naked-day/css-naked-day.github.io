@@ -4,6 +4,6 @@ display = "Pimlico School"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.pimlicoschool.org.uk/"
+url   = "https://web.archive.org/web/http://www.pimlicoschool.org.uk/"
 title = "Pimlico School"
 years = [ 2006 ]

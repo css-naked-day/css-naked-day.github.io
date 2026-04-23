@@ -4,6 +4,6 @@ display = "FTC SPbSPU"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://ftk.spbstu.ru/"
+url   = "https://web.archive.org/web/2006/http://ftk.spbstu.ru/"
 title = "FTC SPbSPU"
 years = [ 2007 ]

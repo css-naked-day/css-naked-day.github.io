@@ -4,6 +4,6 @@ display = "Karl Wackerberg"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://wackerberg.se/"
+url   = "https://web.archive.org/web/2008/http://wackerberg.se/"
 title = "Karl Wackerberg"
 years = [ 2009 ]

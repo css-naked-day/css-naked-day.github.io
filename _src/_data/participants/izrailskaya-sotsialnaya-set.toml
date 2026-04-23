@@ -4,6 +4,6 @@ display = "Израильская социальная сеть"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.planeta.co.il/"
+url   = "https://web.archive.org/web/http://www.planeta.co.il/"
 title = "Израильская социальная сеть"
 years = [ 2008 ]

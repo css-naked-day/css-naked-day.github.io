@@ -4,6 +4,6 @@ display = "QueBuenaWeb"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.quebuenaweb.com.ar/"
+url   = "https://web.archive.org/web/http://www.quebuenaweb.com.ar/"
 title = "QueBuenaWeb"
 years = [ 2009 ]

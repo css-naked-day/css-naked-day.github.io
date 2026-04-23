@@ -4,6 +4,6 @@ display = "Tuemmel"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.fincy.com/"
+url   = "https://web.archive.org/web/http://www.fincy.com/"
 title = "Tuemmel"
 years = [ 2006 ]

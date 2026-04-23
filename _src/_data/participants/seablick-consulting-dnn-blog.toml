@@ -4,6 +4,6 @@ display = "Seablick Consulting DNN Blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://seablick.com/"
+url   = "https://web.archive.org/web/http://seablick.com/"
 title = "Seablick Consulting DNN Blog"
 years = [ 2007 ]

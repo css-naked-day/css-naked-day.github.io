@@ -4,6 +4,6 @@ display = "Blue Cow"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blue-cow.info/"
+url   = "https://web.archive.org/web/http://blue-cow.info/"
 title = "Blue Cow"
 years = [ 2009 ]

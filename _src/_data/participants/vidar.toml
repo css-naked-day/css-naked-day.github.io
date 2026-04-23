@@ -4,6 +4,6 @@ display = "Vidar"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://vidar.xmgfree.com/site"
+url   = "https://web.archive.org/web/http://vidar.xmgfree.com/site"
 title = "Vidar"
 years = [ 2006 ]

@@ -4,6 +4,6 @@ display = "Beyazblog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.beyazblog.com/"
+url   = "https://web.archive.org/web/http://www.beyazblog.com/"
 title = "Beyazblog"
 years = [ 2007 ]

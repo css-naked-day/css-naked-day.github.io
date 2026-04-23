@@ -4,6 +4,6 @@ display = "7 Zip"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.7zip.gen.tr/"
+url   = "https://web.archive.org/web/http://www.7zip.gen.tr/"
 title = "7 Zip"
 years = [ 2009 ]

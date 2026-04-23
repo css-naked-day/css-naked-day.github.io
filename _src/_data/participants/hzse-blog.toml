@@ -4,6 +4,6 @@ display = "hzsé.blog"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://hzse.try.hu/"
+url   = "https://web.archive.org/web/http://hzse.try.hu/"
 title = "hzsé.blog"
 years = [ 2008 ]

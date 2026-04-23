@@ -4,6 +4,6 @@ display = "Muistio"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.yojih.net/muistio/"
+url   = "https://web.archive.org/web/http://www.yojih.net/muistio/"
 title = "Muistio"
 years = [ 2008 ]

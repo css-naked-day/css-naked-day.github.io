@@ -4,6 +4,6 @@ display = "一起笑中文网"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.yiqixiao.cn/"
+url   = "https://web.archive.org/web/2006/http://www.yiqixiao.cn/"
 title = "一起笑中文网"
 years = [ 2007 ]

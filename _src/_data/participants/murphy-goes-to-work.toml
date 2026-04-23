@@ -4,6 +4,6 @@ display = "Murphy Goes to Work"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://murphygoestowork.com/"
+url   = "https://web.archive.org/web/http://murphygoestowork.com/"
 title = "Murphy Goes to Work"
 years = [ 2009 ]

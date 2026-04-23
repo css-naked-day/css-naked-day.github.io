@@ -4,6 +4,6 @@ display = "Morgan’s Place"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.morgansplace.it/"
+url   = "https://web.archive.org/web/http://www.morgansplace.it/"
 title = "Morgan’s Place"
 years = [ 2007 ]

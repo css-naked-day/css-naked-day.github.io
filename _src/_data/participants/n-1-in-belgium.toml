@@ -4,6 +4,6 @@ display = "N°1 in Belgium"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://nb1.be/"
+url   = "https://web.archive.org/web/http://nb1.be/"
 title = "N°1 in Belgium"
 years = [ 2007 ]

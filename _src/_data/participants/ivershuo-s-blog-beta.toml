@@ -4,6 +4,6 @@ display = "IVershuo’s Blog (Beta)"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://beta.ivershuo.cn/"
+url   = "https://web.archive.org/web/http://beta.ivershuo.cn/"
 title = "IVershuo’s Blog (Beta)"
 years = [ 2009 ]

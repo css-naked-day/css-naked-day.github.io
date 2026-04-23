@@ -4,6 +4,6 @@ display = "Punderings"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://shane.curcuru.name/blog/"
+url   = "https://web.archive.org/web/http://shane.curcuru.name/blog/"
 title = "Punderings"
 years = [ 2009 ]

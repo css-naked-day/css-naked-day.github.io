@@ -4,6 +4,6 @@ display = "SiamFreestyle.com"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://samui.siamfreestyle.com/"
+url   = "https://web.archive.org/web/http://samui.siamfreestyle.com/"
 title = "SiamFreestyle.com"
 years = [ 2008 ]

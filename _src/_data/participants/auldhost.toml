@@ -4,6 +4,6 @@ display = "AuldHost"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.auldhost.com/"
+url   = "https://web.archive.org/web/http://www.auldhost.com/"
 title = "AuldHost"
 years = [ 2008 ]

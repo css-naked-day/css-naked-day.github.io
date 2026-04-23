@@ -4,6 +4,6 @@ display = "Grey Fox"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://hacktek.net/"
+url   = "https://web.archive.org/web/http://hacktek.net/"
 title = "Grey Fox"
 years = [ 2006 ]

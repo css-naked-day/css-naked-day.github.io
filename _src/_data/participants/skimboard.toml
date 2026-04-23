@@ -4,6 +4,6 @@ display = "Skimboard"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.skimboard.se/"
+url   = "https://web.archive.org/web/http://www.skimboard.se/"
 title = "Skimboard"
 years = [ 2009 ]

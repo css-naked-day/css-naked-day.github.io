@@ -4,6 +4,6 @@ display = "Jörn & Friends"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://joern-friends.de/"
+url   = "https://web.archive.org/web/http://joern-friends.de/"
 title = "Jörn &amp; Friends"
 years = [ 2009 ]

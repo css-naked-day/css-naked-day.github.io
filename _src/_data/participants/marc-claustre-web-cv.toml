@@ -4,6 +4,6 @@ display = "Marc Claustre, Web CV"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://webcv.claustre.eu/"
+url   = "https://web.archive.org/web/http://webcv.claustre.eu/"
 title = "Marc Claustre, Web CV"
 years = [ 2007 ]

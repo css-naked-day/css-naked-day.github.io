@@ -4,6 +4,6 @@ display = "Yellow Shirt"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.yellowshirt.net/AL"
+url   = "https://web.archive.org/web/http://www.yellowshirt.net/AL"
 title = "Yellow Shirt"
 years = [ 2006 ]

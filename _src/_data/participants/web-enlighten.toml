@@ -4,6 +4,6 @@ display = "Web Enlighten"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.webenlighten.com/"
+url   = "https://web.archive.org/web/http://www.webenlighten.com/"
 title = "Web Enlighten"
 years = [ 2007 ]

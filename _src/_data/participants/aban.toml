@@ -4,6 +4,6 @@ display = "Aban"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://www.aban.info/"
+url   = "https://web.archive.org/web/http://www.aban.info/"
 title = "Aban"
 years = [ 2006 ]

@@ -4,6 +4,6 @@ display = "Blog de Cristian Giménez"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://blog.cristiang.net/"
+url   = "https://web.archive.org/web/http://blog.cristiang.net/"
 title = "Blog de Cristian Giménez"
 years = [ 2008 ]

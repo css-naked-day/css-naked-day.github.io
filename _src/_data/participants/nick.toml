@@ -4,6 +4,6 @@ display = "Nick"
 # ------------------------------------------------------------------------------
 
 [[websites]]
-url   = "http://deblog.us.to/"
+url   = "https://web.archive.org/web/http://deblog.us.to/"
 title = "Nick"
 years = [ 2006 ]
